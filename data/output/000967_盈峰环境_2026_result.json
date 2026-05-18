@@ -1,0 +1,441 @@
+{
+  "company_name": "盈峰环境",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 10.94,
+      "unit": "万吨二氧化碳当量",
+      "original_text": "温室气体排放量 万吨二氧化碳当量 11.51 10.94",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 84700,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1温室气体排放量 万吨二氧化碳当量 7.22 8.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 24700,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2温室气体排放量 万吨二氧化碳当量 4.29 2.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.079,
+      "unit": "吨/万元营业收入",
+      "original_text": "温室气体排放强度 吨/万元营业收入 0.079",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 16.24,
+      "unit": "%",
+      "original_text": "绿色电力使用比例（太阳能） % 16.24%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 13810000,
+      "unit": "吨",
+      "original_text": "水资源使用量 万吨 1381.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 350300,
+      "unit": "吨",
+      "original_text": "废弃物产生总量 万吨 35.03",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 12.68,
+      "unit": "%",
+      "original_text": "女性管理者比例 % 11.98% 10.75% 12.68%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 671.42,
+      "unit": "万元",
+      "original_text": "公司捐赠671.42万",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 76800,
+      "unit": "万元",
+      "original_text": "高达7.68 亿元。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会由9名拥有深厚的行业专业背景或丰富的企业管理经验的董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "董事会8次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "审计委员会6次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司践行绿色使命，应对气候挑战，构建绿色运营，夯实低碳根基。",
+      "original_text": "践行绿色使命·应对气候挑战 构建绿色运营·夯实低碳根基",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001:2015环境管理体系认证，并建立完善的环境治理架构。",
+      "original_text": "环境管理体系 ISO14001:2015",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司持续加大新能源环保装备研发投入，推出全场景新能源装备矩阵，累计生产销售新能源环保装备14102辆。",
+      "original_text": "持续加大新能源环保装备的研发投入，2025年推出全场景新能源装备矩阵，历史累计生产销售新能源环保装备达14102辆",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告未提及生物多样性保护相关内容。",
+      "original_text": "",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过垃圾焚烧发电、餐厨垃圾资源化、污水处理再生水利用等实践循环经济。",
+      "original_text": "年处理量达38万吨，全面替代传统填埋方式；年发电量达12111万千瓦时；年节约标准煤3.6万吨；年生产再生水36万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，完善薪酬福利制度，组织企业文化活动，执行合理薪酬激励制度，建设员工沟通渠道，加强团队建设，创造良好工作环境，提高民主管理水平，定期收集员工满意度调查，走访慰问帮助有困难员工。",
+      "original_text": "保障员工合法权益 完善员工薪酬福利制度 组织企业文化活动 执行合理薪酬激励制度 建设员工沟通渠道 加强团队建设 创造良好的工作环境 提高民主管理水平 定期收集员工满意度调查 走访慰问帮助有困难员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建集团-事业部-工厂/项目三级管控架构，所有制造单位均通过ISO45001职业健康与安全管理体系认证。配置专业EHS管理人员约120人，其中中级注册安全工程师19人。全年累计开展培训，创新推出线上安全培训新模式。",
+      "original_text": "下属所有制造单位均通过ISO45001职业健康与安全管理体系；配置专业EHS管理人员约120人（其中中级注册安全工程师19人）；全年累计开展培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商行为准则》，严格约束供应商在环保合规、劳工权益、安全生产等方面的经营行为；定期开展供应商专项评估与赋能培训。",
+      "original_text": "制定《供应商行为准则》，严格约束供应商在环保合规、劳工权益、安全生产等方面的经营行为；定期开展供应商专项评估与赋能培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司遵循《中华人民共和国产品质量法》等标准，建立全流程质量管控，通过ISO9001质量管理体系认证，开展产品全生命周期质量管控，设置新产品研发质量目标并监控。",
+      "original_text": "遵循《中华人民共和国产品质量法》、GB 7258-2017《机动车安全运行技术条件》；质量管理体系 ISO9001:2015；开展产品全生命周期质量管控",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司筑牢数据安全，守护客户隐私，定期对员工进行安全培训，涵盖钓鱼邮件识别、密码管理规范及应急报告流程。通过ISO27701:2019隐私信息管理体系认证。",
+      "original_text": "筑牢数据安全·守护客户隐私；定期对员工展开安全培训，涵盖钓鱼邮件识别、密码管理规范及应急报告流程；ISO27701:2019隐私信息管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极承担社会责任，参加社会公益活动，提供志愿服务，组织社区交流文化活动，开展社区科普教育工作，邀请社区人员监督工作。",
+      "original_text": "积极承担社会责任和 发展社会公益事业 参加社会公益活动 提供志愿服务 组织社区交流文化活动 开展社区科普教育工作 邀请社区人员监督工作",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司披露了少数民族员工数、残疾员工数、女性管理者比例等多元化数据，体现对多元化的重视。",
+      "original_text": "少数民族员工数 人 281 208 247；失健员工数 人 3 5 1；女性管理者比例 % 11.98% 10.75% 12.68%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "正式设立可持续发展委员会，统筹制定公司可持续发展整体战略，全程监督战略执行进度与落地成效。",
+      "original_text": "在决策层面，正式设立可持续发展委员会，统筹制定公司可持续发展整体战略，全程监督战略执行进度与落地成效",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "确立了廉洁文化核心理念，制定了《员工行为十条红线》《采购管理制度》《管理人员及商务人员合规行为管理制度》《廉洁协议》等，组建审计监察团队，定期开展舞弊风险识别和反舞弊措施落实。",
+      "original_text": "围绕商业道德、反腐败、反贿赂等关键领域，公司确立了'共建诚信营商环境、倡导员工廉洁履职'的廉洁文化核心理念，并制定了《员工行为十条红线》《采购管理制度》《管理人员及商务人员合规行为管理制度》《廉洁协议》等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司遵循《公司法》等法律法规，合规经营，恪守诚信，依法纳税。参考ISO37301:2021合规管理体系，推动偏差改进。",
+      "original_text": "盈峰环境遵循《公司法》或任何其他机构颁布的所有适用法律法规及制度规则要求，合规经营，恪守诚信，依法纳税",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "建立风险数据库，识别重点风险源487项，实行'红橙黄蓝'四色动态管控。通过积极风险管理，不良存货总额下降23%。",
+      "original_text": "建立风险数据库，识别重点风险源487项，实行'红橙黄蓝'四色动态管控",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司充分考虑投资者立场，采取有效措施保护投资者合法权益，依法建立信息披露相关管理制度，疏通线上、线下投资者沟通与互动渠道，合理制定分红计划，持续回馈股东。",
+      "original_text": "盈峰环境充分考虑投资者的立场，采取有效措施保护投资者合法权益，依法建立信息披露相关管理制度，疏通线上、线下投资者沟通与互动渠道，竭力为投资者提高信息透明度，同时保持稳健经营，合理制定分红计划，持续回馈股东",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别利益相关方包括股东及投资者、媒体等，通过股东会、业绩说明会、现场采访等方式沟通。经管理层研判及利益相关方评估后形成实质性议题。",
+      "original_text": "利益相关方沟通与参与：切实维护股东利益，建立健全的沟通渠道，股东会，确保股东收益回报，保障公司全体股东平等获取信息披露，创新合作模式，开展企业走访活动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定了《信息披露管理制度》《内幕信息知情人登记管理制度》等，报告期内信息披露合法合规。",
+      "original_text": "制定了《信息披露管理制度》《内幕信息知情人登记管理制度》《内部审计管理制度》等一系列制度，及时地披露公司相关信息，报告期内信息披露合法合规",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司自成立以来一直坚持守法经营，严格遵守企业财务制度、会计准则，依法诚信纳税，2025年核缴税款7.68亿元。",
+      "original_text": "公司自成立以来，一直坚持守法经营，严格遵守企业财务制度、会计准则，保证依法诚信纳税，为国家发展贡献力量。2025年，公司核缴税款高达7.68亿元",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

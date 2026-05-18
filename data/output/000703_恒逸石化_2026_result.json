@@ -1,0 +1,441 @@
+{
+  "company_name": "恒逸石化",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 7990000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "二氧化碳排放总量799万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 6310000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一二氧化碳排放总量（万吨） 631",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1430000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二二氧化碳排放总量（万吨） 143",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.7,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "二氧化碳排放强度（万吨/亿元） 0.7",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 31510000,
+      "unit": "吨",
+      "original_text": "工业取新水用量 万吨 5,161 4,086 3,151",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 1588,
+      "unit": "吨",
+      "original_text": "外排废气中氮氧化物量 吨 3,646 1,936 1,588",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 979,
+      "unit": "吨",
+      "original_text": "外排废气中二氧化硫量 吨 1,867 1,373 979",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 17511,
+      "unit": "人",
+      "original_text": "员工总人数 人 15,548 16,014 17,511",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 27,
+      "unit": "%",
+      "original_text": "女性员工比例 % 26 26 27",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "新增女性高管1人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 120,
+      "unit": "小时/人",
+      "original_text": "年均员工培训时长 小时 116 120 120",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "研发投入强度稳步提升",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "研发投入强度稳步提升",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 14283,
+      "unit": "万元",
+      "original_text": "年度安全生产投入14,283万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "扩大社会慈善和教育基金规模",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "未明确提及董事会总人数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事3人，但未提及董事会总人数，无法计算比例",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "提及女性董事占比，但未给出具体人数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "召开董事会会议8次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 0,
+      "unit": "人",
+      "original_text": "落实新《公司法》要求，取消监事会，由董事会审计委员会行使监事会职权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家碳达峰碳中和战略，遵循《碳达峰碳排放管理制度》，建立以碳排放强度控制为主、总量控制为辅的碳管理制度与工作组织体系，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司有力有序有效做好碳达峰碳中和工作，明确目标任务，加快实现生产生活方式绿色变革，推动经济社会发展建立在资源高效利用和绿色低碳发展的基础之上，确保如期实现2030年碳达峰，2060年实现碳中和的目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司严格遵照《大气污染防治法》《水污染防治法》《固体废物污染环境防治法》等法律法规，持续完善内部环境污染治理管理体系，对废气、废水、固体废弃物等进行严格把控。",
+      "original_text": "公司严格遵照《大气污染防治法》《水污染防治法》《固体废物污染环境防治法》等法律法规及地方相关排放标准，持续完善内部环境污染治理管理体系，对废气、废水、固体废弃物等进行严格把控，确保各项污染物合规排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出生物可降解新材料、废旧纺织品再生新材料等绿色产品，如逸泰康、蓓特尔等，提升产品环保性能与资源利用效率。",
+      "original_text": "绿色创新产品 生物可降解新材料、废旧纺织品再生新材料等产品，提升产品环保性能与资源利用效率",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司自主研发‘逸回收’技术，构建废旧纺织品化学法回收再利用体系，实现‘废旧纺织品—新材料’闭环；同时推进光伏发电、余热回收等绿色项目。",
+      "original_text": "公司聚焦废旧涤纶纺织品高值化循环利用，积极探索循环经济实践，自主研发‘逸回收’...构建了从废旧纺织品到新纺织品的完整再生路径",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，提供平等雇佣、薪酬福利、职工代表大会、员工关爱等机制，并推出员工持股计划共享发展成果。",
+      "original_text": "确保员工合法的劳动权益受到保障。深化员工激励机制，持续推出新的股份回购计划、员工持股计划，共享公司发展成果。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO认证，开展安全培训、隐患排查、应急演练，保障员工健康安全。",
+      "original_text": "公司严格依据《安全生产法》《职业病防治法》等法律法规，制定《职业健康管理规...全方位守护员工身心健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行准入审查、过程监管、绩效评价，要求供应商具备相关资质，并签订安全管理协议。",
+      "original_text": "公司制定《承包商安全管理办法》，对承包商准入审查、过程监管、绩效评价、退出等环节进行规范化要求和管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过质量管理体系审核、专业技术培训、QC小组活动等保障产品质量，并评估产品健康安全影响。",
+      "original_text": "公司通过定期进行质量管理体系审核、开展多元化专业技术培训和操作培训、QC小组...评估产品和服务类别的健康与安全影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司重视数据安全与客户隐私保护，建立举报人保护机制，严守举报人隐私与安全底线。",
+      "original_text": "数据安全与客户隐私保护 P28。公司严守举报人隐私与安全底线，建立举报人保护机制，举报材料按密件管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益事业，开展志愿服务、教育捐赠、社区共建等多元公益项目，助力社区发展。",
+      "original_text": "恒逸石化始终倡导公益慈善理念，积极投身公益事业，开展志愿服务、教育捐赠、社区共建等多元公益项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视董事会成员多元化，新增女性高管，尊重员工平等，不因种族、性别等歧视。",
+      "original_text": "重视董事会成员在年龄、性别、专业背景、知识素养上的多元化。新增女性高管1人。种族、性别、宗教信仰等因素存在不平等雇佣，尊重每位员工享有自由平等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立自上而下、多方协同合作的ESG架构，董事会为ESG治理的最高决策机构，下设战略、投资与ESG委员会，高级管理层负责落实，职能部门承接，生产部门和下属公司执行。",
+      "original_text": "公司设立自上而下、多方协同合作的ESG架构，董事会为ESG治理的最高决策机构，...董事会全新搭建了以战略、投资与ESG委员会为核心的专业化治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司确立以'诚信、透明、合规'为准则的廉洁文化，对腐败行为持'零容忍'态度，制定《员工廉洁从业管理规定》，开展反腐倡廉相关培训6次，员工参加1,523人次。",
+      "original_text": "公司确立以'诚信、透明、合规'为准则的廉洁文化，对腐败行为持'零容忍'态度，...开展反腐倡廉相关培训6次，员工参加相关培训1,523人次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司构建深度嵌入业务的依法合规经营管理体系，形成专项领域合规制度，将合规审查设为重大决策强制性前置程序，2025年未发生违反法律法规的事件。",
+      "original_text": "公司以融入业务、预防为主、全程管控为核心，构建深度嵌入业务的依法合规经营管理体系...2025年公司未发生违反法律法规的事件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立覆盖全业务、全流程的全面合规管理体系，明确董事会及高管层负最终责任，形成'三道防线'协同机制，持续深化全员风险文化建设。",
+      "original_text": "公司建立覆盖全业务、全流程的全面合规管理体系，明确董事会及高管层负最终责任、合规部门统筹、业务部门主责、全员参与支持监督、内部审计独立问责的'三道防线'协同机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司积极推进多层次投资者关系管理体系，通过业绩说明会、券商策略会等多元化渠道沟通，2025年累计覆盖投资机构百余家，投资者近千人次。",
+      "original_text": "公司积极推进多层次投资者关系管理体系，畅通多元化沟通渠道...2025年，董事会办公室积极举行投资者交流活动，累计覆盖卖方、买方等各类投资机构高达百余家，覆盖投资者近千人次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与利益相关方的沟通与交流，通过多元化的渠道了解诉求，包括股东会、公司官网、业绩发布会、投资者调研活动、电话热线、邮件、微信公众号等。",
+      "original_text": "公司高度重视与利益相关方的沟通与交流，通过多元化的渠道了解利益相关方的诉求...股东会、公司官网、业绩发布会、投资者调研活动、电话热线/邮件/微信公众号",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守《上市公司信息披露管理办法》等规定，构建严谨明确的信息披露流程和责任体系，确保信息披露的真实性、准确性和完整性。",
+      "original_text": "公司严格遵守《上市公司信息披露管理办法》《上市公司投资者关系管理工作指引》等相关规定及监管要求，构建了严谨明确的信息披露流程和责任体系，确保信息披露的真实性、准确性和完整性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细披露税务透明度相关政策和措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "中微公司",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "百万营收温室气体排放强度同比下降约26%",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 74127,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "总能源消耗 兆瓦时 74,127",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 24,
+      "unit": "%",
+      "original_text": "清洁能源消耗比例 % 24%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 24.52,
+      "unit": "亿元",
+      "original_text": "24.52亿元，比2023年增加了94.31%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2480,
+      "unit": "人",
+      "original_text": "截至2024年末，公司员工总数2,480人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 17.7,
+      "unit": "%",
+      "original_text": "女性员工占比 % 17.70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 285.82,
+      "unit": "万元",
+      "original_text": "年度培训支出金额 万元 285.82",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 41.7,
+      "unit": "小时/人",
+      "original_text": "员工人均培训小时数 小时 41.70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 7.69,
+      "unit": "%",
+      "original_text": "总员工流失率 % 7.69",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 24.52,
+      "unit": "亿元",
+      "original_text": "研发投入金额 亿元 24.52",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 27.05,
+      "unit": "%",
+      "original_text": "研发投入金额占主营业务收入比例 % 27.05",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名，独立董事占比33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "董事会成员中有1位女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "董事会召开6次会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "公司监事会由3名监事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "公司董事会审计委员会共召开5次会议",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳中和路线图，明确2035年实现自身范围一和范围二的碳中和，并设定了百万营收温室气体排放强度逐年下降、新能源使用比例逐年上升的目标。",
+      "original_text": "制定了碳中和路线图，明确2035年实现自身范围一和范围二的碳中和",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了EHS和能源管理体系，启动ISO 50001能源管理体系建设，覆盖金桥、临港和南昌产业化基地，并通过ISO 14001体系审核优化。",
+      "original_text": "EHS 和能源管理体系，将环境、健康、安全及绿色经营理念融入业务；启动ISO 50001能源管理体系建设",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推动产品可持续设计，为客户提供绿色低碳的设备及技术，如刻蚀设备的绿色创新，优化腔体清洁工艺减少耗材使用量，降低制造成本和能耗。",
+      "original_text": "推动产品可持续设计，为客户提供绿色低碳的设备及技术；刻蚀设备的绿色创新，优化腔体清洁工艺，减少耗材使用量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "临港产业化基地在设计建设之初已将生物多样性保护纳入考量，打造生态办公环境，促进生物多样性发展。",
+      "original_text": "中微公司临港产业化基地在设计建设之初就已将生物多样性保护纳入考量，立足打造筑巢引禽，打造生态办公环境",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司重视循环经济，开展包装材料循环利用，将生产生活固废转化为再生环塑板材、再生塑料托盘等，2024年累计回收各类包材约108吨。",
+      "original_text": "重视循环经济理念，积极践行废弃物再利用，累计回收各类包材达到约108吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定了《员工手册》《MBO目标管理制度》等劳工政策和行为准则，规范用工，保障员工人权，杜绝强迫劳动、使用童工等违法行为。2024年未发生强迫劳动、使用童工相关事件。",
+      "original_text": "制定了《员工手册》《MBO目标管理制度》等劳工政策和行为准则，规范用工...2024年，公司未发生强迫劳动、使用童工相关事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司致力于营造安全健康的工作环境，提供职业健康体检，开展安全培训。2024年共计为1,336人次提供职业健康体检，开展员工安全培训课时35,119小时。",
+      "original_text": "2024年，共计为1,336人次提供职业健康体检。开展员工安全培训课时35,119小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定清晰的供应商行为准则，推动ESG理念向供应链延伸，对供应商进行EHS评估和培训。2024年对重点供应商进行现场调查，涉及环保、安全等方面。",
+      "original_text": "制定清晰的供应商行为准则，推动ESG理念向供应链延伸...对供应商质量管理人员就供应商EHS评估工作相关操作方法进行培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司高度重视产品安全，设立产品安全部门，对设备全生命周期进行严格把控。建立质量风险识别、评估和管理过程，确保产品质量。",
+      "original_text": "中微公司高度重视产品安全，设立产品安全部门（Product Safety Department），对半导体设备从概念构思、设计研发，到投入使用、最终退役的全生命周期进行严格把控，确保产品安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司保障商业秘密与个人信息安全，报告期内未发生数据安全事件和重大客户隐私泄露事件。对员工进行ISO27001信息安全体系培训。",
+      "original_text": "报告期内，未发生数据安全事件和重大客户隐私泄露事件。GMO部门体系协调员对整个GMO部门员工进行ISO27001信息安全体系培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展教育帮扶、公益慈善等多维度活动，助力民生福祉提升。员工参与志愿服务，如送垃圾“回家”趣味游戏、园区清洁活动等。",
+      "original_text": "开展教育帮扶、公益慈善等多维度活动，助力民生福祉提升。送垃圾“回家”的趣味游戏以及园区清洁活动吸引了上海、南昌的众多员工参与",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司注重性别、民族、籍贯等多维度多元化，女性员工占比17.70%，女性技术人员占比提升。提供平等工作环境，支持女性员工发展。",
+      "original_text": "在中微公司，员工不会因性别受到区别对待。这种包容的环境，让女性员工的能力得以充分施展...2024年，女性员工占比17.70%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了涵盖决策层-管理层-执行层三个层级的ESG管理架构，董事会为最高决策机构，下设ESG委员会，董事长担任主任。",
+      "original_text": "中微公司已经建立了涵盖'决策层-管理层-执行层'三个层级的ESG管理架构，公司董事会为ESG工作决策层，是公司ESG工作的最高决策机构。董事会ESG委员会负责制定公司ESG战略方针",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司强调反贪污、反腐败、道德合规，制定了《中微全球商业行为与道德规范》，并严格执行反商业贿赂、反不正当竞争等合规要求。",
+      "original_text": "在《中微全球商业行为与道德规范》中，中微公司强调，反贪污、反腐败、道德合规应反...严格执行反商业贿赂、反不正当竞争等合规要求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司持续健全风险管控体系，优化风险管理流程，加强商业道德风险管理，通过组建专业团队、制定专项制度，系统性规范商业道德管理。",
+      "original_text": "中微公司持续健全风险管控体系，优化风险管理流程，加强商业道德风险管理。通过组建专业团队、制定专项制度，系统性地规范商业道德管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了全面系统的风险管理体系，包括EHS风险管理、气候变化风险管理、供应链风险管理等，采用风险矩阵与情景分析等方法。",
+      "original_text": "中微公司重视气候相关工作，采用风险矩阵与情景分析结合的方法，评估气候风险和机遇...建立了全面系统的EHS风险管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视中小股东权益，积极与中小股东及投资者进行沟通，制定了相关制度，并通过股东大会、投资者调研等方式保持沟通。",
+      "original_text": "中微公司高度重视中小股东权益，积极与中小股东及投资者进行沟通，制定了《中微半导体...》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过在线问卷、管理层研讨、专家评估会等方式调研各利益相关方关注点，识别出政府、股东、客户、供应商、员工、社区等主要利益相关方。",
+      "original_text": "我们通过在线问卷、管理层研讨、专家评估会等方式，调研各利益相关方关注点...识别出公司的利益相关方，主要包括政府及监管机构、股东、客户、供应商、员工、社区等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司强化气候相关信息披露透明度，提升信息披露透明度，增强投资者和公众的信任，并定期披露ESG报告。",
+      "original_text": "信息披露：强化气候相关信息披露透明度，增强投资者和公众的信任",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司依法合规纳税，完善税务风险内控机制，各子公司均严格遵守税务规定。",
+      "original_text": "依法合规纳税，完善税务风险内控机制。公司下属各子公司均严格...",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "688012_中微公司_2025.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

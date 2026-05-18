@@ -1,0 +1,442 @@
+{
+  "company_name": "隆基绿能",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 30569694.57,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 tCOe 30,569,694.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 70947.22,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量范围一 tCOe 70,947.22",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 4920831.48,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二 4,920,831.48",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 124.64,
+      "unit": "万tce",
+      "original_text": "综合能源消耗 万tce 124.64",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 52.4,
+      "unit": "%",
+      "original_text": "共计使用可再生电力51.37亿度，占总用电量的比例达到52.4%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 10840340,
+      "unit": "吨",
+      "original_text": "总耗水量 10,840.34 千吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 42351,
+      "unit": "吨",
+      "original_text": "废水排放量 kt 33,204.58 34,853 42,351",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 483573.81,
+      "unit": "吨",
+      "original_text": "无害废弃物产生总量 441,654.12 吨；有害废弃物产生总量 41,919.69 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 29700,
+      "unit": "万元",
+      "original_text": "节能减排投入达2.97亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 45.63,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 t 45.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.63,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量 t 0.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 331.73,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放量 t 331.73",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 55033,
+      "unit": "人",
+      "original_text": "按性别划分员工人数 男性 人 24,536 28,196 55,033",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 25,
+      "unit": "%",
+      "original_text": "女性员工占比达25%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 20.27,
+      "unit": "%",
+      "original_text": "执行管理层女性员工比例 % 23.41 21.68 20.27",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "人均受训金额投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 37.38,
+      "unit": "小时/人",
+      "original_text": "员工EHS人均培训时长 小时 51.39 53.08 37.38",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 429900,
+      "unit": "万元",
+      "original_text": "研发投入共42.99亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1416.17,
+      "unit": "万元",
+      "original_text": "全年对外捐赠公益金额1,416.17万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "公司董事会中包含三名独立董事，占董事会总人数的三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "董事会女性人数 人 2 1 2",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定净零转型计划，承诺到2050年实现全价值链净零排放，并设定2030年范围1和2排放较2020年下降60%的目标。",
+      "original_text": "隆基启动净零目标设定，承诺到2050年实现全价值链净零排放。围绕这一气候雄心，公司制定了净零转型计划，通过技术零碳化、运营零碳化与生态协同，构建全链条低碳体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依据环境保护法律法规，制定《隆基绿能环境管理政策》《能源管理手册》，并成立能源管理工作领导小组，全面开展环境管理。",
+      "original_text": "隆基依据环境保护法律法规，制定《隆基绿能环境管理政策》《能源管理手册》，提高能源使用效率，优化能源结构。公司成立由董事长任组长的集团能源管理工作领导小组。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司提供全链路气候缓解解决方案，包括高效光伏组件（如Hi-MO 9、Hi-MO X10）、氢能装备（ALK Hi1、ALK G）及绿色能源解决方案（BIPV、LONGi eHome等）。",
+      "original_text": "全链路气候缓解解决方案 打造气候适应性产品 单晶硅片：泰睿硅片、P 型硅片、N 型硅片 增强产品极端天气适应能力，如Hi-MO 9、Hi-MO X10、EcoLife 氢能装备：ALK Hi1、ALK G 绿色能源解决方案：光伏+(BIPV、LONGi eHome、电解水制氢设备和解决方案等)",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司发布《隆基绿能生物多样性政策》，将生态保护理念融入项目全生命周期，并开展农光互补等项目。",
+      "original_text": "隆基严格遵守《中华人民共和国环境影响评价法》《建设项目环境保护管理条例》等生态环境法律法规，将生态保护理念深度融入项目全生命周期。公司发布《隆基绿能生物多样性政策》。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进固废资源化利用，将污泥转化为园林绿肥、水泥原材料，固废资源化利用量达20,029吨，累计收益3,258.91万元。",
+      "original_text": "泥资源化转化为园林绿肥、水泥原材料，固废资源化利用量达20,029吨，实现废弃物价值再生，固废资源化项目累计实现收益3,258.91万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《反歧视与骚扰管理办法》《禁止强迫劳动管理办法》等，保障员工权益，设立投诉举报渠道，开展人力资源与社会责任内部稽核。",
+      "original_text": "我们制定《反歧视与骚扰管理办法》，反对包括种族、民族、国籍、肤色、性别、宗教信仰、婚姻状况等在内的任何形式的歧视。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建完善的职业健康安全治理架构，通过ISO 45001等体系认证，开展培训，覆盖100%员工，2025年因工死亡人数为0。",
+      "original_text": "职业健康与安全培训覆盖率100% 100% 因工死亡人数0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司开展供应商ESG尽职调查，覆盖反歧视、禁止强迫劳动等领域，启动多元化供应商计划，推动供应链企业员工多元化发展。",
+      "original_text": "我们积极开展供应商ESG尽职调查，在反歧视、禁止强迫劳动等关键领域，并对涉及雇佣童工、强迫劳动等行为零容忍。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立覆盖研发、制造全流程的可靠性验证体系，全年未发生重大产品安全事故及行政处罚，未发生重大产品召回事件。",
+      "original_text": "全年未发生重大产品安全事故及行政处罚，以创新与质量共同驱动为客户创造可持续价值。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《隆基绿能数据安全隐私保护政策》《数据安全管理办法》等，建立信息安全体系，未发生重大信息安全事件和隐私泄露事件。",
+      "original_text": "不发生重大信息安全事件 不发生信息安全和员工、客户、访客、供应链合作伙伴等隐私泄露负面事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过教育赋能、公益惠民、应急救护培训等方式参与社区发展，开展乡村振兴项目，以清洁能源推动社区发展与减贫。",
+      "original_text": "隆基以BC组件赋能南非农场，用清洁能源推动社区发展与减贫",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司发布《隆基多元化、平等和包容性（DEI）政策》，设定DEI目标和KPI，推进多元化招聘，女性员工占比25%，女性管理层比例持续增长。",
+      "original_text": "正式发布《隆基多元化、平等和包容性（DEI）政策》，从制度层面确保所有员工在招聘、薪酬、福利、培训、晋升等方面享有平等待遇",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "隆基建立了涵盖公司治理层、管理层、执行层的三层级ESG治理架构，以董事会及其战略与可持续发展委员会作为最高决策层，通过公司战略管理委员会实施ESG相关工作的统筹管理。",
+      "original_text": "隆基建立了涵盖公司治理层、管理层、执行层的三层级ESG治理架构，以董事会及其战略与可持续发展委员会作为最高决策层，通过公司战略管理委员会实施ESG相关工作的统筹管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司发布《隆基绿能反腐败政策》，要求所有员工遵守法律法规和公司制度；高管、员工廉洁承诺书签约率100%；商业道德培训覆盖率100%；未发生重大舞弊、腐败事件。",
+      "original_text": "发布《隆基绿能反腐败政策》，要求所有员工遵守法律法规和公司制度；高管、员工廉洁承诺书签约率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定并落实《隆基商业行为准则》，涵盖反垄断、反腐败、出口管制等；商业道德培训100%覆盖董事会、员工、供应商；商业道德投诉处理率100%；未发生重大信息披露违规、舞弊、腐败等事件。",
+      "original_text": "制定并落实《隆基商业行为准则》，承诺将严格遵守，落实包括反腐败、反不正当竞争等商业道德议题风险的日常管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立“三道防线”合规与风险治理架构，董事会为最高治理机构，确立合规与风险管理总体目标；业务部门为第一道防线，风险管理部门为第二道，内部审计为第三道，直接向审计委员会汇报。",
+      "original_text": "公司构建“三道防线”合规与风险治理架构，明确各部门在风险管理中的职责定位，形成权责清晰、协同联动的合规与风险管控体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司坚持“真诚沟通创造价值”的理念，通过投资者热线、信箱、上证e互动、股东会等渠道与中小股东积极交流，并组织“我是股东”走进上市公司等调研活动。",
+      "original_text": "隆基坚持“真诚沟通创造价值”的理念，以投资者为中心，通过投资者热线、投资者信箱、上证e互动、股东会等渠道与中小股东积极交流",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过利益相关方差异化沟通与双重重要性评估，设置议题重要性阈值，形成重要性矩阵，并呈报至董事会战略与可持续发展委员会审阅。",
+      "original_text": "通过利益相关方差异化沟通与双重重要性评估，设置议题重要性阈值，形成重要性矩阵，将双重重要性评估结果呈报至董事会战略与可持续发展委员会审阅",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循《上海证券交易所上市公司自律监管指引第1号——规范运作》等要求，确保信息披露的真实、准确、完整、及时、公平；报告经董事会审议批准，并获ISAE3000审验。",
+      "original_text": "本报告提交通标标准技术服务有限公司按照ISAE3000审验标准有限保证等，由公司董事会审议并批准",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司构建覆盖全业务、全流程的税务合规管理体系，严守境内外税收法规，全面防范运营风险，并发布《隆基绿能税收政策》。",
+      "original_text": "通过持续完善税务内控、强化专业团队建设、深化内外部协同，公司已构建起覆盖全业务、全流程的税务合规管理体系",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "601012_隆基绿能_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

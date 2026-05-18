@@ -1,0 +1,441 @@
+{
+  "company_name": "城发环境",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 66000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 万吨二氧化碳当量 6.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 32200,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围一） 万吨二氧化碳当量 3.22",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 33800,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围二） 万吨二氧化碳当量 3.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 37120.83,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 37,120.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 20909300,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 2,090.93",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 3447500,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨 344.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 12630000,
+      "unit": "吨",
+      "original_text": "垃圾处理1，263万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 6400,
+      "unit": "万元",
+      "original_text": "环保投入超6,400万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4633,
+      "unit": "人",
+      "original_text": "截至2025年末，公司员工总数为4,633人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 11.33,
+      "unit": "万元",
+      "original_text": "本部员工培训支出费用 万元 11.33",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 100,
+      "unit": "小时/人",
+      "original_text": "2025年，公司开展各类培训人均培训时长超过100小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 3.7,
+      "unit": "%",
+      "original_text": "员工总体流失率 % 3.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 6480.73,
+      "unit": "万元",
+      "original_text": "2025年，公司安全投入总额 6,480.73 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "董事会会议召开次数 次 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极应对气候变化，建立温室气体排放管理体系，开展碳排放盘查，制定碳减排目标和路径。",
+      "original_text": "公司积极应对气候变化，建立温室气体排放管理体系，开展碳排放盘查，制定碳减排目标和路径。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司环境管理体系更完善，环保投入超6,400万元，隐患排查整改率96.6%。",
+      "original_text": "2025年，我们的环境管理体系更完善，环保投入超6,400万元，隐患排查整改率96.6%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦固废处理、水处理、城市服务等核心领域，提供垃圾发电、污水处理、再生资源回收等绿色服务。",
+      "original_text": "聚焦固废处理、水处理、城市服务等核心领域，实现碳减排、能源节约、废弃物回收。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司对新建、改扩建项目全面开展生态环境影响评估，重点对项目对生态系统及生物多样性的影响进行评估。",
+      "original_text": "针对新建、改扩建项目，全面开展生态环境影响评估，重点对项目对生态系统及生物多样性造成的影响进行评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司构建三级回收网络，打造'点-站-场-分拣中心'四位一体废弃物回收循环利用体系，推动资源回收产业高质量发展。",
+      "original_text": "构建全省三级回收网络，打造'点-站-场-分拣中心'四位一体的废弃物回收循环利用体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，保障员工合法权益，劳动合同签订率100%，社会保险覆盖率100%，未发生劳动合同纠纷、欠薪、侵犯员工权益等事件。",
+      "original_text": "与全体员工签订书面劳动合同，劳动合同签订率100%...依法为员工缴纳养老、医疗、失业、工伤、生育五项社会保险和住房公积金。社会保险覆盖率100%...2025年，公司未发生劳动合同纠纷、欠薪、侵犯员工权益等事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定职业健康管理办法，开展职业健康培训，2025年职业健康培训97场次，5,199人次，161小时。安全投入6,480.73万元，用于设施设备、培训、劳动保护、应急演练、职业健康体检等。",
+      "original_text": "制定职业健康管理办法...职业健康培训场次 次 97...2025年，公司安全投入总额 6,480.73 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《采购管理办法》，落实责任采购，通过公开招标等方式新增供应商，监督供应商风险行为，将失信供应商纳入黑名单。",
+      "original_text": "公司以责任为导向，遵守《中华人民共和国招标投标法》，制定《采购管理办法》，落实责任采购...定期监督并纠正供应商风险行为，并将发生质量、安全和环境等责任事故以及其他失信行为的供应商纳入黑名单。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司积极为客户提供全流程高质量服务，优化服务体系，保障客户权益，设立客服中心和客户专线，依据客户反馈优化服务流程。",
+      "original_text": "城发环境积极为客户提供全流程高质量服务，不断优化服务体系，保障客户权益...设立客服中心和客户专线...依据客户反馈不断优化服务流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司加强员工隐私保护培训，未经客户授权不向第三方泄露隐私信息。",
+      "original_text": "城发环境加强员工隐私保护培训，提高保密意识，未经客户授权，绝不向第三方泄露任何隐私信息",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过开放环保设施、参与社区建设、优化区域环境质量，持续提升社区宜居水平。信阳供排水一体化项目解决居民饮水安全问题。",
+      "original_text": "通过开放环保设施、参与社区建设、优化区域环境质量，持续提升社区宜居水平...信阳供排水一体化项目彻底化解彭家湾居民饮水安全问题",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，反对任何形式的歧视，保障女性员工权益，员工队伍呈现年轻化、专业化、多元化特点。女性员工1,295人。",
+      "original_text": "坚持平等雇佣，构建多元化员工队伍...坚决反对任何形式的歧视...女性 人 1,295",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司治理架构从董事会、监事会并行的‘二元制’向保留董事会、取消监事会的‘一元制’转型，由董事会审计委员会承接原监事会职权。董事会下设审计委员会等专门委员会。",
+      "original_text": "公司治理架构从董事会、监事会并行的‘二元制’，向保留董事会、取消监事会的‘一元制’转型，由董事会审计委员会正式承接原监事会全部职权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司高度重视反腐倡廉工作，持续开展廉洁教育，筑牢思想防线。依托‘生生学堂’开展纪检干部专题培训，覆盖反腐工作态势、廉政防控实操等。",
+      "original_text": "公司高度重视反腐倡廉工作，持续开展廉洁教育，筑牢思想防线。培训围绕国企纪检干部履职核心，从明晰反腐工作态势、明确党章赋予职责、落实廉政防控实操举措、严守廉洁履职底线四方面开展",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司通过ISO 37301:2021合规管理体系国际认证和GB/T 35770-2022国家标准认证（双贯标），成为环保行业少数通过双贯标的企业。建立合规管理工具箱，开展全员合规培训。",
+      "original_text": "2025年5月30日，公司通过ISO 37301：2021合规管理体系国际认证和GB/T 35770-2022合规管理体系国家标准认证(双贯标)，成为环保行业少数通过双贯标认证的企业",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立‘双月风险研讨会+条线专项排查’管控体系，常态化‘周调度、月分析、年总结’风险管控机制。将气候风险管理融入整体风险管理体系。",
+      "original_text": "管控体系创新升级：双月风险研讨会+条线专项排查。常态化排查闭环运行：‘周调度、月分析、年总结’风险管控机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立多元化投资者沟通机制，全年举办业绩说明会、ESG报告发布会各1次，通过投资者热线、互动平台等与投资者保持良好互动，保障投资者知情权与参与权。",
+      "original_text": "公司高度重视投资者关系管理，建立了多元化的投资者沟通机制，保持与投资者的良好互动。全年成功举办业绩说明会、ESG 报告发布会各 1 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司全面了解利益相关方的期望与诉求，积极搭建沟通桥梁，通过多种方式与政府、投资者、客户、员工等利益相关方保持高效协同与良性互动。",
+      "original_text": "公司全面了解利益相关方的期望与诉求，积极搭建与利益相关方之间的沟通桥梁，并采取有效措施主动回应，与利益相关方一起推动企业可持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循信息披露监管要求，确保信息披露真实、准确、完整、及时、公平。2025年获深交所信息披露A级评价。",
+      "original_text": "公司严格遵循信息披露监管要求，确保信息披露真实、准确、完整、及时、公平，信息披露质量持续提升。2025年10月，深圳证券交易所公布了2024-2025年度上市公司信息披露工作评价结果。公司获评A级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告中提及‘主动纳税’作为对政府及监管机构的回应举措，但未详细披露税务透明度政策或具体税务数据。",
+      "original_text": "政府及监管机构 ·遵纪守法 ·统计报表 ·合规管理 ·合规经营 ·工作汇报 ·主动纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

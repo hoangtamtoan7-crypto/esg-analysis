@@ -1,0 +1,442 @@
+{
+  "company_name": "赣锋锂业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 74.88,
+      "unit": "万吨二氧化碳当量",
+      "original_text": "温室气体排放总量 万吨二氧化碳当量 74.88",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 34.51,
+      "unit": "万吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 万吨二氧化碳当量 34.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 40.37,
+      "unit": "万吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 万吨二氧化碳当量 40.37",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2.3,
+      "unit": "吨二氧化碳当量/万只",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万只 - 2.30",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2043651.26,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "综合能源消耗量 兆瓦时 2,043,651.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 25,
+      "unit": "%",
+      "original_text": "实施光伏项目，购买绿电，清洁能源使用占比25%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2230736.48,
+      "unit": "吨",
+      "original_text": "总取水量 立方米 2,230,736.48",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1095060.16,
+      "unit": "吨",
+      "original_text": "废水排放总量 立方米 1,095,060.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 227214.57,
+      "unit": "千克",
+      "original_text": "废气中氮氧化物（NOx）排放量 千克 227,214.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 138487.69,
+      "unit": "千克",
+      "original_text": "废气中二氧化硫（SO2）排放量 千克 138,487.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 39689.0,
+      "unit": "千克",
+      "original_text": "废气中颗粒物（PM）排放量 千克 39,689.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 11681,
+      "unit": "人",
+      "original_text": "员工总人数 人 11,681",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 168.58,
+      "unit": "万元",
+      "original_text": "2025年，员工培训总支出168.58万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 44.99,
+      "unit": "%",
+      "original_text": "员工流失率 % 44.99",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 10.42,
+      "unit": "亿元",
+      "original_text": "研发投入10.42亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.51,
+      "unit": "%",
+      "original_text": "研发投入金额占营业收入比例 % ... 4.51",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1338.72,
+      "unit": "万元",
+      "original_text": "乡村振兴、教育助学和医疗健康等多个公益领域投入金额共计1,338.72万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 10,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 10 10 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40.0,
+      "unit": "%",
+      "original_text": "董事会中独立非执行董事占比 % 40.00 40.00 36.36",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 4,
+      "unit": "人",
+      "original_text": "其中4名董事为女性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 15,
+      "unit": "次",
+      "original_text": "董事会会议 召开15次会议，共审议70项议案",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳管理发展战略及碳排放目标，开展气候情景分析，推进能源结构转型、能效管理提升和运输体系升级，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "制定公司碳管理发展战略及碳排放目标，统筹部署碳排放管理工作，推动集团节能减碳及碳资产优化；积极推动气候目标的设定和跟踪内部气候行动的执行，响应国家3060双碳目标和全球1.5℃的净零目标。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了完善的环境管理体系，制定《生产过程中环境保护管理规定》，各子公司开展环保管理内审和外审，监控废水、废气、噪声和固体废弃物排放。",
+      "original_text": "制定《生产过程中环境保护管理规定》，加强生产过程中“三废”排放管理，确保环保设备、设施正常运行。各子公司开展环保管理内审和外审工作，监控废水、废气、噪声和固体废弃物等的排放和处置情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推动高值化再生技术产业化，实现废料到电池级碳酸锂、磷酸铁等高端材料的闭环转化；布局储能设备、太阳能发电等绿色产品与服务。",
+      "original_text": "推动高值化再生技术产业化，实现废料到电池级碳酸锂、磷酸铁等高端材料的闭环转化；布局储能设备，水蓄冷等；布局太阳能发电。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司制定《生物多样性保护》相关制度，确定每个项目的环境基线，对露天矿山高陡边坡区域进行防护设施创新，完善突发环境事件应急响应机制。",
+      "original_text": "赣锋锂业严格遵守《关于进一步加强生物多样性保护的意见》等法律法规及相关规定，制定《生物多样性保护》...确定每个项目的环境基线。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司持续推进固体废物再利用，与水泥、玻璃等行业合作；实施磷酸铁废水中水回用项目，实现废水零排放；建设雨水收集系统。",
+      "original_text": "公司持续推进固体废物的再利用，在生产及运营全过程中系统识别可回收资源。在生产端，公司与水泥、玻璃等行业合作...赣锋循环针对磷酸铁生产废水实施零排放回用工艺。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保护员工权益，杜绝侵犯人权，建立公平招聘和薪酬体系，提供多元化福利，开展人权培训，设立申诉渠道。",
+      "original_text": "保护员工权益，杜绝侵犯人权；建立公平合理的招聘流程和薪酬体系；关爱女性员工，提供女性员工福利；线上平台开设人权培训课程，员工参与培训总时长超7,700小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全保障体系，定期开展健康与安全检查，提供健康体检，实施辐射岗位管理，开展安全培训。",
+      "original_text": "将员工的健康与安全放在首位，为员工打造健康安全的职场环境；定期开展职业健康与安全检查，及时排除相关隐患；为所有员工提供健康体检；建立'红黄绿牌'安全管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商准入机制，要求供应商签署《供应商行为准则承诺书》和《负责任矿产承诺书》，开展供应商尽职调查审核培训。",
+      "original_text": "供应商《供应商行为准则承诺书》签订率96.04%；开展矿产供应链溯源，要求供应商签署《负责任矿产承诺书》；供应商尽职调查审核培训活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立产品安全与质量管理组织架构，发起TQC全价值链质量提升行动，未发生产品安全与质量相关重大责任事故。",
+      "original_text": "发起TQC全价值链质量提升行动，设立质量管理专项激励奖金；报告期内，公司未发生产品安全与质量相关重大责任事故和相关行政处罚",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守数据安全相关法律法规，开展信息安全培训，提升员工信息安全意识。",
+      "original_text": "严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》；持续丰富信息安全培训体系，针对各级别员工开展不同形式的培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司支持社区建设，提供技能培训，开展乡村振兴、教育助学和医疗健康等公益项目，投入金额共计1,338.72万元。",
+      "original_text": "不断加强项目周边社区人员技能培训；购买当地农产品助力农村发展；乡村振兴、教育助学和医疗健康等多个公益领域投入金额共计1,338.72万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司招聘及晋升中无性别歧视，保障女性员工合法权益，在阿根廷女性员工占比约15.88%，高于当地采矿业平均值。",
+      "original_text": "招聘及晋升中无性别歧视，保障女性员工合法权益；在阿根廷工作的女性员工占比约为15.88%，高于阿根廷采矿业平均值",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司在董事会层面设可持续发展委员会，下设可持续发展办公室、碳排放工作小组，董事会为最高决策机构，审核可持续发展相关决议。",
+      "original_text": "公司在董事会层面设可持续发展委员会，该委员会下设可持续发展办公室、碳排放工作小组及...董事会审核可持续发展相关决议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立完善的'三反'工作管理体系，健全举报渠道，签署《反贿赂/反腐败承诺书》《员工廉洁自律管理责任书》签署率100%。",
+      "original_text": "设立完善的'三反'工作管理体系，健全举报渠道...《反贿赂/反腐败承诺书》《员工廉洁自律管理责任书》签署率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司发布《赣锋锂业商业道德手册（倡廉反腐篇章）》，将廉洁要求嵌入供应商全周期管理，开展合规现状评估与风险识别。",
+      "original_text": "2025年发布《赣锋锂业商业道德手册（倡廉反腐篇章）》，向所有合作...公司将廉洁要求嵌入供应商全周期管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司搭建自上而下的风险管理架构，由董事会对风险管理承担最终责任，委任总裁及风险合规部负责监督风险管理，制定《风险管理制度》等制度。",
+      "original_text": "公司搭建自上而下的风险管理架构，由董事会对风险管理承担最终责任，委任总裁及风险合规部负责监督风险...制定《风险管理制度》《风险与机遇管理规定》《内部审计管理规定》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司凭借出色的投资者关系实践，荣获《中国基金报》颁发的'2025中国可持续品牌典范'股东权利守护奖，通过股东会、定期报告、投资者邮箱及专线等渠道沟通。",
+      "original_text": "公司凭借出色的投资者关系实践，荣获《中国基金报》颁发的'2025中国可持续品牌典范'股东权利守护奖",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立公开、透明、有效的利益相关方沟通渠道和补救程序，提供公开邮箱、投诉热线等多种方式，鼓励利益相关方提出申诉。",
+      "original_text": "公司建立公开、透明、有效的利益相关方沟通渠道和补救程序，提供公开邮箱（shenji@ganfenglithium.com）、投诉热线等多种方式",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司通过深交所和香港联交所发布公告，2025年深交所发布公告150条，香港联交所发布海外监管公告88条，董事会对报告内容保证不存在虚假记载。",
+      "original_text": "深圳证券交易所发布公告150条，香港联合交易所发布海外监管公告88条...董事会对报告的内容进行保证，不存在虚假记载、误导性陈述或重大遗漏",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "002460_赣锋锂业_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

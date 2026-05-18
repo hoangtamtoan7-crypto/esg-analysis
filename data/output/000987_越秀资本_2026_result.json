@@ -1,0 +1,441 @@
+{
+  "company_name": "越秀资本",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 602.94,
+      "unit": "吨二氧化碳当量",
+      "original_text": "吨二氧化碳当量 602.94 618.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 41.15,
+      "unit": "吨二氧化碳当量",
+      "original_text": "吨二氧化碳当量 41.15 49.04 41.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 561.79,
+      "unit": "吨二氧化碳当量",
+      "original_text": "吨二氧化碳当量 561.79 569.36 524.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.09,
+      "unit": "吨二氧化碳当量/百万元收入",
+      "original_text": "吨二氧化碳当量/百万元收入 0.09 0.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1154056.9,
+      "unit": "千瓦时",
+      "original_text": "能源消耗总量 千瓦时 1,154,056.90 1,199,758.88 1,148,035.40",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 4726.63,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 4,726.63 6,105.41 5,056.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1249,
+      "unit": "人",
+      "original_text": "全职 人 1,231 1,258 1,249",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 42.67,
+      "unit": "%",
+      "original_text": "截至2025年底，公司全体员工中，女性员工为533人，占比42.67%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 166,
+      "unit": "万元",
+      "original_text": "年度培训总投入 万元 540.41 87.63 166",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 111,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时长111小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 6.09,
+      "unit": "%",
+      "original_text": "员工流失率 % 7.65 5.41 6.09",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1.88,
+      "unit": "亿元",
+      "original_text": "公司科技投入金额 亿元 1.85 1.87 1.88",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 197.32,
+      "unit": "万元",
+      "original_text": "全年公益支出197.32万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事占比达1/3",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "董事会12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会专门委员会会议23次",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'目标，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。通过绿色金融产品和服务支持低碳转型，并开展气候情景分析，识别气候风险和机遇。",
+      "original_text": "积极响应国家'双碳'目标，通过多样化的金融支持和服务推动产业向更加绿色、规范、高效、可持续的方向发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，通过ISO 14001:2015认证。将可持续发展理念融入风险管理体系，建立客户与行业双重绿色准入机制，明确禁止介入淘汰类、限制类及高污染高耗能企业。",
+      "original_text": "公司已建立完善的环境管理体系，通过了ISO 14001:2015认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司围绕光伏、风电、储能等新能源方向持续布局，提供绿色信贷、绿色债券、绿色投资等金融产品。2025年新增绿色投放263.17亿元，发行'绿色+碳中和+乡村振兴'类REITs等。",
+      "original_text": "2025年新增绿色投放263.17亿元，新能源商用车突破上量。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "报告提及'气候投融资+碳减排挂钩+生物多样性+普惠金融'四融合租赁贷款，但未详细说明生物多样性保护的具体措施或政策。",
+      "original_text": "越秀租赁携手某银行在广州南沙落地首批'气候投融资+碳减排挂钩+生物多样性+普惠金融'四融合租赁贷款。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行无纸化办公和资源循环利用，如单面废纸循环利用。在业务层面，通过户用分布式光伏电站利用农户闲置屋顶资源，助力绿美乡村建设。",
+      "original_text": "报告期内，公司通过全面落实无纸化办公和资源循环利用相关措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，制定并完善人力资源管理制度，保障员工合法权益，建立员工申诉制度，未发生使用童工或强迫劳动事件。",
+      "original_text": "依法保护员工合法权益，为员工提供健康与安全的工作条件，及时支付员工薪酬、缴纳员工社保，加强员工培训，建立合理有效的员工申诉制度",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，制定安全生产责任制等制度，开展安全培训与应急演练，关注员工身心健康。",
+      "original_text": "公司严格遵守《中华人民共和国职业病防治法》，制定并实施《安全生产责任制管理制度》《内部治安保卫责任制》《安全隐患排查手册》等管理文件，持续完善职业健康与安全管理体系建设",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应链风险管理机制，在风险政策和项目评审中纳入可持续发展考量，关注供应商环境、社会及治理风险。",
+      "original_text": "越秀租赁结合融资租赁业务特点，在风险政策和项目评审中纳入可持续发展相关考量，重点关注行业可责任、劳动用工及公司治理等方面的潜在风险进行识别",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司对现有及新设产品进行严格的合规性与适配性评估，清理潜在风险隐患，确保业务在规定的安全边界内运行。客户满意度97%。",
+      "original_text": "对现有及新设产品进行严格的合规性与适配性评估，清理潜在风险隐患，确保业务在规定的安全边界内运行。客户满意度 % 100 98.84 97.",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司注重信息安全，开展全员信息安全培训，未发生重大数据安全事件。",
+      "original_text": "公司注重信息安全文化建设。2025年，公司面向全体员工开展信息安全培训，内容涵盖线上课程、专题培训...2025年，公司未发生重大数据安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，投身乡村振兴、公益慈善等行动，开展社区沟通活动。",
+      "original_text": "公司积极履行社会责任，持续深化公益慈善与志愿服务实践，广泛动员党组织和员工力量，以实际行动践行“金融为民”",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司注重营造公平、多元、包容的用人环境，女性员工占比42.67%，设立管理序列与专业序列双通道发展路径。",
+      "original_text": "公司的人才结构展现出多元化特征。截至2025年底，公司全体员工中，女性员工为533人，占比42.67%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会下设战略与可持续发展委员会，负责可持续发展相关事宜；董事会全面负责可持续发展管理事宜，审议目标制定与管理，定期审阅公司可持续发展及气候治理相关表现。",
+      "original_text": "董事会下设战略与可持续发展委员会，负责对包括普惠金融在内的公司长期发展战略、重大投资决策等工作进行研究并提出专业建议，协助董事会对可持续发展工作...董事会全面负责可持续发展管理事宜，审议目标的制定与管理，董事会定期审阅公司可持续发展及气候治理相关表现。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司提及反商业贿赂及反贪污，并开展商业道德培训100%覆盖。",
+      "original_text": "反商业贿赂及反贪污；商业道德培训100%覆盖",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司构建法律、内控、合规、授权四维度一体的法律合规管理机制，通过合规管理制度、信息隔离墙、反洗钱、知识产权风险防范和反垄断合规等专题培训，推动合规要求准确理解和规范执行。",
+      "original_text": "公司构建以“法律、内控、合规、授权”四维度一体的法律合规管理机制，通过《合规管理制度》、信息隔离墙、反洗钱、知识产权风险防范和反垄断合规等重点事项开展专题培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司形成覆盖董事会、高级管理层、职能部门及业务一线的四级风险管理组织架构，董事会为最高决策机构，风险管理与法务合规部负责组织实施风险管理工作，统筹推动全面风险管理体系建设。",
+      "original_text": "有效制衡的风险防控机制，形成覆盖董事会、高级管理层、职能部门及业务一线的四级风险管理组织架构...公司董事会作为风险管理的最高决策机构，负责审议并确定公司的风险战略与风险偏好。风险管理与法务合规部则依据...在董事会授权下，负责组织实施风险管理工作。统筹推动全面风险管理体系建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司董事会秘书统筹负责投资者关系管理工作，董事会办公室作为职能部门，承担投资者关系管理活动，通过投资者热线、电子邮件、机构考察等方式与投资者保持沟通。",
+      "original_text": "公司董事会秘书统筹负责投资者关系管理工作，董事会办公室作为职能部门和日常工作机构，承担投资者关系管理活动...投资者热线、电子邮件（实时）...机构考察（不定期）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司围绕业务经营与可持续发展管理议题，与客户及合作伙伴、员工、股东及投资者、社区、供应商以及政府及监管机构等主要利益相关方保持常态化、多渠道的双向沟通。",
+      "original_text": "股东及投资者、社区、供应商以及政府及监管机构等主要利益相关方保持常态化、多渠道的双向沟通，及时传递公司发展动态和管理信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照内部《信息披露管理制度》及监管要求，确保信息披露的真实、准确、完整、及时。信息披露连续15年获深交所最高评级A级（优秀）。",
+      "original_text": "公司严格按照内部《信息披露管理制度》及监管要求，确保信息披露的真实、准确、完整、及时...信息披露连续15年获深交所最高评级A级（优秀）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司高度重视税务合规，从制度、组织、业务流程、文化、信息系统、税务风险管理、税务成本管理、人才培养八个方面构建税务管理体系。",
+      "original_text": "越秀资本高度重视税务合规，从制度、组织、业务流程、文化、信息系统、税务风险管理、税务成本管理、人才培养八方面构建税务管理体系",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

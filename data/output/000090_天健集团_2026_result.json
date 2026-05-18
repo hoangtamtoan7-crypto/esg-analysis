@@ -1,0 +1,441 @@
+{
+  "company_name": "天健集团",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 19420.09,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 19,420.09",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3162.08,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放总量 吨二氧化碳当量 3,162.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 16258.01,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放总量 吨二氧化碳当量 16,258.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.86,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元营收 0.86",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 7711,
+      "unit": "人",
+      "original_text": "员工总人数 7,711 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 38000,
+      "unit": "万元",
+      "original_text": "研发投入总额约 3.8 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 23000,
+      "unit": "万元",
+      "original_text": "投入安全生产费用 2.3 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 28.62,
+      "unit": "万元",
+      "original_text": "集团员工爱心捐款 28.62 万元",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.76,
+      "unit": "%",
+      "original_text": "研发投入占比 % 2.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "2025年，公司共有董事9位。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 15,
+      "unit": "次",
+      "original_text": "召开股东会 董事会会议 召开战略与预算委员会2次 审计委员会5次 合规委员会1次 ... 绩效 3次 15次 薪酬与考核委员会2次 提名委员会3次",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "审计委员会5次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已将气候治理融入可持续发展治理体系，构建权责清晰的管理机制，董事会为最高决策机构，负责审议气候战略和目标进展。",
+      "original_text": "应对气候变化是天健集团可持续发展工作的核心议题。我们将气候治理全面融入可持续发展治理体系，构建权责清晰、协同高效的管理机制，保障气候变化治理工作落地见效。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "天健集团持续建立健全环境管理体系，完善环境管理制度规范，明确并细化环境管理要求，推动环境管理规范化、制度化、常态化运行。不断完善环境风险防控体系，加强应急队伍建设与物资保障，全面提升突发环境事件预防预警与应急处置能力。",
+      "original_text": "天健集团持续建立健全环境管理体系，完善环境管理制度规范，明确并细化环境管理要求，推动环境管理规范化、制度化、常态化运行。不断完善环境风险防控体系，加强应急队伍建设与物资保障，全面提升突发环境事件预防预警与应急处置能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司积极提供绿色低碳建筑产品和服务，新开发住宅项目均为绿色建筑，新增绿色建筑运维认证1项。",
+      "original_text": "2025年，新开发住宅项目均为绿色建筑，新增绿色建筑运维认证1项。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司参与生态修复项目，如茅洲河碧道、牛湖水碧道等，施工后及时复绿，修复受影响生态区域。",
+      "original_text": "项目完工后及时完成临时用地复绿、施工场地硬化，对施工中受影响的绿化、边坡、生态区域进行修复或...",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动固废资源化利用，如废旧轮胎用于沥青路面，消纳1000条废旧轮胎，减少8吨固废污染。",
+      "original_text": "单此试验段便消纳了1,000条废旧轮胎，减少了8吨固废污染",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵循国家劳动用工法律法规，健全完善相关制度，营造公平有保障的工作环境，维护员工权益。",
+      "original_text": "天健集团严格遵循国家劳动用工相关法律法规，持续健全完善相关制度、强化监督，营造公平、有保障的工作环境，维护员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司系统化推进安全生产教育培训，开展安全培训4487次，投入安全生产费用2.3亿元，建立三级安全管理组织架构，定期开展应急演练。",
+      "original_text": "天健集团系统化推进安全生产教育培训工作，全面提升员工安全素养与专业技能，为安全生产筑牢思想根基。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司持续优化供应链管理体系，实施绿色采购，推动供应链绿色低碳转型，共建透明高效的供应链体系。",
+      "original_text": "天健集团将可持续发展理念融入价值链全链条，通过持续优化供应链管理体系，",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司重视产品和服务安全与质量，获得多项安全生产与文明施工优良工地奖，开展质量安全管理。",
+      "original_text": "产品和服务安全与质量 S1.2.1",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "报告提及数据安全与客户隐私保护作为重要议题。",
+      "original_text": "16.数据安全与客户隐私保护",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司热心公益事业，支持公益慈善，组建志愿服务团队，开展全民健身公益培训，参与社区建设。",
+      "original_text": "天健集团坚持将回馈社会融入企业发展的血脉，以高度的社会责任感投身公益慈善事业。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "报告提及员工性别结构、年龄结构、学历结构，但未明确说明多元化与包容政策。",
+      "original_text": "员工性别结构 员工年龄结构 员工学历结构",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "集团党委、董事会是可持续发展工作的最高决策机构，负责可持续发展战略规划、年度计划的审议工作，同时负责审核集团年度可持续发展（ESG）报告；董事会办公室负责制定可持续发展工作的具体实施规划。",
+      "original_text": "集团党委、董事会是可持续发展工作的最高决策机构，负责可持续发展战略规划、年度计划的审议工作，同时负责审核集团年度可持续发展（ESG）报告；董事会办公室负责制定可持续发展工作的具体实施规划。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "以党风廉政建设为抓手，坚决筑牢反商业贿赂防线，聚焦招标采购等重点领域和关键环节，推动业务部门印发《关于加强供应商资格审查工作的通知》，从源头防范商业贿赂风险。",
+      "original_text": "以党风廉政建设为抓手，坚决筑牢反商业贿赂防线，着力营造风清气正、勤勉敬业的良好政治生态与从业氛围。聚焦招标采购等重点领域和关键环节，推动业务部门印发《关于加强供应商资格审查工作的通知》，从源头防范商业贿赂风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "天健集团恪守商业行为准则，严守商业道德与伦理底线，坚决抵制腐败和欺诈行为，依法合规参与市场竞争，自觉维护公平公正。持续推进合规管理体系建设，完成以“风险识别、岗位职责、流程管控”为核心的合规“三张清单”编制。",
+      "original_text": "天健集团恪守商业行为准则，严守商业道德与伦理底线，坚决抵制腐败和欺诈行为，依法合规参与市场竞争，自觉维护公平公正。持续推进合规管理体系建设，完成“风险识别、岗位职责、流程管控”为核心的合规“三张清单”编制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "天健集团持续完善公司治理体系，健全内控合规与风险管理机制。从实体风险和转型风险两个维度识别气候变化风险，并针对性制定应对措施。",
+      "original_text": "天健集团持续完善公司治理体系，健全内控合规与风险管理机制。我们立足国家政策导向、行业发展趋势以及集团自身运营实际，从实体风险和转型风险两个维度，识别气候变化对公司运营和长远发展带来的潜在影响，并针对性制定应对措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视与利益相关方的沟通与合作，构建全方位、多层次的沟通机制，通过多元化沟通渠道和平台，与股东、客户、合作伙伴、员工及社会各界保持密切联系。",
+      "original_text": "公司高度重视与利益相关方的沟通与合作，构建全方位、多层次的沟通机制，通过多元化沟通渠道和平台，与股东、客户、合作伙伴、员工及社会各界保持密切联系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司构建全方位、多层次的沟通机制，通过股东会、路演活动、线上问等多元化沟通渠道，与股东、客户、合作伙伴、员工及社会各界保持密切联系，充分倾听各利益相关方的宝贵意见和建议。",
+      "original_text": "公司高度重视与利益相关方的沟通与合作，构建全方位、多层次的沟通机制，通过多元化沟通渠道和平台，与股东、客户、合作伙伴、员工及社会各界保持密切联系，充分倾听各利益相关方的宝贵意见和建议。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司按照深圳证券交易所相关要求，以“真实、准确、完整、及时”的原则规范信息披露。",
+      "original_text": "按照深圳证券交易所相关要求，以“真实、准确、完整、及时”的原则规范信息披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

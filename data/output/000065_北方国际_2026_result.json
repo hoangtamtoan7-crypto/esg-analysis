@@ -1,0 +1,441 @@
+{
+  "company_name": "北方国际",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3596.77,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放量（吨） 3,596.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 12356.97,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放量（吨） 12,356.97",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.1293,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "万元可比价产值碳排放量（吨） 0.1293 0.1468 0.158",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5565,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "综合能源消耗总量 吨标煤 5,021 5,565 6,119",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 66962,
+      "unit": "吨",
+      "original_text": "新鲜水用量（万吨） 6.6962",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 60265,
+      "unit": "吨",
+      "original_text": "废水排放量（万吨） 6.0265 6.5033 7.2016",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 393.55,
+      "unit": "万元",
+      "original_text": "职业培训投入 万元 308.89 319.71 393.55",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 50,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 学时 44 45 50",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 5.1,
+      "unit": "%",
+      "original_text": "员工流失率 % 5.4 5.3 5.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 17251,
+      "unit": "万元",
+      "original_text": "科技研发投入 万元 20,756 20,881 17,251",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.27,
+      "unit": "%",
+      "original_text": "科技研发投入占比 % 0.97 1.09 1.27",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 43.7,
+      "unit": "万元",
+      "original_text": "安全生产培训投入（万元） 36.2 39.7 43.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "起",
+      "original_text": "安全事故数（起） 0 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 27.1,
+      "unit": "万元",
+      "original_text": "公益捐赠 万元 102.9 31.2 27.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 72000,
+      "unit": "万元",
+      "original_text": "纳税总额 亿元 5.7 6.7 7.2",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司第九届董事会成员9 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "公司董事会中有1名女士",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "撤销监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极应对气候变化，实施碳达峰碳中和行动，持续布局风电、光伏、水电等清洁能源产业，以绿色能源替代传统能源。",
+      "original_text": "公司积极应对气候变化，实施碳达峰碳中和行动，持续布局风电、光伏、水电等清洁能源产业，以绿色能源替代传统能源。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续改进环境管理体系，制定印发多项环保制度，7家单位取得ISO14001环境管理体系认证。",
+      "original_text": "持续改进环境管理体系，制定印发《生态环境保护责任制度》《节能降碳与生态环境保护监督管理办法》《环境保护问题排查与整治管理办法》等，7家单位取得ISO14001环境管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司持续布局清洁能源投建营一体化和EPC项目，开发风电、光伏、水电等绿色能源项目，推动能源绿色转型。",
+      "original_text": "持续布局清洁能源投建营一体化和EPC项目，将中国的绿色技术与清洁能源项目结合，推动能源绿色转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "项目开展生态监测、增殖放流、植被恢复等措施，保护生物多样性。塞尼风电项目安装金雕和秃鹫保护系统，获得克罗地亚环保部高度评价。",
+      "original_text": "塞尼风电项目安装完成'金雕和秃鹫保护系统'，保护效果显著，获得克罗地亚环保部高度评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "项目建立水资源收集再利用系统，实现用水100%内部循环；推进生产设备节能改造、余热回收利用。",
+      "original_text": "收集再利用系统，实现用水100%内部循环，有效降低项目能耗和环境污染。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持公平公正无歧视原则，依法保障员工平等就业、选择职业、取得劳动报酬、享受社保福利、接受职业技能培训等权利，建立规范员工申诉制度，推动构建和谐劳动关系。",
+      "original_text": "秉持多元化与平等雇佣理念，将'公平、公正、无歧视'作为人力资源管理的重要原则...依法保障员工平等就业和选择职业的权利、取得劳动报酬的权利、享受社会保险和福利的权利。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定安全生产检查制度、责任制度，开展安全生产培训，覆盖率达100%，投入43.7万元，培训时长262,190学时，并开展健康体检、差旅健康风险培训等。",
+      "original_text": "制定《安全生产检查制度》《安全生产责任制度》，依法保障员工获得劳动安全卫生保护的权利。安全生产培训员工覆盖率（%）100 100 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司加强供应商准入与考核，审查健康、安全、环保、质量认证、法律纠纷等，开展供应商安全生产培训，推动供应商在道德、安全、健康、环保等方面提升。",
+      "original_text": "加强供应商准入与考核，相关部门审查供应商健康、安全、环保及质量认证、法律纠纷情况及资信状况。开展供应商安全生产等培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持质量制胜，开展全员质量培训、跨境技术交底，引入数字化手段实现质量数据可追溯、问题可闭环，持续开展质量隐患排查与整改。",
+      "original_text": "岗前培训提升全员质量意识，引入数字化手段实现质量数据可追溯、问题可闭环。持续开展质量隐患排查与整改。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定信息安全和隐私保护政策，最小化存储敏感个人隐私数据，实施访问权限控制、数据加密、密码管理、双重验证等措施，开展保密专题培训。",
+      "original_text": "制定《信息安全管理制度》《信息系统运行使用管理办法》等一系列信息安全和隐私保护政策...有效防范数据泄露风险，维护商业秘密和用户隐私的稳固安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极推进社区共建，将本地化运营、热心社会公益、促进文化相融作为重点，开展困难职工关怀、妇女节活动、运动会等，援建社区水井，支持公益项目。",
+      "original_text": "北方国际积极推进社区共建，将本地化运营、热心社会公益、促进文化相融作为重点...开展丰富多彩的文化交流日、困难职工关怀活动、妇女节活动、劳动节活动及运动会等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉持多元化与平等雇佣理念，公正对待不同国籍、种族、性别、宗教信仰和文化背景的员工，关注女性员工发展，提供技能成长平台。",
+      "original_text": "公正对待不同国籍、种族、性别、宗教信仰和文化背景的员工...北方国际关注女性员工发展，不仅为女性员工技能成长给予支持，更提供了施展才华的平台。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会是ESG工作的最高决策及责任机构，下设战略投资与ESG委员会，建立'董事会-战略投资与ESG委员会-安全环保部-各部门'的ESG治理架构。",
+      "original_text": "董事会是北方国际ESG工作的最高决策及责任机构，对本公司ESG工作承担最终责任，并将ESG管理纳入董事会下设专门委员会的工作职责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "制定《反腐败与反商业贿赂合规指引》《反洗钱与反恐怖融资专项合规指引》，开展反腐败与反贿赂、反洗钱与反恐怖融资专题培训，组织全员签署合规承诺书。",
+      "original_text": "编写《反腐败与反商业贿赂合规指引》《反洗钱与反恐怖融资专项合规指引》及对应的英文版指引文件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "制定《合规行为准则》《合规管理办法》，坚持诚信合规经营，维护公平竞争，对不正当竞争、舞弊、商业贿赂等零容忍。",
+      "original_text": "坚持诚信合规的经营理念，维护公平竞争的商业环境，共建阳光透明的商业生态。对不正当竞争、舞弊、商业贿赂及利益冲突等行为零容忍。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "完善全面风险管理体系，梳理年度八大风险，聚焦境外EPC项目等重点领域开展专项审计，推动133项管理建议整改落地。",
+      "original_text": "完善全面风险管理体系，梳理年度八大风险，聚焦境外EPC项目、子公司经营及经济责任履行等重点领域开展专项审计，推动133项管理建议整改落地",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "全年召开3场业绩说明会，组织4场分析师专题交流，接待投资者线下调研10次、线上调研4次，参与5场策略会，互动易平台回复率100%。",
+      "original_text": "全年召开3场业绩说明会...接待投资者线下调研10次，接待投资者线上调研4次...互动易平台...100%回复率",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司致力于与利益相关方建立和谐、互信关系，通过构建有效的沟通机制和多元化渠道，关注并回应利益相关方的愿望和要求。",
+      "original_text": "北方国际致力于与利益相关方建立和谐、互信关系，通过构建有效的沟通机制和多元化的沟通渠道，关注并真诚回应利益相关方的愿望和要求，保障利益相关方的知情权与参与权，实现企业和利益相关方的合作共赢。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "首次获得深交所信息披露考核'A级'评价，建立合规高效的内部信息报送机制，持续提升信息披露水平。",
+      "original_text": "首次斩获深交所信息披露考核'A级'评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法合规经营，但未明确提及税务透明度具体措施。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

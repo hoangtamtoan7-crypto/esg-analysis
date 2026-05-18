@@ -1,0 +1,446 @@
+{
+  "company_name": "神火股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会由 9 名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 55.56,
+      "unit": "%",
+      "original_text": "其中独立董事 5 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极践行绿色低碳发展，构建绿色能源铝产业布局，包括新疆木垒800MW自备绿电替代风电项目、云南神火绿色水电铝等，减少碳排放。",
+      "original_text": "积极践行绿色低碳发展，火木垒800MW自备绿电替代风电项目成功实现并网发电，项目所发绿电将全部用于新疆神火电解铝生产，与云南神火绿色水电铝共同构建“北风南水”的全国性绿色能源铝产业布局。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续优化环境建设，推进厂区绿化美化，强化重点环保设施监管，精准管控污染物排放浓度，确保排放优于国家标准。",
+      "original_text": "持续优化环境建设，推进厂区“绿化、美化”；云南神火强化重点环保设施监管，精准管控污染物排放浓度；二氧化硫、颗粒物、氮氧化物等主要大气污染物排放浓度均优于国家法。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司拥有绿色水电铝和食品医药包装箔等产品，但未明确说明绿色产品认证或具体服务。",
+      "original_text": "云南神火位于文山州富宁县，拥有绿色水电铝；上海铝箔拥有2.5万吨/年食品医药包装箔。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施废水回用、废渣减量、固废跨省转移等循环经济措施，如新疆神火厂区生活污水全部回用，新疆神火优化工艺减少废渣产生。",
+      "original_text": "新疆神火厂区生活污水处理站全年稳定运行，生活污水全部回用至电解铝脱硫系统工艺水，利用率达100%；新疆神火通过优化生产工艺减少废渣产生；成功打通大修渣、炭渣跨省转移通道。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障职工权益，发挥企业与员工间的桥梁纽带作用，维护职工身心健康，提供健康体检、疗休养等。",
+      "original_text": "公司的发展离不开每一名员工的努力...保障职工...工作环境，维护职工身心健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚持人民至上、生命至上，健全安全制度体系，开展安全培训、隐患排查，全年实现安全生产。",
+      "original_text": "公司深入贯彻习近平总书记关于安全生产重要论述，始终坚持'人民至上、生命至上'...全年实现安全生产。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司产品进入全球ASI铝采购供应链，但未详细说明供应链ESG管理措施。",
+      "original_text": "公司又一铝材生产基地产品进入全球 ASI 铝采购供应链。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立了严格的产品质量控制体系和完善的售后服务体系。",
+      "original_text": "建立了严格的产品质量控制体系和完善的售后服务体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社会公益事业，履行社会责任，包括灾后重建、慈善救助及乡村振兴等。",
+      "original_text": "作为国有上市公司，公司积极参与社会公益事业，切实履行...灾后重建、慈善救助及乡村振兴等工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司提及女性健康讲座、劳模表彰等，但未明确多元化与包容政策。",
+      "original_text": "举办女性健康等专题讲座...营造尊重劳动、崇尚先进、关爱职工的氛围。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "partial",
+      "summary": "公司董事会下设考核委员会等四个专门委员会，促进董事会科学高效决策。",
+      "original_text": "公司董事会下设考核委员会四个专门委员会，促进董事会科学、高效决策",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "partial",
+      "summary": "公司持续深化作业流程规范与安全示范班组创建，不断提升风险隐患整治。",
+      "original_text": "风险隐患整治，持续深化作业流程规范与安全示范班组创建，不断提升",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，除及时、充分和详尽的信息披露外，还搭建了投资者关系管理最佳实践，保障市值管理合规性、科学性、有效性。",
+      "original_text": "公司高度重视投资者关系管理工作，除及时、充分和详尽的信息披露外，还搭保障公司市值管理工作合规性、科学性、有效性，实现公司价值与股东利益最大",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "公司持续健全社会责任管理体系，切实保障股东（特别是中小股东）、债权人、员工等各方合法权益。",
+      "original_text": "持续健全社会责任管理体系，切实保障股东（特别是中小股东）、债权人、员工等各方合法权益",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司坚持从股东角度出发，严格按照法律法规要求，规范股东会召集、召开及表决等程序，平等对待所有投资者。",
+      "original_text": "公司坚持从股东角度出发，严格按照《中华人民共和国公司法》《上市公司股东会规则》《公司章程》及《股东会议事规则》等法律法规、规章制度要求，规范股东会召集、召开及表决等程序，平等对待所有投资者",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 19,
+    "qualitative_issues": [
+      {
+        "indicator_id": "E_L04",
+        "indicator_name": "生物多样性保护",
+        "issue": "缺少summary字段"
+      }
+    ],
+    "overall_quality_score": 0.699
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

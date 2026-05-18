@@ -1,0 +1,442 @@
+{
+  "company_name": "三一重工",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 345006.2,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1+范围2） 吨二氧化碳当量 345,006.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 76112.84,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放总量（范围1） 吨二氧化碳当量 76,112.84",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 268893.36,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放总量（范围2） 吨二氧化碳当量 268,893.36",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 3.87,
+      "unit": "吨二氧化碳当量/百万元",
+      "original_text": "温室气体排放强度 （范围1+范围2） 吨二氧化碳当量/百万元 3.87",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 14.7,
+      "unit": "%",
+      "original_text": "清洁能源使用比例为14.7%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 3946162.73,
+      "unit": "吨",
+      "original_text": "水资源使用量 市政供水量 吨 3,946,162.73",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 507953.48,
+      "unit": "吨",
+      "original_text": "总排水量 吨 507,953.48",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 33.28,
+      "unit": "吨",
+      "original_text": "NOx排放量 吨 39.60 33.28",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 2.44,
+      "unit": "吨",
+      "original_text": "SO2排放量 吨 2.44",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 89.1,
+      "unit": "吨",
+      "original_text": "烟尘排放总量 吨 83.52 89.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 28469,
+      "unit": "人",
+      "original_text": "员工总数 人 28,469 23,832",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 14.3,
+      "unit": "%",
+      "original_text": "女性在高管团队中的占比为14.3%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 140.56,
+      "unit": "小时/人",
+      "original_text": "人均受训时长140.56小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 516900,
+      "unit": "万元",
+      "original_text": "研发投入51.69亿元人民币",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 5.79,
+      "unit": "%",
+      "original_text": "占主营业务收入的5.79%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 1.33,
+      "unit": "‰",
+      "original_text": "全年健康安全目标达成，千人负伤率1.33‰",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 2236.245,
+      "unit": "万元",
+      "original_text": "各类社会公益基金捐赠金额约为2,236.245万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "2025年，公司的董事会共有8名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "其中包含独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "召开董事会会议10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司以新质生产力为核心驱动，围绕产品电动化升级和产业链绿色协同，系统构建低碳化转型路径，致力于成为全球工程机械行业低碳发展的引领者。制定了碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "三一重工以新质生产力为核心驱动，围绕“产品电动化升级+产业链绿色协同”双轮并进，系统构建低碳化转型路径，致力于成为全球工程机械行业低碳发展的引领者。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已制定《环保设备运行管理制度》，将节能举措融入生产作业各环节，通过引进节能型设备、优化作业流程和合理调配设备使用时间等举措降低能源浪费。",
+      "original_text": "公司已制定《环保设备运行管理制度》，将节能举措融入生产作业的各项环节，通过引进节能型设备、优化作业流程和合理调配设备使用时间等举措，最大程度降低能源浪费，持续推进过程降碳工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦产品电动化，全面布局纯电动、混合动力、氢能源等业务板块，推进工程车辆、挖掘机械等主机产品电动化进程。2025年新能源产品销售额达86.40亿元，电动搅拌车等主营产品总销量达13,992台。",
+      "original_text": "2025年公司新能源产品销售额达86.40亿元人民币。公司电动搅拌车、电动泵车、电动起重机、电动挖机等主营产品总销量达到13,992台。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司对项目地点实施环境敏感目标分级评估，确认不会对生态资源和生物栖息地造成严重影响后推进项目，并积极推进厂区及周边生态修复与保护。",
+      "original_text": "公司亦对项目地点实施环境敏感目标分级评估，在确认项目不会对生态资源和生物栖息地造成严重影响后推进后续。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司秉持全生命周期精细化管控与循环经济理念，推行包装材料绿色化、减量化与循环化，提高废钢回收率、采用水性漆及中水回用。",
+      "original_text": "提高废钢回收率、采用水性漆及中水回用，减少原材料与水资源消耗",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司构建系统化的培训体系、公平的晋升机制、多元化的薪酬激励，覆盖所有全职员工，并提供必要的入职培训、安全规范及技能培训。",
+      "original_text": "三一重工将人才视为企业发展的核心动力，通过构建系统化的培训体系、公平的晋升机制、多元化的薪酬激励以及高效的动激励模式。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建了涵盖职业病防治、规范操作、风险识别、安全环境建设、劳动保护及健康监护的全方位职业健康保障体系，实施员工心理帮助计划（EAP）。",
+      "original_text": "三一重工构建了涵盖职业病防治、规范操作、风险识别、安全环境建设、劳动保护及健康监护的全方位职业健康保障体系，实施员工心理帮助计划（EAP）。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商ESG分级管理体系，将能耗与碳排放作为关键考核指标，从源头推动产业链绿色升级。",
+      "original_text": "建立供应商ESG分级管理体系，将能耗与碳排放作为关键考核指标，从源头推动产业链绿色升级。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立了覆盖研发、制造、供应链及售后全流程的数字化质量管理体系，包括工位质量看板、质量控制地图等。",
+      "original_text": "建立了覆盖研发、制造、供应链及售后全流程的数字化质量管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建完善的数据安全与隐私保护体系，制定《数据安全管理制度》《客户隐私政策》等，完成26套应用系统容灾、804套应用数据备份，并通过桌面云和数据沙盒实现内网数据安全访问。",
+      "original_text": "构建完善的数据安全与隐私保护体系，明确数据安全管理制度，完成26套应用系统容灾、804套应用数据备份，并通过桌面云和数据沙盒实现内网数据安全访问。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司构建以'科学公益'为引领的公益实践体系，2025年持续助力社区健康支持体系，推进困难家庭住房安全改造，资助社区公益食堂建设。",
+      "original_text": "公司积极履行社会责任，着力提升基层医疗与健康服务的可及性。2025年，公司持续助力构建线上线下融合的社区健康支持体系，推进困难家庭的住房安全改造，并资助社区公益食堂建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "员工来自40多个民族，女性员工达3,804人，女性高管占比14.3%。",
+      "original_text": "员工来自40多个民族，女性员工达3,804人，女性在高管团队中的占比为14.3%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会领导的ESG治理架构，董事会负责审议ESG发展战略、重大ESG风险及重要事项。下设可持续发展委员会，形成三级管理架构。",
+      "original_text": "公司建立了由董事会领导的ESG治理架构。董事会负责审议公司ESG发展战略、重大ESG风险及重要事项",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建职责清晰的反贪腐监督体系，由董事会直接领导。董事、关键岗位员工等签署诚信与廉洁承诺书，核心业务流程反腐审计覆盖率100%。",
+      "original_text": "公司构建职责清晰的反贪腐监督体系。由董事会直接领导、指导并评估廉洁管理工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守合规经营理念，持续健全反腐倡廉体系，强化商业道德管理，深入推进反洗钱工作。对全体员工开展商业道德规范培训，董事商业道德及反腐败培训比率100%。",
+      "original_text": "三一重工坚守合规经营理念，持续健全反腐倡廉体系，强化商业道德管理，深入推进反洗钱工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了常态化管控机制，将ESG风险纳入整体风险管理体系，系统开展风险识别、分析评估、控制、应对。成立风险与合规管理小组，由董事担任组长。",
+      "original_text": "公司建立了由董事会领导的ESG治理架构。董事会负责审议公司ESG发展战略、重大ESG风险及重要事项",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东会、路演、现场调研等渠道与股东沟通，保障股东权益。召开1次年度股东会，5次临时股东会。",
+      "original_text": "召开1次年度股东会，5次临时股东会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司积极通过多样化的沟通渠道与各方保持紧密联系，包括股东、供应商、员工等，并制定了利益相关方沟通策略。",
+      "original_text": "为了解利益相关方对公司ESG议题影响重要性的评价，满足其期望与诉求，公司积极通过多样化的沟通渠道与各方保持紧密联系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司依法依规开展信息披露，保障信息真实、准确、完整。本报告经由公司董事会审阅并批准。",
+      "original_text": "公司依法依规开展信息披露，保障信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600031_三一重工_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

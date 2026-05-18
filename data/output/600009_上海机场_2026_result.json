@@ -1,0 +1,442 @@
+{
+  "company_name": "上海机场",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 36487.7,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 tCO2e 36,487.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 25166.8,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放 吨CO2e 25,166.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 207640.25,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放 吨CO2e 207,640.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 3.01,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 kgCO2e/万元 3.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 65163.58,
+      "unit": "吨标准煤",
+      "original_text": "能源消费总量 吨标准煤 65,163.58",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 7.74,
+      "unit": "%",
+      "original_text": "可再生能源占比由5%升至7.74%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 3741300,
+      "unit": "吨",
+      "original_text": "总用水量（市政供水） 万立方米 374.13",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 8235700,
+      "unit": "吨",
+      "original_text": "废水排放总量 万立方米 823.57",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 36487.7,
+      "unit": "吨",
+      "original_text": "固体废弃物排放总量 吨 36,487.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 1855.6,
+      "unit": "万元",
+      "original_text": "节能降碳项目支出超 1855.6万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 13329,
+      "unit": "人",
+      "original_text": "员工总人数 人 13,329",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "公司女性员工总数 人，占员工总数比例 %",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 778.38,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 778.38",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 4.89,
+      "unit": "%",
+      "original_text": "员工流失率 % 4.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1827.2,
+      "unit": "万元",
+      "original_text": "研发费用 万元 1,827.20",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 210700,
+      "unit": "万元",
+      "original_text": "安全投入总额 亿元 21.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 27.8,
+      "unit": "万元",
+      "original_text": "公益慈善投入 万元 27.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 82457.0,
+      "unit": "万元",
+      "original_text": "2025年上海机场所交各类税金共计82,457.0万元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司董事会成员共 人，其中外部董事 人、占比 %，女性董事占比 %",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "公司董事会成员共 人，其中外部董事 人、占比 %，女性董事占比 %",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司董事会成员共 人，其中外部董事 人、占比 %，女性董事占比 %",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司深入贯彻国家“双碳”战略，制定覆盖能源转型升级、高效节能改造等战略目标，建立气候风险与机遇动态评估机制，将气候风险管理融入企业风险管理体系。",
+      "original_text": "面对全球气候变化挑战，上海机场始终将应对气候变化作为企业可持续发展的核心议题。公司深入贯彻国家 “双碳” 战略...建立气候风险与机遇动态评估机制",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，2025年浦东机场公司实施环境、能源、碳三体系同步外审，顺利取得ISO 50001能源、ISO 14001环境、EATNS碳管理体系认证。",
+      "original_text": "2025年，浦东机场公司实施环境、能源、碳三体系同步外审，顺利取得新一轮ISO 50001能源、ISO 14001环境、EATNS碳管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发展绿色货物处理与高端物流，机场物流公司通过IEnvA认证，成为内地首家获此认证单位，提升绿色供应链竞争力。",
+      "original_text": "机场物流公司下属货运站公司成功通过国际航空运输协会（IATA）的环境评估认证（IEnvA），成为中国内地首家获此全球认证资质单位。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司贯彻生物多样性保护理念，通过鸟类保护及生态环境建设等措施，平衡航空运行安全与周边生物种群数量及种类的稳定关系。",
+      "original_text": "贯彻生物多样性保护理念，通过鸟类保护及生态环境建设等措施，评估可能对生态环境和生物多样性的影响",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进固体废物源头减量、资源化利用与合规处置，在能源领域发展光伏等清洁能源，在水资源领域实施雨水收集、中水回用、废水再生利用。",
+      "original_text": "推进固体废物源头减量、资源化利用与合规处置；在能源领域，大力发展光伏等清洁能源；在水资源领域，实施雨水收集、中水回用、废水再生利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵循劳动保障相关法律法规，持续完善内部管理体系，搭建多元化、便捷高效的员工沟通与申诉渠道，积极回应员工诉求。",
+      "original_text": "公司遵循劳动保障相关法律法规，持续完善内部管理体系，搭建多元化、便捷高效的员工沟通与申诉渠道，积极回应员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已建立职业健康安全管理体系，通过ISO45001:2018认证，加强职业健康管理教育培训，合理发放劳动防护用品。",
+      "original_text": "浦东机场公司制定实施《职业健康安全管理体系手册》，定期组织开展职业健康安全管理体系合规性评价工作，并顺利通过ISO45001:2018 职业健康安全管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立了供应商管理制度，对供应商进行分级分类管理，要求供应商签署安全、健康和环保承诺书。",
+      "original_text": "供应商管理制度; 供应商签署《供应商安全、健康和环保承诺书》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建系统的服务质量管理体系与安全管理体系，持续完善制度、强化风险管控，推动产品和服务安全与质量可持续发展。",
+      "original_text": "公司认识到产品和服务安全与质量对上海机场发展的重要性，通过构建系统的服务质量管理体系与安全管理体系，持续完善制度、强化风险管控、优化管理手段，推动产品和服务安全与质量实现可持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司已建立数据安全管理体系，制定《数据安全及个人信息保护管理办法》，实施数据分类分级管理，报告期内未发生数据安全事件或泄露客户隐私相关事件。",
+      "original_text": "上海机场实施数据分类分级管理，依据法律法规、行业标准制定数据分类分级标准规范，并明确各级数据的数据安全要求。报告期内，未发生数据安全事件或泄露客户隐私相关事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展社区投资参与、社区联建共治、公益志愿活动等，2025年公益慈善投入27.8万元，惠及2256人。",
+      "original_text": "社区/公益组织 | 机场规划与建设 社区投资参与 社区联建共治 净空管理 噪声管理 周边环境治理 废气和空气质量 教育和文化促进 贡献乡村振兴 公益志愿活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "报告提及包容与多元化议题，但未提供具体政策或措施描述。",
+      "original_text": "包容与多元化 日常工作会议",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了权责清晰、协同高效的ESG管理运行机制，董事会为ESG工作最高领导机构，战略委员会提供专业研究，管理层召开协调会议，统筹ESG报告标准并向董事会提交年度报告。",
+      "original_text": "在董事会的领导下，上海机场构建了权责清晰、协同高效的ESG管理运行机制。公司由董事会战略委员会提供专业研究与展；公司管理层不定期召开协调会议解决难点问题，统筹ESG报告标准并向董事会提交年度报告。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司党委建立党风廉政建设和反腐败工作协调小组，纪委履行监督专责，纪律检查室作为反贪污腐败管理的专门部门，各直属单位每季度对廉洁风险进行评估排查，动态分类管理，制定防控措施。",
+      "original_text": "各直属单位每季度对监管领域廉洁风险进行评估排查，动态对廉洁风险点进行分类管理，制定完善防控措施，防...人，纪委履行监督专责，纪律检查室作为反贪污腐败管理的专门部门，公司党委建立党风廉政建设和反腐败工作协调小组",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持公平竞争、诚信经营，将反垄断与公平竞争管理融入日常运营，各直属单位法务合规部门推动形成透明、规范、有序的市场环境，通过常态化合规宣贯、专项培训与流程管控提升全员公平竞争意识。",
+      "original_text": "上海机场坚持公平竞争、诚信经营理念，将反垄断与公平竞争管理融入日常运营与业务全流程。各直属单位法务合规部门推动形成透明、规范、有序的市场环境。通过常态化合规宣贯、专项培训与流程管控，公司不断提升全员公平竞争意识",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司内部控制管理部门是风险管理的归口管理部门，指导协调各部门开展全流程风险管理工作，包括风险识别、评估、应对等，并建立风险预警机制，定期开展风险排查和处置。",
+      "original_text": "上海机场内部控制管理部门是风险管理的归口管理部门，指导、协调各部门和各直属单位有序开展全流程风险管理工作。...根据上海机场风险管理办法相关规定，内部控制管理部门是风险管理的归口管理部门",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东会、定期报告/临时报告、ESG报告、业绩说明会、上证e互动、投资者热线等方式与投资者沟通，维护全体股东利益。",
+      "original_text": "股东/投资人 经营业绩 回报股东 信息披露 投资者关系 可持续发展 | 股东会 定期报告/临时报告 ESG报告 业绩说明会 上证e互动 投资者热线",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司面向各利益相关方围绕ESG相关领域开展专项培训与能力建设，通过平台化、自动化等信息技术优化ESG信息披露工作，并持续梳理各方关注重点，优化沟通与披露管理。",
+      "original_text": "上海机场面向各利益相关方，围绕ESG相关领域开展专项培训与能力建设，共同提升 ESG 意识与管理水平。公司通过平台化、自动化等信息技术，优化ESG信息披露工作，提升ESG管理效率，控制ESG相关风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司通过平台化、自动化等信息技术优化ESG信息披露工作，提升管理效率，控制相关风险，并修订完善《ESG工作实施方案》，维护全体股东利益。",
+      "original_text": "公司通过平台化、自动化等信息技术，优化ESG信息披露工作，提升ESG管理效率，控制ESG相关风险。...报告期内，公司根据最新监管要求修订完善《ESG工作实施方案》，与信息披露、公众沟通等机制，筑牢稳健经营基石。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600009_上海机场_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "company_name": "华能国际",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 393023200,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1、范围2、范围3） （万吨二氧化碳当量）5 | 39,302.32 | 42,039.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 342501000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1温室气体排放总量（万吨二氧化碳当量）5 | 34,250.10 | 36,650.81",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 229700,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2温室气体排放总量（万吨二氧化碳当量）5 | 22.97 | 16.14",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 20888410000,
+      "unit": "吨",
+      "original_text": "总耗水量（百万吨） 20,888.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 30670000,
+      "unit": "吨",
+      "original_text": "程中产生的污水（包括工业废水和脱硫废水）排放总重量为30.67百万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 44151300,
+      "unit": "吨",
+      "original_text": "2025年，公司在运营过程中产生的一般固体废弃物为4,415.13万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 51843.63,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量（吨） 51,843.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 24864.48,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量（吨） 24,864.48",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 3782.79,
+      "unit": "吨",
+      "original_text": "烟尘排放量（吨）4 | 3,782.79 | 3,780.93",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 56263,
+      "unit": "人",
+      "original_text": "正式劳动合同员工总数（人）2 56,104 56,263",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "– 女性员工总数（人） 11,421 11,695",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 3129.56,
+      "unit": "万元",
+      "original_text": "2025年，公司在员工培训方面投入金额3,129.56万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 137,
+      "unit": "小时/人",
+      "original_text": "人均培训时长（小时） 137",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.27,
+      "unit": "%",
+      "original_text": "员工流失比率(%) 0.27",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4000000,
+      "unit": "万元",
+      "original_text": "计研发投入超400亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3,
+      "unit": "%",
+      "original_text": "研发投入强度保持在3%以上",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 141200,
+      "unit": "万元",
+      "original_text": "安全生产费支出14.12亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 418.6,
+      "unit": "万元",
+      "original_text": "公益慈善捐赠金额（万元） 441.80 418.60",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "董事会会议7次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，通过了ISO 14001:2015认证。",
+      "original_text": "通过了ISO 14001:2015认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司大力发展风电、光伏等清洁能源项目，提供绿色电力。",
+      "original_text": "大力发展风电、光伏等清洁能源项目",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司持续加强生态环境保护及生物多样性保护工作，开展生态保护科普，优选流域水电开发方案，主动避让生态环境敏感目标。",
+      "original_text": "公司持续加强生态环境保护及生物多样性保护工作。开展生态保护科普，优选流域水电开发方案，主动避让生态环境敏感目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进固废综合利用，探索燃煤与生物质燃料的耦合掺烧，实现资源循环利用。",
+      "original_text": "固废综合利用、燃煤与生物质燃料的耦合掺烧",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动合同条款，健全职工代表大会制度，完善薪酬及员工权益保障体系，提供健康安全的工作环境，提供职业发展通道和员工培训。坚持男女同工同酬，杜绝强迫劳动和就业歧视。",
+      "original_text": "严格遵守劳动合同条款，健全职工代表大会制度，完善薪酬及员工权益保障体系，提供健康安全的工作环境，提供职业发展通道和员工培训。坚持男女同工同酬，杜绝强迫劳动和就业歧视。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司遵循《中华人民共和国安全生产法》等法律法规，建立职业健康安全管理体系，大士电厂和登布苏电厂已通过ISO 45001:2018认证。公司制定多项管理标准，开展安全教育培训，确保员工健康安全。",
+      "original_text": "大士电厂和登布苏电厂的环境、职业健康与安全管理和规划体系均已通过ISO 45001:2018（职业健康与安全管理体系）认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商管理办法》，识别供应链环境和社会风险，推进国产化替代，确保供应链稳定性。",
+      "original_text": "公司制定《供应商管理办法》等管理制度，致力于通过有效的供应链风险管理措施确保供应链的稳定性。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司火电建设质量管理体系已取得ISO 9001:2015认证，报告期内未发生与产品和服务相关的安全与质量重大责任事故。",
+      "original_text": "公司火电建设质量管理体系已取得ISO 9001:2015（质量管理体系）认证，未发生与产品和服务相关的安全与质量重大责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵循相关法律法规，制定了数据管理办法等制度，建立数据管理体系，确保数据信息安全可控。2025年未发生数据安全和客户隐私泄露事件。",
+      "original_text": "2025年，大士能源未发生数据安全...公司未发生数据安全和客户隐私泄露的事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过员工志愿行动、资助公益和福利组织等方式参与社区共建，报告期内公益慈善捐赠金额418.60万元。",
+      "original_text": "大士能源积极与政府法定委员会、慈善机构和非营利组织合作，通过员工志愿行动、资助公益和福利组织等方式...公益慈善捐赠金额（万元） 441.80 418.60",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持为不同国籍、种族、性别、宗教信仰和文化背景的员工提供平等的就业机会和劳动保障，坚持男女同工同酬，杜绝强迫劳动和就业歧视。",
+      "original_text": "公司坚持为不同国籍、种族、性别、宗教信仰和文化背景的员工提供平等的就业机会和劳动保障，坚持男女同工同酬，杜绝强迫劳动和就业歧视。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了董事会决策、管理层统筹推进的ESG治理体系。董事会下设战略、审计、提名和薪酬与考核四个委员会，其中战略委员会负责全面风险管理，审计委员会负责舞弊风险识别与评估。董事会每年定期听取ESG重大事项汇报。",
+      "original_text": "公司构建了董事会决策、管理层统筹推进的ESG治理体系。董事会下设战略、审计、提名和薪酬与考核等四个委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司加强境外项目监督，结合中央企业境外廉洁合规指南和集团公司境外项目廉洁风险防控有关要求，开展反腐倡廉工作。报告期内描述了反贪污培训及腐败风险评估。",
+      "original_text": "加强境外项目监督，结合中央企业境外廉洁合规指南和集团公司境外项目廉洁风险防控有关要求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司聚焦合规风险管理，建立合规管理运行机制，印发重点岗位合规风险提示函，加强诉讼案件管理，防范法律合规风险。",
+      "original_text": "公司聚焦'合规风险管理'，持续加强管理体系和运行机制建设，树牢合规理念，培育合规文化。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立健全全面风险管理体系，将安全、环保、气候变化等ESG议题纳入全面风险管理流程，持续开展风险排查和动态评估，定期编制风险评估报告。董事会战略委员会负责全面风险管理监督。",
+      "original_text": "公司建立健全全面风险管理体系，将安全、环保、气候变化等ESG议题纳入全面风险管理流程，持续开展风险排查和动态评估工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东会、信息披露、公司网站等渠道与投资者沟通，努力提升业绩、创造利润，吸纳市场意见，修正公司经营行为。",
+      "original_text": "股东会、信息披露、公司网站",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司充分考虑并有效回应利益相关方的关切和诉求，通过股东会、信息披露、公司网站、日常会议等渠道与利益相关方沟通，确保其参与公司ESG发展进程。",
+      "original_text": "公司充分考虑并有效回应利益相关方的关切和诉求，与利益相关方共同促进经济社会发展",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司董事会及全体董事保证本报告内容不存在任何虚假记载、误导性陈述或重大遗漏，并对内容的真实性、准确性和完整性承担个别及连带责任。",
+      "original_text": "公司董事会及全体董事保证本报告内容不存在任何虚假记载、误导性陈述或重大遗漏，并对内容的真实性、准确",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600011_华能国际_2026.md",
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 31,
+    "quantitative_issues": [
+      {
+        "indicator_id": "E_Q07",
+        "indicator_name": "总用水量",
+        "issue": "数值20888410000超出合理范围[0, 1000000000]"
+      }
+    ],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.858
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "宁德时代",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2243174.05,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量1 吨二氧化碳当量 2,243,174.05",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 765338.97,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放总量2 吨二氧化碳当量 765,338.97",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1477835.08,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放总量2，3 吨二氧化碳当量 1,477,835.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 5.77,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度4 吨二氧化碳当量/ 5.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 24767519.69,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "综合能源消耗量2 兆瓦时 10,524,882.70 19,233,654.46 24,767,519.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 74.22,
+      "unit": "%",
+      "original_text": "公司零碳电力使用占比达74.22%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 49244155.42,
+      "unit": "吨",
+      "original_text": "取水总量1 立方米 25,479,086.86 35,080,458.72 49,244,155.42",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 102027.33,
+      "unit": "万元",
+      "original_text": "公司在报告期内环保相关费用共计投入102,027.33万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 185839,
+      "unit": "人",
+      "original_text": "员工总数 人 116,055 131,988 185,839",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21.76,
+      "unit": "%",
+      "original_text": "女性 % 23.26 22.22 21.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 20.31,
+      "unit": "%",
+      "original_text": "女性 % 18.43 19.55 20.31",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 55.89,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均小时数 小时 55.50 57.57 55.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 25.66,
+      "unit": "%",
+      "original_text": "员工流失比率 % 25.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2214658,
+      "unit": "万元",
+      "original_text": "研发投入金额2,214,658万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 5.23,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 4.58 5.14 5.23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 3435.07,
+      "unit": "万元",
+      "original_text": "其中，慈善捐赠金额2 万元 15,081.50 22,624.58 3,435.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会共由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定‘零碳战略’，目标2025年核心运营碳中和，2035年价值链碳中和。开展气候情景分析，识别转型与实体风险，推进可再生能源使用与碳足迹管理。",
+      "original_text": "公司制定‘零碳战略’，积极推进自身运营及产业链降碳。于2025年实现核心运营碳中和，2035年实现价值链碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司以‘保护地球环境、实施清洁生产、建设绿色文化’为环境管理方针，制定多项管理制度文件，覆盖废气、废水、固体废弃物、生态修复等，并通过ISO 14001认证。",
+      "original_text": "公司以‘保护地球环境、实施清洁生产、建设绿色文化’为环境管理方针，严格遵守法律法规，制定《矿山生态环境保护管理制度》《工业废水管理程序》《固体废物管理制度》等文件。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发布乘用车换电解决方案、‘船-岸-云’零碳航运解决方案，开发储能电站项目，推动绿色出行与零碳航运，降低产品全生命周期碳排放。",
+      "original_text": "公司发布乘用车换电解决方案，通过技术创新与生态协同优化绿色出行体验；发布全球首个‘船-岸-云’零碳航运一体化解决方案。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司高度关注自身活动对生态系统和生物多样性的影响，遵照《中华人民共和国环境影响评价法》等法规，将生物多样性影响和依赖的识别结果与气候情景分析相结合，分析及评估短期、中期、长期影响。",
+      "original_text": "公司高度关注自身活动对生态系统和生物多样性的影响，遵照《中华人民共和国环境影响评价法》等法规，将生物多样性影响和依赖的识别结果与气候情景分析相结合，分析及评估短期、中期、长期影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进循环包装、轻量化及复合包装方案，提升废弃物循环利用水平，一般工业固废中焚烧及填埋处置量下降，循环使用规模扩大。",
+      "original_text": "创新循环包装、轻量化及复合包装方案；一般工业固废中焚烧（含/不含能源回收）及填埋处置量下降，循环使用与再使用规模进一步扩大。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司通过工会与职工代表大会保障员工权益，所有员工均有加入工会资格，每年开展职工代表大会，涉及员工权益制度制定与修改需经职工代表表决。报告期内召开2次职工代表大会，新增制定或修订10份文件。",
+      "original_text": "所有员工均有加入工会的资格...报告期内，公司召开2次职工代表大会，新增制定或修订《CATL行为准则》《考勤管理细则》等10份文件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司持续完善安全生产与职业健康管理，面向员工、供应商及合作伙伴开展安全与职业健康培训，员工健康安全培训覆盖率100%。建立EHS事故事件上报与调查处理程序，定期开展隐患排查和职业健康内部审计。",
+      "original_text": "员工健康安全培训覆盖率100%...建立完善的安全生产事件处理与应急管理机制...每年定期面向所有生产基地开展职业健康内部审计。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行安全与职业健康管理，要求供应商提交安全生产许可证等资质文件，合同中明确安全生产要求。针对战略供应商开展现场辅导审核，报告期内对130家战略供应商进行现场审核。",
+      "original_text": "所有潜在供应商需提交《安全生产许可证》等资质文件...报告期内，共计针对130家战略供应商开展现场审核工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司设立产品质量安全委员会，制定产品安全方针、战略与目标。建立部门级与团队级质量培训体系，员工质量培训覆盖率100%，质量相关课程总数超200门。",
+      "original_text": "公司设立产品质量安全委员会...员工质量培训覆盖率100%...质量相关课程总数超200门。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建主动式安全验证体系，包括BAS、渗透测试、实战攻防演练，报告期内自动及主动识别并修复系统漏洞等风险超过620项。开展网络安全攻防演练，全年累计发现并修复高危漏洞51个。利用AI安全运营大模型强化安全。",
+      "original_text": "构建‘BAS+渗透测试+实战攻防演练’三位一体的主动式安全验证体系...全年累计发现并修复高危漏洞51个。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益慈善与志愿服务、社区沟通与发展、乡村振兴等活动。企业运营对社区环境质量未造成不良影响。",
+      "original_text": "公益慈善与志愿服务、社区沟通与发展、乡村振兴。企业运营对社区环境质量未造成不良影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司关注女性员工权益，定期开展女性健康专题讲座，提供免费‘两癌’筛查，为孕期、产期及哺乳期女员工提供全方位支持。培训中融入反歧视与反性骚扰、杜绝童工与强制劳工等合规雇佣内容。",
+      "original_text": "公司关注女性员工权益...提供免费‘两癌’筛查...培训涵盖反歧视与反性骚扰、杜绝童工与强制劳工等合规雇佣内容。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建以董事会作为最高机构的气候治理体系，董事会定期审议ESG相关工作，包括ESG影响、机遇与风险分析、ESG目标及目标进展。",
+      "original_text": "董事会定期审议ESG相关工作（包含ESG影响、机遇与风险分析、ESG目标及目标进展）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司在董事会下设行为准则委员会，全面负责公司反腐败工作，董事会听取行为准则委员会工作汇报，了解集团廉洁建设工作最新要求与管理进展。",
+      "original_text": "公司在董事会下设行为准则委员会（Code of Conduct Committee, COC），全面负责公司...董事会听取行为准则委员会工作汇报，了解集团廉洁建设工作最新要求与管理进展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司按照《公司章程》规定选聘和任免董事，建立董事会绩效评价机制，制定《董事会多元化政策》，并严格遵循信息披露规定。",
+      "original_text": "公司按照《公司章程》规定选聘和任免公司董事...制定《董事会多元化政策》...严格遵循中国证监会、深交所及香港联交所有关信息披露的规定",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立风险治理架构'三道防线'，董事会作为风险管理的最高治理机构，设定总体目标，监督风险治理及内部控制实施情况。审计部至少每年一次对风险管理工作进行监督评价，报告直接报送董事会审计委员会。",
+      "original_text": "董事会作为公司风险管理的最高治理机构，设定公司风险管理总体目标，监督风险治理及内部控制的实施情况。在董事会治理下，公司建立风险治理架构'三道防线'",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司保障股东的知情权，严格遵循信息披露规定，确保信息披露的真实、准确、完整、及时、公平。",
+      "original_text": "公司保障股东的知情权，严格遵循中国证监会、深交所及香港联交所有关信息披露的规定",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过利益相关方沟通，广泛征集相关方对议题影响的性质、影响发生与否的意见，并从影响严重程度和可能性两个维度进行综合评分。",
+      "original_text": "通过利益相关方沟通，公司广泛征集相关方对议题影响的性质（正面或负面）、影响发生与否（实际或潜在）的意见，并从'影响的严重程度'和'影响发生的可能性'两个维度进行综合评分。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司2020年-2025年连续六年深圳证券交易所信息披露考评A级，获得中国上市公司协会'2025年度上市公司董事会最佳实践案例'等荣誉。",
+      "original_text": "2020年-2025年连续六年深圳证券交易所信息披露考评A级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "300750_宁德时代_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "中国电信",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 13730000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2025年，公司全年自身运营温室气体排放量（范围1、范围2）达1,373万吨。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 130000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一：直接温室气体排放量1 百万吨COe 0.13",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 13600000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二：间接温室气体排放量1 百万吨COe 13.6",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 16.26,
+      "unit": "吨二氧化碳当量/人民币百万元",
+      "original_text": "单位电信业务总量温室气体排放量1 吨COe/人民币百万元 16.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 30158901.37,
+      "unit": "兆瓦时",
+      "original_text": "综合能源耗用量 兆瓦时 30,158,901.37",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 14.36,
+      "unit": "%",
+      "original_text": "绿电使用量占比 % 14.36",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 33880000,
+      "unit": "吨",
+      "original_text": "用水量7 百万吨 33.88",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 2580.25,
+      "unit": "万元",
+      "original_text": "节能环保投资额8 人民币百万元 2,580.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 15.8,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量3 吨 15.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 277911,
+      "unit": "人",
+      "original_text": "员工总数18 人 277,911",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 136.39,
+      "unit": "小时/人",
+      "original_text": "人均培训时间 小时/人 136.39",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 186038.7,
+      "unit": "万元",
+      "original_text": "研发投入金额 百万元 18,603.87",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.6,
+      "unit": "%",
+      "original_text": "研发投入金额占主营业务收入比例 % 3.60",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 10,
+      "unit": "人",
+      "original_text": "截至2025年12月31日，公司董事会由10名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "4名独立非执行董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "涵盖2名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "全年共召开董事会会议7次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "审核委员会会议6次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司持续优化'1248'绿色发展模式，将绿色低碳理念融入全流程，加速能源结构转型，拓展绿色产品与服务，主动应对气候变化挑战。",
+      "original_text": "中国电信坚定贯彻落实国家'双碳'战略目标与总体国家安全观，坚定不移走绿色与安全协同并进的高质量发展道路。公司持续优化'1248'绿色发展模式，将绿色低碳理念融入新型数字信息基础设施建设运营全流程，加速能源结构转型，拓展绿色产品与服务，持续加强网信安全保障体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司成立'节约能源与生态环境保护工作领导小组'，印发管理办法，将生态环境保护纳入管理，完善'双碳'管理系统功能，建立科学完善的管理体系。",
+      "original_text": "公司坚持生态优先、绿色发展理念，持续完善环境管理体系和工作机制，成立'节约能源与生态环境保护工作领导小组'，统筹绿色发展工作，母公司印发《中国电信集团节约能源与生态环境保护管理办法》，将生态环境保护纳入...公司持续提升绿色发展管理水平，完善'双碳'管理系统功能，夯实绿色发展数据治理。建立科学完善的...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司以个人、家庭、企业、政府为服务对象打造绿色产品，推进成熟的绿色产品规模拓展；深化赋能场景，面向工业制造、生态环境保护等领域，培育行业绿色化智慧化应用。",
+      "original_text": "以个人、家庭、企业、政府为服务对象打造绿色产品，推进成熟的绿色产品规模拓展；深化赋能场景，面向工业制造、生态环境保护等领域，培育行业绿色化智慧化应用；强化全域能力整合，深化主实协同，为产业绿色转型提供碳咨询、碳基建、碳服务一体化赋能。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司聚焦湖泊治理、环保等关键场景，依托天翼云、5G、AI、物联网等核心技术优势，构建多元化、智能化的生态环境监测体系，助力高原湖泊生态修复。",
+      "original_text": "公司聚焦湖泊治理、环保等关键场景，依托天翼云、5G、AI、物联网等核心技术优势，构建多元化、智能化的生态环境监测体系，助力高原湖泊生态修复。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以平台建设为抓手，持续推动废弃物回收处置与绿色包装循环利用，促进循环经济发展。全年实现闲废物资集中处置年收益超8亿元，减少碳排放量。",
+      "original_text": "平台建设为抓手，持续推动废弃物回收处置与绿色包装循环利用，促进循环经济发展。全年实现闲废物资集中处置年收益超8亿元，减少碳排放量",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，与员工签订书面劳动合同，保障员工基本权利，规范劳动用工管理，完善收入分配和福利保障机制，发挥职工代表大会作用。",
+      "original_text": "严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》《中华人民共和国工会法》等法律法规，与员工签订书面劳动合同，规范合同解除情形并依法依规执行，切实保障员工基本权利。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立完善职业健康与劳动保护内部制度，全面推行员工帮助计划（EAP），保障员工职业安全和身心健康，开展安全健康培训和安全应急演练。",
+      "original_text": "公司严格遵守《中华人民共和国职业病防治法》等法律法规，建立完善女员工劳动保护等职业健康与劳动保护内部制度，全面推行员工帮助计划（EAP），保障员工的职业安全和身心健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司高度重视供应链对社会和环境的影响，将可持续发展理念融入供应链管理全过程，致力于建设韧性安全、价值创造、数智赋能、绿色生态的供应链管理体系。",
+      "original_text": "公司高度重视供应链对社会和环境的影响，将可持续发展理念融入供应链管理全过程，致力于建设韧性安全、价值创造、数智赋能、绿色生态的供应链管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司持续强化产品全生命周期质量管理和评价体系建设，完善管理办法和实施细则，明确研发、上线、运营等环节的质量要求。",
+      "original_text": "公司持续强化产品全生命周期质量管理和评价体系建设，完善管理办法和实施细则，明确研发、上线、运营、",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵循数据安全相关法律法规，制修订数据安全管理办法、应急预案等，筑牢个人信息与数据安全防护屏障。",
+      "original_text": "公司严格遵循《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》及《网络数据安全管理条例》等相关法律法规的规定，制修订《数据暴露面安全管理办法（试行）》《数据安全事件应急处置预案》《省专公司数据安全能力指引（2025版）》，筑牢个人信息与数据安全防护屏障。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区建设，开展公益慈善活动，打造'爱心翼站'等社会公益服务品牌，为户外劳动者、老年人、青少年等群体提供服务。",
+      "original_text": "打造'爱心翼站'等社会公益服务品牌，全年为户外劳动者、老年人、青少年等群体服务超1,100万人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持公平、公开、公正原则，提供多元化应聘渠道，确保劳动者不因民族、性别等受歧视，持续实施董事会成员多元化政策。",
+      "original_text": "坚持公平、公开、公正原则，提供多元化应聘渠道，广泛吸纳各类优秀人才。提供平等就业机会，确保劳动者不因民族、",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会负责制定ESG管理方针及策略，下设审核委员会协助监督ESG事宜，设立由高级管理层负责的ESG工作组，由董事会授权工作组负责ESG策略实施。",
+      "original_text": "公司董事会秉承可持续发展、服务战略、全面融入、和谐共创的原则，负责制定公司ESG管理方针及策略...同时设立由高级管理层负责、企业战略部协同相关职能部门推动...ESG工作组，由董事会授权工作组负责ESG方面的策略实施。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立健全反腐倡廉教育预防、制度监督、惩治问责管理体系，推动全面风险管理。",
+      "original_text": "建立健全反腐倡廉教育预防、制度监督、惩治问责管理体系。推动全面风险管理，建立责权明确、体系完善的风险管理组织架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司全面加强合规管理，恪守公平竞争原则，强化反垄断和竞争合规培训宣贯，举办合规内控暨风险管理、市场竞争合规培训班。",
+      "original_text": "全面加强合规管理，恪守公平竞争原则...强化反垄断和竞争合规培训宣贯，举办合规内控暨风险管理、市场竞争合规培训班",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立责权明确、体系完善的风险管理组织架构，搭建风险管理'三道防线'体系，已将ESG关键风险纳入全面风险管理体系。",
+      "original_text": "公司建立责权明确、体系完善的风险管理组织架构，搭建风险管理'三道防线'体系...已将ESG关键风险纳入本公司全面风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过拜访、日常沟通、投资者会议、网站投资者关系专栏、投资者反向路演活动等方式与投资者沟通，依法保护投资者特别是中小投资者权益。",
+      "original_text": "拜访、日常沟通、投资者会议、网站投资者关系专栏、投资者反向路演活动...依法保护投资者特别是中小投资者权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多种机制与利益相关方沟通，包括投资者、客户、员工、社区等，认真聆听期望与诉求并积极回应。",
+      "original_text": "社区等利益相关方的沟通，认真聆听利益相关方的期望与诉求，对各方面的意见和建议进行整理，积极予以回应",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照监管规则披露企业信息，本报告经董事会审阅及批准发布。",
+      "original_text": "严格按照监管规则披露企业信息...本报告经董事会审阅及批准发布",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司精准识别潜在税务风险，及时制定应对措施，确保各项税收政策精准高效落地实施。",
+      "original_text": "精准识别潜在税务风险，及时制定应对措施...确保各项税收政策精准高效落地实施",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "601728_中国电信_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

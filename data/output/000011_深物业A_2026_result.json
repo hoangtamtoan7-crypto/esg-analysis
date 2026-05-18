@@ -1,0 +1,441 @@
+{
+  "company_name": "深物业A",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 121.07,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨 二氧化碳当量 121.07 102.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 7583,
+      "unit": "吨",
+      "original_text": "总用水量 吨 7,583 7,477",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 4.24,
+      "unit": "千克",
+      "original_text": "颗粒排放 千克 4.24 1.91",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 7633.42,
+      "unit": "万元",
+      "original_text": "安全生产总投入 万元 7,633.42 4,580.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "全年召开董事会会议",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "审计、风险与合规管理委员会会议",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司主动识别与管理气候相关风险及机遇，评估极端天气与政策变化对经营活动的影响，强化抗风险能力，稳步推进低碳发展。",
+      "original_text": "主动识别与管理气候相关风险及机遇，评估极端天气与政策变化对经营活动的影响，强化抗风险能力，稳步推进低碳发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司构建科学、高效的环境管理体系，确保环境合规；深化能源资源管理，通过技术升级推动节能降耗与循环利用。",
+      "original_text": "构建科学、高效的环境管理体系，确保环境合规；深化能源资源管理，通过技术升级推动节能降耗与循环利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司大力推广绿色建筑和低碳运营模式，积极探索新绿色技术应用，以匠心质造打造更多生态节能、环境友好的标杆项目。",
+      "original_text": "大力推广绿色建筑和低碳运营模式，积极探索新绿色技术应用，以匠心质造打造更多生态节能、环境友好的标杆项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司积极践行‘爱绿植绿护绿兴绿’生态文明理念，致力于将每个作品都融入城市肌理，守护好身边的绿水青山。",
+      "original_text": "积极践行‘爱绿植绿护绿兴绿’生态文明理念，致力于将每个作品都融入城市肌理，守护好身边的绿水青山。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司健全环境与废弃物管理制度，构建源头减量、规范处置、循环利用的全链条管理体系，推动资源高效利用与无废城市建设。",
+      "original_text": "健全环境与废弃物管理制度，构建源头减量、规范处置、循环利用的全链条管理体系，推动资源高效利用与无废城市建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "依法保障员工各项基本权益，做到雇佣合规、用工合规、薪酬合规的全面合规。员工劳动/劳务合同签订率100%。",
+      "original_text": "深物业集团依照《中华人民共和国劳动法》，依法保障员工各项基本权益，做到雇佣合规、用工合规、薪酬合规的全面合规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "建立完善的员工健康与安全保障体系，通过ISO 45001职业健康安全管理体系认证，制定安全生产和职业健康管理制度，开展安全培训近3000次。",
+      "original_text": "深物业集团严格遵循安全生产相关的法律及法规，制定《深圳市物业发展（集团）股份有限公司安全生产和职业健康管理制度汇编》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "对供应商和承包商进行沟通与培训，携手价值链上下游伙伴共创可持续发展。",
+      "original_text": "我们积极对供应商和承包商进行全方位，立体化的沟通与培训，携手价值链上下游伙伴、合作方与社会各界，共创可持续发展。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "通过ISO 9001质量管理体系认证，建立三级质量管理体系，全年检查质量隐患3157条，整改率100%。",
+      "original_text": "成功通过ISO 9001质量管理体系认证。全年检查发现质量隐患及管理行为问题3,157条，整改率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "制定网络安全管理办法，强化全天候网络安全监测运维，开展全方位安全宣传培训，保障客户隐私与企业信息安全。",
+      "original_text": "深物业集团将客户隐私保护置于关键位置，从人员严管、系统精设、定期培训三方面着力，全方位筑牢客户信息安全防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "积极参与社会公益活动，开展植树造林、无偿献血、物资募集等社区美化活动，维护社区和谐稳定。",
+      "original_text": "积极参与社会公益活动，开展植树造林等社区美化活动，维护社区和谐稳定。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "集团恪守多元、平等的用工准则，切实维护员工合法权益，反对性别偏见、种族歧视等不平等行为，营造公平、公正的用工环境。",
+      "original_text": "深物业集团始终坚持以人为本，恪守多元、平等的用工准则，切实维护员工合法权益，持续完善劳工管理体系，有效防止性别、年龄等因素产生的差别对待，坚决反对性别偏见、种族歧视等不平等行为，营造公平、公正的用工环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "集团董事会下设战略发展与投资决策委员会、审计、风险与合规管理委员会、薪酬与考核委员会、提名委员会四个专业委员会。ESG执行层由董事会办公室统筹，各部门相关人员组成。",
+      "original_text": "集团董事会下设战略发展与投资决策委员会、审计、风险与合规管理委员会、薪酬与考核委员会、提名委员会四个专业...ESG 执行层 由董事会办公室统筹，由经营管理部、人力资源部等各部门的相关人员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司坚定不移纵深推进全面从严治党，加强党风廉政建设和反腐败工作，制定《廉洁风险防控手册》，对商业贿赂等采取零容忍态度，开展廉洁合规知识竞赛等教育活动。",
+      "original_text": "深物业集团坚定不移纵深推进全面从严治党，加强党风廉政建设和反腐败工作...制定《廉洁风险防控手册》...对商业贿赂、不正当竞争及利益冲突等行为采取 '零容忍' 态度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉持诚信合规经营理念，制定并严格执行商业道德准则及举报政策，要求全体员工坚守底线，守护企业声誉。",
+      "original_text": "深物业集团始终秉持诚信合规的经营理念，对商业贿赂、不正当竞争及利益冲突等行为采取 '零容忍' 态度...制定并严格执行商业道德准则及举报政策",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建法治框架下法律、合规、风险管理与内控'四位一体'的协同运作机制，依据《全面风险管理办法》开展风险评估与排查，按季度进行重大风险跟踪监测。",
+      "original_text": "构建法治框架下法律、合规、风险管理与内控 '四位一体' 的协同运作机制...严格依据《全面风险管理办法》《合同管理规定》相关规定，组织开展半年度、年度风险全面评估与专项排查工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严守合规底线，在投资者关系、自愿性披露、ESG实践等方面积极沟通，通过股东会等方式与投资者互动。",
+      "original_text": "严守合规底线，在投资者关系、自愿性披露、ESG实...股东及投资者 召开股东会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司针对不同利益相关方构建了多元化沟通平台，通过及时披露政策更新、经营动态、社会责任履行等信息，提升服务透明度与满意度。",
+      "original_text": "深物业集团针对不同利益相关方的特点构建了多元化沟通平台，通过及时披露政策更新、经营动态、社会责任履行等信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司在深圳证券交易所2024-2025年度信息披露工作评价中首次获最高评级A级。",
+      "original_text": "信息披露首次获最高评级A级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.731
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

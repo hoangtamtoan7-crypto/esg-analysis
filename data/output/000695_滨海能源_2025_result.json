@@ -1,0 +1,388 @@
+{
+  "company_name": "滨海能源",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "partial",
+      "summary": "公司承诺保证上市公司拥有完整、独立的劳动、人事及薪酬管理体系，且该等体系完全独立于承诺方及承诺方控制的其他企业。",
+      "original_text": "保证上市公司拥有完整、独立的劳动、人事及薪酬管理体系，且该等体系完全独立于承诺方及承诺方控制的其他企业。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "partial",
+      "summary": "公司提及持续完善质量管理体系。",
+      "original_text": "持续完善质量管理体系",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "no",
+      "summary": "未提及ESG治理架构相关信息。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "partial",
+      "summary": "报告提及公司存在关联交易决策程序不合规、代关联方垫付资金等行为，并受到监管关注，但未明确说明反腐败与廉洁建设的具体措施。",
+      "original_text": "本公司存在下列问题：1、2020年8月13日，本公司召开董事会审议全资子公司天津万卷润山文化传播有限公司与本公司间接控股股东天津出版传媒集团有限公司共同投资设立天津内山书店有限公司时，关联交易决策程序不合规；2、2021年7月，万卷润山将承租的商铺装修后与内山书店共同使用，本公司未及时履行关联交易审议程序以及内山书店未按照协议约定及时向万卷润山支付房屋物业费，本公司存在代关联方垫付资金行为。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "partial",
+      "summary": "报告提及公司存在信息披露违规、关联交易不合规等问题，并受到监管警示，但未明确商业道德与合规政策。",
+      "original_text": "上市公司因需承担海顺印业合同纠纷案中的违约、赔偿责任金额超过了本公司最近一个会计年度经审计净利润的10%，且绝对金额超过一百万元，未及时发布临时公告，本人任职董事会秘书期间未能忠实、勤勉地履行职责，对前述信息披露承担主要责任，天津证监局出具警示函。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "no",
+      "summary": "未提及风险管理体系相关信息。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "partial",
+      "summary": "报告提及积极开展投资者关系管理工作，但未提供具体措施。",
+      "original_text": "内控制度体系建设，加强信息披露管理工作，积极开展投资者关系管理工作",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "no",
+      "summary": "未提及利益相关方沟通相关信息。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司承诺信息披露真实、准确、完整，并因未及时披露信息受到监管警示，但已采取措施完善治理。",
+      "original_text": "本公司保证本次交易的信息披露...真实、准确和完整...重视信息披露，完善公司治理结构和规则，规范公司运作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关信息。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 19,
+    "quantitative_valid": 19,
+    "quantitative_issues": [],
+    "qualitative_count": 15,
+    "qualitative_valid": 15,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.596
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 34,
+    "missing": 18,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_L01",
+        "name": "气候变化应对策略",
+        "type": "qualitative"
+      },
+      {
+        "id": "E_L02",
+        "name": "环境管理体系",
+        "type": "qualitative"
+      },
+      {
+        "id": "E_L03",
+        "name": "绿色产品与服务",
+        "type": "qualitative"
+      },
+      {
+        "id": "E_L04",
+        "name": "生物多样性保护",
+        "type": "qualitative"
+      },
+      {
+        "id": "E_L05",
+        "name": "循环经济实践",
+        "type": "qualitative"
+      }
+    ],
+    "completeness": 65.4
+  }
+}

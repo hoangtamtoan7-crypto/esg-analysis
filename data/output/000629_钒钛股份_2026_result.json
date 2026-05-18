@@ -1,0 +1,441 @@
+{
+  "company_name": "钒钛股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2465500,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2025年，公司温室气体排放总量为246.55万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1685400,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一排放量为168.54万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 780100,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二排放量为78.01万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 3.01,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "万元产值温室气体排放量（吨） 3.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 20710000,
+      "unit": "吨",
+      "original_text": "年度新鲜水使用量 百万立方米 17.30 16.02 20.71",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 2363800,
+      "unit": "吨",
+      "original_text": "生一般固体废物236.38万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 17400,
+      "unit": "万元",
+      "original_text": "全年环保投入1.74亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 254.69,
+      "unit": "吨",
+      "original_text": "二氧化硫（吨） 351.06 273.13 254.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "担任管理职务的女性员工比例 %",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 325.215,
+      "unit": "万元",
+      "original_text": "员工 培训投入 万元 317.28 401.9 325.215",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 小时",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.72,
+      "unit": "%",
+      "original_text": "员工流失率 % 0.72 0.42 0.35",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 28700,
+      "unit": "万元",
+      "original_text": "全年研发投入2.87亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.23,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例（%） 3.94 3.39 3.23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 5639,
+      "unit": "万元",
+      "original_text": "安全生产支出 万元 6835 6732 5639",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1036,
+      "unit": "万元",
+      "original_text": "投入无偿帮扶资金1,036万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "告期末，公司董事会共有董事9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33.33 33.33 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "董事会 次 7 7 10",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司确立低碳转型中长期目标：2030年实现碳达峰，2050年实现碳中和。制定《低碳发展专项规划》，实施节能降碳专项行动，推进屋顶分布式光伏、氢气掺烧等项目。",
+      "original_text": "公司科学谋划低碳发展路径，确立低碳转型中长期目标，即2030年实现“碳达峰”，2050年实现“碳中和”。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司有序推进ISO 14001环境管理体系审核认证，钒钛股份公司、攀枝花钒制品、钛业公司、北海铁合金、重庆钛业、西昌钒制品、钒钛科技公司通过认证，实现核心生产单元认证全覆盖。",
+      "original_text": "有序推进ISO 14001环境管理体系审核认证工作，钒钛股份公司、攀枝花钒制品、钛业公司、北海铁合金、重庆钛业、西昌钒制品、钒钛科技公司通过认证并取得证书，实现核心生产单元认证全覆盖。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司开展产品碳足迹管理，完成钒铁、硫酸法钛白粉出口产品碳足迹模型构建及数据收集，牵头制定《温室气体 产品碳足迹量化方法与要求 钒制品》行业标准。",
+      "original_text": "公司全面开展产品碳足迹管理，为应对气候变化风险提供了数据支撑和合规保障。牵头制定《温室气体 产品碳足迹量化方法与要求 钒制品》行业标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司探索循环经济，推进废酸资源利用、废盐回收利用、钛石膏减量等。2025年一般固体废物综合利用115.08万吨，危险废物综合利用量未明确。",
+      "original_text": "探索硫酸法钛白废酸资源利用，联合外部企业对废酸、钛液、废水开展净化实验。6万吨/年熔盐氯化法钛白项目废盐实现全部回收利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉承以人为本理念，严格遵循国家劳动法规，构建规范有序、公正合理、互利共赢、和谐稳定的劳动关系，确保每一位员工的合法权益得到充分尊重与维护。",
+      "original_text": "钒钛股份将科技创新确立为推动高质量发展的核心驱动力，依托技术突破和智能转型筑牢品质根基，携手供应链持续",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司持续健全安全管理体系，修订相关管理办法，开展安全培训、应急演练，实现安全生产零事故，重大隐患按期整改率100%。",
+      "original_text": "2025年，公司实现安全生产零事故，重大隐患按期整改率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立ESG风险尽职调查机制，将环境管理体系、职业健康管理体系、质量管理体系与认证情况纳入供应商准入与考核范畴，推动供应链可持续发展。",
+      "original_text": "钒钛股份高度重视供应商ESG表现，将环境管理体系、职业健康管理体系、质量管理体系与认证情况纳入供应商准",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司完善质量管理体系，强化产品质量管控，建设质量文化，2025年未发生产品相关的安全与质量重大责任事故。",
+      "original_text": "2025年，公司未发生产品相关的安全与质量重大责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视客户隐私保护，通过建立健全严格的技术防护体系与管理规范，全方位确保客户信息安全。经证实的侵犯客户隐私权及遗失客户资料的投诉总数为0。",
+      "original_text": "公司高度重视客户隐私保护，通过建立健全严格的技术防护体系与管理规范，全方位确保客户信息安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益慈善事业，投入无偿帮扶资金1,036万元，支持社区发展，彰显负责任国企担当。",
+      "original_text": "积极投身公益慈善事业，持续传递企业爱心与温暖，彰显负责任国企担当。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持'零歧视'雇佣原则，杜绝任何基于种族、信仰、性别、年龄、婚姻状况、残障等因素的歧视行为，2025年未发生歧视事件。",
+      "original_text": "公司坚持'零歧视'雇佣原则，杜绝任何基于种族、信仰、性别、年龄、婚姻状况、残障等因素的歧视行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司成立战略发展与ESG管理委员会，优化ESG治理架构，推动ESG理念融入战略决策和运营管理。",
+      "original_text": "公司董事会下设战略发展与ESG管理委员会、审计与风险委员会、提名委员会、薪酬与考核委员会四个专门委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立廉洁风险防控机制和廉洁教育体系，成立反腐败协调小组，开展廉洁教育，报告期内违反商业道德事件数量为0。",
+      "original_text": "钒钛股份始终将诚信经营作为企业发展的基石。通过建立廉洁风险防控机制和廉洁教育体系，增强全体员工的廉洁自律意识",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持依法治企、合规经营，未发生重大违反反垄断与不正当竞争行为，报告期内因不正当竞争行为导致诉讼或重大行政处罚的案件数量为0。",
+      "original_text": "虚假宣传、违规披露、实施垄断等不正当竞争风险和行为持零容忍态度。报告期内，公司未发生重大违反反垄断与",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立ESG风险尽职调查机制，开展环境与社会影响评估、供应链审查、第三方风险评估及内部合规审计，并将结果向董事会汇报。",
+      "original_text": "公司建立ESG 风险尽职调查机制，通过开展环境与社会影响评估、供应链审查、第三方风险评估以及内部合规审计",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过互动易平台、投资者说明会、机构策略会等方式积极与投资者互动，发布投资者沟通记录表，回复率100%。",
+      "original_text": "通过互动易平台回复投资者各类问题 条，回复率 %",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别内外部利益相关方，通过信息披露、官网、微信公众号等渠道发布ESG信息，并定期走访、召开会议等方式沟通。",
+      "original_text": "公司重视利益相关方的沟通参与，基于公司运营管理、议题影响范畴等因素，识别出对公司发展具有重要影响的内外部利益相关方",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司通过指定信息披露媒体及官网、官方微信公众号发布ESG信息，并构建环境信息强制披露与自愿公开相结合的机制。",
+      "original_text": "通过公司指定信息披露媒体及官网、官方微信公众号发布ESG信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "中国建筑",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 382492,
+      "unit": "人",
+      "original_text": "男性员工数量 人 288,495 309,540 302,136 ... 女性员工数量 人 72,754 73,354 80,356",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21.0,
+      "unit": "%",
+      "original_text": "女性员工数量 人 80,356; 员工总数 382,492",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 102000,
+      "unit": "万元",
+      "original_text": "职工教育培训支出 亿元 10.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4545900,
+      "unit": "万元",
+      "original_text": "科技研发投入454.59亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 14893.27,
+      "unit": "万元",
+      "original_text": "总投入 万元 14,893.27",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会由7名成员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 57.14,
+      "unit": "%",
+      "original_text": "独立董事4名，占比57.14%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "1名女性董事，占比14.29%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 19,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 19 23 18",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "审计与风险委员会 8",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了明确的‘双碳’目标和战略路线，围绕强化绿色发展顶层设计、开展节能降碳增效行动、加强低碳建设投资运营等，推动传统业务绿色转型与新兴低碳产业培育双向突破。",
+      "original_text": "制定明确的‘双碳’目标和战略路线，围绕强化绿色发展顶层设计、开展节能降碳增效行动、加强低碳建设投资运营等",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立三层ESG治理架构，成立碳达峰碳中和工作领导小组，编制印发《加快推动节能降碳工作方案》，建设全流程环境管理体系。",
+      "original_text": "建立的三层ESG治理架构下，成立碳达峰碳中和工作领导小组，编制印发《加快推动节能降碳工作方案》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发布包含83项绿色低碳创新产品的清单，推动绿色低碳节能环保新技术、新材料应用，如光伏建筑一体化、绿色建材等。",
+      "original_text": "发布包含83项绿色低碳创新产品的清单，推动绿色低碳节能环保等新技术、新材料",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司重视生物多样性保护，在项目实施中识别对山水湖田林草沙的影响，并采取减缓措施。报告期内未发现因投资、建设和运营活动产生的生态环境负面影响。",
+      "original_text": "重视对山水湖田林草沙等造成的危害；报告期内未发现因投资、建设和运营活动产生的生态环境负面影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进‘无废工地’建设，促进建筑垃圾减量和再生利用，成立固体废弃物资源化利用创新联合体，推动固废领域创新链、产业链、资金链融合。",
+      "original_text": "推进‘无废工地’建设，促进建筑垃圾减量和再生利用，成立固体废弃物资源化利用创新联合体",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉持平等包容原则，严格遵守劳动法，未发生歧视、童工或强制劳动事件。保障劳动者合法权益，建立产业工人培养基地，促进稳定就业。",
+      "original_text": "中国建筑秉持平等、包容的员工聘用原则，严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》...未发生过员工歧视、使用童工、强制劳动等情形。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "董事会是职业健康安全最高责任机构，已取得ISO 45001认证。制定安全生产治本攻坚方案，目标零事故零伤亡。开展安全培训、体检、职业病防治等活动。",
+      "original_text": "公司董事会是职业健康安全管理的最高责任机构...公司已经取得中质协质量保证中心的'职业健康安全管理体系认证证书'...以'零事故、零伤亡'目标...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "将劳动力管理和职业安全健康等因素纳入分包商采购，要求供应商持质量、安全资质认证，并开展质量、安全培训。",
+      "original_text": "制定《劳务及专业分包集中采购管理办法》《劳务管理手册》，将劳动力管理和职业安全健康等因素纳入...2024年度，为供应商开展产品质量与安全培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "子企业均设立质量管理机构，获得ISO 9001认证。发布《工程质量管理标准化指导手册》，开展质量培训、差异化监管，产品质量合格率100%。",
+      "original_text": "中国建筑子企业均设立质量管理...得ISO 9001质量管理体系的第三方认证...发布出版《工程质量管理标准化指导手册》...建筑产品质量合格率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "持续强化数据安全与隐私保护体系建设，开展数据安全培训，将网络安全纳入岗位职责，未发生重大信息安全事件。",
+      "original_text": "中国建筑持续强化数据安全与隐私保护体系建设...组织实施数据安全、个人信息保护...2024年，组织网络安全宣传周专题培训...公司未发生重大信息安全事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "开展乡村振兴、助老助残、环境保护等公益活动，在埃及等10国实施海外公益行动，参与灾后抢险，支持社区发展。",
+      "original_text": "围绕乡村振兴、助老助残、环境保护...2024年，中国建筑已在埃及、阿联酋等10个国家实施...开展'建证未来'中建青年海外公益行动...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "坚持平等聘用，建立女职工教育培训制度，畅通职业发展通道，开展特殊关爱活动，营造包容和谐的工作环境。",
+      "original_text": "中国建筑坚持尊重劳动、尊重知识、尊重人才、尊重...女性职工、一线职工及离退休人员、残疾员工等特殊群体建立专项保障机制...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会是ESG相关事项的最高负责及决策机构，下设ESG工作组，形成ESG战略体系6要素和ESG战略举措6+N。",
+      "original_text": "董事会是中国建筑ESG相关事项的最高负责及决策机构...形成ESG战略体系6要素和ESG战略举措6+N",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "强化合规反腐体系构建，通过合同透明化、举报机制数字化等举措，建立云筑网风险防控预警中心。",
+      "original_text": "强化合规反腐体系构建，通过合同透明化、举报机制数字化等举措，建立云筑网风险防控预警中心",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "构建合规管理'三道防线'，压实合规管理主体责任，保障企业合规管理。",
+      "original_text": "中国建筑不断健全合规组织机构，构建合规管理'三道防线'，压实合规管理主体责任",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会审计与风险委员会负责根据董事会的决策建设完善风险管理体系，协调相关业务部门紧密合作。",
+      "original_text": "董事会审计与风险委员会负责根据董事会的决策建设完善风险管理体系，协调相关业务部门紧密合作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "通过定期报告、公司公告、业绩说明会、投资者关系管理最佳实践等方式与投资者沟通。",
+      "original_text": "2024年董事会最佳实践、年报业绩说明会最佳实践、投资者关系管理最佳实践案例",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "识别了内部和外部利益相关方，包括股东/投资者、政府/监管机构、员工、客户等，建立利益相关方反馈及诉求回复工作机制。",
+      "original_text": "中国建筑识别了公司的内部和外部利益相关方...建立利益相关方反馈及诉求回复工作机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "报告经第四届董事会第15次会议审议通过，具备真实性、准确性和完整性，并经过第三方鉴证。",
+      "original_text": "本报告由第四届董事会第15次会议审议通过，具备真实性、准确性和完整性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司规范履行纳税义务，建立常态化税收缺口评估机制，报告期内税务缺口较小，纳税遵从度高。",
+      "original_text": "中国建筑严格遵守法律法规，规范履行纳税义务...建立常态化税收缺口评估机制...报告期内，公司税务缺口较小，纳税遵从度高",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "601668_中国建筑_2025.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

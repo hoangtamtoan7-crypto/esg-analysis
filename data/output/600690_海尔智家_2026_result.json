@@ -1,0 +1,442 @@
+{
+  "company_name": "海尔智家",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1618400,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一及范围二）161.84（万吨二氧化碳当量）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 577500,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一14温室气体（万吨二氧化碳当量）57.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1040900,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二15温室气体（万吨二氧化碳当量）104.09",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 53.53,
+      "unit": "千克二氧化碳当量/万元营收",
+      "original_text": "万元营收温室气体排放量（范围一及范围二）（千克二氧化碳当量/万元）53.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2594788.03,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "综合能源消耗总量6（ 兆瓦时） 2,594,788.03 2,201,271.45",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 8.36,
+      "unit": "%",
+      "original_text": "自身运营可再生能源使用占比达到 8.36%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 7759930.97,
+      "unit": "吨",
+      "original_text": "用水总量7（吨） 8,074,048.51 7,759,930.97",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 2225906.69,
+      "unit": "吨",
+      "original_text": "废水排放总量10（吨） 1,761,649.43 2,225,906.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 135000,
+      "unit": "人",
+      "original_text": "我们在全球拥有员工13.5万名",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 27.5,
+      "unit": "%",
+      "original_text": "女性员工占比27.5%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 15.1,
+      "unit": "%",
+      "original_text": "全球管理层女性员工占比为15.1%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 71,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长71小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1071660.01,
+      "unit": "万元",
+      "original_text": "2025年，公司研发投入1,071,660.01万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2360,
+      "unit": "万元",
+      "original_text": "工伤保险、安全生产责任险的投入金额为 2,360 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "2022-2025年，海尔智家员工因工伤死亡人数及比率均为0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 848.87,
+      "unit": "万元",
+      "original_text": "合计价值约 848.87 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "本届董事会有 11 名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36,
+      "unit": "%",
+      "original_text": "独立董事占比36%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定减排路径图，承诺不晚于2050年实现自身运营碳中和，并成立气候变化委员会，通过SBTi审定。",
+      "original_text": "制定减排路径图，并承诺将不晚于2050年实现自身运营碳中和；正式成立由最高决策层领导的气候变化委员会；青岛海尔特种电冰柜有限公司、海尔欧洲减碳目标均已通过SBTi审定",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了环境管理体系，推进降废技改项目，减少污染物排放，并定期进行监督。",
+      "original_text": "环境管理体系，推进降废技改项目，减少污染物排放量，并定期进行监督",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出绿色低碳/低能耗产品以及环保制冷剂，如R290冷媒，并发布绿色低碳解决方案。",
+      "original_text": "绿色低碳/低能耗产品以及环保制冷剂的研发；采用绿色环保天然物质 R290 冷媒替换 R32；首次对外发布了在冰箱、洗衣机、空调、热水器及厨电五大高端应用场景下的绿色低碳解决方案",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "经评估，该议题不具有影响重要性和财务重要性。",
+      "original_text": "经评估，该议题不具有影响重要性和财务重要性。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进循环经济产业布局，实现废旧物资循环利用率超95%，年碳减排约1.7万吨，并打造固废闭环处理链。",
+      "original_text": "再生3万吨，废旧物资循环利用率超95%，实现年碳减排约1.7万吨；打造固废闭环处理链，金属/塑料边角料",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司建立多渠道员工沟通及申诉机制，保障员工权益，依法签订劳动合同，提供公平就业机会，反对歧视和骚扰。",
+      "original_text": "公司建立了多渠道的员工沟通及申诉机制...保障员工雇佣的公平合法...坚决反对任何形式和一切人际交往中的性骚扰",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建完善的管理体系，实施隐患排查、应急演练、安全培训，投入2360万元覆盖100%员工，组织安全培训1349次，培训超16万人次。",
+      "original_text": "公司工伤保险、安全生产责任险的投入金额为 2,360 万元，覆盖 100% 员工...累计组织安全培训1,349次，培训员工超16万人次",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司高度重视供应链劳工权益和职业健康安全，要求供应商遵守RBA准则，进行审核，覆盖商业道德、劳动用工、安全、环境等。",
+      "original_text": "海尔智家高度重视供应链中的劳工权益和职业健康安全保障...按照RBA的准则对供应商的劳动用工、安全防护、职业健康、结社自由状况进行审核",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全流程质量管理体系，通过ISO 9001认证，未因安全或健康问题召回任何产品，开展质量培训，提升员工质量意识。",
+      "original_text": "我们建立覆盖研发、生产、物流、销售等全流程质量管理体系...未因安全或健康问题召回任何产品",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立完善的信息安全管理体系，开展隐私合规检测、数据安全培训，制定AI安全规范，保障用户隐私安全。",
+      "original_text": "海尔智家高度重视数据安全与用户信息安全保护，建立了完善的信息安全管理体系和组织架构...按季度对各产业及平台开展隐私与数据安全专项合规排查",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过公益捐赠、希望学校建设、社区活动等方式回馈社区，年度公益捐赠超800万元。",
+      "original_text": "累计援建希望学校406所，年度公益累计捐赠金额超800万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉持开放包容态度，促进不同国籍、文化背景员工交流，设立多元化委员会，提供女性职业发展支持，全球女性员工占比27.5%，管理层女性占比15.1%。",
+      "original_text": "海尔智家始终秉持开放包容的态度，在全球范围内打造多元、和谐的工作环境...女性员工占比27.5%，其全球管理层女性员工占比为15.1%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会是ESG事宜的最高负责及决策机构，下设环境、社会及管治委员会，由四名董事组成，协助董事会开展ESG治理及信息披露工作。",
+      "original_text": "董事会是海尔智家 ESG 事宜的最高负责及决策机构，下设专业委员会——环境、社会及管治委员会，协助董事会开展ESG治理及信息披露工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵循相关法律法规，制定《海尔商业行为准则》《反舞弊管理制度》等，设立反舞弊委员会，开展反腐培训，员工覆盖率100%。",
+      "original_text": "反腐、反舞弊警示培训中国运营区域员工覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "搭建商业道德合规管理架构，由董事会整体负责，制定《广告合规手册》等，开展反垄断、反不正当竞争培训，获得合规管理体系认证。",
+      "original_text": "海尔智家搭建了商业道德合规管理架构，由董事会整体负责公司商业道德相关事宜",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "参照上交所《内部控制配套指引》等，建立全面风险管理体系，搭建数字化风控平台，实现风险识别、预警和应对。",
+      "original_text": "海尔智家参照上交所《上市公司内部控制配套指引》、香港联交所《企业管治守则》等指引，明确董事会、管理层职责，建立全面风险管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "partial",
+      "summary": "公司提及股东会、投资者关系，但未详细描述投资者关系管理具体措施。",
+      "original_text": "股东会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "通过独立第三方开展利益相关方调研，科学评估公司ESG工作情况，识别重要议题，并与内外部专家讨论。",
+      "original_text": "海尔智家于 2025 年通过独立第三方机构开展利益相关方调研，以科学评估公司 ESG 工作情况以及面临的风险和机遇",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循上交所、香港联交所等监管要求，参照ISSB准则，持续提升可持续信息披露质量，董事会审阅批准ESG报告。",
+      "original_text": "本报告已详尽披露了上述环境、社会及管治相关事宜，经由董事会于2026年4月27日审阅批准。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告未明确提及税务透明度相关政策和措施。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600690_海尔智家_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

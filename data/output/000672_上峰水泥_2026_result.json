@@ -1,0 +1,441 @@
+{
+  "company_name": "上峰水泥",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 11557935.63,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（吨二氧化碳当量）12,962,544.52 12,300,922 11,557,935.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.8157,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "2024年排放强度0.8157",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 12700,
+      "unit": "万元",
+      "original_text": "各子公司环境治理和保护投入约1.27亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 4.4,
+      "unit": "万小时",
+      "original_text": "总时长4.4万小时",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 440,
+      "unit": "万元",
+      "original_text": "各公司乡村振兴及公益捐赠支出约440万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 13,
+      "unit": "次",
+      "original_text": "报告期内，公司共计召开了13次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定低碳行动方案，识别气候变化风险与机遇，构建碳资产管理体系，开发数字能源综合管理系统，设定短期与长期减排目标。",
+      "original_text": "公司重视气候变化对企业可能造成的影响，已制定了低碳行动方案，并识别了气候变化风险及相关机遇。公司已构建以碳资产管理为核心的碳资产管理工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过环境管理体系认证，各基地按照绿色工厂评价要求推进建设，并严格遵守相关环保法规。",
+      "original_text": "截至目前，所有水泥企业均通过了环境管理体系认证。各公司按照《绿色工厂评价通则》（GB/T 36132-2018）和《水泥行业绿色工厂评价要求》等文件，在基础设施、管理体系、能源与资源投入、产品、环境排放、综合绩效等各方面加大投入力度。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发低碳水泥及专供铁路的低碱水泥，并推进绿色建材产品。",
+      "original_text": "低碳水泥及专供铁路的低碱水泥，同时为满足客户对水...",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将山水林田湖草沙生命共同体思想融入矿山开发全周期，系统推进绿色矿山建设与生物多样性保护。",
+      "original_text": "将山水林田湖草沙生命共同体思想融入矿山开发全周期，系统推进绿色矿山建设与生物多样性保护。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司利用水泥窑协同处置危废、固废，推进固废资源化利用，并开展能源结构优化。",
+      "original_text": "公司利用水泥窑建设水泥窑协同处置危废、固废项目，利用水泥熟料生产线的高温煅烧和材料混合搭配特性解决城市及工业固废综合利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，完善劳动用工程序，提供全方位保障；工会捍卫员工合法权益，举办文体活动；建立员工互助基金会，2025年资助支出17.45万元。",
+      "original_text": "公司严格遵守《劳动法》《劳动合同法》等法律法规，致力于建立健全企业管理制度，并不断完善劳动用工程序，为员工提供全方位的保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚守安全第一方针，落实全员责任制，全年开展安全培训超2万人次，排查隐患2666项，查处三违行为366起，100%整改；实现零重伤、零死亡，发生2起轻伤事故；组织职业健康体检。",
+      "original_text": "公司生产过程中严守安全底线，坚守'安全第一、预防为主、综合治理'方针，将安全作为可持续经营的前提，通过层层签订《安全责任书》，落实全员责任制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "报告提及供应链管理主线为降本增效、源头直采、优化库存，但未明确ESG管理具体措施。",
+      "original_text": "2025年，上峰水泥各子公司围绕'降本增效、源头直采、优化库存'的供应链管理主线，深入推进采购体系改革与...",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚守质量第一原则，严格执行ISO9001质量管理体系，所有子公司均通过认证；出厂水泥合格率100%，全年客户满意度高，无重大质量投诉。",
+      "original_text": "公司始终坚守质量第一的原则，将产品品质视为企业生存与发展的生命线，严格执行ISO9001质量管理体系，推行标准化、程序化、科学化管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "partial",
+      "summary": "报告提及数据安全与客户隐私保护作为议题，但未提供具体措施描述。",
+      "original_text": "15 数据安全与客户隐私保护",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益慈善、乡村振兴、教育助学、灾情救助等社区项目，2025年乡村振兴及公益捐赠支出约440万元。",
+      "original_text": "各公司乡村振兴及公益捐赠支出约440万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司坚持'尊重人才、用人所长、德才兼备、公平竞争'的人力资源理念，但未提供多元化具体数据或政策。",
+      "original_text": "公司始终坚守'尊重人才、用人所长、德才兼备、公平竞争'的人力资源理念",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了董事会（决策层）—ESG管理委员会（管理层）—各职能部门及子公司（执行层）的三层ESG治理架构，董事会下设审计委员会负责监督ESG工作。",
+      "original_text": "公司建立了系统、专业的可持续发展治理架构，确保对相关影响、风险与机遇进行有效管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定并发布了《廉洁自律及反商业贿赂管理制度》，与高级管理人员及关键岗位人员签订《廉洁从业及反商业贿赂承诺书》。",
+      "original_text": "制定颁发了《廉洁自律及反商业贿赂管理制度》，并与公司及全资子公司、控股子公司的高级管理人员，以及采购、销售、质检等关键业务岗位人员签订了《廉洁从业及反商业贿赂承诺书》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司致力于构建系统、严密、高效的合规治理体系，将合规要求融入业务流程，坚守商业道德底线，杜绝恶意竞价、商业诋毁及虚假宣传。",
+      "original_text": "上峰水泥致力于构建系统、严密、高效的合规治理体系，将合规要求深度融入业务流程，有效防范各类风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了分层防御的“三道防线”风险管理架构，包括业务部门、审计监察室及审计委员会、董事会及股东会，确保风险管理贯穿决策、执行与监督全流程。",
+      "original_text": "公司建立了分层防御的“三道防线”风险管理架构，确保了风险管理活动贯穿决策、执行与监督全流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过线上业绩说明会、电话交流会议、接待机构及个人投资者等方式加强与投资者沟通，并发布投资者关系活动记录。",
+      "original_text": "为了增强与投资者的沟通与交流，公司举办了一次线上业绩说明会，并组织了多次定期报告电话交流会议，接待机构投资者约130家，接待个人投资者约20人，共发布了3份投资者关系活动记录表。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别了股东、员工、供应商等主要利益相关方，并通过多种沟通方式回应其关注议题，如推动新质生产力应用、保障股东权益、合法合规运营等。",
+      "original_text": "公司以“创造价值，回报顾客、股东、员工与社会”为企业宗旨，对顾客、股东、员工、供应商等利益相关方负责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续第五年获得深圳证券交易所信息披露最高评级“A”级，并荣获上市公司金牛奖核心奖项“金信披奖”。",
+      "original_text": "连续第五年获得深圳证券交易所信息披露最高评级“A”级。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.75
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

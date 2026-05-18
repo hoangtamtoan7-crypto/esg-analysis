@@ -1,0 +1,448 @@
+{
+  "company_name": "中信特钢",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围1） 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围2） 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废水排放总量 立方米",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "回收再利用废弃物 吨",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "总投资2.3亿元",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 11079030,
+      "unit": "人",
+      "original_text": "员工总人数 人 10,021,669.00 10,787,669.00 11,079,030.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "培训费用 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均时数 小时/人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.1,
+      "unit": "%",
+      "original_text": "总员工流失率 % 2.02 2.26 2.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 440269.06,
+      "unit": "万元",
+      "original_text": "投入研发费用共440,269.06万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产总投入 万元 3,593 2,934 2,454",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司现任董事会董事人数 9 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中独立董事 3 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事 1 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司建立了完善的气候变化风险管理流程，将气候变化风险纳入公司整体风险管理框架，制定了碳中和路径，目标2030年前碳达峰、2060年前碳中和。",
+      "original_text": "为深化气候变化应对，中信泰富特钢建立了完善的气候变化风险管理流程，将气候变化风险纳入公司整体风险管理框架中...制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续完善环境治理体系，主要钢铁制造基地全部实现环保绩效A级认证，并通过中国钢铁工业清洁生产环境友好企业复审。",
+      "original_text": "主要钢铁制造基地全部实现环保绩效A级认证，并顺利通过中国钢铁工业清洁生产环境友好企业复审。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发高强度、轻量化、长寿命的绿色低碳产品，支撑绿色能源产业发展，如风电、水电、氢能等领域。",
+      "original_text": "针对新能源、高端装备等战略性新兴产业需求，我们开发出一系列高强度、轻量化、长寿命的绿色低碳产品。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司对运营地生物多样性风险进行了初步评估，厂区内设有动物保护区，项目远离生态保护红线。",
+      "original_text": "对当前各运营地及其周边环境、上下游流域等区域的生物多样性风险进行了多维度初步评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进废弃物资源化利用，构建零排放闭环系统，实现工业废水100%资源化与梯级利用，固废综合利用率提升。",
+      "original_text": "构建零排放闭环系统，实现工业废水 100% 资源化与梯级利用；固废综合利用率、利用效率与利用价值。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，制定《员工招聘管理办法》，劳动合同签订率100%。通过民主座谈会、大学生座谈会等构建和谐劳动关系。",
+      "original_text": "公司依据《劳动法》《劳动合同法实施条例》等法律法规，制定了《员工招聘管理办法》，秉持 劳动合同签订率为",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "旗下各子公司100%通过ISO 45001职业健康安全管理体系认证。每年开展内部审核和第三方外审。开展安全生产月活动，组织应急演练和培训。",
+      "original_text": "旗下各子公司 %通过ISO 45001职业健康安全管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司要求供应商遵守《供应商行为规范》，涵盖法律法规、商业道德、人权劳工权益、环境保护、安全生产、信息安全等。对供应商进行风险分类和整改。",
+      "original_text": "应商行为准则》，准则中明确了供应商在法律法规、商业道德、人权与劳工权益、环境保护、安全生产、信",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全流程质量管控体系，所有产品符合健康安全标准及行业认证要求。本年度未发生因产品健康安全问题导致的产品回收。",
+      "original_text": "全流程质量管控体系，所有产品均严格符合相关健康安全标准及行业认证要求，本年度未发生因产品健康安",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司依据《网络安全法》《个人信息保护法》等制定信息安全管理制度，新增《数据安全管理制度》。2025年未发生数据安全及客户隐私泄露事件。",
+      "original_text": "2025年，公司未发生数据安全及客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司组织员工参与社区服务、走访慰问、无偿献血等志愿活动，员工参与达1,517人次。冠名赞助无锡队支持地方体育事业。",
+      "original_text": "公司组织员工参与社区服务、走访慰问、无偿献血等各类社区志愿活动，员工参与达1,517人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司披露按性别、年龄划分的员工人数，开展女性员工关爱活动，如发放女工卫生费、举办女性健康讲座、提供免费妇科检查等。",
+      "original_text": "女性员工关爱 发放女工卫生费，举办女性生殖健康专题知识讲座，提供免费妇科检查等；",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了‘三层四级’ESG治理架构，董事会下设战略、风险及ESG委员会，负责ESG相关事项。",
+      "original_text": "公司建立了‘三层四级’ESG治理架构，分工明确，审计委员会、战略、风险及ESG委员会、提名委员会、薪酬与考核委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司编制境外廉洁合规指引，建立负面清单，开展警示教育121场，覆盖1.1万余人次。",
+      "original_text": "本年度，公司编制境外廉洁合规指引，建立境外廉洁合规负面清单。本年度，公司召开形式多样化的警示教育121场，覆盖1.1万余人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司不断完善商业道德制度体系，要求供应商签署《阳光合作协议》及《供应商行为准则》。",
+      "original_text": "公司不断完善商业道德制度体系，为公司合规经营提供坚实保障。供应商需公开签署《阳光合作协议》及《供应商行为准则》等相关文件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了‘四层三道’风险管理体系，覆盖18大类风险，并召开风险合规工作务虚会。",
+      "original_text": "形成并持续优化‘四层三道’……公司风险偏好指标覆盖战略风险、财务风险、流动性风险、法律合规风险、安全生产风险等18大类风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格遵守《上市公司投资者关系管理工作指引》，通过多种渠道与投资者交流。",
+      "original_text": "公司严格遵守中国证监会《上市公司投资者关系管理工作指引》以及公司《投资者关系管理制度》的相关要求，切实履行上市公司投资者关系管理职责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立常态化沟通机制，通过问卷、调研访谈等形式与利益相关方沟通。",
+      "original_text": "公司建立与利益相关方的常态化沟通机制，通过问卷、调研访谈等形式，充分了解各利益相关方对公司的期望。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续获得深圳证券交易所信息披露A级评价，确保信息披露及时、公平、真实、准确、完整。",
+      "original_text": "连续 年获得深圳证券交易所信息披露A级评价……确保信息披露及时、公平，保证披露内容的真实、准确、完整。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税作为利益相关方关注议题，但未详细说明税务透明度政策或措施。",
+      "original_text": "依法纳税 公文往来 信息披露",
+      "confidence": "medium"
+    }
+  ],
+  "source_file": "000708_中信特钢_2026.md",
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 31,
+    "quantitative_issues": [
+      {
+        "indicator_id": "S_Q01",
+        "indicator_name": "员工总数",
+        "issue": "数值11079030超出合理范围[10, 10000000]"
+      }
+    ],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.742
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

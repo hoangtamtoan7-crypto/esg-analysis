@@ -1,0 +1,442 @@
+{
+  "company_name": "芒果超媒",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 10543.59,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一和范围二） 吨二氧化碳当量 10,543.59",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 418.82,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 418.82",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 10124.77,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 10,124.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.007,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元营收 0.007",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1830092.07,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源总量 千克标准煤 1,602,969.31 1,708,885.43 1,830,092.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 74607.82,
+      "unit": "吨",
+      "original_text": "用水量 吨 62,025.02 63,618.42 74,607.82",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4397,
+      "unit": "人",
+      "original_text": "员工总数 人 4,397",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 38400,
+      "unit": "万元",
+      "original_text": "研发投入3.84亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 4468,
+      "unit": "万元",
+      "original_text": "芒果公益平台累计募款超4,468万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会成员 人 9 9 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事 人 3 3 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事 人 1 1 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 6 6 6",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司完成《公司章程》取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极落实绿色发展理念，将应对气候变化作为履行环境责任的重要组成部分，结合媒体行业特点，探索低碳运营与绿色传播相融合的发展路径，并制定了碳中和路线图。",
+      "original_text": "将应对气候变化作为履行环境责任的重要组成部分，结合媒体行业特点，积极探索低碳运营与绿色传播相融合的发展路径",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，通过完善内部管理与运营过程中温室气体排放的识别与追踪能力，逐步完善环境数据管理与披露机制。",
+      "original_text": "通过完善环境管理体系、推行绿色生产办公、传播环保公益文化等举措",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司在部分儿童产品及线下儿童乐园的设计和运营中，倡导绿色可持续理念，优先选用环境友好材料。",
+      "original_text": "在部分儿童产品及线下儿童乐园的设计和运营中，倡导绿色可持续理念，优先选用环境友好",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司运营均避让生态敏感区域，全年未发生环境违规行为，绿色发展基础不断夯实。",
+      "original_text": "均避让生态敏感区域，全年未发生环境违规行为",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司围绕拍摄制作、物流与包装及产品设计等场景引入循环经济理念，推动资源再利用、材料减量化和环保材料应用。",
+      "original_text": "将循环经济理念融入相关业务和日常运营管理中，围绕拍摄制作、物流与包装及产品设计等运营场景，逐步引入循环经济理念。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守《劳动法》《合同法》等法律法规，禁止雇用童工，确保性别薪酬平等，维护女性员工合法权益。制定《劳动合同管理办法》，建立合规平等的劳动关系。",
+      "original_text": "公司严格遵守《劳动法》《合同法》等相关法律法规，禁止雇用童工，并确保实现性别薪酬平等，坚定维护女性员工的合法权益",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司高度重视职业健康与安全用工管理，持续完善制度，开展安全培训、消防演练等，建立职业健康安全管理体系，覆盖全体员工。",
+      "original_text": "公司高度重视职业健康与安全用工管理，持续完善相关制度和管理机制，将员工健康与作业安全融入日常运营与管理全过程",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司秉持公平、公正、诚信原则，强化供应商评估、考核与支持，保障供应链稳健可靠，平等对待中小企业。",
+      "original_text": "公司秉持公平、公正、诚信原则，强化对供应商的评估、考核与支持，保障供应链稳健可靠，同时平等对待中小企业，促进供应链各方长期合作与可持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司制定《品类QC作业管理制度》等，通过ISO9001认证，实现批量质量事故与召回事件零发生。",
+      "original_text": "批量质量事故与召回事件零发生。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立完善的数据安全与隐私保护体系，制定《数据安全管理办法》《个人信息保护政策》等制度，实施全生命周期安全管理，全年无重大数据泄露事件。",
+      "original_text": "公司高度重视数据安全治理，将其纳入企业整体治理体系。公司建立了完善的制度体系，包括《数据安全管理办法》《个人信息保护政策》等",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，参与乡村振兴和社会公益事业，开展志愿服务、公益行等活动，推动员工参与社区服务。芒果公益平台累计募款超4400万元。",
+      "original_text": "芒果超媒积极履行社会责任，持续参与乡村振兴和社会公益事业",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视女性员工福祉，推行灵活工作机制、专属健康守护等举措，保障女性员工权益。董事会多元化建设从性别、年龄、专业背景等维度优化。",
+      "original_text": "公司高度重视女性员工福祉，坚持性别平等与人文关怀理念，构建多维度、有温度的女性专属关爱体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会领导，ESG工作领导小组统筹管理，明确董事会战略委员会负责ESG相关战略、目标及重大议题。",
+      "original_text": "公司将ESG事务纳入公司治理体系整体框架之中。董事会作为公司ESG...明确公司董事会战略委员会对公司ESG相关战略、目标及重大议题。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "建立覆盖重点业务领域的反腐败管理体系，制定相关管理制度，将廉洁要求融入公司治理结构和内部控制体系。",
+      "original_text": "公司坚持将廉洁合规作为公司治理和高质量发展的重要基础，围绕制度建设、风险防范和文化引导等方面，持续推进反腐...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "坚持诚信守法经营，全面贯彻廉洁自律和公平竞争原则，建立反不正当竞争与反垄断合规管理体系。",
+      "original_text": "芒果超媒坚持诚信守法的经营理念，全面贯彻廉洁自律和公平竞争原则...逐步建立并运行反不正当竞争与反垄断合规管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "参照COSO框架搭建风险管理体系，明确风险管理目标，划分风险类别，采取多元化应对措施。",
+      "original_text": "公司以系统性思维搭建风险管理体系，参照COSO《企业风险管理－整合框架》，明确风险管理目标，科学划分风险范畴，并配套多元化应对措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "高度重视投资者关系管理，通过多维度、常态化的沟通格局，保障投资者知情权与参与权，获评天马奖等荣誉。",
+      "original_text": "投关沟通是推动利益相关方协同的重要纽带，公司高度重视并不断完善利益相关方沟通制度...投资者关系管理天马奖",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "通过多元化沟通渠道与股东、员工、客户、合作伙伴等保持持续互动，系统回应利益相关方关切。",
+      "original_text": "公司将利益相关方参与作为推进可持续发展的重要基础，通过多元化沟通渠道，与股东、员工、客户、合作伙伴及社会公众等利益相关方保持持续互动。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "信息披露保持高质量与高透明度，实现零差错，连续7年获深交所信息披露考核A级。",
+      "original_text": "信息披露保持高质量与高透明度，实现零差错，连续7年获深交所信息披露考核A级。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司有税务治理、控制和风险管理，以及与税务关切相关的利益相关方参与及管理。",
+      "original_text": "G207-2 税务治理、控制和风险管理 见年度报告; G207-3 与税务关切相关的利益相关方参与及管理 见年度报告",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "300413_芒果超媒_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

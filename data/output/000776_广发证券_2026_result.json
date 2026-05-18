@@ -1,0 +1,442 @@
+{
+  "company_name": "广发证券",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 21321.18,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量(5)（范围1和范围2）（吨） 21,321.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 2329.64,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放量（范围1）（吨） 2,329.64",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 18991.54,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放量（范围2）（吨） 18,991.54",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 44886.19,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "综合能源消耗总量(1)(2)（兆瓦小时） 44,886.19",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 148307.98,
+      "unit": "吨",
+      "original_text": "总用水量（立方米） 148,307.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 46.62,
+      "unit": "吨",
+      "original_text": "无害废弃物产生总量（吨） 45.23；有害废弃物产生总量1.39吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 13640,
+      "unit": "人",
+      "original_text": "报告期末在职员工的数量合计（人） 13,640",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 47.85,
+      "unit": "%",
+      "original_text": "女性员工总数 人 5,411；男性员工总数 人 5,898；员工总数 人 11,309（母公司）",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 25.75,
+      "unit": "%",
+      "original_text": "女性管理级员工占管理级员工总数比例 % 25.75%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1305,
+      "unit": "万元",
+      "original_text": "培训经费支出金额 万元 1,305",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 121,
+      "unit": "小时/人",
+      "original_text": "人均总学时达121学时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 6.8,
+      "unit": "%",
+      "original_text": "员工流失率 % 6.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "连续三年内（2023-2025年）累计工伤事故数14个，无工亡",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 3155.72,
+      "unit": "万元",
+      "original_text": "报告期内公益支出达3,155.72万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 244735.75,
+      "unit": "万元",
+      "original_text": "税金及附加（万元） 244,735.75",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极应对气候变化，参考监管指引，将气候风险纳入全面风险管理体系，推行绿色运营，减少业务活动环境影响。",
+      "original_text": "公司积极应对气候变化带来的挑战，参考监管机构和证券交易所信息披露规则要求及相关实施指引，综合考虑宏观政策，公司积极践行绿色低碳与可持续发展理念，持续探索将气候风险纳入全面风险管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，并通过ISO 14001:2015认证。",
+      "original_text": "通过了ISO 14001:2015认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发展绿色金融，提供绿色债券、可持续投融资、碳金融等产品和服务，支持低碳转型。",
+      "original_text": "绿色投行、可持续投融资、碳金融等成为新的盈利增长点。2025年，公司主承销各品种低碳转型和绿色债券34期，合计承销规模78.94亿元。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "报告提及生物多样性议题，但未披露具体措施。",
+      "original_text": "本章回应的关注议题：生态系统保护与生物多样性、水资源利用",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行绿色办公，实施节水节电措施，二次利用景观水池水源，举办废弃电池回收活动。",
+      "original_text": "二次利用广发证券大厦首层水景池水源，通过物理吸污及利用抽水泵将景观水池的水进行二次利用（如灌溉绿植等）。面向员工举办废弃电池回收活动，以废弃电池兑换绿植。活动收集1,145颗废旧电池。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法保障员工合法权益，及时足额支付薪酬，提供法定保险和住房公积金，建立员工申诉制度，并支付经济补偿金。",
+      "original_text": "公司注重对员工的责任，依法向解除或终止劳动关系的员工支付经济补偿金。建立合理有效的员工申诉制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司为员工提供符合国家劳动卫生标准的工作条件，设立医务室，提供免费体检、医疗费补助、防暑降温补贴等，并开展安全培训。",
+      "original_text": "公司为员工提供符合国家劳动卫生标准的工作条件和工作环境，设立医务室，为员工提供每年一次免费体检、医疗费补助，发放防暑降温补贴。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司要求供应商遵守环境保护、员工职业健康及安全管理等条件，并监督供应链劳工权益。",
+      "original_text": "应遵守包括'遵守环境保护、员工职业健康及安全管理等要求'等条件。监督供应链劳工权益。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司未涉及因安全与健康理由须回收的产品，注重客户满意度，提供优质安全的金融服务。",
+      "original_text": "未涉及安全与健康理由须回收的产品。提升客户综合满意度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守网络安全法、数据安全法等，修订内部制度，强化网络安全管理，报告期内未出现因泄露客户隐私被处罚的事件。",
+      "original_text": "公司严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》。报告期内，公司未出现因泄露客户隐私问题导致被监管部门处罚的合规事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司深入开展乡村振兴等公益活动，公益支出3,155.72万元，举办投资者教育活动，覆盖超万人次。",
+      "original_text": "深入开展乡村振兴等公益活动，报告期内公益支出达3,155.72万元。举办首届'广发证券杯'全国大学生财商挑战赛，600余所高校超万名学子参与。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司披露了员工性别、年龄等多样性数据，女性员工占比约47.85%，女性管理级员工占比25.75%。",
+      "original_text": "女性员工总数 人 5,411；女性管理级员工占管理级员工总数比例 % 25.75%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了董事会（风险管理委员会）——经营管理层（合规总监）——合规管理部门——各部门、各分支机构的ESG管治架构。董事会及其下设的战略委员会审议、决策与监督公司ESG重大事项。",
+      "original_text": "公司建立了“董事会（风险管理委员会）——经营管理层（合规总监）——合规管理部门——各部门、各分支机构合规管...公司董事会及其下设的战略委员会审议、决策与监督公司ESG重大事项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司组织开展覆盖全员的廉洁从业培训与考试，接受廉洁从业培训的董事人数为11人，董事覆盖率达100%。建立了举报机制。",
+      "original_text": "2025年，公司组织开展覆盖全员的廉洁从业培训与考试，接受廉洁从业培训的董事人数为11人，董事覆盖率达100%；公司...建立健全的举报机制是维护公司廉洁文化、保障合规经营的重要基石。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司始终将合规经营和风险管理作为核心，董事会对合规管理和内部控制的有效性承担最终责任。报告期内未出现因泄露客户隐私导致被处罚的合规事件。",
+      "original_text": "公司始终将合规经营和风险管理作...公司董事会对合规管理和内部控制的有效性承担最终责任。...报告期内，公司未出现因泄露客户隐私问题导致被监管部门处罚的合规事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司风险管理组织架构由董事会及下设的风险管理委员会、经营管理层及相关专业委员会、各控制与支持部门、稽核部构成三道防线。将气候风险纳入全面风险管理体系。",
+      "original_text": "公司风险管理组织架构由董事会及下设的风险管理委员会、经营管理层及相关专业委员会（风险控制委员会等）、各控制...公司积极践行绿色低碳与可持续发展理念，持续探索将气候风险纳入全面风险管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系工作，建立多渠道沟通机制，召开股东大会、业绩说明会等，与投资者充分沟通。获得多项投资者关系奖项。",
+      "original_text": "公司高度重视并主动做好投资者关系工作，注重建立多渠道沟通机制，确保公司与股东或投资者之间保持顺畅有效的...2025年，公司连续4年在中国证券“金紫荆奖”评选中荣获“卓越投资者关系管理上市公司”奖项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别了政府及监管机构、股东及投资者、员工、客户、供应商及合作伙伴、高级管理人员、新闻媒体与非政府机构和社区等利益相关方，通过问卷调研、访谈等方式沟通。",
+      "original_text": "公司协同第三方ESG咨询机构，依据公司实际情况与行业特点，识别包括政府及监管机构、股东及投资者、员工、客户、供应商及合作伙伴、高级管理人员、新闻媒体与非政府机构和社区等群体在内的利益相关方，对重要性议题进行识别与分析。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露及时、公平，制定了《信息披露事务管理制度》等规章制度。报告期内披露A+H股公告共717件，深交所信息披露评价获A级，未发生违规。",
+      "original_text": "公司先后制定了《信息披露事务管理制度》和《内幕信息知情人管理办法》等规章制度。报告期内，公司披露A+H股公告共717件，在深交所年度信息披露评价中获评为A级，未发生因信息披露违规受到上市所在地证监会行政处罚或被交易所通报批评的情形。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "000776_广发证券_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "永顺泰",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 278294.02,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围一和范围二） 吨二氧化碳当量 278,294.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 50759.03,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放（范围一） 吨二氧化碳当量 50,759.03",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 227534.98,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放（范围二） 吨二氧化碳当量 227,534.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.65,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "全年温室气体排放强度 吨二氧化碳当量/万元营收 0.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 4,
+      "unit": "%",
+      "original_text": "清洁能源/可再生能源消耗量占比 / 4%",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 1978.48,
+      "unit": "万元",
+      "original_text": "全年环保投入 1,978.48 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 745,
+      "unit": "人",
+      "original_text": "员工总数 人 745",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 16.67,
+      "unit": "%",
+      "original_text": "管理人员6人，其中女性员工1名，占比为16.67%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 21.47,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 21.47",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 23.09,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 23.09",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 6.45,
+      "unit": "%",
+      "original_text": "员工流失率 / 6.45%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1762.27,
+      "unit": "万元",
+      "original_text": "全年研发投入 万元 1,762.27",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1518.5,
+      "unit": "万元",
+      "original_text": "安全生产总投入 1,518.5 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 11.2,
+      "unit": "万元",
+      "original_text": "对外捐赠总投入 万元 11.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "报告期内，公司董事会成员共9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比达33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "公司董事共9名，其中女性董事1名，占比为11.11%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "召开董事会 12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "公司监事共3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "召开审计委员会 8次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，力争2040年实现碳中和，碳排放已于2022年达到峰值。",
+      "original_text": "永顺泰力争2040年同步实现碳中和，且公司碳排放已于2022年达到峰值。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "子公司通过ISO 14001环境管理体系认证比例100%，公司参照ISO 14001要求建立环境管理体系。",
+      "original_text": "子公司通过ISO 14001 环境管理体系认证比例 100 %",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司加强低碳产品开发和绿色产业布局，积极研发更为低碳的产品。",
+      "original_text": "加强低碳产品开发和绿色产业布局",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司基于生物多样性保护要求，对周边生态环境进行全面调查和评估，避免选择对生物多样性产生不利影响的地点。",
+      "original_text": "公司基于生物多样性保护要求，对周边生态环境进行全面调查和评估，充分了解当地生物多样性的特征和分布情况，避免选择对生物多样性产生不利影响的地点",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施冷凝水回用、废水资源化利用等循环经济措施。",
+      "original_text": "秦麦公司的冷凝水回收到自有锅炉进行循环使用；将高浓度的麦芽废水作为下游污水处理厂碳源补充，实现了废水资源的价值共享",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法维护员工权益，严禁童工和强制劳动，杜绝歧视，保障法定假期和福利。2024年未发生员工歧视及违反人权事件。",
+      "original_text": "用工制度，严禁雇佣童工、强制劳动等非法用工行为，在员工招聘、入职、晋升等雇佣环节中杜绝由性别、民族、国籍、宗教信仰、家庭、残疾等其他因素引起的歧视行为，并切实保障员工依法享受国家法定节假日、年带薪休假等，构建和谐稳定的劳动关系。2024年，未发生员工歧视及其他违反人权相关事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，3家子公司通过ISO 45001认证，开展安全培训，配备防护用品，组织应急演练。",
+      "original_text": "永顺泰关注员工职业健康防护，保护员工生命健康及相关权益。公司严格按照《中华人民共和国职业病防治法》要求配备劳动防护用品并建立工作台账，做好职业病危害防护设施维护检修，认真开展职业健康宣传教育与培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司加强供应链ESG管理，与供应商合同明确环境、社会责任要求，确保符合可持续发展标准。",
+      "original_text": "公司加强供应链ESG管理，在与供应商的合同协议中明确供应商应履行的环境、社会责任",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立质量管理体系，5家子公司通过ISO 9001认证，4家通过ISO 22000认证，2家通过HACCP认证，2024年未发生质量安全处罚事件。",
+      "original_text": "各子公司均建立和完善配套的质量管理制度，按期完成质量管理体系和食品安全管理体系认证。2024年，公司未发生违反产品和服务质量与安全相关法律法规而受到主管部门处罚的事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循个人信息保护法和数据安全法，建立网络安全防护体系，开展信息安全培训和攻防演练，2024年未发生信息泄露事件。",
+      "original_text": "永顺泰严格遵循《中华人民共和国个人信息保护法》《中华人民共和国数据安全法》《中华人民共和国网络安全法》等法律法规，重点加强网络安全技术防护，构建多层次的网络安全防护体系。2024年，永顺泰未发生信息泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益志愿服务，包括乡村振兴、爱心献血、植树造林等活动，对外捐赠用于乡村振兴等。",
+      "original_text": "永顺泰将企业高质量发展与承担社会责任有机融合...全力落实‘百县千镇万村高质量发展工程’...组织开展物资义卖、爱心献血、植树造林等一系列活动...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司构建多元平等职场，确保无歧视，中高层女性员工占比26.53%，残障员工有提及但未给出具体比例。",
+      "original_text": "公司积极构建多元平等的职场，持续提升工作场所的包容性，确保所有员工无论年龄、性别、民族、国籍或宗教信仰等，中高层女性员工占比 / 26.53%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了职责清晰、层次分明的'三会一层'治理架构，明确了股东大会、董事会、监事会及管理层的职能。董事会负责制定ESG战略和目标，并审批重大ESG事项。",
+      "original_text": "公司构建了职责清晰、层次分明的'三会一层'治理架构，明确了股东大会、董事会、监事会及管理层的职能与...董事会负责制定公司ESG战略和目标，并审批重大ESG事项",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立健全商业道德与反腐败管理体系，制定并严格执行《员工手册》《经营投资尽职合规免责实施办法》等，以廉洁IP'麦廉侠'为抓手创新廉洁文化传播，加强供应商廉洁风险防范。",
+      "original_text": "永顺泰建立健全商业道德与反腐败管理体系，制定并严格执行《员工手册》《经营投资尽职合规免责实施办法》...公司以廉洁IP'麦廉侠'为抓手，创新廉洁文化传播",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德准则，依法合规参与市场竞争，坚决反对任何形式的商业贿赂。已通过GB/T 35770-2022/ISO 37301:2021合规管理体系认证。",
+      "original_text": "永顺泰秉持诚信经营的理念，恪守商业道德准则，筑牢商业道德防线，依法合规参与市场竞争，坚决反对任何形式的...通过GB/T 35770-2022/ISO 37301:2021合规管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司系统性执行风险管理流程，全面分析并识别市场风险、运营风险、战略风险、财务风险、法律合规风险等，建立风险管理三道防线，将风险防范和合规管理理念融入日常经营管理。",
+      "original_text": "公司系统性执行风险管理流程，全面分析并识别市场风险、运营风险、战略风险、财务风险、法律合规风险及其...建立风险管理三道防线，将风险管理各项要求分...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司遵循合规性、平等性、主动性、诚实守信的原则，推进投资者关系管理工作，构建多元化沟通渠道，包括股东大会、业绩说明会、互动易平台等，并修订了《投资者关系管理制度》。",
+      "original_text": "公司遵循合规性、平等性、主动性、诚实守信的原则，推进投资者关系管理工作，构建多元化沟通渠道...2024年，公司修订了《投资者关系管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司与利益相关方建立常态化沟通机制，畅通多元化沟通渠道，包括股东大会、业绩说明会、客户审核、供应商会议、员工活动、公益捐赠等，积极倾听并回应期望与诉求。",
+      "original_text": "永顺泰与利益相关方建立常态化沟通机制，畅通多元化沟通渠道，积极倾听并回应利益相关方对公司可持续发展的期望与诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守《上市公司信息披露管理办法》，制定并执行《信息披露管理制度》，确保信息披露真实、准确、完整、及时、公平。报告期内未出现虚假记载、误导性陈述或重大遗漏。",
+      "original_text": "公司严格遵守《上市公司信息披露管理办法》等规范性文件的要求，制定并严格执行《信息披露管理制度》...报告期内，公司信息披露未出现虚假记载、误导性陈述、重大遗漏或其他不当披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司秉持依法合规、诚信透明的纳税原则，全面落实企业纳税义务，不断完善税务管理流程，优化内部税务控制机制，组织税务培训强化涉税风险防范意识。",
+      "original_text": "公司秉持依法合规、诚信透明的纳税原则，全面落实企业纳税义务...不断完善税务管理流程，优化内部税务控制机制",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

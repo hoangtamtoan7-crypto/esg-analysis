@@ -1,0 +1,397 @@
+{
+  "company_name": "徐工机械",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 404959.94,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 吨 404,959.94",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 121897.47,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放量（范围一） 吨 121,897.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 283062.47,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放量（范围二） 吨 283,062.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 20.45,
+      "unit": "%",
+      "original_text": "绿电使用率 % 20.45",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2861370,
+      "unit": "吨",
+      "original_text": "水资源消耗总量 吨 2,861,370",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 7446.45,
+      "unit": "吨",
+      "original_text": "有害物质和废弃物产生总量 吨 7,446.45",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 6268.44,
+      "unit": "万元",
+      "original_text": "公司在环保领域投入6,268.44万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 30485,
+      "unit": "人",
+      "original_text": "按性别划分的员工人数：男性员工 25,666人，女性员工 4,819人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 15.8,
+      "unit": "%",
+      "original_text": "女性员工 4,819人，员工总数30,485人，比例15.8%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 94.85,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时数 94.85小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定《徐工碳达峰碳中和行动规划纲要》，明确碳达峰阶段目标2027年、登顶阶段碳目标2035年、碳中和阶段目标2049年，并聚焦新能源、新产业和新模式，推动双碳战略实现。",
+      "original_text": "率先制定发布《徐工碳达峰碳中和行动规划纲要》，以“高质量、高效率、高效益、可持续”为发展主线，以“登顶精神”和“大器文化”为驱动，聚焦新能源、新产业和新模式，以科技赋能、数字赋能、金融赋能、对公司业务运营和可持续发展的影响，全力推动“碳达峰、碳中和”战略目标实现。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "24家子公司通过环境管理体系审核，获得ISO 14001认证。公司建立了四级环境管理网络，定期进行环境审计和检查。",
+      "original_text": "截至2025年末，徐工机械24家子公司通过环境管理体系审核，获得ISO 14001认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司布局纯电、混动、氢能等多技术路线，推出全球首个零碳智慧矿山成套解决方案，新能源产品营收133.23亿元，同比增长23.6%，占主机收入19.6%。",
+      "original_text": "2025年，公司新能源产品创造营收133.23亿元，同比增长23.6%；占主机收入19.6%，同比提升3.16个百分点。同时完善纯电、混动、氢能、甲醇等多技术路线产品布局，形成覆盖矿山、市政、园林等全场景的绿色解决方案。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "original_text": "",
+      "summary": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司开展废旧物资资源化利用，减少一次性包装材料使用，实施中挖电镀线纯水智能节约改造等循环经济实践。",
+      "original_text": "箱、木材等一次性包装材料的使用，降低经营活动的废弃物产生以及对环境的影响。此外，公司开展废旧物资资源化利用。2025年，徐工机械开展中挖电镀线纯水智能节约改造。项目将原有喷淋后直接排放的纯水工艺优化。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，保障员工合法权益，劳动合同签订率100%，社会保险覆盖率100%。",
+      "original_text": "公司严格遵守劳动法律法规，将尊重与保障员工合法权益置于核心位置。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，24家子公司获认证，开展培训、风险识别、EAP计划等。",
+      "original_text": "公司及下属子公司共24家获得职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "将ESG因素融入供应商全流程管理，重点关注劳工权益、环境保护、职业健康安全等，开展供应商培训。",
+      "original_text": "将ESG因素深度融入供应商全流程管理中，重点关注供应商在劳工权益保护、环境保护、职业健康与安全等方面的表现。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司实施全链条质量管控，未发生重大质量责任事故，无产品召回事件。",
+      "original_text": "公司实现了卓越的产品安全记录，未发生任何重大质量责任事故，也无产品召回事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立数据安全管理制度，通过数据加密、权限分级管控、全员培训等措施保护客户隐私。",
+      "original_text": "公司高度重视客户隐私保护，通过数据加密、权限分级管控及全员信息安全培训等多重举措，筑牢客户信息防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展社区公益活动，承办亚洲公益论坛，参与乡村振兴等。",
+      "original_text": "参访及培训等50余场活动，覆盖超万人；承办亚洲公益论坛。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "报告披露了按性别划分的员工人数，但未提及女性高管比例或其他多元化指标。",
+      "original_text": "按性别划分的员工人数：男性员工25,666人，女性员工4,819人。",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 25,
+    "quantitative_valid": 25,
+    "quantitative_issues": [],
+    "qualitative_count": 12,
+    "qualitative_valid": 12,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.712
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 37,
+    "missing": 15,
+    "missing_list": [
+      {
+        "id": "G_Q01",
+        "name": "董事会规模",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q02",
+        "name": "独立董事比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q03",
+        "name": "女性董事人数",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q04",
+        "name": "董事会会议次数",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q05",
+        "name": "监事会规模",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q06",
+        "name": "高管薪酬总额",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_L01",
+        "name": "ESG治理架构",
+        "type": "qualitative"
+      },
+      {
+        "id": "G_L02",
+        "name": "反腐败与廉洁建设",
+        "type": "qualitative"
+      },
+      {
+        "id": "G_L03",
+        "name": "商业道德与合规",
+        "type": "qualitative"
+      },
+      {
+        "id": "G_L04",
+        "name": "风险管理体系",
+        "type": "qualitative"
+      },
+      {
+        "id": "G_L05",
+        "name": "投资者关系管理",
+        "type": "qualitative"
+      },
+      {
+        "id": "G_L06",
+        "name": "利益相关方沟通",
+        "type": "qualitative"
+      },
+      {
+        "id": "G_L07",
+        "name": "信息披露质量",
+        "type": "qualitative"
+      },
+      {
+        "id": "G_Q07",
+        "name": "审计委员会会议次数",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_L08",
+        "name": "税务透明度",
+        "type": "qualitative"
+      }
+    ],
+    "completeness": 71.2
+  }
+}

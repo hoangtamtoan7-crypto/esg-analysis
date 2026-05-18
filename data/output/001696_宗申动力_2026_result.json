@@ -1,0 +1,441 @@
+{
+  "company_name": "宗申动力",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 51383.98,
+      "unit": "吨CO2当量",
+      "original_text": "各公司温室气体排放量...排放总量 吨CO2 当量 51,383.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 14180.0,
+      "unit": "吨CO2当量",
+      "original_text": "范围一温室气体排放量 吨CO2 当量 14,180.",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 37203.02,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨CO2 当量 37,203.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 4.17,
+      "unit": "吨/百万营收",
+      "original_text": "温室气体排放强度 吨/百万营收 4.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 15885.25,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗量 吨标煤 15,885.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 500777,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 500,777.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 400621.6,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 400,621.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 4481.84,
+      "unit": "吨",
+      "original_text": "废弃物产生总量 吨 4,481.84",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 9412,
+      "unit": "人",
+      "original_text": "员工总数 人 9,412",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 27.5,
+      "unit": "%",
+      "original_text": "管理层女性比例 % 27.5%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 181.0,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 181.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 76.7,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 小时 76.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 3.45,
+      "unit": "亿元",
+      "original_text": "研发投入 亿元 3.45",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.8,
+      "unit": "%",
+      "original_text": "研发投入占年度营收比例 % 2.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1249.88,
+      "unit": "万元",
+      "original_text": "安全生产资金投入 万元 1,249.88",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 1.53,
+      "unit": "‰",
+      "original_text": "百万工时工伤率 起/百万工时 1.53",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会共有9名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "召开董事会6次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "撤销监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "审计委员会召开7次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司高度重视气候变化相关风险与机遇，持续开展气候风险评估与应对机制优化，积极把握绿色低碳转型带来的新发展机遇。",
+      "original_text": "宗申动力高度重视气候变化相关风险与机遇，结合内外部环境变化及业务规划动态，持续开展气候风险评估与应对机制优化，在有效管控风险的同时，积极把握绿色低碳转型带来的新发展机遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定《环境管理程序》《废弃物管理办法》《噪音控制管理办法》《废水管理办法》《废气管理办法》等制度，确保合规排放，提升排放物治理水平。",
+      "original_text": "公司持续强化废弃物及排放物排放管理，制定《环境管理程序》《废弃物管理办法》《噪音控制管理办法》《废水管理办法》《废气管理办法》等相关制度，确保合规排放，提升排放物治理水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司围绕新能源化、高效节能、环境友好加快产品布局，建立创新协同机制，推出便携式户外锂电电源、锂电园林工具等新能源产品。",
+      "original_text": "重点布局大容量储能系统、绿色低碳排放技术等前沿领域，研发推出便携式户外锂电电源、锂电园林工具等新能源产品，丰富高附加值、智能化的产品品类。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司积极打造兼具艺术美感和生物多样性保护的绿化空间，提升厂区环境质量，促进环境生态平衡。",
+      "original_text": "我们积极打造兼具艺术美感和生物多样性保护的绿化空间，提升厂区环境质量，促进环境生态平衡，增强员工幸福感。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以数字化转型推动资源高效利用，全面推行无纸化办公，减少纸张消耗与碳排放；合作开展回收利用，践行环境友好的循环经济理念。",
+      "original_text": "公司以数字化转型推动资源高效利用，通过全面推行无纸化办公，减少纸张消耗与碳排放，降低运营成本、提升协作效率，践行环境友好的循环经济理念。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉持平等雇佣理念，依法与全体员工签订劳动合同，按时足额发放工资，保障员工平等就业合法权益。",
+      "original_text": "公司制定《员工招聘入职管理办法》《薪酬管理办法》《劳动合同管理办法》等管理制度，始终秉持平等雇佣理念，依法与全体员工签订劳动合同，按时足额发放工资，切实保障员工平等就业合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全体系认证，建立全方位职业健康安全管理体系，实现全员安全培训100%覆盖，全年未发生安全责任事故。",
+      "original_text": "ISO 45001职业健康安全体系认证。建立全方位职业健康安全管理体系，实现全员安全培训100%覆盖，全年未发生安全责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将ESG要求纳入风险管理体系，对供应商开展线上审核与线下考察，签署供应商行为准则，对强迫劳动等行为零容忍。",
+      "original_text": "公司将ESG要求纳入风险管理体系，由风险防控中心联合供应链中心，针对供应链强迫劳动、欧盟电池法等ESG相关风险实施专项管控。与所有的供应商签署供应商行为准则，对供应链上强迫劳动、使用童工及环境破坏等任何形式的人权侵犯行为持零容忍态度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立完善的产品安全与健康设计管理制度，推行DFMEA体系，确保产品在质量与安全上达到行业领先标准。",
+      "original_text": "公司建立完善的产品安全与健康设计管理制度，从源头明确健康安全设计准则与评审要求。严格推行DFMEA（设计失效模式及后果分析）体系，系统性识别、评估并管控产品潜在设计风险。确保每一台动力产品在质量与安全上均达到行业领先标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定多项数据安全管理制度，实施数据分类管理、加密传输等措施，报告期内未发生重大信息安全及隐私泄露事件。",
+      "original_text": "公司制定《数据安全管理规范》《个人信息保护管理办法》等制度，实施数据分类管理、加密传输等措施。报告期内，公司未发生重大信息安全及隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展常态化社区志愿服务，包括陪同老人体检、慰问消防大队、走访低保户等，传递公益温情。",
+      "original_text": "2025年，宗申大江围绕社区共建与民生关怀，开展系列志愿服务活动。4月组织志愿者陪同社区老人赴医院体检；8月慰问璧山消防大队；9月中秋佳节走访慰问当地低保户。通过多元化志愿服务，持续传递公益温情。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉持多元包容理念，明确民族、种族、性别等不成为影响员工职业发展的因素，保障女性员工权益与职业发展机会。",
+      "original_text": "公司将多元包容理念深度融入日常用工管理，明确民族、种族、性别、健康状况、宗教信仰均不成为影响员工职业发展的因素。保障女性员工劳动权益与职业发展机会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建董事会办公室为决策层，证券事务部为管理层，其他部门和子公司为执行层的管理架构。",
+      "original_text": "构建董事会办公室为决策层，以证券事务部为管理层，其他部门和子公司为执行层的管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "建立健全反腐倡廉专项制度体系，出台《廉洁从业管理办法》《反舞弊管理流程》等制度，开展员工专项培训，签订廉洁承诺书。",
+      "original_text": "公司建立健全反腐倡廉专项制度体系，出台《廉洁从业管理办法》《反舞弊管理流程》等制度，明确廉洁红线；开展反腐倡廉员工专项培训，组织126名党员干部及关键岗位人员签订廉洁承诺书",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持合规经营，将合规风险管控融入生产经营、海外业务、子公司管控等全场景运营，搭建常态化、闭环化的内控风控长效机制。",
+      "original_text": "公司坚持合规经营，把合规风险管控深度融入生产经营、海外业务、子公司管控等全场景运营，搭建常态化、闭环化的内控风控长效机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "建立以各子公司业务及风险防控部门、风险防控中心、董事会审计委员会为体系的三道风险防控防线，实施风险分级管控，将ESG要求纳入风险管理体系。",
+      "original_text": "公司建立并形成以各子公司业务及风险防控部门、风险防控中心、董事会审计委员会为体系的三道风险防控防线，明确各级风险防控职责；实施风险分级管控，将ESG要求纳入风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "建立《投资者关系管理制度》，打造“线上+线下+专项”立体化沟通模式，2025年召开业绩说明会5次，参加投资者会议、路演等。",
+      "original_text": "公司建立《投资者关系管理制度》，高度重视投资者关系管理与投资者沟通工作，打造“线上+线下+专项”立体化沟通模式；2025年，公司召开业绩说明会5次，参加投资者会议、路演等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "通过股东会、投资者会议、路演、研讨会、论坛、热线电话、邮箱、网站投资者关系栏目、业绩说明会等渠道与利益相关方沟通。",
+      "original_text": "利益相关方沟通渠道包括：股东会（每年）、投资者会议、路演（不定期）、研讨会/论坛（不定期）、热线电话、邮箱（实时）、网站投资者关系栏目（实时）、业绩说明会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "建立以《公司信息披露管理制度》《公司重大信息内部报告制度》《年报信息披露重大差错责任追究制度》等为核心的信息披露制度体系，持续提升信息披露质量。",
+      "original_text": "公司严格遵循相关法律法规要求，建立以《公司信息披露管理制度》《公司重大信息内部报告制度》《年报信息披露重大差错责任追究制度》等为核心的信息披露制度体系，持续提升信息披露整体水平",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

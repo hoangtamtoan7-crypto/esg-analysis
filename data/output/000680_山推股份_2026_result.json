@@ -1,0 +1,441 @@
+{
+  "company_name": "山推股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 86711,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 130,335 86,711",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 14606,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1 吨二氧化碳当量 25,145 14,606",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 72105,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2 吨二氧化碳当量 105,190 72,105",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 5.93,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "单位营收温室气体排放强度 吨二氧化碳当量 0.92 5.93",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 33052,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "综合能源消耗总量 吨标煤 33,052 35,292",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 27.9,
+      "unit": "%",
+      "original_text": "能源总消耗中清洁能源占比 % 14.0 27.9%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1054835,
+      "unit": "吨",
+      "original_text": "取水总量 吨 1,054,835 1,007,770",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 25200,
+      "unit": "吨",
+      "original_text": "固体废弃物产生总量 吨 25,200 31,675",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 7247,
+      "unit": "人",
+      "original_text": "基层员工 6,960 7,247",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 33,
+      "unit": "%",
+      "original_text": "女性高管占比 % 33 33",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 393.7,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 305.0 393.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 2.6,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均小时数 小时/人 2.3 2.6",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.2,
+      "unit": "%",
+      "original_text": "员工流失率 % 3.0 2.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 57000,
+      "unit": "万元",
+      "original_text": "研发投入超5.7亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.9,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 3.8 3.9",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2951,
+      "unit": "万元",
+      "original_text": "安全投入2,951万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 8.71,
+      "unit": "万元",
+      "original_text": "公益慈善投入总金额 万元 10.08 8.71",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33,
+      "unit": "%",
+      "original_text": "独立董事比例 % 33 33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "3名女性董事及6名男性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "报告期内，公司召开6次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司参考中国双碳目标，持续推进绿色低碳转型，致力于通过清洁能源替代、能源结构优化与能效提升等多项举措，减少碳排放。已制定转型计划，包括优化业务布局、控制高能耗业务、加大低碳领域投入。",
+      "original_text": "公司参考中国“双碳”目标，持续推进绿色低碳转型，致力于通过清洁能源替代、能源结构优化与能效提升等多项举措，减少运输过程中的能源消耗与碳排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司及各子公司均建立并有效运行ISO14001环境管理体系，每年接受权威第三方审核。制定了多项环境管理制度，如环境管理实施细则、一般固体废物管理实施细则等。",
+      "original_text": "公司及各子公司均建立并有效运行ISO14001环境管理体系，每年接受权威第三方审",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司大力进行绿色低碳产品布局，成功推出多款新能源产品，如纯电推土机、装载机、挖掘机、平地机等。通过电动化探索纯电、混动等清洁能源路径。",
+      "original_text": "公司大力进行绿色低碳产品布局，成功推出多款新能源产品，并积极引入绿色工艺创新",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司高度关注自身活动对生态系统和生物多样性的影响，严格遵照《中华人民共和国环境影响评价法》，落实新改扩建项目的环境影响评价。",
+      "original_text": "公司高度关注自身活动对生态系统和生物多样性的影响，严格遵照《中华人民共和国环境影响评价法》，落实新改扩建设",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司生产过程中产生的废铁、废钢等一般工业固废全部交由具备资质的单位进行资源化利用。通过节能改造、使用绿电等提高能源使用效率，降低能耗与治污成本。",
+      "original_text": "生产过程中产生的废铁、废钢等一般工业固废全部交由具备资质的单位进行资源化利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法与全体员工签订劳动合同，无灵活就业人员；未发生违反劳动雇佣相关法律法规事件。建立工会、职工代表大会、集体谈判协议等机制，保障员工权益。",
+      "original_text": "依法与全体员工签订劳动合同，覆盖合同、薪酬、社保等各环节；报告期内未发生因违反劳动雇佣相关法律法规而被行政处罚、引发诉讼的事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO45001认证。2025年安全投入2,951万元，实施29项安全技改项目，重大安全事故、职业病零发生。安全教育培训覆盖率100%。",
+      "original_text": "公司及子公司ISO45001职业健康安全管理体系持续有效运行；2025年全面完成了各项安全指标，安全投入2,951万元，实现重大安全事故、职业病零发生。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司构建供应商全生命周期闭环管理体系，优先采纳已获得ISO9001等质量保证体系及职业健康安全管理体系认证的合作伙伴。2025年专家现场稽查培训30余次，协助200余家供应商提升过程质量。",
+      "original_text": "构建了贯穿供应商全生命周期的闭环管理体系；优先采纳已获得ISO9001等质量保证体系、职业健康安全管理体系认证的合作伙伴；专家开展现场稽查与培训30余次，协助200余家供应商提升过程质量。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司围绕产品全生命周期部署多层次质量保障措施，报告期内未发生产品和服务相关的安全与质量重大责任事故。研发过程深度管控，质量节点前移。",
+      "original_text": "报告期内，公司未发生产品和服务相关的安全与质量重大责任事故；公司创新性地将质量管理节点大幅前移，深度融入新产品开发全流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立覆盖决策层、管理层、执行层的三级信息安全管理体系，制定《数据安全管理办法》等制度，部署DLP防泄密系统，定期开展数据安全培训。报告期内未发生信息安全违规事件。",
+      "original_text": "建立了覆盖'决策层、管理层、执行层'的三级信息安全管理体系；修订完善了《信息安全管理办法》《数据安全管理办法》等核心制度；报告期内未发生因违反信息安全与隐私保护相关法律法规而受到处罚的事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区公益，2025年公益慈善投入8.71万元，组织员工自愿捐款，落实特殊群体就业（退役军人485名、残疾人54名），参与抗洪抢险等应急救援。",
+      "original_text": "2025年，公司积极响应山东省民政厅'慈心一日捐'活动，组织全体员工自愿捐款；现有退役军人485名、残疾人54名，全部签订正式劳动合同；抗洪抢险、道路抢通等应急救援，山推从未缺席。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视董事会多元化建设，综合考量性别、年龄、文化教育背景等。报告显示女性员工1,087人，30岁以下1,565人，30-50岁4,686人，50岁以上996人。落实特殊群体就业。",
+      "original_text": "我们高度重视董事会多元化建设，在董事遴选、提名及换届程序中，综合考量董事的性别、年龄、文化教育背景、行业经验等；女性 人 1,112 1,087；30岁以下 人 1,303 1,565；30～50岁 人 4,575 4,686；50岁以上 人 1,082 996。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立由董事会领导、多部门协同的风险治理架构，董事会下设四大专门委员会，设立战略委员会作为ESG治理机构，全面统筹尽职调查相关工作。",
+      "original_text": "公司建立由董事会领导、多部门协同的风险治理架构，并设立直接由董事会领导的审计委员会及独立内部审计部门",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司反贪污腐败管理政策明确覆盖供应商，通过多项制度将其纳入反腐败管理体系；纪委建立信访举报渠道，落实举报人保护措施。",
+      "original_text": "公司反贪污腐败管理政策明确覆盖供应商，通过多项制度将其纳入反腐败管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司已制定多项核心合规管理制度，包括《合规管理办法》《重大经营决策合规审查管理办法》等，构建合规管理体系，开展合规培训与风险排查。",
+      "original_text": "公司已制定并实施多项核心合规管理制度，包括《合规管理办法》《重大经营决策合规审查管理办法》《反商业贿赂及反贪污》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立由董事会领导、多部门协同的风险治理架构，设立审计委员会及独立内部审计部门，开展风险识别、预警与应对。",
+      "original_text": "公司建立由董事会领导、多部门协同的风险治理架构，并设立直接由董事会领导的审计委员会及独立内部审计部门",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过投资者热线、互动平台、业绩说明会等多元渠道与投资者保持沟通，尤其注重听取中小投资者意见，保障所有投资者平等获取信息。",
+      "original_text": "通过投资者热线、互动平台、业绩说明会等多元渠道，积极与投资者保持沟通，尤其注重听取中小投资者的意见与诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别关键利益相关方包括客户、员工、股东/投资者、供应商/承揽商、政府机关等，通过多种方式沟通，并开展重要性议题分析。",
+      "original_text": "山推股份深知各利益相关方的意见与期望对公司的运营与发展有着重要的影响，时刻关注内外部利益相关方的意见与诉求，坚持构建多元化的沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露相关法律法规，确保信息披露真实、准确、完整、及时，保障所有投资者平等获取信息。",
+      "original_text": "公司严格遵守信息披露相关法律法规，在独立董事的监督下，确保信息披露真实、准确、完整、及时",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "海外业务中，公司恪守当地税收法规及转让定价规则，依托海外子公司标准化管控确保政策落地、税款合规缴纳及风险防控。",
+      "original_text": "海外业务中，公司恪守当地税收法规及转让定价规则，依托海外子公司标准化管控确保政策落地、税款合规缴纳及风险防控",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

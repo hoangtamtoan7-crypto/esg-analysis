@@ -1,0 +1,441 @@
+{
+  "company_name": "中成股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 7388,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 8,148 8,681 7,388",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 6233,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 6,233",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1197.2,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 1,197.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 845.8,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "845.80 吨二氧化碳当量（tCO2e）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 390.3,
+      "unit": "吨标煤",
+      "original_text": "能源消耗总量 吨标煤 390.30",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 469,
+      "unit": "人",
+      "original_text": "报告期末 公司共有员工469名",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "按性别划分 男性345人 女性124人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2024,
+      "unit": "万元",
+      "original_text": "研发投入 万元 2,024",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 382,
+      "unit": "万元",
+      "original_text": "安全生产管理总投入 万元 382",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 10,
+      "unit": "人",
+      "original_text": "目前，公司董事会由10名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "独立董事占董事会成员比例为40%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 14,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 14",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": 361.29,
+      "unit": "万元",
+      "original_text": "董事、高级管理人员从公司获得的报酬总额 万元 361.29",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司动态跟踪双碳领域政策法规，建立法律法规清单，完善绿色低碳发展管理体系；有序推进碳排查与碳减排成效评估，深化ESG信息披露，强化第三方核查与认证。",
+      "original_text": "动态跟踪“双碳”领域相关政策法规的调整趋势，建立并常态化更新法律法规清单，持续完善绿色低碳发展管理体系。有序推进碳排查与碳减排成效评估工作，同时持续深化ESG信息披露机制，强化第三方核查与认证，不断提升环境管理透明度和合规水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持有质量、环境和职业健康安全管理体系（三体系）证书，管理体系持续符合国际标准。",
+      "original_text": "中成股份持有质量、环境和职业健康安全管理体系（简称“三体系”）证书，公司管理体系持续符合国际标准，具备规范、稳定、可靠的运营保障能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司致力于为客户提供集绿色、智能、高效于一体的综合能源服务方案，助力低碳转型；通过资产重组切入储能等绿色能源新赛道，加速向绿色基础设施服务商转型。",
+      "original_text": "致力于为客户提供集绿色、智能、高效于一体的综合能源服务方案，助力低碳转型，推动行业与社会可持续发展。以资产重组为契机切入储能等绿色能源新赛道，持续优化业务结构与资源配置，加速从传统工程承包商向绿色基础设施服务商的战略转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司在项目设计中融入生态保护理念，开展生物多样性评估，提升项目的环境友好性和社会认可度。",
+      "original_text": "在项目设计中融入生态保护理念，开展生物多样性评估，提升项目的环境友好性和社会认可度。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司构建全生命周期资源效率管理体系，推广绿色运输、集约配送与物料循环利用；推进绿色建造与节能化运维，实施节水节材、节能改造与低碳工艺。",
+      "original_text": "构建全生命周期资源效率管理体系，优化国际工程物流组织与现场施工方案，推广绿色运输、集约配送与物料循环利用，提升资源配置效能。推进绿色建造与节能化运维，在境内外项目实施节水节材、节能改造与低碳工艺，打造高资源效率、高资产价值的标杆工程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵循劳动法，招聘过程规范透明，禁止歧视，以能力为录用标准。积极吸纳退伍军人。",
+      "original_text": "公司严格遵循《中华人民共和国劳动法》《中华人民共和国劳动合同法》等相关法律法规，招聘过程中，公司严格按照国家相关规定及公司规定开展招聘录用工作，严格核实应聘者信息，确保招聘工作的严谨性与公正性，确保招聘流程规范、透明。公司严禁在招聘信息中出现任何歧视性内容，坚持以个人能力、工作经验、综合素养作为人员录用的唯一评判标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司持有职业健康安全管理体系证书，开展安全教育培训和应急演练，进行境外职业健康专项排查，保障员工健康安全。",
+      "original_text": "中成股份持有质量、环境和职业健康安全管理体系（简称“三体系”）证书，公司管理体系持续符合国际标准，具备规范、稳定、可靠的运营保障能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司平等对待中小企业供应商，按时足额支付款项，构建互利共赢的供应链生态。截至报告期末，活跃供应商数357家，未因供应商合规问题导致重大风险事件。",
+      "original_text": "公司严格落实保障中小企业款项支付相关要求，坚持公平公正、一视同仁的合作原则，在采购、履约、结算等环节平等对待各类中小企业供应商。公司定期对应付账款进行梳理，对中小企业款项严格按照合同约定及时足额支付，切实保障中小企业合法权益与资金周转，构建互利共赢、长期稳定的供应链合作生态。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司持有质量管理体系证书，产品和服务安全与质量被列为重要议题，通过技术实力和项目经验保障质量。",
+      "original_text": "中成股份持有质量、环境和职业健康安全管理体系（简称“三体系”）证书，公司管理体系持续符合国际标准，具备规范、稳定、可靠的运营保障能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司以网络安全与数据合规为核心，制定九项制度，形成全流程闭环管理机制，采取加密、审计、培训等措施。",
+      "original_text": "公司以网络安全与数据合规为核心，构建权责清晰、闭环可控的安全治理体系。围绕《网络安全法》《数据安全法》等法规及行业标准，制定《信息安全策略总纲》《网络安全应急预案》《网络安全监督检查管理办法》等九项制度，清晰界定各层级、各部门安全职责，形成“战略—制度—流程—执行”的全流程闭环管理机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司鼓励员工参与公益事业，响应党中央号召投入扶贫资金，并通过技术输出和项目合作培养当地员工技能。",
+      "original_text": "鼓励员工广泛参与公益事业。公司响应党中央投入扶贫资金约...通过技术输出和项目合作，在海外项目中注重当地员工技能的培养。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导平等多元雇佣，禁止就业歧视，保障女性员工平等权益，落实孕期、产期、哺乳期等法定假期。",
+      "original_text": "倡导平等多元雇佣，注重保障员工权益。在薪酬福利体系和员工健康管理方面，未存在性别歧视的情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司通过修订《董事会战略与ESG委员会工作细则》，将ESG治理纳入董事会，持续优化ESG治理架构。",
+      "original_text": "并通过修订《董事会战略与ESG委员会工作细则》，进一步强化ESG治理架构与环境风险防控能",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司深入推进反贿赂、反贪污工作，搭建廉洁风险防控长效机制，强化廉政建设与反腐败工作力度。",
+      "original_text": "公司深入推进反贿赂、反贪污工作，将其全面融入企业运营全过程，搭建廉洁风险防控长效机制，强化廉政建设与反腐败工作力度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立了规范的公司治理结构，设有股东会、董事会及经营管理层，形成权责明确、相互制衡的治理结构，并持续完善合规管理。",
+      "original_text": "公司严格按照《中华人民共和国公司法》《中华人民共和国证券法》等法律法规及《中成进出口股份有限公司章程》的规定，建立了规范的公司治理结构和科学的组织架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建由董事会统筹引领的风险管理体系，建立风险识别、评估、应对、监控与改进的闭环管理机制。",
+      "original_text": "以董事会统筹引领，建立风险识别、评估、应对、监控与改进的闭环管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司在北京召开年度股东会，全体董事出席，监事及高级管理人员列席会议，保障中小股东权益。",
+      "original_text": "报告期内，公司在北京召开年度股东会，会议由公司董事长主持，全体董事出席，监事及高级管理人员列席会议。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多元渠道与利益相关方良性互动，同步提升信息披露透明度与合规水平。",
+      "original_text": "通过多元渠道与利益相关方良性互动，同步提升信息披露透明度与合规水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续多年编制发布ESG报告，规范信息披露流程，提升合规经营水平。",
+      "original_text": "连续多年编制发布ESG报告，避免因ESG信息披露不足引发融资渠道收窄、合作成本上升等财务风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守《中华人民共和国税收征收管理法》等法律法规，将税务合规作为企业合规经营的重要基石。",
+      "original_text": "税务合规是企业合规经营的重要基石。中成股份严格遵守《中华人民共和国税收征收管理法》《中华人民共和国企业所得税法》等",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

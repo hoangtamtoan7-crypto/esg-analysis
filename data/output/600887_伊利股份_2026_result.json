@@ -1,0 +1,442 @@
+{
+  "company_name": "伊利股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1280000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "碳排放总量 万吨二氧化碳当量 128",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 530000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1碳排放量 万吨二氧化碳当量 57 49 53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 750000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2碳排放量 万吨二氧化碳当量 118 102 75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 129,
+      "unit": "千克二氧化碳当量/吨产品",
+      "original_text": "单位产品碳排放强度 千克二氧化碳当量/吨产品 170 151 129",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 244099.56,
+      "unit": "兆瓦时",
+      "original_text": "间接能源消耗量 吨标准煤 244,099.56",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 41.47,
+      "unit": "%",
+      "original_text": "绿电使用量占比 % 41.47%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 35790000,
+      "unit": "吨",
+      "original_text": "总取水量 万吨 3,579",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 36621500,
+      "unit": "吨",
+      "original_text": "工业废水排放量 万吨 3,662.15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 60949.67,
+      "unit": "吨",
+      "original_text": "产生的有害废弃物总量 吨 495.37; 产生的无害废弃物总量 吨 60,454.30",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 154.02,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOX）排放量 吨 154.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 28.52,
+      "unit": "吨",
+      "original_text": "二氧化硫（SO2）排放量 吨 28.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 7.9,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 吨 7.90",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 62666,
+      "unit": "人",
+      "original_text": "员工总人数 人 62,666",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 15.71,
+      "unit": "%",
+      "original_text": "女性高级管理人员比例（副总经理以上）15.71%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 91501,
+      "unit": "万元",
+      "original_text": "研发投入金额91,501万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 50278,
+      "unit": "万元",
+      "original_text": "对外捐赠 万元 50,278",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "公司董事会由 11 名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事占董事会人数的 1/3 以上",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事会成员",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 0,
+      "unit": "人",
+      "original_text": "公司不再设置监事会，监事会的职权由董事会审计委员会行使",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "伊利制定碳中和战略与目标，构建温室气体排放管理体系，开展气候风险评估，设定减排目标：2030年范围1和2碳排放总量较2012年减少35%，单吨产品碳排放强度较2012年减少35%，核心原奶供应商碳排放强度较2021年降低7%。",
+      "original_text": "响应国家‘双碳’战略，制定碳中和战略与目标，持续探索应对气候变化的有效策略，全面联动产业链低碳发展",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "伊利建立环境管理体系，制定集团《环境技术标准》《环境检测技术标准》《废气管理技术标准》《固体废物处置技术标准》《水管理技术标准》等污染物管理制度，并通过ISO 14001认证。",
+      "original_text": "制定集团《环境技术标准》《环境检测技术标准》《废气管理技术标准》《固体废物处置技术标准》《水管理技术标准》等污染物管理制度",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "截至2025年底，伊利共计为消费者提供6款碳中和产品和多款减碳产品。",
+      "original_text": "伊利共计为消费者提供6款'碳中和'产品和多款'减碳'产品",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司签署联合国生物多样性公约承诺书，参与亚洲象栖息地保护、梭梭保护林计划等。",
+      "original_text": "2016年，伊利签署联合国生物多样性公约《企业与生物多样性承诺书》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "伊利推动循环经济，如粪污资源化利用、沼气发电、废水处理回用、废弃物无害化处理，并构建种养协同的低碳农业体系。",
+      "original_text": "拓展应用粪污低碳处理技术，持续推动厌氧发酵沼气发电项目，对牧场粪污进行无害化处理和 降低甲烷等温室气体排放",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司提供同工同酬、有竞争力的薪资水平、员工福利、职业发展通道与职业培训，并设有员工沟通和反馈平台、职工代表大会。",
+      "original_text": "同工同酬、有竞争力的薪资水平、员工福利、职业发展通道与职业培训、职业健康与员工关爱",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司依据相关法律法规构建覆盖全体员工的全流程安全管理体系，制定《安全管理手册》，持续优化EHSQ信息化系统，并开展安全培训。2025年员工因工导致安全事故零起。",
+      "original_text": "依据《中华人民共和国安全生产法》《中华人民共和国职业病防治法》等法律法规，构建覆盖全体员工的全流程安全管理体系，制定《安全管理手册》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商责任采购标准》，对供应商在环境、健康与安全、劳工管理及商业道德提出具体要求，并开展供应商质量能力提升赋能培训、食品安全与质量培训等。",
+      "original_text": "制定并发布了《供应商责任采购标准》，对供应商在环境、健康与安全、劳工管理及商业道德提出了具体的要求",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立产品安全和质量委员会，设置首席质量官，通过ISO 9001和FSSC 22000认证，全国工厂100%获得认证。产品安全风险识别覆盖率100%，国家监督机构抽检合格率100%。",
+      "original_text": "产品安全和质量委员会，设置首席质量官，统筹产品安全和品质管理；ISO 9001质量管理体系认证，全国工厂100%获得FSSC 22000食品安全体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司升级了《网络安全管理制度》《数据安全管理制度》《个人信息安全管理制度》，成立网络安全管理委员会，开展信息安全培训，2025年未发生泄露客户隐私安全事件。",
+      "original_text": "升级了《网络安全管理制度》《数据安全管理制度》《个人信息安全管理制度》等内部管理文件；2025年，伊利未发生泄露客户隐私安全事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司持续推进“伊利方舟”“伊利营养2030”“伊利童梦同宇”等公益项目，并携手“伊心向阳”志愿者服务联合会举办公益活动，支持乡村振兴。",
+      "original_text": "持续推进“伊利方舟”“伊利营养2030”“伊利童梦同宇”等代表性公益项目，并携手“伊心向阳”志愿者服务联合会，举办了丰富多彩的公益活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司禁止歧视，保障女性权益，提供产假、育儿假，建设爱心妈咪小屋，获得多元公平包容大奖。",
+      "original_text": "避免因性别、年龄、国籍、宗教或伤残等因素产生的歧视行为。依法为女职工提供孕检假期、产假，累计建成'爱心妈咪'小屋。获得'2025多元公平包容大奖'。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "形成了“决策层-组织层-执行层”自上而下的三层可持续发展治理架构，搭建“董事会战略与可持续发展委员会-可持续发展管理办公室-各职能部门及业务单位”的治理架构。",
+      "original_text": "形成了“决策层-组织层-执行层”自上而下的三层可持续发展治理架构，搭建“董事会战略与可持续发展委员会-可持续发展管理办公室-各职能部门及业务单位”的治理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "建立了反舞弊监察与防控治理体系，董事会审计委员会是反舞弊工作的最高管理机构，对舞弊行为零容忍。",
+      "original_text": "建立了反舞弊监察与防控治理体系，董事会审计委员会是反舞弊工作的最高管理机构，对舞弊行为零容忍。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "坚守商业道德，将诚信与合规视作公司经营的基石，依法合规经营。",
+      "original_text": "坚守商业道德，将诚信与合规视作公司经营的基石，依法合规经营。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "将内部控制与风险管理作为保障企业稳健运营的核心支柱，建立以风险与价值为导向、以控制为手段、以数字化为支撑的“六位一体”内控与风险管理体系。",
+      "original_text": "将内部控制与风险管理作为保障企业稳健运营的核心支柱，建立以风险与价值为导向、以控制为手段、以数字化为支撑的“六位一体”内控与风险管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "积极搭建多元化的投资者沟通平台，回应投资者关切，不断提升信息披露的有效性与透明度。",
+      "original_text": "积极搭建多元化的投资者沟通平台，回应投资者关切，不断提升信息披露的有效性与透明度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "构建了完善的沟通机制，同广泛利益相关方建立紧密联系，通过官网、微博、400热线、直播互动等多种形式保持交流。",
+      "original_text": "构建了完善的沟通机制，同广泛利益相关方建立紧密联系，通过官网、微博、400热线、直播互动等多种形式保持交流。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "2024-2025年度信息披露保持AA级，发布综合信息披露5份，专项信息披露多份。",
+      "original_text": "2024-2025年度信息披露保持AA级，发布综合信息披露5份，专项信息披露多份。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600887_伊利股份_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

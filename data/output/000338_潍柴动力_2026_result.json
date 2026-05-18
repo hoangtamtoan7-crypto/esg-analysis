@@ -1,0 +1,442 @@
+{
+  "company_name": "潍柴动力",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 93764081.8,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 93,764,081.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 230405.31,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一：温室气体直接排放量 吨二氧化碳当量 285,474.10 230,405.31",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 690052.16,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二：温室气体间接排放量 吨二氧化碳当量 690,052.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 434714.86,
+      "unit": "吨二氧化碳当量/十亿元收入",
+      "original_text": "温室气体总排放密度 吨二氧化碳当量/十亿元收入 434,714.86",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2653742.92,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "综合能源消耗总量 千个千瓦时 2,653,742.92",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 4745955.17,
+      "unit": "吨",
+      "original_text": "总用水量 吨 5,049,871.91 4,745,955.17 5,134,517.62",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 2360727.78,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 2,360,727.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 493765.34,
+      "unit": "吨",
+      "original_text": "有害废弃物排放总量 吨 23,049.19; 无害废弃物排放总量 吨 470,716.15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 101440,
+      "unit": "人",
+      "original_text": "公司在全球共有劳动合同员工101,440人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 19.04,
+      "unit": "%",
+      "original_text": "19.04%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 3242.75,
+      "unit": "万元",
+      "original_text": "公司全年培训投入3,242.75万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 108.76,
+      "unit": "小时/人",
+      "original_text": "人均培训时长不低于100学时 人均培训时长108.76 学时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 3.12,
+      "unit": "%",
+      "original_text": "员工流失数据 按性别划分的员工流失率 17 3.12%",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 957600,
+      "unit": "万元",
+      "original_text": "95.76亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.13,
+      "unit": "%",
+      "original_text": "4.13%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 17461.68,
+      "unit": "万元",
+      "original_text": "报告期内，公司安全生产投入17,461.68万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.41,
+      "unit": "‰",
+      "original_text": "员工损失工时工伤事故率（LTIR） 起/每二十万工时 0.41",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 2046.37,
+      "unit": "万元",
+      "original_text": "社会公益投入达2,046.37万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 14,
+      "unit": "人",
+      "original_text": "截至报告披露之日，董事会由14名成员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 35.7,
+      "unit": "%",
+      "original_text": "5名独立非执行董事",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "有2名女性独立非执行董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "报告期内，公司共召开董事会会议10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司以‘双碳’目标为战略牵引，将应对气候变化上升为企业发展的核心战略，构建了涵盖治理、战略、风险管理与指标目标的气候变化应对体系，并编制了《碳管理手册》及系列程序文件。",
+      "original_text": "公司以‘双碳’目标为战略牵引，在2025年将应对气候变化上升为企业发展的核心战略...构建了涵盖治理、战略、风险管理与指标目标的气候变化应对体系...并编制了《碳管理手册》及系列程序文件。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，ISO 14001环境管理体系认证覆盖率100%，每年开展一次环境管理体系审核，覆盖全部生产基地。",
+      "original_text": "ISO 14001环境管理体系认证覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦低碳产品（高热效率发动机）、清洁产品（天然气、氢燃料电池、纯电动等），全年通过低碳技术应用助力社会减少碳排放超过440万吨。",
+      "original_text": "公司在低碳产品（高热效率发动机）、清洁产品（天然气、氢燃料电池、纯电动等）...全年通过低碳技术应用助力社会减少碳排放超过440万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生物多样性保护贯穿于运营管理全流程，在业务布局与项目前期严格执行环境影响评价，确保生产活动不影响周边生态。",
+      "original_text": "公司将生物多样性保护贯穿于运营管理的全流程。在业务布局与项目前期，公司严格执行环境影响评价，系统评估全生命周期对生物多样性的影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行再制造产品，节能约60%、节约材料约70%，降低生产成本约50%，几乎不产生固体废弃物，推动‘资源—产品—废旧产品—再制造产品’的绿色循环模式。",
+      "original_text": "再制造产品可实现节能约60%、节约材料约70%、降低生产成本约50%，几乎不产生固体废弃物，有力推动了‘资源—产品—废旧产品—再制造产品’的绿色循环模式。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚守保障员工权益的初心，坚持'人才第一工程'核心理念，制定《多元、平等与包容政策》，定期召开职工代表大会，审议通过相关报告，保障员工权益。",
+      "original_text": "公司坚守保障员工权益的初心，坚持'人才第一工程'核心理念，制定《多元、平等与包容政策》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，覆盖率100%。制定《环境、健康与安全（EHS）政策》，建立安全生产委员会，开展安全培训，安全生产投入17,461.68万元。",
+      "original_text": "ISO 45001职业健康安全管理体系认证覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司发布《供应商行为准则》，覆盖健康安全环保、商业伦理等，开展供应商培训考评，推动供应链质量提升。",
+      "original_text": "公司发布《供应商行为准则》，全面覆盖健康安全环保、商业伦理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立质量保障体系，未发生产品召回事件，未发生因产品质量缺陷被监管机构罚款或诉讼的事件。客户满意度达93.13%。",
+      "original_text": "未发生产品召回事件，未发生因产品质量缺陷被监管机构罚款或诉讼的事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过ISO/IEC 27001信息安全管理体系认证，制定《信息安全管理办法》《信息与数据安全保护政策》，未发生数据安全事件和泄露客户隐私事件。",
+      "original_text": "公司 未发生 数据安全事件和泄露客户隐私事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司持续推进养老关怀工作，通过社区服务、老年人生活关怀及健康促进等举措，参与社区共建，社会公益投入达2,046.37万元。",
+      "original_text": "社会公益投入达2,046.37万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司制定《多元、平等与包容政策》，员工多元化建设持续发力，少数民族员工754人，海外籍员工38,788人，女性员工关怀活动。",
+      "original_text": "公司持续推进员工多元化建设，制定《多元、平等与包容政策》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已建立完善的ESG治理体系，形成由'董事会ESG委员会—ESG管理小组—ESG工作小组'构成的三级管理架构，董事会ESG委员会为最高决策机构。",
+      "original_text": "公司已建立完善的ESG治理体系，形成由'董事会ESG委员会—ESG管理小组—ESG工作小组'构成的三级管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司对任何违反商业道德的行为秉持'零容忍'态度，制定《反腐败与商业贿赂制度》，全员签署合规承诺书，开展反腐教育培训。",
+      "original_text": "公司对任何违反商业道德的行为秉持'零容忍'态度，明确界定商业贿赂、勒索、欺诈等不当行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司已通过ISO 37301合规管理体系认证，建立'四位一体'合规管理框架，开展商业道德专项审计，2025年未发生洗钱等事件。",
+      "original_text": "潍柴动力已于2023年首次通过ISO 37301合规管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建'三道防线'风险治理架构，形成涵盖战略、运营、合规、财务四大领域的风险清单，每年开展全面风险评估。",
+      "original_text": "公司构建了权责清晰、协同联动的风险治理架构，形成'三道防线'风险管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《市值管理制度》和《投资者关系管理制度》，董事会为市值管理工作领导机构，通过股东会、业绩说明会等多元化渠道与投资者沟通。",
+      "original_text": "公司制定《潍柴动力股份有限公司市值管理制度》和《潍柴动力股份有限公司投资者关系管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司依托多渠道、常态化的沟通方式收集并回应利益相关方意见，包括股东、员工、供应商、客户、社区等，保障信息传递的及时性与一致性。",
+      "original_text": "公司将与利益相关方的有效沟通作为双重重要性矩阵和ESG战略制定的重要基础",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循ESG信息披露监管要求，确保信息的准确性、透明性及可比性，定期披露报告及公司治理等核心信息。",
+      "original_text": "本报告严格遵循ESG信息披露监管要求，确保信息的准确性、透明性及可比性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司开展税务风险自查与评估，修订《发票管理办法》，强化涉税事项全过程管理。",
+      "original_text": "开展税务风险自查与评估，并修订《发票管理办法》，强化涉税事项全过程管理。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "000338_潍柴动力_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

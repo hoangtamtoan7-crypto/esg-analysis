@@ -1,0 +1,441 @@
+{
+  "company_name": "冀东装备",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 6061.02,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 6,061.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3078.45,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围1） 吨二氧化碳当量 3,078.45",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2982.57,
+      "unit": "吨二氧化碳当量",
+      "original_text": "能源间接温室气体排放量（范围2） 吨二氧化碳当量 2,982.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.02,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "温室气体排放密度 吨二氧化碳当量/万元 0.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2192.37,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗折标煤总量 吨标准煤 2,192.37",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 1.82,
+      "unit": "%",
+      "original_text": "可再生能源消耗量占比 百分比 1.82",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 58781,
+      "unit": "吨",
+      "original_text": "用水总量 吨 58,781",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 15582.9,
+      "unit": "吨",
+      "original_text": "废水排放总量 m3 15,582.90",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 0.03,
+      "unit": "吨",
+      "original_text": "氮氧化物排放总量 吨 0.03",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.01,
+      "unit": "吨",
+      "original_text": "二氧化硫排放总量 吨 0.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.54,
+      "unit": "吨",
+      "original_text": "颗粒物排放总量 吨 0.54",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1688,
+      "unit": "人",
+      "original_text": "男性员工 1,400 人，女性员工 288 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 17.06,
+      "unit": "%",
+      "original_text": "女性员工 288 人，员工总数 1,688 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 39.6,
+      "unit": "小时/人",
+      "original_text": "按性别划分的每名员工完成受训的平均时数 男员工 39.6 小时",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.55,
+      "unit": "%",
+      "original_text": "男性员工离职率 2.64%，女性员工离职率 2.08%，加权平均约2.55%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 5149.68,
+      "unit": "万元",
+      "original_text": "研发资金投入 万元 5,149.68",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.85,
+      "unit": "%",
+      "original_text": "研发投入强度 % 1.85",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2817.98,
+      "unit": "万元",
+      "original_text": "2025年，公司安全生产投入资金共计2,817.98万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司董事会由7名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事3名，独立董事人数占董事会总数比例超过三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "2025年，公司共召开股东会4次，董事会7次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "撤销监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "审计与风险委员会：报告期内召开8次会议",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，将应对气候变化融入公司治理与发展全局，建立气候相关指标与目标管理体系，分年度将碳排放控制指标分解至各企业，推动碳排放总量稳步达峰、强度持续下降。",
+      "original_text": "冀东装备积极响应国家'双碳'战略，将应对气候变化融入公司治理与发展全局。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001环境管理体系认证，建立覆盖日常运行、排放管理及相关方管理的全过程环境合规管理体系。",
+      "original_text": "ISO14001 环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦'高端、绿色、智能'发展方向，推动绿色智能立式辊磨机、高效节能篦冷机等绿色产品研发，获得金砖国家工业创新大赛优秀项目奖等荣誉，并参与制定绿色制造相关标准。",
+      "original_text": "公司坚持以科技创新为核心驱动力，聚焦'高端、绿色、智能'发展方向，推动绿色产品研发...绿色智能立式辊磨机获2025金砖国家工业创新大赛优秀项目奖...参与制定新型干法水泥生产成套装备技术要求等标准",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告未提及生物多样性保护相关措施。",
+      "original_text": "",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进废弃物减量化、资源化和无害化处置，中水回用率保持在40%以上，循环物料利用率6.67%。",
+      "original_text": "推进废弃物减量化、资源化和无害化处置；中水回用率保持在40%以上；循环物料利用率6.67%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，实现五险一金、体检全覆盖，建立困难职工帮扶机制，设立首席职工津贴等特殊福利。",
+      "original_text": "实现员工五险一金、体检全覆盖，保障员工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，制定13项管理制度，开展安全教育培训、隐患排查、应急演练，落实职业危害告知和劳动防护用品管理。",
+      "original_text": "冀东装备及其下属公司已建立13项职业健康安全管理制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行监督管理与动态评价，从产品质量、准时交货率、客户投诉响应等维度进行评价，确保供应链安全。",
+      "original_text": "建立供应商日常评价模块，从产品质量、准时交货率、交货期偏差、客户投诉响应情况等维度进行定量与定性评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司围绕产品设计、制造、安装调试全过程进行质量控制与安全管理，组织质量管理培训，强化质量第一理念。",
+      "original_text": "围绕产品设计、制造、安装调试及工程实施全过程的质量控制与安全管理措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司采取符合行业标准的安全防护措施保护客户隐私，定期开展网络安全培训，年度未发生数据安全事件。",
+      "original_text": "年度，公司未发生数据安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极践行企业社会责任，参与公益事业、社区共建、志愿服务，与属地应急管理部门共同开展公益安全活动。",
+      "original_text": "冀东装备始终坚守国企责任担当，将公益慈善融入企业发展使命，积极投身社会公益实践。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司关注女性员工权益，组织三八妇女节活动，设立爱心妈妈小屋，但未明确提及多元化与包容政策。",
+      "original_text": "在第115个三八国际劳动妇女节之际，冀东装备组织各企业开展丰富多彩的庆祝活动。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了三级ESG治理架构，董事会为最高决策机构，下设战略委员会，管理层设可持续发展领导小组和工作小组。",
+      "original_text": "董事会是ESG相关事宜的最高决策与最终负责机构；战略委员会监督审议可持续发展战略；可持续发展工作小组由董事会秘书担任组长。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司组织董事及高级管理人员开展合规专项培训，全体董事参与反贪腐、反贿赂等廉洁合规教育，制定《合规行为准则》等制度。",
+      "original_text": "全体董事均参与反贪腐、反贿赂、反不正当竞争、利益冲突管理、关联交易识别、贪腐风险防范等廉洁合规教育内容",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《市场交易合规专项指引及风险防范建议》，针对商业伙伴管理、正当竞争等作出系统规范，发布《合规行为准则》。",
+      "original_text": "制定《市场交易合规专项指引及风险防范建议》，针对商业伙伴管理、正当竞争等违规行为作出系统规范并明确风险防控要求；发布《合规行为准则》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建全链条合规风险防控体系，建立合规风险识别、评估、预警与应对机制，完善合规管理“三张清单”。",
+      "original_text": "持续深化合规管理体系建设，健全合规风险识别、评估、预警与应对机制，将合规要求深度嵌入经营管理全流程，构建全链条合规风险防控体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东大会、定期报告与公告、投资者沟通会议等方式与投资者保持沟通。",
+      "original_text": "股东与投资者：合规运营、持续稳定的投资回报、风险管理、企业管治、信息披露；沟通方式：股东大会、定期报告与公告、投资者沟通会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多元渠道与政府、股东、客户、员工、供应商、社区等利益相关方保持常态化沟通，并开展实质性议题调研。",
+      "original_text": "冀东装备始终与各利益相关方保持常态化沟通，通过多元渠道收集政府及监管机构、股东与投资者、客户、员工、供应商及合作伙伴、行业协会、社区、环保组织、社会公众等利益相关方的意见",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司加强信息披露质量，丰富可持续发展绩效量化指标披露，增强与利益相关方的沟通透明度。",
+      "original_text": "加强信息披露质量，丰富可持续发展绩效量化指标披露，增强与利益相关方的沟通透明度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

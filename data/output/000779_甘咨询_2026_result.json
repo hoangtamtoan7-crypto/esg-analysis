@@ -1,0 +1,403 @@
+{
+  "company_name": "甘咨询",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司紧扣'双碳'目标等国家战略，将绿色发展纳入'十五五'发展规划，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "紧扣黄河流域生态保护和高质量发展、'双碳'目标等国家战略",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "partial",
+      "summary": "公司秉持绿色低碳发展理念，将环保理念嵌入日常管理各环节，但未明确提及通过ISO 14001认证。",
+      "original_text": "将环保理念嵌入日常管理各环节，践行绿色低碳发展理念",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司加大绿色技术研发投入，聚焦绿色建筑、生态安全、水资源节约等领域，研发煤矸石制备高活性低碳胶凝材料等技术，多个绿色设计项目获国家及省部级奖项。",
+      "original_text": "加大绿色技术研发投入，聚焦绿色建筑、生态安全、水资源节约、节能新材料、低碳交通等核心领域",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司开展河道清理、护栏检修及基地植绿护绿行动，筑牢生态屏障，但未明确提及生物多样性保护专项措施。",
+      "original_text": "子公司水电设计院、城乡规划院开展河道清理、护栏检修及基地植绿护绿行动，筑牢生态屏障",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司完善垃圾分类回收体系，强化资源循环利用，构建节约、高效、低碳的循环经济模式。",
+      "original_text": "完善垃圾分类回收体系，强化资源循环利用，构建起节约、高效、低碳",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，理顺工会组织关系，召开工会会员代表大会，完善薪酬福利，构建和谐奋进的职工家园。",
+      "original_text": "保障员工合法权益，理顺工会组织关系，召开工会会员代表大会，完善薪酬福利",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司严格落实安全生产责任制，全年开展常态化督导检查16次，整改安全隐患，全年未发生安全生产责任事故。构建应急预警体系，强化安全生产技术保障。",
+      "original_text": "严格落实安全生产责任制，全年开展常态化督导检查16次，整改安全隐患，全年未发生安全生产责任事故。构建应急预警体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司对供应商及客户坚持诚信履约、遵守商业道德、合作共赢、服务质量保障，实行公开招标、阳光采购、平等协商、廉洁自律。",
+      "original_text": "供应商及客户：诚信履约、遵守商业道德、合作共赢、服务质量保障；公开招标、阳光采购、平等协商、廉洁自律",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司设有省级质量检测中心1个，省级技术创新平台6个，省级科普基地1个，产学研合作机构十余家，建有西北最大的工程检测研发基地。",
+      "original_text": "省级质量检测中心1个，省级技术创新平台6个，省级科普基地1个，产学研合作机构十余家，建有西北最大的工程检测研发基地",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "partial",
+      "summary": "公司加强网络安全与舆情风险防控，维护企业和谐稳定大局。",
+      "original_text": "加强网络安全与舆情风险防控，维护企业和谐稳定大局",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行国企社会责任，开展乡村振兴帮扶工作，包括技能培训527人次，帮助就近就地就业及劳务输出487人。参与社会公益活动，持续提升品牌知名度。",
+      "original_text": "技能培训527人次，帮助就近就地就业及劳务输出487人。因地制宜实施乡村振兴帮扶工作。参与社会公益活动，履行国企社会责任",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司建立管理、技术、业务三大序列8个职级，打破职业发展壁垒，畅通干部能上能下、员工能进能出通道。全年涌现省级劳动模范1人、巾帼标兵等。",
+      "original_text": "建立管理、技术、业务三大序列8个职级，打破职业发展壁垒，畅通干部能上能下、员工能进能出通道。全年涌现省级劳动模范1人、巾帼标兵等",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了“党委领导、董事会决策、经理层执行、监事会监督”的治理架构，并设有ESG治理架构及利益相关方章节。",
+      "original_text": "党委发挥领导作用，以股东会为最高权力机构、董事会为决策机构、监事会监督，构建了“党委领导、董事会决策、经理层执行、监事会监督”的治理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司强化廉洁风险防控，持续加强党的领导和党的建设，营造风清气正的发展环境。",
+      "original_text": "强化廉洁风险防控，坚守廉洁底线，营造风清气正的发展环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持规范运营、合规治企，遵守商业道德，诚信履约，通过公开招标、阳光采购等方式与供应商合作。",
+      "original_text": "公司始终坚持规范运营、合规治企，诚信履约、遵守商业道德，公开招标、阳光采购。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建覆盖各领域、贯穿全流程的风险防控体系，健全内控管理体系，制定修订各类制度50余项。",
+      "original_text": "公司坚持统筹发展和安全，构建覆盖各领域、贯穿全流程的风险防控体系。健全内控管理体系，制定修订各类制度50余项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过电话、邮件、互动易、说明会等渠道与投资者沟通，并实施现金分红。",
+      "original_text": "电话、邮件、互动易、说明会等渠道，现金分红。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立了多渠道、常态化的利益相关方沟通机制，主动倾听诉求，及时回应关切。",
+      "original_text": "公司建立了多渠道、常态化的利益相关方沟通机制，主动倾听利益相关方诉求，及时回应关切。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司强调合规信息披露，提升信息披露透明度，回应利益相关方期望。",
+      "original_text": "合规信息披露、依规召开股东会，提升信息披露透明度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度具体措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 19,
+    "quantitative_valid": 19,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.692
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 39,
+    "missing": 13,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 75.0
+  }
+}

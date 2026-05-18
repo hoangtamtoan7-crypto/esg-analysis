@@ -1,0 +1,412 @@
+{
+  "company_name": "智微智能",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 97400,
+      "unit": "吨",
+      "original_text": "2025年度用水量：9.74万立方米",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 2647,
+      "unit": "吨",
+      "original_text": "2025年废水排放量：2647立方米",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 929.68,
+      "unit": "吨",
+      "original_text": "2025年有害固体废弃物：9.68吨（主要是废机油、清洗废液、废灯管、废活性炭、废抹布、废电池、废板边等）\n2025年一般固体废弃物：920吨（车间垃圾和生活垃圾）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "报告期内，公司共有 名员工，雇佣少数民族员工 人；董事、高级管理人员共计 人，其中女性 人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "报告期内，公司共有 名员工，雇佣少数民族员工 人；董事、高级管理人员共计 人，其中女性 人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "董事、高级管理人员共计 人，其中女性 人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "2025年研发投入共计 程，通过《流程管理制度》《流程owner管理制度》和《流程考核细则》等确保流程的深化建设与持续优化。通过“战略到执... 研发投入（单位：万元）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "通过消费帮扶、物资捐赠等多种方式，全力助推农...",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "董事会共有6名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中独立董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "2025年共召开董事会8次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司致力于绿色环保运营，全面推进节能减排降碳工作，积极助力国家碳达峰、碳中和目标的实现。",
+      "original_text": "我们致力于绿色环保运营，全面推进节能减排降碳工作，持续提升企业绿色竞争力，通过深化节能减排措施与加强绿色产品研发，积极助力国家碳达峰、碳中和目标的实现。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立ISO14001:2015环境管理体系，并通过认证。",
+      "original_text": "智微智能集团已经获得：ISO14001:2015环境管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司积极开发绿色产品，如绿色AI一体机，采用环保材料和节能设计，注重产品全生命周期环境影响。",
+      "original_text": "在设计GREEN AI GAA01一体机时，智微智能研发团队秉持着“科技与环保”结合的设计理念。该绿色显示模组采用了环保材料，在产品能效设计上...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施废弃物分类处理，有害废弃物和一般废弃物均交由专业公司处理，处理率100%。同时推行绿色包装，减少包装材料消耗。",
+      "original_text": "针对有害固体废物的收集、分类、贮存、运输、处置，制定管理文件并明确责任，并交由专业废弃物处理公司处理。处理率100% 绿色包装",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，禁止雇佣童工和强迫劳动，提供平等就业机会，构建公平薪酬体系，依法缴纳五险一金，并提供补充福利。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国妇女权益保障法》《禁止使用童工规定》等法律法规要求，秉持公平、公正、透明的用人原则，致力于为所有求职者与员工提供平等就业机会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO45001:2018职业健康安全管理体系认证，定期开展安全培训和应急演练，提供健康管理活动，确保员工健康与安全。",
+      "original_text": "ISO45001:2018职业健康安全管理体系...定期开展安全培训和应急演练...员工健康与安全",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将可持续发展理念融入供应链管理，建立供应商评估与准入标准，将质量、环境、职业健康安全等作为主要得分项，推动供应商提高管理水平。",
+      "original_text": "公司将可持续发展理念全面融入供应链管理，构建了涵盖供应商评估、有害物质管控等环节的管理体系...将质量控制、环境保护，安全...生产、员工权益保护作为主要得分项",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司已通过ISO9001:2015质量管理体系认证，制定《管理手册》《质量检验标准》等制度，覆盖产品全生命周期质量管理，确保产品安全与质量。",
+      "original_text": "ISO9001:2015质量管理体系...制定《管理手册》《质量检验标准》《技术支持服务流程》《客户投诉处理流程》等产品和服务质量管理制度",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司已通过ISO/IEC27001:2022信息安全管理体系认证，制定《信息安全管理制度》，部署防火墙、防毒墙、IPS等安全设备，保护客户隐私和数据安全。",
+      "original_text": "ISO/IEC27001:2022信息安全管理体系...制定了完善的《信息安全管理制度》...配备有出口防火墙、安全防毒墙、IPS入侵防御系统等",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过消费帮扶、物资捐赠等方式支持乡村振兴，开展公益活动，助力地方发展。",
+      "original_text": "坚定不移投身乡村振兴，通过消费帮扶、物资捐赠等多种方式，全力助推农...开展公益活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司反对就业歧视，禁止雇佣童工和强迫劳动，积极构建多元化与包容性组织文化，重视女性员工职业成长，推动女性参与管理岗位。",
+      "original_text": "坚决反对任何形式的就业歧视，依法禁止雇佣童工及一切强迫劳动行为。同时，公司积极构建多元化与包容性组织文化...重视女性员工的职业成长",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由股东会、董事会和公司管理层组成的权责明确、协调制衡的治理体系，并下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会等专门委员会。",
+      "original_text": "建立了由股东会、董事会和公司管理层组成的权责明确、协调制衡的治理体系。下设战略委员会及独立董事占多数的审计委员会、提名委员会、薪酬与考核委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司对腐败、舞弊行为坚持零容忍态度，已制定《反舞弊与举报制度》，设立廉洁公众号、举报邮箱、举报热线及总经理信箱等渠道，并开展廉洁反腐培训。",
+      "original_text": "对腐败、舞弊行为坚持零容忍态度，已制定《反舞弊与举报制度》等规范文件，并通过设立'廉洁智微'公众号、举报邮箱、举报热线及总经理信箱等多种渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守法律法规，确保公司治理合法合规，持续完善独立董事履职机制及三会治理工作，并加强合规运营管理。",
+      "original_text": "公司严格遵守法律法规，确保公司治理合法合规，持续完善独立董事履职机制及三会治理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司开展全面风险管理，建立安全管理体系，推动ISO14001、ISO45001、QC080000等体系，并实施供应商风险管理。",
+      "original_text": "开展全面风险管理；推动建立ISO14001、ISO45001、QC080000等管理体系；供应商风险管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，搭建常态化沟通机制，通过现场调研、线上电话、互动平台等多种渠道与投资者沟通，并参加策略会。",
+      "original_text": "公司高度重视投资者关系管理工作，搭建常态化沟通机制，通过现场调研、线上电话、互动平台等多种渠道与投资者沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别出六大利益相关方：政府和监管机构、客户、供应商和合作伙伴、股东和投资者、员工、社区，并建立常态化沟通机制。",
+      "original_text": "识别出六大利益相关方：政府和监管机构、客户、供应商和合作伙伴、股东和投资者、员工、社区。建立了与利益相关方的常态化沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露监管规定，制定《信息披露管理制度》《重大信息内部报告制度》等，确保信息披露真实、准确、完整、及时、公平。",
+      "original_text": "严格遵守相关信息披露监管规定，制定《信息披露管理制度》《重大信息内部报告制度》《内幕信息及知情人管理制度》，及时、准确、真实、完整、公平地进行信息披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司依法纳税，加强合规运营管理，接受监督考核，并提及税务治理、控制及风险管理。",
+      "original_text": "依法纳税；加强合规运营管理；接受监督考核；税务治理、控制及风险管理",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 22,
+    "quantitative_valid": 22,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.76
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 42,
+    "missing": 10,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 80.8
+  }
+}

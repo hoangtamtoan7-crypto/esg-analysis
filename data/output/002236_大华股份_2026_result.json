@@ -1,0 +1,442 @@
+{
+  "company_name": "大华股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 72751,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一+二温室气体排放量 吨二氧化碳当量 62,368 62,233 72,7512",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 7912,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 3,038 6,601 7,912",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 64839,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 59,330 55,632 64,839",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2883072,
+      "unit": "千克标准煤",
+      "original_text": "直接能源消耗量 千克标准煤 2,520,444 2,432,070 2,883,072",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 8.49,
+      "unit": "%",
+      "original_text": "清洁能源使用比例达8.49%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 817489,
+      "unit": "吨",
+      "original_text": "水资源消耗总量 吨 817,489",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 6894.5,
+      "unit": "吨",
+      "original_text": "可回收废弃物 吨 1,726.2；不可回收废弃物 吨 5,168.3",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 22000,
+      "unit": "人",
+      "original_text": "超22,000名员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 28.1,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时数 小时 28.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 396700,
+      "unit": "万元",
+      "original_text": "研发投入 亿元 39.67 42.13 43.36",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公益投入金额超 ，员工志愿活动参与时长超 。",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，大华股份董事会由9位成员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "3位独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定覆盖能源转型、碳排放、供应链管理等多维度的低碳发展目标，并积极推动落实。建立了从战略到运营的系统化路径，通过优化能源管理、实施节能降耗举措降低碳足迹，并将气候因素融入供应链协同与业务规划。",
+      "original_text": "大华股份已制定覆盖能源转型、碳排放、供应链管理等多维度的低碳发展目标，并积极推动落实。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依据ISO 50001标准建立并保持能源管理体系，规范化能源与碳管理。严格执行《产品全生命周期环境管理规范》，在产品各阶段落实环境管理标准。",
+      "original_text": "依据ISO 50001标准建立并保持能源管理体系，规范化能源与碳管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司以清洁技术为核心战略，持续投入绿色产品研发。2025年上市62款光伏供电产品、172款新能源充电桩，清洁技术产品及服务收入101,119.5万元。产品新增获得超150项绿色认证证书。",
+      "original_text": "上市62款光伏供电产品、172款新能源充电桩，清洁技术产品及服务收入101,119.5万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过智慧生态解决方案，聚焦森林、海岸、湿地等场景，利用视频监测与AI物种识别技术，为大熊猫国家公园搭建生物多样性监测系统，并打造AR全域生态监测系统守护湿地生态。",
+      "original_text": "为大熊猫国家公园四川某片区搭建生物多样性监测保护与数字化管理系统",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司将循环理念融入日常运营，推动废弃物分类回收利用，优化资源效率，并在包装、生产等环节实施循环经济措施。",
+      "original_text": "大华股份将循环理念融入日常运营，从资源使用到废物处理进行全程管理。公司关注水资源和生产材料的节约，并着力推动废弃物的分类与回收利用，在实践中不断探索提升资源效率的路径。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持以人为本，严格遵守劳动法，依法签订劳动合同，禁止强迫劳动，建立工会和员工申诉机制，保护员工个人信息。",
+      "original_text": "大华股份坚持以人为本的发展理念，严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》...依法签订劳动合同，禁止安排其从事过重、有毒、有害或存在安全隐患的劳动...建立完善的员工申诉与举报机制",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO 45001认证，开展安全教育培训、职业健康体检、劳动防护用品配备、消防应急管理等。",
+      "original_text": "职业健康与安全...新员工三级安全教育培训覆盖率达...建立并持续完善员工职业健康安全...职业健康教育培训、职业危害因素测试和环境检测",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将安全管控延伸至供应链，推动供应链透明化与负责任发展，开展供应商培训，签署廉洁诚信及反贿赂合规承诺书。",
+      "original_text": "公司将安全管控延伸至供应链...推动供应链透明化与负责任发展...供应商《廉洁诚信及反贿赂合规承诺书》签署率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全过程质量控制体系，覆盖产品全生命周期，通过ISO 9001认证，报告期内未发生产品质量与安全问题导致的产品召回事件。",
+      "original_text": "建立全过程质量控制体系，覆盖产品全生命周期...报告期内未发生产品质量与安全问题导致的产品召回事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视数据安全与客户隐私保护，通过ISO 27001、DSMM三级等认证，建立覆盖全生命周期的数据安全管理体系，开展员工培训。",
+      "original_text": "数据安全与客户隐私保护...通过ISO 27001信息安全管理体系认证...平台通过了数据安全能力成熟度模型（DSMM）三级认证...信息安全员工培训覆盖率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，参与社区建设和支持公益项目，鼓励员工志愿者活动，投入时间、资金用于社区共建。",
+      "original_text": "积极履行社会责任，参与社区建设和支持公益项目...员工志愿活动参与时长超...投入时间、资金用于社区共建",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司提供多元平等包容的工作环境，女性员工人数5788人（2024年），员工平均培训时数28.1小时，工会覆盖率达100%，集体协议签订率100%。",
+      "original_text": "女性 人 5,788...员工平均培训时数 小时 28.1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了层次分明、分工明确的ESG治理架构，涵盖决策层、管理层、执行层。董事会作为最高决策机构，战略委员会获授权识别ESG相关风险和机遇，ESG管理委员会负责审议确定ESG事宜。",
+      "original_text": "公司建立了层次分明、分工明确的ESG治理架构，涵盖“决策层、管理层、执行层”，并持续完善ESG管理体系。董事会作为可持续发展管理的最高决策机构，负责全面监督ESG事宜；战略委员会获董事会授权识别ESG相关风险和机遇，并履行相应监督职责；ESG管理委员会负责审议确定公司ESG相关事宜。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续深化廉正文化建设，通过组织‘廉正合规宣传月’等主题活动，开展系统化培训与警示教育。设立了由董事长直接领导的道德遵从与合规管理委员会，负责统筹合规运营、风险管控。",
+      "original_text": "大华股份持续深化廉正文化建设，通过组织“廉正合规宣传月”等主题活动，开展系统化培训与警示教育。大华股份设立了由董事长直接领导的道德遵从与合规管理委员会，负责统筹公司合规运营、风险管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守商业道德标准，全面落实风险管理，完善治理制度与机制。持续强化商业道德监管机制，特别针对供应链采购等高风险领域不断加大审计资源投入。",
+      "original_text": "严格遵守商业道德标准，全面落实风险管理，完善治理制度与机制。公司持续强化商业道德监管机制，特别针对供应链采购等高风险领域不断加大审计资源投入。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续完善风险治理架构，增强应对风险能力。建立了三道防线风险管理体系：业务线作为第一道防线，内控线作为第二道防线，审计线作为第三道防线。围绕高风险领域持续强化内控管理。",
+      "original_text": "持续完善风险治理架构，增强应对风险能力。业务线作为风险管理的第一道防线，负责将风险管理措施与内控流程融入日常经营；内控线作为风险管理的第二道防线，负责组织协调各业务单元的风险管理；审计线作为第三道防线。围绕高风险内控领域开展流程与内控深化评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过互动易、投资者热线、投资者公众号等渠道与投资者保持沟通，及时准确披露经营信息，规范三会运作。",
+      "original_text": "互动易、投资者热线、投资者公众号等渠道，及时准确披露经营信息，规范三会运作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司主要利益相关方包括股东、投资者、客户、员工、合作伙伴、政府、监管机构及社区等。公司致力于与各利益相关方保持开放沟通，通过多种渠道进行交流。",
+      "original_text": "大华股份的主要利益相关方包括股东、投资者、客户、员工、合作伙伴、政府、监管机构及社区等。利益相关方的信任和支持，是公司赖以生存和发展的基础。公司致力于与各利益相关方保持开放沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司董事会承诺本报告不存在任何虚假记载、误导性陈述或重大遗漏。公司完善治理机制，及时准确披露信息。",
+      "original_text": "公司董事会承诺本报告不存在任何虚假记载、误导性陈述或重大遗漏。完善治理机制，及时准确披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司设有财税合规专项小组，构建全球财税合规体系，确保不同国家和地区的财税合规要求得到有效执行。",
+      "original_text": "财税部门构建了全球财税合规体系，设立财税合规专项小组，确保公司在不同国家和地区的财税合规要求得到有效执行。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "002236_大华股份_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "洋河股份",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 535681,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 473,772 507,758 535,681",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 16192.24,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一（吨CO2e）16,192.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 519488.83,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二（吨CO2e）519,488.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.16,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度（万元营收排放量） 0.19 0.17 0.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 30.97,
+      "unit": "%",
+      "original_text": "实现年使用光伏发电量18,754mWh，占总用电量的30.97%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 6025480,
+      "unit": "吨",
+      "original_text": "水资源消耗总量 吨 8,619,954 5,255,654 6,025,480",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 20519,
+      "unit": "人",
+      "original_text": "截至报告期末，公司共有员工 20,519 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 23.29,
+      "unit": "%",
+      "original_text": "女性员工占比 % 21 23.29 25",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "员工培训平均时长（小时）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1.42,
+      "unit": "%",
+      "original_text": "员工流失率为 1.42 %",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公司安全生产投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 1215100,
+      "unit": "万元",
+      "original_text": "上缴税金121.51亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司董事会共有",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事占全体董事的比例超1/3",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会专门委员会会议 次",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司监事会共有",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司正式提出双碳战略，发布《洋河股份碳达峰碳中和行动方案》白皮书，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "《洋河股份碳达峰碳中和行动方案》白皮书正式发布",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司高度重视环境管理体系建设和环境管理工作，秉承‘生态立企，绿色发展’理念，已建立完善的环境自行监测机制，各分公司均建立环境自行监测方案。",
+      "original_text": "公司高度重视环境管理体系建设和环境管理工作，秉承‘生态立企，绿色发展’的环保理念",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司对四大代表产品进行供应链碳足迹核算，并开展绿色包装创新实践，如改善礼盒生产工序、降低空隙率等。",
+      "original_text": "对四大代表产品“梦之蓝手工班”“苏酒头排酒”“贵30”“微分子酒”进行了供应链碳足迹核算；改善水晶版礼盒生产工序，节省吊牌材料。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司致力于保护当地生物多样性，通过整治闲置土地、种植多样化植被，并与科研院校合作开展产区微生态多样性研究。",
+      "original_text": "致力于保护当地生物的多样性，通过对闲置土地的整治、多样化植被的种植，增强土地的生态价值。积极与科研院校合作，深入开展产区微生态多样性研究。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司坚持固废‘减量化、资源化、无害化’处理处置原则，实施酒糟与污泥日产日销管理，全部资源化、无害化再利用；废水处理采用先进工艺，实现水资源循环利用。",
+      "original_text": "公司坚持固废‘减量化、资源化、无害化’处理处置原则，实施酒糟与污泥日产日销管理，全部资源化、无害化再利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉持员工至上理念，保障员工权益，劳动合同签订率100%，提供具有竞争力的薪资和晋升机制。",
+      "original_text": "公司秉持“员工至上”的理念，不断加强员工雇佣与权益、福利与关怀、发展与培训、健康与安全等方面的制度建设",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过职业健康安全管理体系认证，开展安全生产月活动，安全培训率100%，职业健康体检覆盖率100%。",
+      "original_text": "公司职业健康安全管理体系认证证书；公司安全教育率达100%；公司职业健康体检覆盖率达100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应链ESG管理体系，对供应商进行准入评审、监督检查、培训，推动绿色供应链和廉洁采购。",
+      "original_text": "公司通过践行绿色采购，发展绿色供应链...对新供应商的准入机制...定期、不定期对供应商开展监督与检查...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全流程质量管控和食品安全管理体系，通过ISO9001等认证，实施原粮溯源和食品安全宣传。",
+      "original_text": "公司已通过ISO9001质量管理体系认证；建立健全了原粮产品溯源技术体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "partial",
+      "summary": "报告提及信息安全与隐私保护作为议题，但未提供具体措施描述。",
+      "original_text": "信息安全与隐私保护",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展志愿献血、留守儿童关爱、公益捐款等活动，获评年度慈善企业。",
+      "original_text": "公司组织开展志愿献血、留守儿童关爱、公益捐款等活动；2023中国慈善榜“年度慈善企业”",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司雇佣残疾员工30余名，在招聘、晋升等方面不因国籍、户籍、民族、性别等歧视。",
+      "original_text": "残疾员工30余名；在招聘、晋升、培训等各方面合法合规，保障员工享有法律所赋予的权利，不因国籍、户籍、民族、政治面貌、性别等歧视",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了以股东大会、董事会、监事会和管理层为主体架构的治理体系，董事会下设战略、提名、审计、薪酬与考核四个专业委员会。",
+      "original_text": "公司建立以股东大会、董事会、监事会和管理层为主体架构...董事会下设战略、提名、审计、薪酬与考核四个专业委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司注重商业道德建设，开展反腐败专项培训，建立反商业贿赂及反腐败体系，制定相关制度。",
+      "original_text": "商业道德建设、反腐败...开展反腐败专项培训...反商业贿赂及反腐败体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守法律法规，制定完善的规章制度，注重商业道德建设、知识产权保护，确保诚信运营。",
+      "original_text": "公司严格遵守法律法规要求，制定完善的规章制度，深入开展三会运作、风险管控、信息披露等工作，不断提升治理水平。公司注重商业道德建设以及知识产权保护等方面的实践",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司设立风险管控小组与防范化解重大风险领导小组，制定《风险和机遇管理办法》等文件，建立风险管理闭环机制。",
+      "original_text": "公司设立风险管控小组与防范化解重大风险领导小组...制定《风险和机遇管理办法》《风险管理责任追究制度》等文件...风险管理闭环机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理工作，通过充分的信息披露、网上业绩说明会等方式与投资者沟通。",
+      "original_text": "公司高度重视投资者关系管理工作，通过充分的信息披露，增加公司信息披露透明度，并通过多种方式渠道保持与投资...网上业绩说明会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过问卷平台与内外部利益相关方开展沟通，识别实质性议题，并召开股东大会、投资者交流会等。",
+      "original_text": "公司高度重视与利益相关方的沟通，致力于通过各种合理渠道与政府、股东、员工、消费者、经销商、供应商、社区公...通过洋河问卷平台与公司内外部利益相关方开展沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续11年在深圳证券交易所信息披露考核中获得A级，依法履行信息披露义务。",
+      "original_text": "公司连续11年在深圳证券交易所信息披露考核中获得A级...依法履行信息披露义务",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "002304_洋河股份_2024.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

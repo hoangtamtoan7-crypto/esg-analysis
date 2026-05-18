@@ -1,0 +1,441 @@
+{
+  "company_name": "铜陵有色",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2237100,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 万吨二氧化碳当量 223.71",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 682400,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 万吨二氧化碳当量 68.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1554700,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 万吨二氧化碳当量 155.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.16,
+      "unit": "万吨二氧化碳当量/亿元营收",
+      "original_text": "温室气体排放强度 万吨二氧化碳当量/亿元营收 0.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 1.08,
+      "unit": "%",
+      "original_text": "可再生能源绿色电力消费量占总用电量的比例 % 1.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 46387600,
+      "unit": "吨",
+      "original_text": "年度总用水量 万吨 4,638.76",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 12625800,
+      "unit": "吨",
+      "original_text": "废水排放量 万吨 1,262.58",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 16600,
+      "unit": "万元",
+      "original_text": "全年环保投入达1.66亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 13336,
+      "unit": "人",
+      "original_text": "员工总数 人 12,159 11,669 13,336",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 15.63,
+      "unit": "%",
+      "original_text": "女性员工比例 % / / 15.63",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 6.07,
+      "unit": "%",
+      "original_text": "女性管理者占比 % / / 6.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 33.47,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 小时 28.20 32.01 33.47",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.46,
+      "unit": "%",
+      "original_text": "员工流失率 2 % 1.03 0.41 0.46",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 483200,
+      "unit": "万元",
+      "original_text": "研发投入达48.32亿元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.8,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 3.03 3.22 2.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'目标，将应对气候变化纳入治理机制，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "铜陵有色积极响应国家'双碳'目标，持续完善应对气候变化的治理机制，将应对气候变化纳入...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续完善环境管理体系，通过ISO 14001认证，加强内部环境监测，确保废气、废水及固体废物污染防治。",
+      "original_text": "铜陵有色坚定不移走生态优先、绿色发展道路，持续完善环境管理体系...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发低碳铜材产品，如低碳阴极铜、铜箔，满足新能源汽车、光伏等领域对绿色原材料的需求。",
+      "original_text": "生产经认证的低碳阴极铜、铜箔等，满足新能源汽车、光伏等领域对绿色原材料的需求",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司实施矿山生态系统的保护与修复，识别采矿活动对植被、土壤动物、水生生物及其栖息地的影响，并采取减缓措施。米拉多铜矿制定环境管理计划，开展水土环境监测与文化遗产保护。",
+      "original_text": "铜陵有色实施矿山生态系统的保护与修复。采矿及运输线路等活动，可能对区域植被群落、土壤动物、水生生物及其栖息地产生直接与间接影响。米拉多铜矿制定《米拉多铜矿环境管理计划》，开展多层次环境培训、高频次水土环境监测与标准化文化遗产保护等措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司加大对冶炼渣、尾矿、废水等的资源化利用，降低原料成本与处置费用。",
+      "original_text": "加大对冶炼渣、尾矿、废水等的资源化利用，降低原料成本与处置费用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持平等原则，严禁使用童工、强迫劳动、就业歧视与职场骚扰，关心关爱女性员工，通过职工代表大会维护员工权益，提供薪酬福利、职业发展规划等。",
+      "original_text": "在招聘、薪酬、培训、晋升、福利等各环节坚持平等原则，不因员工的性别、年龄、民族、宗教信仰、...严禁使用童工、强迫劳动、就业歧视与职场骚扰，关心关爱女性员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过职业健康安全管理体系认证，定期开展职业危害因素检测、员工体检、职业健康培训，落实安全生产责任制，开展安全培训与文化建设。",
+      "original_text": "公司及所属单位已通过职业健康安全管理体系认证...定期开展职业危害因素检测，组织员工体检，开展职业健康培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司深化外协队伍安全一体化管理，与外协单位签订安全生产管理协议，实施五统一管理。",
+      "original_text": "深化外协队伍'安全一体化'管理，督促各单位严格落实安全生产主体责任，与外协单位签订安全生产管理协议",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司开展质量提升活动，如质量月、质量管理知识竞赛、技术比武等，提升员工质量素养，夯实质量管理基础。",
+      "original_text": "公司积极响应全国'质量月'号召，以'提升质量意识、推动高质量发展'为核心，策划并实施系列形式多样、内容丰富的质量提升活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立覆盖制度、技术与人员管理的隐私保护体系，确保客户信息安全可靠，报告期内未发生数据安全事件。",
+      "original_text": "高度重视数据安全与客户隐私管理，建立覆盖制度、技术与人员管理的隐私保护体系...报告期内，公司未发生任何数据安全事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与公益事业，组织员工无偿献血、志愿服务，开展社区共建，实施乡村振兴帮扶，在海外推动社区发展。",
+      "original_text": "积极参与公益事业，组织员工开展无偿献血、志愿服务等活动...持续推进社区共建...乡村振兴惠民生",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等原则，不因性别、年龄、民族等歧视，关心关爱女性员工，营造尊重、关爱、支持女性员工的良好氛围。",
+      "original_text": "在招聘、薪酬、培训、晋升、福利等各环节坚持平等原则，不因员工的性别、年龄、民族、宗教信仰...关心关爱女性员工",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了决策层、管理层、执行层三级联动的ESG治理架构，董事会及其专门委员会负责ESG战略制定和监督，ESG工作小组负责具体执行。",
+      "original_text": "铜陵有色高度重视ESG治理体系建设，建立了决策层、管理层、执行层三级联动的ESG治理架构，董事会及其专门委员会负责ESG战略制定和监督，ESG工作小组负责具体执行。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《反商业贿赂合规管理标准》，董事会履行最高监督职责，召开党风廉政建设和反腐败工作会议，开展反腐败培训，与供应商签订反商业贿赂协议，报告期内未发生腐败事件。",
+      "original_text": "公司制定《反商业贿赂合规管理标准》内部制度，由董事会履行最高监督职责，相关职能部门承担反商业贿赂及反贪腐的日常管理、风险监控及事件调查职责。报告期内，公司未发生腐败、商业贿赂事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守反不正当竞争法、反垄断法等法律法规，建立反垄断与公平竞争风险评估与应对机制，制定《反不正当竞争合规管理标准》，对垄断和不正当竞争行为零容忍。",
+      "original_text": "公司严格遵守《中华人民共和国反不正当竞争法》《中华人民共和国反垄断法》等法律法规和公司《反不正当竞争合规管理标准》管理制度，对一切垄断与不正当竞争行为坚决零容忍。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管控体系，覆盖安全生产、环境、气候、合规等多维度风险，实施风险识别、评估、应对的闭环管理，并定期向董事会报告。",
+      "original_text": "公司将安全生产风险管理纳入整体风险管理框架，建立“风险识别—评估分级—管控治理—监测改进”的闭环管理流程，实现安全风险与经营风险的统筹管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过完善分红机制、加强投资者沟通交流、合理股东回报等方式维护股东权益，制定《未来三年股东回报规划》，坚持持续分红。",
+      "original_text": "公司秉持为股东创造长期、稳定价值的核心理念，通过完善分红机制、加强投资者沟通交流、合理股东回报等方式维护股东权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立多层次、常态化的沟通与反馈机制，及时识别、分析并回应各利益相关方的诉求与期待，并将相关意见纳入工作决策过程。",
+      "original_text": "公司高度重视利益相关方参与，持续深化互信合作关系，建立多层次、常态化的沟通与反馈机制，及时识别、深入分析并积极回应各利益相关方的诉求与期待。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守证券市场法律法规，构建及时、透明、高效、严谨的信息披露责任体系，连续3年荣获深交所信息披露最高A级评价。",
+      "original_text": "规范信息披露 严格遵守证券市场相关法律法规，构建“及时、透明、高效、严谨”的信息披露责任体系，连续3年荣获深交所信息披露最高“A”级评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

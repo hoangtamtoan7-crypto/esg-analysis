@@ -1,0 +1,442 @@
+{
+  "company_name": "京东方A",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 740000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1温室气体排放量 万吨二氧化碳当量 74",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 6230000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2温室气体排放量 万吨二氧化碳当量 623",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1513722,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源使用总量 吨标准煤 1,513,722",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 85770000,
+      "unit": "吨",
+      "original_text": "总取水量 万立方米 8,577",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 73190000,
+      "unit": "吨",
+      "original_text": "总排水量 万立方米 7,319",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 357393,
+      "unit": "吨",
+      "original_text": "有害废弃物产生总量 吨 109,770；无害废弃物产生总量 吨 247,623",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 78729,
+      "unit": "万元",
+      "original_text": "集团环境管理投入 万元 78,729",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 0.0346,
+      "unit": "吨",
+      "original_text": "氮氧化物排放总量 万立方米 0.0346",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.0037,
+      "unit": "吨",
+      "original_text": "二氧化硫排放总量 万立方米 0.0037",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.0068,
+      "unit": "吨",
+      "original_text": "颗粒物排放总量 万立方米 0.0068",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 109895,
+      "unit": "人",
+      "original_text": "员工总数 人 109,895",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 31.6,
+      "unit": "%",
+      "original_text": "女性员工占比 % 31.6",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 23,
+      "unit": "%",
+      "original_text": "女性管理者人数占比 % 23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 2821,
+      "unit": "万元",
+      "original_text": "年度培训支出金额* 万元 2,821",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1398306,
+      "unit": "万元",
+      "original_text": "集团研发投入 万元 1,398,306",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 6.83,
+      "unit": "%",
+      "original_text": "集团研发投入占主营收入比例 % 6.83",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 19971,
+      "unit": "万元",
+      "original_text": "安全投入（生产安全） 万元 约19,971",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "2025年，公司董事会由12名董事构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "董事职务表中显示女性董事：冯莉琼、金春燕",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "11次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司未设监事会和监事，由董事会风控和审计委员会行使《公司法》规定的监事会职权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确披露高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "5次董事会风控和审计委员会",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司设立碳达峰碳中和项目组，承诺2050年实现碳中和，制定双碳战略目标，推进光伏建设与绿色电力采购，参与碳排放权交易。",
+      "original_text": "京东方将气候治理纳入公司战略决策体系，设立碳达峰、碳中和项目组，承诺2050年实现碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司以ISO 14001为纲，制定《集团能源与环境管理制度》，构建覆盖能源与环境业务分析规划、新建项目三同时管理、运营风险管理、应急管理的立体化环境管理组织架构。",
+      "original_text": "制定并实施了《集团能源与环境管理制度》等系统化制度文件，以ISO 14001为纲，构建覆盖能源与环境业务分析规划、新建项目三同时管理、运营风险管理、应急管理的立体化环境管理组织架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发布第三代绿色显示器，采用低碳Oxide模组，整机PCR材料比例提升至75.2%，并聚焦绿色设计、绿色生产、绿色物流及绿色循环四大路径。",
+      "original_text": "京东方发布的第三代绿色显示器采用BOE低碳Oxide模组，并将整机PCR材料比例提升至75.2%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生态文明理念与生物多样性保护要求融入绿化施肥，创造土壤碳汇，保护水体健康，避免对昆虫和微生物造成伤害，并设置小鸟饮食站。",
+      "original_text": "京东方将生态文明理念与生物多样性保护要求融入绿化施肥，创造土壤碳汇，保护水体健康，避免对昆虫和微生物造成伤害。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司构建从资源利用到废弃物再生的闭环系统，实现剥离液、稀释剂废液100%回用，废酸零排放，并推进包装回收模式，提升资源综合利用效率。",
+      "original_text": "京东方将绿色循环深植于运营脉络，积极构建从资源利用到废弃物再生的闭环系统。剥离液、稀释剂已实现废液100%回用，实现废酸零排放。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法保障员工权益，杜绝强迫劳动、禁止童工劳动，建立职代会、工代会等沟通渠道，制定《女职工权益保护专项协议》，提供多元化福利。",
+      "original_text": "依法保障员工权益 守护员工健康安全；共召开职代会 共召开工代会；未发生罢工、雇佣童工及强迫劳动事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司遵循ISO 45001标准，建立职业健康安全管理体系，覆盖所有员工，开展安全培训、风险管控、隐患排查，获评全国安全文化建设示范单位。",
+      "original_text": "京东方严格遵循ISO 45001职业健康安全管理体系标准；生产安全培训员工覆盖率100%；隐患整改率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司要求供应商遵守RBA行为准则，涵盖人权、劳工、环境、健康安全等，将强迫劳动作为否决项，定期进行CSR现场审核和培训。",
+      "original_text": "京东方严格遵循责任商业联盟（RBA）行为准则；将‘是否强迫劳动’作为否决项；每两年组织实施一次CSR绩效评价",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持‘价值创造，以质取胜’的质量战略，建立全链条产品质量安全管理体系，遵守国内外产品安全法规，举办质量工具应用大赛。",
+      "original_text": "集团坚定贯彻‘价值创造，以质取胜’的核心质量战略；构建了从风险预防、应急响应到持续改进的全链条产品质量安全管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全与隐私保护体系，持有ISO/IEC 27001认证，采取加密技术、访问权限管理等措施，培训覆盖率达93.3%，重大信息安全事件为0。",
+      "original_text": "京东方将信息安全与隐私保护工作建立了常态化的安全检查机制；重大信息安全事件数量为0；信息安全与隐私保护培训的覆盖率为93.3%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展医疗公益活动、急救培训、青少年近视防控筛查等，打造‘京东方健康公益行’品牌，累计受益师生超70,000名。",
+      "original_text": "开展医疗公益活动 覆盖人群达；‘照亮成长路’公益项目累计建成智慧教室 累计受益师生；‘京东方健康公益行’品牌",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持多元包容、平等赋能，尊重性别、年龄、民族等差异，提供无歧视发展机会，开展女性员工专项培训，推动女性在管理职位和STEM岗位的比例。",
+      "original_text": "京东方始终坚持多元包容、平等赋能的人才理念；积极为女性员工创造公平的发展机会；STEM相关岗位女性比例",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立可持续发展委员会，由董事会提供战略方向指导，下设执行委员会、风控和审计委员会等，形成多层级治理架构。",
+      "original_text": "董事会 • 提供可持续战略方向指导；可持续发展委员会 • 确保公司可持续领域合规性 • 管理和分配可持续发展相关的资源和预算",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司设有执业道德惩戒委员会，制定《BOE员工职业操守宣言》等制度，董事和管理层接受廉洁培训覆盖率达100%，举报投诉受理案件处理率100%。",
+      "original_text": "董事和管理层接受廉洁培训覆盖率达100%；举报投诉受理案件处理率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立系统规范的合规管理体系，发布《集团合规管理制度》《合规行为准则》，构建三道风控防线，2025年未发生违反反不正当竞争案件。",
+      "original_text": "京东方坚守合规经营底线，建立系统规范的合规管理体系，三道风控防线的管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，董事会负责风险管理，风控和审计委员会监督，发布《重大经营风险事件报告管理办法》，开展风险评估和内控评价。",
+      "original_text": "稳步深化风险管理工作，全面提升治理效能与管理效率；发布《重大经营风险事件报告管理办法》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理办法》，设置专业团队，通过调研、投资者交流会等方式沟通，2025年举办第二届BOE Investor Day活动。",
+      "original_text": "京东方制定《投资者关系管理办法》，设置专业的投资者关系管理团队",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多种渠道与股东、员工、客户、供应商等利益相关方沟通，包括股东大会、互动易平台、员工帮助信箱等，并开展双重重要性评估。",
+      "original_text": "京东方高度重视内外部利益相关方的沟通协作，积极创新沟通模式、拓宽沟通路径",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定信息披露管理制度，连续10个考评年度获得深交所信息披露考核A级评价，2025年披露公告371份。",
+      "original_text": "京东方连续10个考评年度获得深交所信息披露考核A级评价；2025年，公司信息披露公告共计371份",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及公司遵守税务相关法律法规，但未详细披露税务策略或透明度具体措施。",
+      "original_text": "公司坚守全面合规底线，在劳动合同、休假、反歧视、个人信息保护等全流程降低争议风险，但未明确提及税务透明度",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "000725_京东方A_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

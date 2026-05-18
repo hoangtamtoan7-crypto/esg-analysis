@@ -1,0 +1,421 @@
+{
+  "company_name": "双环科技",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 3313763.62,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 3,313,763.62",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 103680.44,
+      "unit": "吨",
+      "original_text": "一般工业固体废弃物产生量 吨 103,622.32；危险废弃物产生量 吨 58.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "NO 排放浓度 mg/m3 17.83（仅浓度，无总量）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "SO 排放浓度 mg/m3 4.95（仅浓度，无总量）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "烟尘排放浓度 mg/m3 1.73（仅浓度，无总量）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1222,
+      "unit": "人",
+      "original_text": "员工总人数 人 1,222",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 27.9,
+      "unit": "%",
+      "original_text": "女员工 人 341",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 14.3,
+      "unit": "%",
+      "original_text": "截至2024年末，公司高级管理层共7人，其中女性高管1人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 33,
+      "unit": "万元",
+      "original_text": "员工培训支出费用 万元 33",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 0.28,
+      "unit": "小时/人",
+      "original_text": "员工培训总时数 小时 344；员工总人数 1,222",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至2024年末，公司共有董事9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事2人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 14,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 14",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "截至2024年末，公司共有具备管理、生产、法律专业背景的监事3人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳战略，制定碳中和路线图，目标2030年碳达峰、2060年碳中和，并强化温室气体排放管理，推进节能减排技术应用。",
+      "original_text": "双环科技坚持绿色低碳发展，积极应对气候变化挑战，强化风险管理，优化能源结构，完善碳排放管理体系，严格落实碳核算要求，推进节能降碳技术应用，不断提升能源利用效率，减少温室气体排放，助力低碳转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，制定并实施《环保管理制度》《建设项目环境保护管理制度》等，通过ISO 14001:2015认证，并设有环保监察部负责体系实施与监督。",
+      "original_text": "双环科技建立和完善环境管理体系，制定并实施《环保管理制度》《建设项目环境保护管理制度》等，通过ISO 14001:2015认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发绿色低碳产品，如年产10万吨电池级碳酸钠项目（一期）投产，成为全国首套具有自主知识产权、以小苏打为起点的电池级碳酸钠生产工艺工程实践。",
+      "original_text": "双环科技年产10万吨电池级碳酸钠项目（一期）正式打通全流程并投入生产，成为全国首套具有自主知识产权、以小苏打为起点的电池级碳酸钠生产工艺工程实践。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告提及生态系统和生物多样性保护，但内容为'/'，表示未披露具体措施。",
+      "original_text": "生态系统和生物多样性保护 /",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动资源循环利用，一般工业固体废弃物综合利用率100%，并推进中水回用、冷凝水回收等节水措施。",
+      "original_text": "一般工业固体废弃物综合利用率100%；优化创新用水系统，提高冷凝水回收率，持续推进中水回用装置。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法与员工签订劳动合同，缴纳社会保险，保障员工合法权益。坚持平等雇佣，禁止歧视和强制劳动。",
+      "original_text": "依法与员工签订劳动合同，为员工缴纳社会保险，充分保障员工各项合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立员工健康监护档案，定期体检，开展职业病防治教育，组织安全培训和应急演练。",
+      "original_text": "建立员工健康监护档案，定期为公司员工进行体检，对健康结果进行评估和指导。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司优化供应链管理，强化合作伙伴责任，但未明确提及ESG筛选标准。",
+      "original_text": "2024年，我们优化供应链管理，强化合作伙伴责任。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格执行质量控制体系，提升产品全生命周期管理能力，以优质、安全、环保的产品服务客户。",
+      "original_text": "公司严格执行质量控制体系，提升产品全生命周期管理能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司重视信息安全管理，遵循相关法律法规，与员工签订保密协议，加强信息安全意识。",
+      "original_text": "公司高度重视信息安全管理，遵循《中华人民共和国网络安全法》等相关法律法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极组织和参与公益志愿活动，鼓励员工投身志愿服务，助力乡村振兴和社会公益事业。",
+      "original_text": "双环科技积极组织和参与形式多样的公益志愿活动，鼓励员工投身志愿服务。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，保障女性员工权益，落实产假、哺乳假等政策，助力女性员工成长。",
+      "original_text": "保障女性员工拥有平等的薪酬福利和职业发展机会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由党委会、董事会、监事会、高级管理层组成的ESG治理架构，董事会下设审计委员会、战略委员会、提名委员会、薪酬与考核委员会。",
+      "original_text": "董事会下设审计委员会、战略委员会、提名委员会、薪酬与考核委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《合规管理制度》，将反贪腐机制嵌入权力运行环节，纪检部门对违规行为进行调查和责任追究。",
+      "original_text": "将反贪腐机制嵌入权力运行环节，纪检部门对合规管理要求落实情况进行监督，对违规行为进行调查，按照规定开展责任追究",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守《反不正当竞争法》等法律法规，制定《合规管理制度》，建立全链条合规体系，开展合规培训。",
+      "original_text": "双环科技始终坚持合法合规经营，严格遵守《中华人民共和国反不正当竞争法》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立以风险管理为中心的'三道防线'，制定《全面风险管理制度（试行）》，定期开展风险评估和预警。",
+      "original_text": "设立以风险管理为中心的'三道防线'，第一道防线由各职能部门组成，第二道防线由风控审计部组成，第三道防线由纪委组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过股东大会、线上交流平台等与投资者沟通，2024年开展投资者活动2次，回复互动平台提问56次。",
+      "original_text": "公司重视维护公司与投资者的良好关系，严格遵守《上市公司投资者关系管理制度》，共开展投资者活动2次，回复投资者关系互动平台提问56次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过在线问卷调研等形式开展利益相关方议题调查，主动倾听各方关切，识别期望与需求。",
+      "original_text": "双环科技高度重视与利益相关方的互动交流，主动倾听各方关切，充分识别利益相关方期望与需求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循《上市公司信息披露管理办法》，制定《信息披露管理制度》，2024年发布信披文件162份，未出现信息披露违规。",
+      "original_text": "2024年，公司共发布信披文件162份，未出现信息披露违规",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 25,
+    "quantitative_valid": 25,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 45,
+    "missing": 7,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 86.5
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "圣邦股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 314195.6,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1+2） 单位：吨二氧化碳当量 314,195.6",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 11.35,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一 吨二氧化碳当量 11.35",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 6276.17,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二 吨二氧化碳当量 6,276.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 314195.6,
+      "unit": "千瓦时",
+      "original_text": "电力314,195.6kwh，约占基地总用电量的55%",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 55,
+      "unit": "%",
+      "original_text": "电力314,195.6kwh，约占基地总用电量的55%",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2562.8,
+      "unit": "立方米",
+      "original_text": "取水量（立方米） 2,562.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1835,
+      "unit": "人",
+      "original_text": "员工总数 人 1,835",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 78.73,
+      "unit": "小时/人",
+      "original_text": "员工接受培训的平均时长 小时 78.73",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 104500,
+      "unit": "万元",
+      "original_text": "研发投入10.45亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 26.76,
+      "unit": "%",
+      "original_text": "占当期营收的26.76%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 6",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 4,
+      "unit": "人",
+      "original_text": "女性董事 人 4",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司参照深交所指引及TCFD建议，初步识别气候变化风险与机遇，推动低碳转型，实现企业发展与气候保护协同共进。",
+      "original_text": "参照深交所最新指引及气候相关财务信息披露工作组（TCFD）建议，初步识别气候变化带来的风险与机遇，推动业务的低碳转型，实现企业发展与气候保护的协同共进。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，通过ISO 14001:2015认证，并制定环境管理手册，明确环境目标、指标及管理方案，持续完善体系。",
+      "original_text": "依据ISO 14001:2015标准，以持续改进的方式推进环境管理体系，并顺利通过年度监督审核。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司产品广泛应用于节能环保领域，如新能源汽车、光伏储能等，采用绿色设计理念，降低功耗、提升能效，助力绿色终端发展。",
+      "original_text": "公司产品广泛应用于节能环保领域，助力各种绿色节能终端的普遍应用和快速发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告提及暂不涉及生物多样性相关信息披露。",
+      "original_text": "暂不涉及相关信息披露",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司推行垃圾分类、废弃物循环再利用，建立废弃物管理办法，对一般固废和危险废物分类储存并委托第三方处理。",
+      "original_text": "公司编制和制定废弃物管理办法，对废弃物进行分类回收...一般固体废弃物和危险废弃物分类储存并委托第三方处理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司实施无歧视政策，严格禁止性骚扰和不当行为，合法雇佣，促进就业，禁止一切形式的歧视行为。",
+      "original_text": "实施无歧视政策，严格禁止性骚扰和不当行为；合法雇佣，促进就业；禁止一切形式的歧视行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO 45001认证，提供职业健康安全培训，设置急救箱和药品，开展年度体检和文体活动，无职业病病例。",
+      "original_text": "ISO 45001职业健康安全管理体系 100%；建立年度员工健康体检及职业健康安全培训；无职业病病例。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司搭建永续供应链，对供应商进行筛选、审核、交流与培训，建立利益相关方沟通渠道，带动产业生态发展。",
+      "original_text": "搭建永续供应链；供应商筛选与审核/供应商交流与培训；建立利益相关方沟通渠道，带动产业生态发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格质量管控，产品和服务安全与质量得到重视。",
+      "original_text": "严格质量管控；产品和服务安全与质量。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司重视数据安全与客户隐私保护，设有信息安全相关管理。",
+      "original_text": "数据安全与客户隐私保护；信息安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司支持教育事业，为多所高校提供奖学金及奖教金，开展社区共建、乡村振兴等活动。",
+      "original_text": "支持教育事业，为多所高校提供奖学金及奖教金；社区共建/乡村振兴。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视多元化，女性董事4人，女性员工624人，实施无歧视政策，禁止歧视行为。",
+      "original_text": "女性董事 人 4；女性员工 人 624；实施无歧视政策，禁止一切形式的歧视行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立了由董事会办公室牵头、各经营职能部门及ESG工作小组紧密协同的ESG管理架构，并将ESG管理嵌入顶层设计。",
+      "original_text": "体系化开展ESG管理工作。设立了由董事会办公室牵头、各经营职能部门及ESG工作小组紧密协同的ESG管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司披露了GRI 205-2反腐败政策和程序的传达及培训，并在商业道德议题中提及反商业贿赂及反贪污。",
+      "original_text": "GRI205：反腐败2016 205-2 反腐败政策和程序的传达及培训 商业道德",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立了商业道德体系，将诚信经营、合规管理有机结合，并披露了商业道德议题。",
+      "original_text": "商业道德 13 严格质量管控 20",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了内部控制与风险治理架构，包括风险管理三道防线，覆盖所有业务与流程，并定期进行风险评估。",
+      "original_text": "内部控制与风险治理架构 董事会 负责内部控制的建立健全和有效实施，审批风险管理战略、政策与目标，审议年度风险评估报告及重大风险应对策略。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东会、信息披露、投资者交流等方式进行投资者关系管理。",
+      "original_text": "投资者 经济绩效/研发创新/三会运作 股东会/信息披露/投资者交流",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别了政府及监管机构、科研机构、社区及公众等利益相关方，并通过公文往来、监督检查、信息披露、社区活动等方式进行沟通。",
+      "original_text": "利益相关方识别 期望与诉求 沟通与回应 政府及监管机构 风险与内控/环境管理/产品责任/职业健康安全 公文往来/监督检查/信息披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续四年在深圳证券交易所信息披露考核结果为A。",
+      "original_text": "公司已连续四年在深圳证券交易所上市公司信息披露考核结果为A。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "300661_圣邦股份_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

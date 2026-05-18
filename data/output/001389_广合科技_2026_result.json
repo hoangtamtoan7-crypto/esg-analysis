@@ -1,0 +1,441 @@
+{
+  "company_name": "广合科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 436274.67,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体总排放量 吨COe 282488.13 301920.42 436274.67",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 21682.81,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一排放量 吨CO2e 10723.61 17049.72 21682.81",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 145201.53,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二排放量 吨CO2e 87207.83 104125.94 145201.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 79.53,
+      "unit": "吨CO2e/百万营收",
+      "original_text": "温室气体总排放密度 79.53 吨CO2e/百万营收",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 287001951.6,
+      "unit": "千瓦时",
+      "original_text": "电力总耗量 千瓦时 147139255.00 187325381.90 287001951.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 9.23,
+      "unit": "%",
+      "original_text": "可再生能源占能源消耗总量百分比 % —— 1.68 9.23",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2603497,
+      "unit": "吨",
+      "original_text": "生产用水 吨 1273639.30 1746398.00 2527445.00；生活耗水 吨 20069.70 31935.00 76052.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 53303.92,
+      "unit": "吨",
+      "original_text": "生产废弃物总量 吨 27507.76 38382.49 53303.92",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 2.8,
+      "unit": "吨",
+      "original_text": "氮氧化物 吨 3.64 6.38 2.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4998,
+      "unit": "人",
+      "original_text": "总规模4998人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 63.26,
+      "unit": "万元",
+      "original_text": "员工培训支出总额 万元 90.00 61.00 63.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 5.63,
+      "unit": "%",
+      "original_text": "员工离职率1 % -- -- 5.63",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2.8,
+      "unit": "亿元",
+      "original_text": "研发投入约 2.8 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.8,
+      "unit": "‰",
+      "original_text": "百万工时事故率（LTIFR） / 1.73 1.32 0.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 5.08,
+      "unit": "万元",
+      "original_text": "年度公益项目投入资金 万元 6.13 1.91 5.08",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事人数 人 5 5 7",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事占比 42.86%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 4,
+      "unit": "人",
+      "original_text": "女性董事人数 人 4 4 4",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "召开董事会6次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 3,
+      "unit": "次",
+      "original_text": "审计委员会召开3次会议",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2028年碳达峰、2056年碳中和，并设定了范围一、范围二碳排放强度年均下降3.5%，范围三年均下降2.5%的目标。",
+      "original_text": "足自身发展实际，明确提出2028年实现碳达峰、2056年迈向碳中和的总体路线图。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司发布《环境保护政策》，制定《固体废物管理程序》《废水系统管理规范》《废气处理系统管理规范》《水污染防治管理程序》等制度，并通过ISO 14001认证。",
+      "original_text": "广合科技发布《环境保护政策》，制定《固体废物管理程序》《废水系统管理规范》《废气处理系统管理规范》《水污染防治管理程序》等系列制度",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司深耕绿色产品研发与技术创新应用，构建了完善的“研发-转化-落地”全链条体系，研发环节严格锚定环境标准。",
+      "original_text": "在ESG绿色发展实践中，公司深耕绿色产品研发与技术创新应用，已构建完善的“研发-转化-落地”全链条体系。研发环节严格锚定环境标准",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司承诺所有工厂均避让生物多样性关键区域及生态保护红线，不在生态敏感区附近运营。",
+      "original_text": "承诺所有工厂均避让生物多样性关键区域及生态保护红线，确保不在生态敏感区附近开展运营活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过废弃物的循环再生利用、废液回收处置、包装物回收等实践推动循环经济，废弃物再利用率97.52%。",
+      "original_text": "通过废弃物的循环再生利用、绿色产品位和全流程数字化管理，创造“年初安装调试、年中顺利投产、年底 废物资源化、能源低碳化，推动绿色改造",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉承以人为本，尊重员工人权及劳工权益，禁止强迫劳动和童工，成立工会，建立沟通渠道。",
+      "original_text": "广合科技秉承以人为本的理念，尊重和努力维护每位员工的人权及劳工权益",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO 45001认证，开展安全培训、应急演练，覆盖100%员工。",
+      "original_text": "职业健康安全管理体系，持续多年连续有效性运行；依据ISO 45001管理体系要求",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商开展ESG、RBA&CSR、环境职业健康安全及商业道德培训，推动可持续采购。",
+      "original_text": "面向供应商开展ESG、RBA&CSR、环境与职业健康安全以及商业道德与廉洁等专题培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建全链条质量保障体系，通过QCC工具培训、质量主题活动，确保产品安全合规。",
+      "original_text": "坚持以客户为中心的理念，构建覆盖全链条的质量保障体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守网络安全法、数据安全法，建立权限分级管理，定期开展隐私保护培训，供应商签署保密协议。",
+      "original_text": "广合科技加强管控数据安全与客户私隐的操作和处理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展献血、环保公益、助老扶幼等志愿服务，报告期内员工参与志愿活动51人次，志愿服务时长243.5小时。",
+      "original_text": "广合科技积极履行企业社会责任，成立党员志愿者服务分队，开展献血、环保公益、助老扶幼等志愿服务...员工人均志愿服务时长4.77小时。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视女性员工发展，设置哺乳室，开展文娱活动，推进董事会多元化。",
+      "original_text": "重视女性员工群体的成长与发展",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立稳健可靠的ESG治理架构，形成董事会参与ESG治理，由董事会和战略与ESG委员会组成，负责ESG战略、目标和机制。",
+      "original_text": "广合科技建立稳健可靠的ESG治理架构，形成董事会参与ESG治理，由公司董事会和战略与ESG委员会组成。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司修订《反腐败政策》《商业道德行为准则》，承诺对贪污腐败零容忍，开展反腐败与商业贿赂宣导，全员参与商业道德培训。",
+      "original_text": "修订《反腐败政策》《商业道德行为准则》政策声明文件，承诺对贪污腐败'零容忍'、贪污腐败'严要求'。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司搭建销售道德合规管理体系，覆盖销售政策、定价、合同、信用、舞弊廉洁等全环节，制定《商业道德行为准则》。",
+      "original_text": "搭建销售道德合规管理体系，覆盖销售政策、定价、合同、信用、舞弊廉洁等全环节，制定《商业道德行为准则》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立多层次风险防控机制和常态化合规审查制度，每年对战略、市场、信用、运营、财务、合规、声誉、ESG等风险进行评估。",
+      "original_text": "通过建立多层次的风险防控机制和常态化的合规审查制度，每年对战略、市场、信用、运营、财务、合规、声誉、ESG等内外风险进行评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司健全中小股东沟通与权益保护机制，持续优化董事会结构，提升独立履职水平。",
+      "original_text": "健全中小股东沟通与权益保护机制，持续优化董事会结构，提升成员的多元背景、专业能力与独立履职水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过双重重要性分析识别利益相关方关切，面向内外部利益相关方开展线上调研，累计回收有效问卷556份，明确各环节涉及的利益相关方及其参与方式。",
+      "original_text": "2025年，广合科技面向内外部利益相关方开展线上双重重要性评估调研，累计回收有效问卷556份，明确各环节涉及的利益相关方及其参与方式。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司每年开展第三方碳盘查与核查，确保数据披露的准确性、透明度与法律合规。",
+      "original_text": "每年开展第三方碳盘查与核查，确保数据披露的准确性、透明度与法律合规。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司建立完善的税务治理体系和税务流程，全面覆盖全球业务，推进合规、透明的税务治理。",
+      "original_text": "广合科技建立完善的税务治理体系和税务流程，全面覆盖全球业务，旨在推进合规、透明的税务治理。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

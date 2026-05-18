@@ -1,0 +1,441 @@
+{
+  "company_name": "风华高科",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 262900,
+      "unit": "吨二氧化碳当量",
+      "original_text": "二氧化碳排放量 万吨 20.05 23.61 26.29",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5.226,
+      "unit": "万吨标准煤",
+      "original_text": "综合能源消耗量 万吨标准煤 4.5194 4.7564 5.226",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 278.56,
+      "unit": "万吨",
+      "original_text": "新鲜水用水量 万吨 222.79 246.66 278.56",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 747300,
+      "unit": "吨",
+      "original_text": "废水排放量 万吨 68.23 74.12 74.73",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 9396,
+      "unit": "人",
+      "original_text": "在职员工9396人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 136.88,
+      "unit": "万元",
+      "original_text": "员工培训投入总额 万元 94.3 102.3 136.88",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 18.93,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 小时 28.68 18.78 18.93",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 26.9,
+      "unit": "%",
+      "original_text": "员工离职率 % 28.90 30.23 26.9",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 694,
+      "unit": "万元",
+      "original_text": "安全生产投入总额 万元 730.48 631.05 694",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "公司提及绿色低碳转型、节能降碳，但未明确具体的气候变化应对策略或碳中和目标。",
+      "original_text": "持续推进绿色低碳转型，完善环境管理体系，强化节能降碳与绿色制造实践",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续完善环境管理体系认证，推动环境管理由制度约束向体系化、规范化、精细化提升，以环境管理体系认证为重要抓手。",
+      "original_text": "风华高科持续完善环境管理体系认证，推动环境管理由制度约束向体系化、规范化、精细化提升。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司产品应用于新能源等领域，但未明确提及绿色产品认证或具体绿色产品。",
+      "original_text": "公司产品广泛应用于家电、通讯、计算机、工控、新能源等制造业领域，并在新能源汽车、光伏等领域快速成长。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司协同推进1.6万亩国家储备林建设项目，投入专项资金建设绿美生态小公园，开展植树活动。",
+      "original_text": "风华高科积极践行绿色发展理念，协同推进1.6万亩国家储备林建设项目，并投入专项资金建设绿美生态小公园。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司提及固体废弃物源头减量与规范化管理，以及包装物循环利用机制，但未全面描述循环经济实践。",
+      "original_text": "坚持固体废弃物源头减量与规范化管理，不断健全供应商包装物循环利用机制，提升固废回收与资源化利用效率",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，依法与员工签订劳动合同，保障员工合法权益。职工代表大会共征集有效建议308条，体现员工参与民主管理。",
+      "original_text": "等法律法规，依法与员工签订劳动合同，切实维护全体员工各项合法权益；2025年，职工代表大会共征集有效建议308条",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚持人民至上、生命至上，深入开展安全生产治本攻坚三年行动，落实安全生产，保障员工职业健康。开展急救技能培训、职业健康体检等。",
+      "original_text": "落实安全生产，保障员工职业健康；深入开展安全生产治本攻坚三年行动、消防安全；定期组织职业健康体检",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司持续完善供应商管理制度体系，修订发布《供应商管理程序》等文件，将环保、社会责任等要求纳入供应商管理，推动供应链可持续发展。",
+      "original_text": "风华高科持续完善供应商管理制度体系，修订发布《供应商管理程序》《供应商管理...环保协议》《供应商管理办法（试行）》中，对相关索...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司积极推进质量文化建设，开展质量专项培训、QC质量小组活动等，以风险管控筑牢质量安全防线，确保产品安全与质量。",
+      "original_text": "铸造卓越品质 培育质量文化；以风险管控筑牢质量安全防线",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全法和个人信息保护法，高度重视客户信息安全与隐私保护，持续完善客户信息安全保护细则。",
+      "original_text": "严格遵守《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》等法律规范，高度重视客户信息安全与隐私保护",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司参与社区交流与建设，开展公益慈善，组织志愿服务，如植树活动、扶贫济困等，荣获广东扶贫济困红棉奖铜奖。",
+      "original_text": "参与社区交流与建设 开展公益慈善，组织志愿服务；荣获“2024年度广东扶贫济困红棉奖铜奖”",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣准则，反对一切因性别、年龄、地域、学历等歧视，构建多序列职业发展通道，拓展员工多元化职业发展空间。",
+      "original_text": "持平等雇佣准则，反对一切因性别、年龄、地域、学历、宗教信仰、国籍、民族等歧视；拓展员工多元化职业发展空间",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立董事会监管、管理层执行、部门协调配合的ESG管理工作机制。董事会为ESG工作的最高决策机构，负责统筹ESG相关工作，监督ESG发展方向及策略，审议ESG报告。",
+      "original_text": "公司按照ESG顶层计划和管理要求，结合企业实际，建立起董事会监管、管理层执行、部门协调配合的ESG管理工作机制。董事会负责统筹公司ESG相关工作，监督公司ESG发展方向及策略，审议及批准本公司ESG报告及其他ESG管理政策。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展反腐败培训，报告期内反腐败培训次数、人次等数据有披露。",
+      "original_text": "反腐败培训次数 次 48 214 183 反腐败培训人次 人次 3481 5289 4822",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司全面推进P7合规管理2.0建设，通过中国质量认证中心合规管理体系监督审核，修订制度，构建制度管理体系。",
+      "original_text": "公司全面推进P7合规管理2.0建设，将“防风险、提效率”理念贯穿经营管理全链条，以体系化管理夯实合规基础，优化制度流程，顺利通过中国质量认证中心合规管理体系监督审核。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续推进全面风险管理体系建设，严格落实《风险管理制度》《风险管理总台账》等要求，系统开展风险识别、评估与管控。",
+      "original_text": "风华高科持续推进全面风险管理体系建设，严格落实《风险管理制度》《风险管理总台账》《风险管理评价报告》《风险管理建议书》等管理要求，系统开展风险识别、评估与管控，不断提升风险防控能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过业绩说明会、现场调研、互动易等方式与投资者交流，保障股东权益。",
+      "original_text": "维护投资者关系。严格遵循上市公司信息披露相关规定，规范履行披露义务，提升信息透明度与亲和力；通过业绩说明会、现场调研、互动易等与投资者交流。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司致力于与政府监管机构、股东及投资人、客户、员工、商业伙伴等多元利益相关方沟通。",
+      "original_text": "公司致力于与政府监管机构、股东及投资人、客户、员工、商业伙伴等多元利益相关方沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循信息披露相关规定，通过“AB角复核+智能校验”机制优化审核流程，保障及时、准确、完整披露。",
+      "original_text": "公司通过“AB角复核+智能校验”机制优化信息披露审核流程，保障披露信息的及时性、准确性与完整性。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及按时缴纳税款，但未详细说明税务透明度管理措施。",
+      "original_text": "按时缴纳税款",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

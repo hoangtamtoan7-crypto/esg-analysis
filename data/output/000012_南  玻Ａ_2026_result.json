@@ -1,0 +1,441 @@
+{
+  "company_name": "南  玻Ａ",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 14000,
+      "unit": "人",
+      "original_text": "2025年，公司在职员工约一万四千人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司现有董事9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中3名为独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "公司召开了9次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消了监事会及监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极融入国家绿色发展战略，以技术创新驱动，在‘十五五’规划中指定为碳达峰先进标杆‘试验田’，支持国家‘双碳’战略。",
+      "original_text": "公司积极融入国家绿色发展战略，以技术创新驱动，在‘十五五’规划中指定为碳达峰先进标杆‘试验田’，在低碳时代的浪潮中，南玻‘节’尽所‘能’支持国家‘双碳’战略。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司通过‘质量、环境、职业健康安全管理体系’审核认证，多家子公司被评为国家级或省级绿色工厂，部分子公司通过环保A类企业审核。",
+      "original_text": "通过‘质量、环境、职业健康安全管理体系’审核认证；11家子公司被评为国家级‘绿色工厂’，多家子公司为省级‘绿色工厂’；5家子公司通过环保A类企业审核。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司提供节能玻璃、光伏玻璃等绿色产品，推动建筑节能，助力降低建筑碳排放。‘冰麒麟’系列产品在高端商业综合体、绿色住宅等项目应用。",
+      "original_text": "‘冰麒麟’节能玻璃、‘光麒麟’光伏玻璃等产品；‘冰麒麟’玻璃产品的多种系列开发和生产具有创新性且全球领先，对推动建筑节能，助力实现‘双碳’目标有着重大意义。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实现废物资源化，如脱硝灰回炉再生产、脱硫固废用来制砖或铺路，余热发电、分布式光伏实现能源综合利用。",
+      "original_text": "还实现了综合利用，如脱硝灰回炉再生产、脱硫固废用来制砖或铺路；各子公司余热发电、光伏发电累计贡献清洁电力5.86亿度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，维护和谐劳工关系；切实保障员工权益，持续优化分配机制；依法为员工缴纳社会保险和住房公积金，提供员工食堂、宿舍安排及定期健康检查等。",
+      "original_text": "遵守劳动法律法规，维护和谐劳工关系；切实保障员工权益，持续优化分配机制；依法为员工缴纳社会保险和住房公积金，并执行基本福利保障措施，包括员工食堂、宿舍安排及定期健康检查等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司强化职业健康管理，保障员工身心健康；建立了职业健康监护档案，配备劳动防护用品；推行安全标准化建设，13家子公司获安全标准化二级或三级企业，4家获省市级安全文化示范企业。",
+      "original_text": "强化职业健康管理，保障员工身心健康；建立了职业健康监护档案，配备了完善的劳动防护用品；公司坚持不懈推行安全标准化建设，目前，全集团共有13家子公司分别被授予安全标准化二级或三级企业，其中有4家公司被授予省、市级安全文化示范企业。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "报告提及产品应用于多个项目，但未明确描述供应链ESG管理政策或措施。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立了全生命周期质量管理体系，产品广泛应用于多个高端项目，并收获客户高度认可。",
+      "original_text": "南玻优质的产品得益于集团建立了全生命周期质量管理体系，产品广泛应用于珠海横琴科学城（三期）、vivo杭州AI研发中心等，收获客户高度认可。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "partial",
+      "summary": "报告提及获得DCMM二级管理证书，但未详细描述数据安全与隐私保护政策。",
+      "original_text": "获得DCMM二级管理证书",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参加社会公益事业，包括爱心献血、向慈善会捐款、慰问老人等。",
+      "original_text": "2025年，公司及下属子公司开展了以下社会公益活动：河北南玻党支部组织志愿者开展爱心献血活动；肇庆节能向肇庆市怀集水灾捐款；成都浮法、四川节能员工参与献血；宜昌硅材料参加猇亭区慈善协会冬季送温暖活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "报告提及员工总数约一万四千人，但未提供女性员工比例、女性高管比例等多元化数据。",
+      "original_text": "2025年，公司在职员工约一万四千人",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "partial",
+      "summary": "公司已形成权力机构、决策机构、监督机构与经理层之间权责分明、各司其职、有效制衡、科学决策的法人治理结构。董事会下设战略委员会、审计委员会、薪酬与考核委员会。",
+      "original_text": "已形成权力机构、决策机构、监督机构与经理层之间权责分明、各司其职、有效制衡、科学决策的法人治理结构。董事会下设战略委员会、审计委员会、薪酬与考核委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严守合法合规底线，以品质和诚信造就企业口碑。",
+      "original_text": "严守合法合规底线，品格造就企业口碑",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "partial",
+      "summary": "公司开展全员风险源识别、风险评估、职业危害因素识别工作，严格整治风险隐患。",
+      "original_text": "开展全员风险源识别、风险评估、职业危害因素识别工作，严格整治风险隐患",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司非常重视投资者关系管理工作，搭建了多渠道沟通平台，回复深交所互动易平台投资者提问350次。",
+      "original_text": "公司回复深交所互动易平台投资者提问350次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "公司通过指定信息披露媒体发布公告，重视投资者关系管理，但未全面描述其他利益相关方沟通机制。",
+      "original_text": "通过指定信息披露媒体《中国证券报》、《证券时报》、《上海证券报》、《证券日报》及巨潮资讯网",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司始终高度重视信息披露的透明性，严格按照有关法律法规和深交所业务规则履行信息披露义务，保证信息披露的真实、准确、完整、及时和公平。",
+      "original_text": "始终高度重视信息披露的透明性，严格按照有关法律法规和深交所业务规则履行信息披露义务",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.731
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

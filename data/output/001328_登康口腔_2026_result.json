@@ -1,0 +1,441 @@
+{
+  "company_name": "登康口腔",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 5967.52,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接（范围1） 温室气体排放 吨二氧化碳当量 4,757.50 5,967.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1507.38,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 1,366.77 1,507.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 3.81,
+      "unit": "%",
+      "original_text": "清洁能源使用占比 % / / 3.81",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 175012,
+      "unit": "吨",
+      "original_text": "新鲜水取水总量 吨 175,012",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 119358,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 115,874 118,639 119,358",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 382.8,
+      "unit": "吨",
+      "original_text": "无害废弃物产生量 吨 376.28; 有害废弃物产生量 吨 6.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.01,
+      "unit": "吨",
+      "original_text": "颗粒物（PM） 吨 0.01",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1059,
+      "unit": "人",
+      "original_text": "员工总人数 人 1,059 1,044",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 31.8,
+      "unit": "%",
+      "original_text": "管理人员中女性人数比例 % 31.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 67.41,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 67.41",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 44.07,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长 小时/人 44.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.95,
+      "unit": "%",
+      "original_text": "员工总流失率 % 2.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 5224.53,
+      "unit": "万元",
+      "original_text": "研发投入 万元 4,807.16 5,224.53",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.08,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 3.08 3.04",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 9.24,
+      "unit": "万元",
+      "original_text": "安全培训总投入 万元 1.11 9.24",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 0.516,
+      "unit": "万元",
+      "original_text": "捐赠口腔护理产品总价值5,160元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事 人 3",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "按性别划分的董事成员占比",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "召开董事会会议次数 次 8",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公司发布《2025年度董事、监事、高级管理人员薪酬方案公告》",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极践行国家碳达峰、碳中和战略目标，设立气候工作专项小组，识别气候风险与机遇，制定能源替代项目，推动清洁能源使用，并设定2025年范围1温室气体排放降低目标。",
+      "original_text": "登康口腔积极践行国家关于碳达峰、碳中和的战略目标...公司专门设立了气候工作专项小组...2025年，公司范围1温室气体排放碳排放量降低。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已获得ISO 14001环境管理体系认证，持有国家级绿色工厂认证，并制定了多项环境管理制度，如《环境安全主体责任制度》《水污染控制管理规定》等。",
+      "original_text": "报告期内，公司已获得ISO_14001环境管理体系认证，持有国家级绿色工厂认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司优先选用环境影响更低的材料与工艺，推动绿色产品与包装创新，但未明确提及具体绿色产品认证或详细描述。",
+      "original_text": "公司在原材料采购与生产过程中，优先选用环境影响更低的材料与工艺...推动绿色产品与包装创新。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "公司明确表示其运营活动在生命周期内未对生态系统、物种栖息地与生物多样性构成影响，因此不涉及生态系统保护相关议题。",
+      "original_text": "生命周期内未对生态系统、物种栖息地与生物多样性等构成影响，因此不涉及生态系统保护相关议题。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司应用循环化利用技术，推动资源的高效循环利用，降低资源消耗与废弃物产生，并实施能源替代项目。",
+      "original_text": "应用循环化利用技术，推动清洁能源使用...推动资源的高效循环利用，从而显著降低资源消耗与废弃物产生。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《招聘管理办法》《劳动合同管理办法》等制度，禁止雇佣童工和强迫劳动，坚持同工同酬，设立女职工委员会，完善薪酬福利体系和民主管理机制。",
+      "original_text": "公司高度明确禁止雇佣童工、强迫劳动等违规行为，在招聘环节坚决摒弃性别、民族、年龄、婚姻状况、宗教信仰等任何形式的歧视。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，开展安全生产培训、应急演练，进行职业健康风险评估，新员工入厂三级安全培训率100%。",
+      "original_text": "报告期内，公司通过ISO 45001职业健康安全管理体系的复核认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行质量、安全、环保等方面的培训与能力建设，要求供应商通过职业健康安全管理体系认证，并签订《供方安全、环保协议》。",
+      "original_text": "公司不定期围绕可持续发展理念、生产工艺标准、ESG管理体系等内容，面向供应商组织开展系列培训与能力建设活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立产品全生命周期质量管理体系，进行产品安全风险评估，开展质量文化培训，确保产品符合高标准技术质量与合规要求。",
+      "original_text": "公司高度重视产品安全与质量，报告期内目标及达成情况如下：...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全管理制度，开展数据安全培训，覆盖率达100%，报告期内未发生信息安全与隐私保护违规事件。",
+      "original_text": "报告期内，公司未发生信息安全与隐私保护违规事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展口腔健康科普活动、公益捐赠，参与“山中雏菊 筑梦同行”关爱儿童口腔健康公益行动，积极融入社区。",
+      "original_text": "2025年9月22日，登康口腔持续第四年参与“山中雏菊 筑梦同行”关爱儿童口腔健康公益行动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司不因宗教、国籍、婚姻状况、性别和残疾状态等歧视，拥抱并接受员工多元化，设立女职工休息哺乳室，关注女性员工权益。",
+      "original_text": "不因宗教、国籍、婚姻状况、性别和残疾状态等，拥抱并接受员工的多元化。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了由股东会、董事会及其专门委员会和高管层组成的法人治理架构，董事会下设战略、ESG与科技创新委员会等四大专门委员会，并构建了‘决策-管理-执行’三级联动的ESG治理架构。",
+      "original_text": "登康口腔搭建起由股东会、董事会及其专门委员会和高管层组成的健全法人治理架构...董事会下设战略、ESG与科技创新委员会、审计委员会、提名委员会及薪酬与考核委员会四大专门委员会...构建起'决策-管理-执行'三级联动的ESG治理长效机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司设立党风廉政与反腐败协调小组，签订《廉洁从业承诺书》和《反腐败工作责任书》，开展反商业贿赂及反贪污培训，设立举报渠道，推进廉洁风险管理数字化转型。",
+      "original_text": "公司党委书记、董事长、党委副书记按规定向集团纪委作述责述廉报告...签订《廉洁从业承诺书》共33份...设立党风廉政与反腐败协调小组...参加反商业贿赂及反贪污培训的董事人数 人 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守商业道德，构建‘一岗双责、全员尽责’的责任体系，成立合规管理委员会，制定《合规风险管理办法》，开展法务合规培训，确保生产经营全程合法合规。",
+      "original_text": "公司以'合规经营为基'...构建'一岗双责、全员尽责'的责任体系...成立了合规管理委员会...制定《合规风险管理办法》...2025年，公司开展法务合规相关培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司将风险管理端口前移，采用定性与定量相结合的方法识别评估风险，建立动态管控机制，定期复盘ESG风险管理策略，将ESG风险内嵌于整体风险管理体系。",
+      "original_text": "公司将风险管理端口前移，渗透至价值链各关键节点开展穿透式尽职调查...采用定性分析与定量相融合的评估方法...建立健全动态管控机制，定期复盘ESG风险管理策略的实施成效",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司依据《投资者关系管理制度》，通过股东会、业绩说明会、分析师会议、投资者调研等方式与投资者沟通，持续优化股东回报机制，上市以来持续兑现现金分红。",
+      "original_text": "登康口腔依据《投资者关系管理制度》...通过主动、及时的信息披露与互动交流...持续优化股东回报机制，顺利实施2024年度权益分派，上市以来持续兑现现金分红",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过问卷调查识别利益相关方诉求，针对不同利益相关方（股东、员工、客户等）采取相应的回应方式与频率，如股东会、年报、业绩交流会等。",
+      "original_text": "通过问卷调查的形式对利益相关方开展调研分析，回收了203份问卷...利益相关方 期望与诉求 我们的回应...股东会、年报、业绩交流会、投资者调研",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司已制定《信息披露管理制度》，坚持以客观、真实、准确、完整为原则开展信息披露工作，坚决杜绝虚假记载、误导性陈述或重大遗漏。",
+      "original_text": "公司已制定并实施《信息披露管理制度》等制度，坚持以客观、真实、准确、完整为原则开展信息披露工作，坚决杜绝虚假记载、误导性陈述或重大遗漏",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格恪守税收法律法规，持续健全税务管理体系，筑牢税务合规防线，精准开展税务筹划，切实防范税务风险。",
+      "original_text": "在税务管理领域，公司严格恪守税收法律法规，持续健全税务管理体系，筑牢税务合规防线，精准开展税务筹划，切实防范税务风险",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

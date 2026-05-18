@@ -1,0 +1,441 @@
+{
+  "company_name": "山金国际",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 193220.7,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 193,220.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 39985.15,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一：直接温室气体排放量 吨二氧化碳当量 39,985.15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 153235.55,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二：间接温室气体排放量 吨二氧化碳当量 153,235.55",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.11,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "温室气体排放强度 吨二氧化碳当量／万元 0.11",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 418199.36,
+      "unit": "兆瓦时",
+      "original_text": "公司能源消耗总量为418,199.36兆瓦时",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1653001,
+      "unit": "吨",
+      "original_text": "取水量 吨 1,653,001",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1089605.18,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 1,089,605.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 3645.7,
+      "unit": "万元",
+      "original_text": "环境保护资金投入 万元 3,645.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 17.75,
+      "unit": "吨",
+      "original_text": "二氧化硫 吨 17.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 22.65,
+      "unit": "吨",
+      "original_text": "颗粒物（生产工艺排放） 吨 22.65",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2085,
+      "unit": "人",
+      "original_text": "截至报告期末，公司员工总数达2,085人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工人数 人 293",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 239.26,
+      "unit": "万元",
+      "original_text": "员工培训投入金额 万元 239.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 6.33,
+      "unit": "%",
+      "original_text": "员工流失率 % 6.33",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 17808.8,
+      "unit": "万元",
+      "original_text": "研发投入 万元 17,808.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2792.95,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 2,792.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.69,
+      "unit": "‰",
+      "original_text": "百万工时损失事故率（LTIR） - 0.69",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 43.4,
+      "unit": "万元",
+      "original_text": "公益慈善投入金额 万元 43.40",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司共有9名董事会成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "公司共有3名独立董事，占比不低于三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "报告期内，公司共召开了9次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "报告期内取消监事会及监事岗位",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'目标，推进碳达峰行动顶层设计，识别气候相关风险与机遇，优化能源结构，提升资源效率，强化信息披露。",
+      "original_text": "公司积极响应国家'双碳'目标与全球气候行动倡议，通过识别气候相关风险与机遇、优化能源结构、提升资源效率、强化信息披露等举措",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续推进环境管理体系标准化、规范化建设，玉龙矿业、青海大柴旦、吉林板庙子和黑河洛克通过ISO 14001环境管理体系认证。",
+      "original_text": "玉龙矿业、青海大柴旦、吉林板庙子和黑河洛克通过ISO 14001环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推动绿色采购，将环保因素纳入供应商选择；但未明确提及绿色产品与服务具体措施。",
+      "original_text": "公司推动所属企业践行绿色采购，将环保因素纳入供应商选择",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司开展矿区植被恢复、生物多样性保护工作，各矿山项目已合规开展土地复垦、生物多样性调查与保护措施。",
+      "original_text": "开展矿区植被恢复、生物多样性保护工作，让矿山有颜色，让发展有底色，让大地有亮色",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司系统推进尾矿、废石、废水及废旧物资的循环利用，推动'减量化、资源化、无害化'。",
+      "original_text": "系统推进尾矿、废石、废水及废旧物资的循环利用，推动'减量化、资源化、无害化'",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵循劳动法，依法为员工缴纳五险一金，提供岗位补贴、福利，建立职工代表大会、厂务公开和集体协商机制，保障员工权益。",
+      "original_text": "公司严格遵循《中华人民共和国劳动法》《中华人民共和国劳动合同法》...依法依规为员工缴纳五险一金...建立职工代表大会、厂务公开和集体协商机制",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司成立安全生产委员会，建立职业健康安全管理体系，玉龙矿业通过ISO 45001认证，开展安全培训，投入安全培训109.64万元，人均安全培训时长93.78小时。",
+      "original_text": "公司成立安全生产委员会...玉龙矿业通过ISO 45001职业健康与安全管理体系认证...安全培训投入 万元 109.64...人均安全培训时长 小时 93.78",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司推动绿色采购，将环保因素纳入供应商选择，鼓励供应商环保表现，对承包商进行安全培训和管理。",
+      "original_text": "公司推动所属企业践行绿色采购，将环保因素纳入供应...青海大柴旦在招标或持续合作中，明确鼓励...为承包商从业人员开展岗前安全培训和专项安全培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司制定质量管理内部制度，确保矿山生产全过程质量可控，客户投诉率稳定在0%。",
+      "original_text": "公司制定质量管理内部制度，确保矿山生产全过程的质量可控与合规运营...客户投诉率稳定在0%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守个人信息保护法，建立员工隐私及个人档案信息保护机制，要求传递员工信息时标注隐私保护提示。",
+      "original_text": "公司高度重视员工个人隐私安全，严格遵守《中华人民共和国个人信息保护法》...建立员工隐私及个人档案信息...注'上述信息表中涉及员工个人隐私，请勿外传'",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司建立社区沟通与利益共享机制，坚持本地化雇佣，投入公益慈善43.40万元，员工志愿服务总时长，积极参与乡村振兴。",
+      "original_text": "我们健全社区沟通与利益共享机制，坚持本地化雇佣策略...累计投入公益慈善43.40万元，员工志愿服务总时长达...乡村振兴与社会公益",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司有女性员工293人，新增女性员工52人，但未明确提及多元化政策或包容性措施。",
+      "original_text": "女性员工人数 人 293 新增女性员工人数 人 52",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由股东会、董事会和管理层组成的治理架构，董事会下设战略、提名、审计、薪酬与考核四个专门委员会，并设立风险与合规管理委员会。",
+      "original_text": "公司建立了由股东会、董事会和管理层组成的治理架构，其中股东会为最高权力机构、董事会为主要决策机构、管理层为执行机构。董事会下设战略委员会、提名委员会、审计委员会、薪酬与考核委员会四大专门委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司设立纪检部负责廉洁建设和反腐败工作，围绕三重一大、招投标等环节识别廉洁风险，开展反贪污培训，董事会成员参与反贪污培训覆盖率达100%。",
+      "original_text": "山金国际高度重视反腐败工作，公司设立纪检部负责管理廉洁建设和反腐败相关工作，围绕'三重一大'、招投标等环节识别廉洁风险。董事会成员参与反贪污培训覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《合规管理办法》《反制裁管理制度》等，成立风险与合规管理委员会，推动全员签署《员工合规承诺书》，开展合规培训。",
+      "original_text": "公司持续完善合规管理组织架构建设，成立风险与合规管理委员会，新制定《反制裁管理制度》《反洗钱和反恐怖融资管理制度》等，推动全体员工签署《员工合规承诺书》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了全面风险管理体系，包括风险识别、评估、应对和监控，覆盖环境、安全、合规等多领域，并开展常态化内控审计和专项审计。",
+      "original_text": "公司构建了'董事会领导、经理层执行、审计委员会与风险与合规委员会监督'的高效运营风险管理体系，开展常态化内控审计、专项审计、经济责任审计等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》《投资者投诉处理工作制度》，通过投资者交流会、网上业绩说明会、深交所互动易等多种渠道与投资者沟通。",
+      "original_text": "公司高度重视投资者沟通，根据《上市公司与投资者关系管理工作指引》制定《投资者关系管理制度》《投资者投诉处理工作制度》，通过投资者交流会、网上业绩说明会、深交所互动易等渠道沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别出股东、政府、员工、社区、供应商、客户等关键利益相关方，通过问卷调查、专题座谈、实地走访等方式了解其诉求。",
+      "original_text": "山金国际高度重视与利益相关方的沟通与协作，系统识别出股东及债权人、政府及监管机构、员工、社区、供应商、客户等关键利益相关方，并通过问卷调查、专题座谈、实地走访、意见征集等多种方式沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露事务管理制度》，明确信息披露责任划分、权限、流程，及时、真实、完整、准确地披露信息。",
+      "original_text": "公司制定《信息披露事务管理制度》，明确信息披露的责任划分、权限、流程及程序，公司高度重视信息披露工作，及时、真实、完整、准确地披露公司各个方面的信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

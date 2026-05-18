@@ -1,0 +1,442 @@
+{
+  "company_name": "国投电力",
+  "report_year": "2022",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 8894,
+      "unit": "人",
+      "original_text": "2021年，员工总人数8,894人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 67.2,
+      "unit": "%",
+      "original_text": "女性员工占比的67.2%，较上年同期增加",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "每名员工接受培训的平均小时数",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 10100,
+      "unit": "万元",
+      "original_text": "公司研发资金投入1.01亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "职业健康及安全生产投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 402.49,
+      "unit": "万元",
+      "original_text": "工会会员消费帮扶、食堂采购金额共计402.49万元",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会共有9位董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3位",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "包含1位女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司研究制定碳达峰、碳中和目标方案，编制《碳达峰与碳中和总体规划方案》，强化碳排放管理，统筹碳资产管理，积极应对气候变化。",
+      "original_text": "积极应对气候变化，研究制定碳达峰、碳中和目标方案，加速绿色低碳发展",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司不断健全环境管理体系，明确年度资源节约与生态环境保护任务目标，将环保风险纳入并购项目风险评估范围。",
+      "original_text": "不断健全环境管理体系，明确年度资源节约与生态环境保护任务目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司以清洁能源为主，大力布局新能源业务，包括水电、风电、光伏等，提供清洁能源产品和服务。",
+      "original_text": "以清洁能源为主、水火风光并济的装机结构",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司在工程建设和运营中严格执行环评要求，采取设置生态放流管道、建设人工增殖放流系统等措施保护生物多样性，累计放流鱼苗超1,600万尾。",
+      "original_text": "采取设置生态放流管道、建设人工增殖放流系统等措施保护生态环境，累计放流鱼苗超1,600万尾",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进资源综合利用，提高废水回收利用率，实现废水达标处理后回收再利用，践行循环经济模式。",
+      "original_text": "提高废水回收利用率，减少用水量；各类废水全部实现达标处理后回收再利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司尊重员工权益，不断完善薪酬福利制度；及时足额发放工资，100%缴纳社保；通过职工代表大会、员工座谈会等沟通渠道，构建和谐劳动关系；全口径员工劳动合同签订率为100%。",
+      "original_text": "公司尊重员工权益，不断完善薪酬福利制度；及时足额发放工资，100%缴纳社保；职工代表大会、员工座谈会等沟通渠道；全口径员工劳动合同签订率为100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司高度重视员工职业健康安全，开展职业健康及安全培训，员工职业健康体检覆盖率达到100%；持续推动改善现场作业条件，创建有益健康的工作环境。",
+      "original_text": "国投电力始终坚持'以人为本'，高度重视员工职业健康安全和承包商安全管理，持续推动改善现场作业条件，创建有益于健康的工作环境，不断提高劳动者职业危害防护意识。员工职业健康体检覆盖率达到100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司不断健全和完善供应链管理，推进责任采购，引导供应商履行社会责任；要求供应商提供绿色产品、劳工准则、安全、质量和环境职业健康认证情况；红石能源制定HSE要求，与承包商共同识别HSE风险。",
+      "original_text": "国投电力不断健全和完善供应链管理，重视营造公平、公开、公正的经营环境，诚信合规经营，推进责任采购，引导供应商履行社会责任。公司鼓励供应商在《供应商准入审批表》中提供绿色产品、劳工准则、安全、质量和环境职业健康认证情况。红石能源制定《雇主健康、安全、环境要求》，与承包商共同识别可能面临的HSE风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚决完成保安全、保发电、保供热重要任务，确保机组安全稳定，能发尽发、应发尽发；全年未发生电力安全事故；扎实开展安全生产专项整治工作。",
+      "original_text": "公司坚决完成保安全、保发电、保供热重要任务，不遗余力服务能源保供大局。全年未发生电力安全事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循《网络安全法》等法律法规，修订了网络安全和信息化管理办法，夯实网络与信息安全制度基础；定期举办网络安全人员培训，开展全员网络安全意识培训及网络安全周知识竞赛。",
+      "original_text": "国投电力遵循《网络安全法》《网络安全等级保护管理办法》等法律法规要求，修订了《国投电力控股股份有限公司网络安全和信息化管理办法》，夯实网络与信息安全制度基础。公司定期举办网络安全人员培训，提高从业员工的专业技能水平。2021年，我们开展了全员网络安全意识培训以及管理人员、技术人员的网络安全培训，成功举办网络安全周知识竞赛等活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极开展对外捐赠工作和公益志愿服务，参与社区建设；开展爱心助学、益智课堂等志愿服务项目；工会会员消费帮扶、食堂采购金额共计402.49万元。",
+      "original_text": "国投电力根据《国投电力控股股份有限公司对外捐赠管理办法》积极开展对外捐赠工作和公益志愿服务，参与社区建设。开展爱心助学、益智课堂等志愿服务项目。工会会员消费帮扶、食堂采购金额共计402.49万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重员工多样性，公平对待不同年龄、性别、宗教信仰、民族、学历的员工；女性员工占比67.2%；董事会包含1位女性董事；未发生人权问题投诉。",
+      "original_text": "国投电力尊重员工多样性，公平对待不同年龄、性别、宗教信仰、民族、学历的员工。女性员工占比的67.2%。截至报告期末，董事会共有9位董事，并包含1位女性董事。2021年未发生人权问题投诉。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司组建了风险管理委员会，并有效搭建了合规管理组织架构，实现了合规管理工作的全覆盖。",
+      "original_text": "公司组建了风险管理委员会...截至2021年底，公司及重要投资企业均有效搭建了合规管理组织架构，实现了公司合规管理工作的全覆盖。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《党风廉政建设责任制实施办法》《党风廉政建设和反腐败...境外廉洁风险防控体系建设探究》的专项课题研究，并组织廉洁培训。",
+      "original_text": "公司制定《党风廉政建设责任制实施办法》《党风廉政建设和反腐败...境外廉洁风险防控体系建设探究》的专项课题研究，力求形成科学合理、行之有效的廉洁风险防控机制。2021年，公司针对董事会、管理层及员工多个层级，共组织廉洁培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立健全合规管理体系，修订了《专项领域合规管理办法》《合规风险清单》《境外重点领域合规手册》等，并建立了合规运行机制。",
+      "original_text": "公司建立健全合规管理体系，修订了《专项领域合规管理办法》《合规风险清单》《境外重点领域合规手册》等合规管理制度，建立了包括合规风险管控、合规审查、违规追究、合规管理有效性评估机制在内的合规运行机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司组建了风险管理委员会，将风险管理与绩效考核挂钩，完善了内控体系，形成了全面风险防控体系。",
+      "original_text": "公司组建了风险管理委员会，将风险管理与绩效考核挂钩并适时考核，形成了风险防范管理工作的完整闭环...完善了《国投电力内部控制管理办法》等49项制度...形成了制度完备、规范有序的全面风险防控体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立了完善的投资者关系管理制度，成立投资者关系管理团队，定期整理投资者关心的数据，培育良好的投资者关系。",
+      "original_text": "公司建立了完善的投资者关系管理制度，2021年成立投资者关系管理团队，定期整理归纳投资者关心的经营财务数据和问题库，持续完善企业资料库，培育了良好的投资者关系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司设置了形式多样、高效便捷的利益相关方沟通渠道，多层次、全方位地进行沟通，并识别出实质性议题。",
+      "original_text": "公司高度重视利益相关方的期望与诉求，设置了形式多样、高效便捷的利益相关方沟通渠道，多层次、全方位地进行沟通...识别出符合社会责任治理要求的实质性议题并进行重要性排序。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司获得上海证券交易所信息披露A级评价，及时准确全面披露信息。",
+      "original_text": "获得上海证券交易所“信息披露A级”",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关信息。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600886_国投电力_2022.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.76
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

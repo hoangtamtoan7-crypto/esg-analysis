@@ -1,0 +1,441 @@
+{
+  "company_name": "襄阳轴承",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 35655.97,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1和范围2）35,655.97 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 739.3,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围1）739.3 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 34916.67,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围2）34,916.67 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 9053.4,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "总用电量 9,053.40 万Kwh",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 542500,
+      "unit": "吨",
+      "original_text": "新鲜取水量 54.25 万m³",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 639,
+      "unit": "万元",
+      "original_text": "环保投入639万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2194,
+      "unit": "人",
+      "original_text": "数量合计 2,194 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "高级管理人员7名，女性高管1名",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1.87,
+      "unit": "%",
+      "original_text": "员工流失率 1.87%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 6766.54,
+      "unit": "万元",
+      "original_text": "研发投入 6,766.54 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.4,
+      "unit": "%",
+      "original_text": "研发投入占主营收入比重 4.4%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司有董事9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.3,
+      "unit": "%",
+      "original_text": "独立董事3名，占比33.3%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "公司共召开董事会5次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司围绕国家双碳目标，制定了系统、分阶段的碳减排战略规划，旨在通过循序渐进的行动路径，稳步实现低碳转型。",
+      "original_text": "公司围绕国家“双碳”目标，制定了系统、分阶段的碳减排战略规划，旨在通过循序渐进的行动路径，稳步实现低碳转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续保持ISO 14001环境管理体系有效运行，体系运行指标PDCA循环管理机制落地率100%。",
+      "original_text": "持续保持ISO 14001环境管理体系有效运行，体系运行指标PDCA循环管理机制落地率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推广可折叠循环包装铁箱，实现包装减量化、再利用，已取得国家实用新型专利。",
+      "original_text": "公司依据《产品包装箱管理考核办法》推广可折叠循环包装铁箱，以Q235A材料打造的该包装替代传统包装形式，实现产线直连、简化物流，既累计节约包装成本超100万元、消除轴承运输磕碰问题，又减少包装废弃物，实现环保与经济效益双赢。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生物多样性保护融入绿色发展理念，贯穿生产经营全流程。严格落实环保法律法规，通过完善环境管理体系规范废气、废水、固废及噪声管控，从源头减少对周边生态环境的影响。常态化开展植树、绿化养护等活动，强化员工环保教育，并将生态环保要求纳入供应链合作评估。",
+      "original_text": "襄阳轴承将生物多样性保护融入绿色发展理念，贯穿生产经营全流程...常态化开展植树、绿化养护等活动...将生态环保要求纳入供应链合作评估",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司强化废料回收利用与危险废物规范化处置，推动资源循环高效利用，水资源循环率92%。",
+      "original_text": "强化废料回收利用与危险废物规范化处置，推动资源循环高效利用，水资源循环率92%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，制定并实施《劳工与人权政策》，禁止童工、强迫劳动、歧视与骚扰，保障员工合法权益。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》《中华人民共和国就业促进法》等法律法规，制定并实施《劳工与人权政策》，将劳工合规与人权保障融入公司治理与人力资源管理体系。公司坚决禁止童工、强迫劳动、歧视与骚扰行为，致力于为员工营造安全、健康、公正、和谐的工作环境，切实保障员工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司关注职业健康与安全生产，建立职业健康安全管理体系，覆盖危害识别、风险评估、事故调查、健康服务等。",
+      "original_text": "职业健康与安全章节提及职业健康安全管理体系、危害识别、风险评估和事故调查、职业健康服务、职业健康安全培训、促进工作者健康、预防和减缓职业健康安全影响、工伤、工作相关的健康问题等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司关注供应链安全，通过供应商筛选与评估、阳光采购、专项交流活动等方式管理供应链ESG风险。",
+      "original_text": "供应商：完善采购管理、供应商筛选与评估、产品安全与质量、供应链安全、阳光采购、开发创新合作模式等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司重视产品安全与质量，将其列为重要议题，并披露相关管理措施。",
+      "original_text": "产品和服务安全与质量章节：对产品和服务类别的健康与安全影响、涉及产品和服务健康与安全影响的违规事件、对产品和服务信息与标识的要求等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司将数据安全与客户隐私保护列为重要议题，并披露相关管理。",
+      "original_text": "数据安全与隐私保护章节：数据安全与客户隐私保护。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过无偿献血、春节农产品采购等公益活动参与社区发展，并关注乡村振兴。",
+      "original_text": "公司积极响应国家乡村振兴战略，通过社会公益、社区支持及员工参与等方式参与乡村振兴工作。案例：无偿献血公益活动、春节农产品采购支持乡村发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持公平公正用工原则，在招聘、用工、培训和发展等环节提供平等机会，关注女性员工职业发展，通过表彰活动肯定女员工贡献，营造多元包容的职场环境。",
+      "original_text": "公司坚持公平、公正的用工原则...关注女性员工职业发展...肯定女员工在岗位建功和企业发展中的重要作用",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立以股东会为最高权力机构，以董事会为经营决策核心，以管理层为日常经营执行主体的管理架构。董事会下设审计委员会、薪酬与考核委员会、战略委员会、提名委员会。",
+      "original_text": "公司建立以股东会为最高权力机构，以董事会为经营决策核心，以管理层为日常经营执行主体的管理架构。董事会下设审计委员会、薪酬与考核委员会、战略委员会、提名委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建了制度、流程、监督、教育相互衔接的反商业贿赂与反腐败综合防控机制，设有专项制度如《襄阳轴承领导干部廉洁从业规定》等，并开展责任书签订、供应商管理及专项教育活动。",
+      "original_text": "公司构建了制度、流程、监督、教育相互衔接、有机统一的反商业贿赂与反腐败综合防控机制，将合规要求融入公司治理、经营管理和业务流程各环节。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定了《信息披露管理制度》《内幕信息知情人制度》等制度，秉持公平、公正、公开原则，完善信息披露体系。法律审核覆盖率达100%，未发生重大法律纠纷案件。",
+      "original_text": "为规范公司的信息披露行为，襄阳轴承制定了《信息披露管理制度》《内幕信息知情人制度》等制度。法律审核覆盖率达100%，未发生重大法律纠纷案件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司根据相关法律法规制定了《襄阳轴承合理化建议管理办法》《襄阳轴承关联交易管理制度》《公司财务风险预警处理预案》等制度，系统识别战略、法律、财务、气候、经营及市场等风险，并制定管控措施。",
+      "original_text": "公司根据《中华人民共和国公司法》《企业内部控制基本规范》等法律法规及相关规定，制定了《襄阳轴承合理化建议管理办法》《襄阳轴承关联交易管理制度》《公司财务风险预警处理预案》等相关制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过股东会、网站公告、业绩说明会及电话咨询等多种渠道与投资者保持良好互动。报告期内共开展1次投资者活动。",
+      "original_text": "公司积极落实投资者关系管理要求，制定《投资者关系管理制度》，不断完善沟通机制，确保信息披露的公平性和透明度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多元形式与内外部利益相关方开展常态化沟通，核心利益相关方涵盖治理层/经营层、投资者/股东、员工、供应商、客户、政府或监察机构、行业协会、科研机构、公益及社区组织。",
+      "original_text": "襄阳轴承通过多元形式与内外部利益相关方开展常态化、多维度沟通，以了解他们对环境、社会及治理相关议题的意见。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定了《信息披露管理制度》《内幕信息知情人制度》等制度，秉持公平、公正、公开原则，完善信息披露体系，及时、准确、完整披露公司信息。报告期内发布定期报告和临时公告共计69个。",
+      "original_text": "为规范公司的信息披露行为，襄阳轴承制定了《信息披露管理制度》《内幕信息知情人制度》等制度。公司始终秉持公平、公正、公开的原则，完善信息披露体系，及时、准确、完整披露公司信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司根据业务所在地税法、税务条约、国际税收规则，履行应尽的纳税义务。在合法前提下进行税务筹划，降低税负成本，保障股东权益。密切关注税收法律、法规的变更。",
+      "original_text": "襄阳轴承根据业务所在地税法、税务条约、国际税收规则，履行应尽的纳税义务，贡献社会。在合法的前提下，公司进行税务筹划，通过合理的方式降低税负成本，保障股东权益。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

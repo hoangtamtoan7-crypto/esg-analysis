@@ -1,0 +1,442 @@
+{
+  "company_name": "蓝思科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2391670.06,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量(范围一+范围二) 公吨二氧化碳当量 2,391,670.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 37147.44,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室⽓体排放 37,147.44 tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2529972.36,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "能源间接温室⽓体排放 2,529,972.36 tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 4393522.05,
+      "unit": "兆瓦时",
+      "original_text": "能源消耗总量 兆瓦时 4,393,522.05（2025年数据）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 50.53,
+      "unit": "%",
+      "original_text": "清洁能源占⽐ 50.53%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 193558.61,
+      "unit": "吨",
+      "original_text": "废弃物总量 吨 193,558.61（2025年数据）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 159,
+      "unit": "万元",
+      "original_text": "累计投资培训经费159万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 287100,
+      "unit": "万元",
+      "original_text": "2025年，公司研发费用28.71亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.86,
+      "unit": "%",
+      "original_text": "占营业收入比例3.86%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "目前公司董事会成员共7名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 57.14,
+      "unit": "%",
+      "original_text": "独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "董事会女性成员人数 2",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "审计委员会每季度至少召开一次会议",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳排放目标：以2024年为基准，未来5年内将运营碳排放强度降低20%。并成立能源管理领导小组，推进节能降耗与能源结构优化。",
+      "original_text": "以2024年为基准，公司计划在未来5年内将运营（范围一、范围二、范围三）碳排放强度（tCO2e/万元产值）降低20%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立污染物管理体系与制度，执行环评与减排，设定并披露排放目标。多个园区持续开展清洁生产审核。",
+      "original_text": "建立污染物管理体系与制度，执行环评与减排，设定并披露排放目标，通过严格管控以降低环境影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发低碳与清洁技术产品，如新能源汽车组件、超薄光伏玻璃、VR/AR设备等，契合市场低碳化转型趋势。",
+      "original_text": "低碳与清洁技术产品研发，消费者及品牌方对低能耗、轻量化产品的需求增长，如新能源汽车组件、超薄光伏玻璃、VR/AR设备等。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司以《生物多样性公约》为基准，实施生态红线规避机制，所有新项目通过环境影响评价，保护区域生态多样性。",
+      "original_text": "我们以国内《环境保护法》及国际《生物多样性公约》为基准，确保全球运营活动符合最高生态保护标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动废弃物资源化与能源化，减少填埋。目标工业固废综合利用率≥95%，2028年至少5个园区通过零填埋认证。",
+      "original_text": "工业固废综合利用率≥95%；2028年至少5个园区通过零填埋认证审核；2030年至少6个园区工业固废综合利用率≥90%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，严禁骚扰与歧视，通过全员培训、公众号等渠道开展宣传。",
+      "original_text": "公司秉持“零容忍”原则，严禁任何形式的骚扰与歧视行为。通过全员培训、官方公众号等多渠道开展",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司严格遵守职业健康安全管理体系，推进自动化减人，定期开展健康体检与安全培训，2025年健康与安全培训总时长为21,831.8小时。",
+      "original_text": "2025年，蓝思科技健康与安全培训总时长为21,831.8小时。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商管理程序》《供应商绩效管理程序》，对供应商进行分类管理，开展健康安全水平调查及审核评估，2025年实现供应链尽职调查100%覆盖。",
+      "original_text": "公司制定了《供应商管理程序》《供应商绩效管理程序》等内部资质评估...2025已实现供应链尽职调查100%覆盖",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过严格质量检测确保产品安全，2025年产品安全与质量事件数为0，损失金额为0。",
+      "original_text": "产品安全与质量事件数 件 0 0 0；产品安全与质量事件造成损失金额 万元 0 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守网络安全法、数据安全法、个人信息保护法等，建立信息安全防护体系，2025年信息安全培训覆盖17,169人次。",
+      "original_text": "公司重视对相关信息、数据和隐私的保护，严格遵守《中华人民共和国网络安全法》《中华人民共和国个人信息保护法》《中华人民共和国数据安全法》等法律法规...2025年共覆盖17,169人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与公益慈善活动，通过创造就业、技能培训、教育扶持等方式为社区发展注入长效动能。",
+      "original_text": "创造就业、技能培训、教育扶持等多种方式，为社区发展注入长效动能。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司制定制度反歧视，要求在发放工资、奖励、晋升、培训、招聘中禁止因各类原因出现歧视员工的行为；进行多元化招聘，展开多元化赋能项目。",
+      "original_text": "制定制度反歧视，要求在发放工资、奖励、晋升、培训、招聘中禁止因各类原因出现歧视员工的行为；进行多元化招聘，展开多元化赋能项目",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会是ESG最高决策机构，下设战略与可持续发展（ESG）委员会，负责研究、审议和监督可持续发展战略、重大ESG议题及相关政策制度。",
+      "original_text": "董事会作为公司ESG事务的最高决策机构，通过战略与可持续发展委员会对公司可持续发展战略、重大ESG议题及相关政策制度进行研究、审议和监督。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "建立健全反腐败制度与合规体系，全员签署廉洁协议；设立独立举报渠道与审计机制，定期开展反商业贿赂培训。",
+      "original_text": "建立健全反腐败制度与合规体系，全员签署廉洁协议；设立独立举报渠道与审计机制，定期开展反商业贿赂培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司高度重视合规运营与风险防控，将合规经营与商业道德贯穿于管理实践，构建科学的内控与风险管理机制。",
+      "original_text": "将合规经营与商业道德贯穿于管理实践，构建科学的内控与风险管理机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会是最高风险管理决策机构，下设审计委员会监督内部控制制度，审计部直接向审计委员会汇报，形成三道防线风险管理体系。",
+      "original_text": "董事会是公司最高风险管理决策机构，对公司风险管理承担最终责任，负责推动落实公司整体风险管理目标。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，已建立成熟的投资者沟通机制，通过各个渠道与投资者保持紧密联系，及时传递公司发展战略及经营情况。",
+      "original_text": "公司高度重视投资者关系管理，已建立成熟的投资者沟通机制，通过各个渠道与投资者保持紧密联系，及时传递公司发展战略及经营情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过利益相关方沟通机制，识别各类利益相关方，并回应其关切，确保报告具有实质性。",
+      "original_text": "为充分回应利益相关方的诉求，确保报告更具有实质性，聘请中诚信绿金科技（北京）有限公司依据...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司不断提升信息披露质量，2025年持续获得信息披露工作评价结果“A”的最好评级。",
+      "original_text": "报告期内，公司不断提升信息披露质量，2025年已持续获得信息披露工作评价结果“A”的最好评级。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "300433_蓝思科技_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

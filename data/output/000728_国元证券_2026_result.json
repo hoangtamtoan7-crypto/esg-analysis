@@ -1,0 +1,441 @@
+{
+  "company_name": "国元证券",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 11557.61,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 tCO2e 12,955.81 12,145.74 11,557.61",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 638.53,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围一） tCO2e 1,142.79 618.61 638.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 9449.68,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围二） tCO2e 10,562.39 10,437.59 9,449.68",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.85,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "温室气体每百万元营收排放量 tCO2e/百万元 2.76 2.08 1.85",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 55825.99,
+      "unit": "吨",
+      "original_text": "水资源消耗总量 t 62,488.46 63,086.79 55,825.99",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 570.09,
+      "unit": "吨",
+      "original_text": "有害废弃物总量 t 13.87 10.75 14.51；无害废弃物总量 t 571.79 519.39 555.58",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4108,
+      "unit": "人",
+      "original_text": "截至报告期末，公司共有员工4,108 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 41.67,
+      "unit": "%",
+      "original_text": "女性员工比例 41.67%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 22.3,
+      "unit": "%",
+      "original_text": "女性领导者比例达到22.30%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 86.47,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 51.74 78.10 86.47",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 12.76,
+      "unit": "%",
+      "original_text": "员工离职率 % 12.76 12.90 6.99",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1151.66,
+      "unit": "万元",
+      "original_text": "赠1,151.66万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 14,
+      "unit": "人",
+      "original_text": "公司董事会共有14名成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 35.71,
+      "unit": "%",
+      "original_text": "独立非执行董事5名，占比35.71%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "董事会召开会议10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳中和路线图，目标到2040年实现自身运营碳中和，并通过购买林业碳票实现总部运营层面碳中和。",
+      "original_text": "到2040年，实现自身运营碳中和；公司开展总部运营层面碳中和认证工作，对所购买的安徽省林业碳票实",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定《绿色运营政策》，持续完善环境管理体系，强化资源管理、节能减排及废弃物管理。",
+      "original_text": "制定《国元证券股份有限公司绿色运营政策》，持续完善环境管理体系，强化资源管理、节能减排及废弃物管理的规范执行",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司通过绿色融资、绿色投资、绿色金融产品创设、碳金融等专业金融服务支持绿色低碳发展，全年完成绿色股权融资12.20亿元，固收投资配置绿色债券15.33亿元。",
+      "original_text": "全年完成绿色股权融资12.20亿元，固收投资配置绿色债券15.33亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司关注投融资活动对生态系统和生物多样性的影响，在尽职调查中重点关注农业、生物多样性、林业等环境敏感型行业。",
+      "original_text": "在尽职调查环节重点关注农业、生物多样性、林业、能源、采矿业、石油与天然气等环境敏感型行业的生态影响情况",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司对废弃物实施分类管理与全流程管控，规范分类、贮存、运输及处置，重点强化有害废弃物合规管理。",
+      "original_text": "对废弃物实施分类管理与全流程管控，规范分类、贮存、运输及处置各环节，重点强化有害废弃物合规管理与环境风险防控",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，实施面向全体员工的劳动合同管理，保障员工合法权益，建立员工申诉机制，反对歧视，提供平等就业机会。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等国家相关法律法规，实施面向全体员工的劳动合同管理，切实维护员工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立安全生产风险管控和应急管理制度，定期组织员工健康体检，提供补充医疗保障，开展应急演练，关注员工身心健康。",
+      "original_text": "公司高度重视员工职业健康与安全，建立安全生产风险管控和应急管理制度，定期组织员工健康体检，在基本医疗保险基础上提供补充医疗保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将信息安全与数据隐私保护能力纳入供应商筛选标准，要求供应商制定数据安全与隐私保护制度，并持续监控。",
+      "original_text": "公司在供应商筛选环节，将信息安全与数据隐私保护能力及相关建设情况纳入核心评估标准；在合同签订时，明确要求供应商制定数据安全与隐私保护制度或遵守本公司隐私政策。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "partial",
+      "summary": "公司提及产品和服务安全与质量，但未提供具体措施或认证。",
+      "original_text": "产品和服务安全与质量 优化客户服务",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建三级数据安全与客户隐私保护管理架构，制定多项制度，开展全员培训，进行第三方审计，实施全生命周期数据安全管理。",
+      "original_text": "公司不断完善“信息技术治理委员会—数据治理领导小组—工作组”三级数据安全与客户隐私保护管理架构。公司制定《国元证券股份有限公司数据安全管理细则》等制度，每年组织第三方外部审计，面向全体员工定期开展数据安全及客户隐私保护培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，开展社区公益与社会帮扶活动，组织员工参与志愿服务，深入社区开展便民服务、政策宣传等。",
+      "original_text": "公司将公益慈善融入企业文化与治理实践，积极履行社会责任，持续推进社区公益与社会帮扶工作。报告期内，公司深入社区、广场开展专项公益活动超120场。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等就业，反对歧视，提供女性带薪产假和男性陪护假，推进董事会多元化，女性员工比例41.67%，女性领导者比例22.30%。",
+      "original_text": "公司致力于为社会创造平等就业机会。在招聘、培训、晋升等各环节，严格执行平等原则，不限制女性、残障人士等。女性员工比例41.67%，女性领导者比例22.30%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建由董事会战略与可持续发展委员会、经营管理层ESG委员会及ESG工作小组组成的多层级治理架构，形成决策层、管理层、执行层三级联动体系。",
+      "original_text": "公司构建由董事会战略与可持续发展委员会、经营管理层ESG委员会及ESG工作小组组成的多层级治理架构，明确决策层、管理层、执行层三级联动体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建以董事会为最高责任机构的反腐败体系，制定反腐败政策声明，开展廉洁从业培训，覆盖率100%，每年开展反腐败审计。",
+      "original_text": "公司构建以董事会为最高责任机构，审计委员会、高级管理人员落实廉洁从业管理目标；反腐败与廉洁从业培训覆盖率100%；每年开展反腐败与廉洁从业工作审计。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德，建立合规管理组织体系，董事会为最高决策机构，全年开展合规培训76场次，合规培训覆盖率100%。",
+      "original_text": "公司建立与自身经营范围、组织结构和业务规模相适应的合规管理组织体系，其中董事会作为最高决策机构；全年累计开展合规培训76场次；合规培训覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，董事会承担风险管理最终责任，制定全面风险管理制度，覆盖所有业务和管理条线。",
+      "original_text": "公司制定《国元证券股份有限公司全面风险管理制度》《国元证券股份有限公司董事会风险管理委员会工作细则》等，董事会承担风险管理的最终责任。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司扎实推进信息披露与投资者关系管理工作，确保所有股东平等获取信息，高质量召开业绩说明会，持续深化与投资者沟通。",
+      "original_text": "扎实推进信息披露与投资者关系管理工作，确保所有股东尤其是中小股东均能平等、及时获取真实、准确、完整的信息；高质量召开年度业绩说明会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别主要利益相关方包括股东、政府、客户、员工等，通过多种渠道沟通，将利益相关方关切融入战略与运营。",
+      "original_text": "公司识别的主要利益相关方包括股东和投资者、政府、客户、员工等；通过电话、邮件、调研等多种渠道沟通，将利益相关方关切融入公司战略与日常运营。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司第十七次荣获深交所信息披露A级评价，连续两年荣获上市公司金牛奖（金信披奖），信息披露质量高。",
+      "original_text": "第十七次荣获深圳证券交易所信息披露A级评价；连续两年荣获“上市公司金牛奖（金信披奖）”。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司披露了GRI207：税务2019，以及税务治理、控制及风险管理已在公司年报披露。",
+      "original_text": "GRI207：税务2019；207-2 税务治理、控制及风险管理 / 已在公司年报披露",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

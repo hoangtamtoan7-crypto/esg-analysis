@@ -1,0 +1,441 @@
+{
+  "company_name": "深天马Ａ",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1104914.23,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围一+范围二）1,104,914.23吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 195280.14,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放195,280.14吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 909634.09,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放909,634.09吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.244,
+      "unit": "吨二氧化碳当量/平方米",
+      "original_text": "2024年碳排放强度0.244吨二氧化碳当量/平方米",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 2.75,
+      "unit": "%",
+      "original_text": "可再生能源电力消费占比2.75%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 20952000,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨 2,095.20 2,029.66 2,042.90",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 20952000,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨 2,095.20 2,029.66 2,042.90",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 75301.69,
+      "unit": "吨",
+      "original_text": "废弃物产生总量 吨 75,301.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 16293,
+      "unit": "人",
+      "original_text": "员工总数16,293位",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 333044.99,
+      "unit": "万元",
+      "original_text": "研发投入 万元 334,499.78 334,703.37 333,044.99",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 9.19,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 10.37 9.99 9.19",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 63.4,
+      "unit": "万元",
+      "original_text": "社会公益投入金额 万元 227.57 161.64 63.40",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "董事会由12名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司提出'以零碳数智创造精彩视界'愿景，制定'1+2+8'碳中和规划，以2020年为基准年，目标2030年碳排放强度下降45%，2050年实现自身运营碳中和。",
+      "original_text": "以2020年为基准年，天马微电子：近期目标：到2030年，碳排放强度（吨二氧化碳当量/平方米）相较于基准年下降45%，可再生能源电力消费占比达到18%。中期目标：到2040年，碳排放强度下降60%，可再生能源占比50%。远期目标：到2050年，实现自身运营碳中和，可再生能源占比100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依据ISO 14064-1和GHG Protocol对各生产区域温室气体排放开展全面核查并通过第三方认证，国内所有生产区域100%通过ISO 14064-1温室气体核查。",
+      "original_text": "公司每年依据ISO 14064-1和GHG Protocol对各生产区域范围一、范围二、范围三的温室气体排放开展全面核查并通过第三方认证，国内所有生产区域100%通过ISO 14064-1温室气体核查。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "建立绿色产品管理体系，通过绿色低碳产品线、产品再生材料利用、绿色包装、低碳产品技术等措施推动全生命周期碳减排。截至2025年底，各事业部产品碳足迹核算能力100%建立，已完成超过40款产品碳足迹精准核算。",
+      "original_text": "建立绿色产品管理体系，通过绿色低碳产品线、产品再生材料利用、绿色包装、低碳产品技术等措施，推动产品全生命周期碳减排。截至2025年底，各事业部产品碳足迹核算能力100%建立，已完成超过40款产品碳足迹精准核算。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司各生产区域选址避开生物多样性重要区域，经评估不涉及。厂区形成由灌木、草丛、水塘、树林等构成的复合绿化覆盖，出现鸟筑巢等生态现象。组织员工参与植树活动、春季绿化补种专项行动。",
+      "original_text": "经评估，各生产区域选址避开生物多样性重要区域。厂区已出现鸟筑巢等生态现象。武汉天马组织员工参与植树活动、春季绿化补种专项行动",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "加强水资源、原材料等资源的循环、减量利用。2025年，循环用水占比96.09%，综合单位产品取水量同比降低7%；综合单位产品废弃物产生量同比降低8.60%。",
+      "original_text": "加强水资源、原材料以及辅料等生产所需资源的循环、减量利用。2025年，循环用水占比96.09%，综合单位产品取水量同比降低7%；综合单位产品废弃物产生量同比降低8.60%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司构建‘节日关怀+健康守护+职业支持’三维女性员工保障体系，覆盖女性员工生活全场景、健康全周期、职业全阶段。",
+      "original_text": "公司构建‘节日关怀+健康守护+职业支持’三维女性员工保障体系，覆盖女性员工生活全场景、健康全周期、职业全阶段。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司搭建系统化职业健康与安全管理体系，通过健全制度化治理架构、开展全方位风险识别与管控、实施全方位员工培训与能力建设等举措，持续打造安全、健康、舒心的工作环境。",
+      "original_text": "公司搭建系统化职业健康与安全管理体系，通过健全制度化治理架构、开展全方位风险识别与管控、实施全方位员工培训与能力建设等举措，持续打造安全、健康、舒心的工作环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "构建绿色低碳且富有韧性的供应链体系。截至2025年底，完成超过300家供应商碳排放情况调研，对200多家供应链伙伴开展赋能培训。持续开展供应商绿色低碳分级管理及范围三碳排放核算工作。",
+      "original_text": "构建绿色低碳且富有韧性的供应链体系。截至2025年底，完成超过300家供应商碳排放情况调研，对200多家供应链伙伴开展赋能培训。持续开展供应商绿色低碳分级管理及范围三碳排放核算工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立综合管理体系，包括贯穿研发至量产的全生命周期质量流程（APQP）、基于ISO标准的质量体系。深植‘价值引领、明是非、零缺陷、定规则、勇担当’的质量文化内核。",
+      "original_text": "公司建立综合管理体系，包括贯穿研发至量产的全生命周期质量流程（APQP）、基于ISO标准的质量体系。深植‘价值引领、明是非、零缺陷、定规则、勇担当’的质量文化内核。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过‘技术-管理双轨制’构建分级防护体系，通过制度完善、技术部署、专项治理与全员培训，护航数据安全。开展全员数据安全培训及考试，定期开展数据安全宣导。",
+      "original_text": "通过‘技术-管理双轨制’构建分级防护体系，通过制度完善、技术部署、专项治理与全员培训，护航数据安全。开展全员数据安全培训及考试，定期开展数据安全宣导。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司聚焦教育支持、社区共建、乡村振兴、关爱特殊群体、志愿服务五大核心场景开展公益实践，搭建'赋能乡村''点亮未来''温暖社区'等公益项目矩阵。",
+      "original_text": "天马微电子聚焦教育支持、社区共建、乡村振兴、关爱特殊群体、志愿服务五大核心场景开展实践工作，搭建起'赋能乡村''点亮未来''温暖社区'等多维联动的公益项目矩阵。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司致力于打造平等、包容、多元的高质量职场环境，落实女性员工专项关爱行动，包括慰问、健康咨询、瑜伽班等活动，营造温暖、包容、有归属感的工作氛围。",
+      "original_text": "落实女性员工专项关爱行动，全方位营造温暖、包容、有归属感的工作氛围，促进员工与企业的深度联结与共同成长。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了覆盖决策、管理、执行的三层级治理架构，董事会下设战略与可持续发展委员会，负责ESG相关重大事项审批决策。",
+      "original_text": "公司建立了覆盖决策、管理、执行的三层级治理架构，以保障气候相关战略与行动的有效落地。董事会下设战略与可持续发展委员会，负责公司'双碳'相关重大事项审批决策。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建多层级的合规管理体系，制定商业道德管理制度，开展多层次廉洁从业培训，2025年未发生商业贿赂与腐败事件。",
+      "original_text": "2025年，我们未发生商业贿赂与腐败事件，未被有关部门调查。公司开展多层次的廉洁从业培训宣导：针对董事/高管开展反腐败与反商业贿赂培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立科学的合规管理体系，制定《合规管理规定》《商业道德管理制度》等，将合规工作纳入考核体系，有效防控合规风险。",
+      "original_text": "我们建立科学的合规管理体系，有效防控合规风险，保障公司高质量发展。公司构建多层级的合规管理体系，明确主体权责，以制度建设为根基。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立以董事会、审计与风险管理委员会、内控审计部为框架的风险管理组织结构，构建风险管理及内部控制三道防线，通过年度重大风险辨识、季度管控回顾等机制落实管控。",
+      "original_text": "公司高度重视风险管理及内部控制系统的有效运行，建立以董事会、审计与风险管理委员会、内控审计部为框架的风险管理组织结构，构建风险管理及内部控制三道防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视与投资者的双向互动，制定利益相关方沟通计划，通过投资者信箱等渠道沟通，并荣获第六届全景投资者关系金奖—杰出ESG价值传播奖。",
+      "original_text": "天马微电子重视与利益相关方的双向互动，制定利益相关方沟通计划，积极参与外部交流，扩展沟通渠道。股东/投资者重点关注公司经营情况，沟通渠道包括投资者信箱。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司制定利益相关方沟通计划，通过问卷调查、访谈等方式覆盖股东、客户、员工、供应商和社区等核心利益相关方，并建立ESG专属平台拓宽沟通渠道。",
+      "original_text": "天马微电子重视与利益相关方的双向互动，制定利益相关方沟通计划，积极参与外部交流，扩展沟通渠道，主动倾听利益相关方对公司可持续发展策略及实践的建议和期望。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露真实、准确、完整、及时、公平，不存在虚假记载、误导性陈述或重大遗漏，已通过董事会批准年度可持续发展报告。",
+      "original_text": "公司信息披露真实、准确、完整、及时、公平，不存在虚假记载、误导性陈述或者重大遗漏，不存在损害公司和全体股东利益的情况。本报告已通过公司董事会批准。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

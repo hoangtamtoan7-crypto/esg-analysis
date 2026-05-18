@@ -1,0 +1,442 @@
+{
+  "company_name": "海康威视",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 227464.0,
+      "unit": "吨二氧化碳当量",
+      "original_text": "排放总量 吨二氧化碳当量 157,687.73 189,877.79 227,464.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 9732.85,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1 吨二氧化碳当量 6,838.93 14,385.48 9,732.85",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 217731.15,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2 吨二氧化碳当量 150,848.80 175,492.31 217,731.15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2.46,
+      "unit": "吨二氧化碳当量/百万元",
+      "original_text": "排放强度 吨二氧化碳当量/百万元 1.77 2.05 2.46",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 5.85,
+      "unit": "%",
+      "original_text": "清洁能源比例 % 4.26 8.07 5.85",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 6473632.8,
+      "unit": "吨",
+      "original_text": "总取水量 吨 2,598,300.29 2,178,073.27 6,473,632.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 5178906.24,
+      "unit": "吨",
+      "original_text": "总排水量 吨 2,253,222.97 1,769,300.66 5,178,906.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 57202,
+      "unit": "人",
+      "original_text": "全球聘用员工 人 58,544 59,689 57,202",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "海康威视尊重员工隐私，性别为非必填披露项，故存在未知性别类别。",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1532,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 1,508 1,532 1,104",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 22.63,
+      "unit": "小时/人",
+      "original_text": "员工人均受训时长 小时/人 26.2 26.73 22.63",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 11752.62,
+      "unit": "百万元",
+      "original_text": "研发投入 百万元 11,392.9 11,864.01 11,752.62",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 12.7,
+      "unit": "%",
+      "original_text": "研发投入占营收比例 % 12.75 12.83 12.70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 5137,
+      "unit": "万元",
+      "original_text": "安全生产投入 5,137 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.5,
+      "unit": "‰",
+      "original_text": "轻伤事故率≤总员工数的3‰ 总员工数的0.5‰",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 500,
+      "unit": "万元",
+      "original_text": "慈善捐赠金额超过500万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳目标，将绿色低碳理念嵌入全生命周期，制定了覆盖体系、业务与生态层面的系统化碳中和战略蓝图，并确立低碳产品、智能制造、数智赋能及绿色运营四大重点行动方向。",
+      "original_text": "面对气候变化的全球性挑战，我们积极响应国家“双碳”目标，将绿色低碳理念嵌入产品设计、生产制造、运营管理的全生命周期。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了环境管理体系，包括《环境因素识别与评价程序》、《温室气体排放管理程序》等，并通过ISO 14001认证。",
+      "original_text": "海康威视根据《环境因素识别与评价程序》及《温室气体排放管理程序》，建立识别、评估与管理气候变化相关...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司基于绿色低碳产品及服务满足用户需求，自主研发绿色产品分析平台（GPA），实现碳管理能力提升。",
+      "original_text": "基于绿色低碳产品及服务，满足用户需...海康威视自主研发的绿色产品分析平台（GPA）正式上线",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过鸟类监测云台、高光谱水质监测仪等智能感知设备，深入开展植物、动物及生态系统保护工作，并牵头编制生物多样性监测技术规范。",
+      "original_text": "我们通过鸟类监测云台、高光谱水质监测仪等智能感知设备，深入开展植物、动物及生态系统保护工作，将生物多样性保护落到实处",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以建设无废集团为目标，联动产业链探索循环经济，对生产中的结构件、停产产品及物料进行专业回收与价值再利用，并与绿岛协议推动废活性炭等物料集中再生。",
+      "original_text": "废集团”为目标，联动产业链探索循环经济...对生产中的结构件、停产产品及物料进行专业回收与价值再利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司确保落实保护员工个人信息和隐私安全的相关管理要求，报告期内未发生使用童工和强迫劳动的行为。",
+      "original_text": "确保落实保护员工个人信息和隐私安全的相关管理要求。报告期内，公司未发生使用童工和强迫劳动的行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立完善的职业健康安全管理体系，修订《职业健康培训管理规范》，开展培训、演练，制定《环境职业健康安全目标指标及管理方案》。",
+      "original_text": "修订《职业健康培训管理规范》，持续开展职业健康安全培训，定期组织健康讲座与员工创伤止血包扎等实操培训，以及消防疏散、防空等应急演练。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "搭建供应商培训平台，围绕环保、合规、质量、健康安全、商业道德等开展年度稽核，建立评价管理规范。",
+      "original_text": "搭建供应商培训平台，围绕环保与合规、产品质量、环境、健康与安全、商业道德等议题开展年度稽核；建立《供应商评价管理规范》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以成熟的质量管理体系保障产品安全与质量，从研发设计、供应链管控到生产制造各环节层层把关，将产品质量指标纳入业务部总经理绩效考核。",
+      "original_text": "以成熟的质量管理体系保障产品安全与质量，从研发设计、供应链管控到生产制造各环节层层把关，全方位保障产品质量稳定可靠。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全相关法律法规，建立由CEO牵头的数据治理委员会，开展数据安全风险评估，2025年评估等级为优，个人信息保护培训覆盖全员。",
+      "original_text": "严格遵守《数据安全法》《个人信息保护法》等，建立由CEO牵头的数据治理委员会，2025年数据安全风险评估等级为优。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展社会公益与志愿活动，如公益科普课程、联合街道社区活动、图书捐赠等，用科技助力公益。",
+      "original_text": "面向公司员工上线公益科普课程，同时在杭州、武汉等地联合街道与社区开展活动，通过联合公益组织发起多项图书捐赠。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司禁止歧视，关注女性赋能，提供多元化职业发展路径，尊重员工隐私。",
+      "original_text": "公司禁止任何形式的歧视；持续关注女性赋能；尊重员工隐私，年龄为非必填披露项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会决策监督、碳中和委员会统筹、运营工作组执行的ESG治理架构，董事会作为ESG管理的最高责任机构。",
+      "original_text": "海康威视建立了由董事会决策监督、碳中和委员会统筹、碳中和委员会由公司高管及气候变化核心领域的管理人员组成。董事会作为ESG管理的最高责任机构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《海康威视道德与商业行为准则》《海康威视反商业贿赂与反贪污管理办法》等制度，深化反腐，重大腐败风险案件0件。",
+      "original_text": "海康威视将商业道德融入公司治理与业务，完善商业道德与廉洁合规管理体系。公司制定《海康威视道德与商业行为准则》《海康威视反商业贿赂与反贪污管理办法》。重大腐败风险案件0件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉承诚实守信经营理念，建立风险管理体系与合规生态，通过ISO 37301合规管理体系认证，商业道德培训覆盖率100%。",
+      "original_text": "海康威视秉承'诚信合规 行稳致远'的核心价值观，恪守商业道德与廉洁自律底线，坚决抵制不正当竞争与腐败。2025年通过ISO 37301合规管理体系认证。商业道德培训覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立风险管理体系与合规生态，设立董事会风险与合规管理委员会，制定《全球合规风险管理规范》等制度，覆盖风险识别与分级处置。",
+      "original_text": "海康威视设立董事会风险与合规管理委员会，制定并实施《董事会风险与合规委员会工作细则》《全球合规风险管理规范》《全球合规审计管理办法》，进一步完善全球合规风险管理'三道防线'。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过电话沟通（实时）、邮件往来、参与媒体活动等方式与股东/投资者沟通，坚持透明信息披露。",
+      "original_text": "股东/投资者 商业道德与合规 电话沟通（实时）；信息披露 邮件往来（实时）；参与媒体活动（不定期）；坚持透明信息披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立畅通、多元的常态化沟通机制，系统收集并分析利益相关方的关切与期望，动态纳入公司可持续发展规划。",
+      "original_text": "企业的可持续发展离不开利益相关方的协同参与。我们建立畅通、多元的常态化沟通机制，在向各方传递公司发展动向的同时，系统收集并分析利益相关方的关切与期望，并动态纳入公司可持续发展规划及管理机制中。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司坚持透明信息披露，董事会对报告内容进行保证，不存在虚假记载、误导性陈述或重大遗漏。",
+      "original_text": "坚持透明信息披露。董事会对报告的内容进行保证，不存在虚假记载、误导性陈述或重大遗漏。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司制定《税务风险管理规范》等税务管理制度，依法合规开展税务工作，披露税务信息，已连续多年保持税务合规。",
+      "original_text": "制定《税务风险管理规范》等税务管理制度，依法合规开展税务工作，披露税务信息。海康威视已连续多年保持税务合规。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "002415_海康威视_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

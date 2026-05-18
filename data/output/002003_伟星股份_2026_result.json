@@ -1,0 +1,441 @@
+{
+  "company_name": "伟星股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 10038,
+      "unit": "人",
+      "original_text": "截至报告期末，公司共有在职员工10,038人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "公司共召开股东会3次、董事会12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会各专门委员会会议12次、独立董事专门会议4次",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "公司提及减少碳排放、光伏发电等行动，但未明确整体策略或目标。",
+      "original_text": "项目稳定运行满一周年，该项目年度发电量约536万度，相当于减少碳排放约4,467吨",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "partial",
+      "summary": "公司提到化学品管理、ZDHC检测等，但未明确提及环境管理体系认证。",
+      "original_text": "公司始终将化学品安全视为不可逾越的红线，要求化学品原材料供应商签署环保协议",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发原液着色色纱、碳捕集材料塑胶制品等绿色产品，并推广循环再生模式。",
+      "original_text": "原液着色色纱在性能、环保和生 业排放的二氧化碳转化为有价值的生产原 织废料转化为可用于生产新服装或纺织品的",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "未提及生物多样性保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司提及将纺织废料转化为新服装或纺织品，以及原纱黑拉链节约用水、减少碳排放等循环经济实践。",
+      "original_text": "织废料转化为可用于生产新服装或纺织品的 原纱黑拉链 节约用水 减少碳排放 提升纺织品整体回收效率和可行性",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，坚持平等雇佣，杜绝歧视和童工，签订劳动合同并缴纳社保，保障员工基本权益。",
+      "original_text": "全体员工签订劳动合同，并为员工缴纳养老...公司坚持平等雇佣原则，杜绝因性别、...视，坚决抵制雇佣童工、强制劳动等违法行为",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司秉持生命至上原则，健全安全生产责任体系，完善安全制度，开展安全培训、应急演练等，保障员工安全健康。",
+      "original_text": "公司始终将员工安全置于首位，通过健全全员安全生产责任体系...系统完善安全制度与操作规程...开展安全培训与文化建设",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司坚持阳光采购、公平遴选，对供应商资质、履约能力、质量保障及可持续发展理念综合评估，签订廉洁协议，加强合规培训。",
+      "original_text": "公司坚持公平公正、阳光透明的合作原则...对供应商资质、履约能力、质量保障及可持续发展理念进行综合评估...与供应商签订廉洁合作协议书",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以技术创新与源头管控保障产品合规与安全，要求化学品供应商签署环保协议，推进绿色制造，降低受限物质含量。",
+      "original_text": "以技术创新与源头管控，保障产品合规与安全...要求化学品原材料供应商签署环保协议...新研发的低VOC树脂钮扣，其挥发...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "报告未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与公益事业，开展无偿献血活动，助力教育，推动社区发展。",
+      "original_text": "公司高度重视社会责任，持续推动无偿献血活动常态化...公益教育活动，助力优质教育资源惠及广大青年学子",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司坚持平等雇佣，杜绝性别歧视，但未明确提及多元化与包容的具体政策或措施。",
+      "original_text": "公司坚持平等雇佣原则，杜绝因性别、...视",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了由股东会、董事会及经营层组成的现代法人治理体系，董事会下设审计委员会、薪酬与考核委员会及独立董事专门会议。",
+      "original_text": "构建了由股东会、董事会及经营层组成的权责清晰、运行高效的现代法人治理体系。董事会下设审计委员会、薪酬与考核委员会及独立董事专门会议。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司完善反腐倡廉管理机制，明确贿赂、腐败、舞弊等违规行为的预防与处置措施，与供应商签订廉洁合作协议书，与员工签订廉洁从业责任书，加强反商业贿赂教育。",
+      "original_text": "完善反腐倡廉管理机制，明确贿赂、腐败、舞弊等违规行为的预防机制与处置措施；与供应商签订廉洁合作协议书，与内部员工签订廉洁从业责任书；加强反商业贿赂的教育与宣传。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司以法律法规为准绳，构筑规范化、法治化运营环境，注重合规培训与廉洁警示教育，强化采购团队责任意识与职业操守。",
+      "original_text": "以《中华人民共和国刑法》等法律法规为准绳，构筑规范化、法治化的运营环境；注重合规培训与廉洁警示教育，强化采购团队的责任意识与职业操守。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司秉持'风险控制第一'原则，着力防范与控制各类经营风险、财务风险，推动高质量发展。",
+      "original_text": "秉持'风险控制第一'的原则，公司着力防范与控制各类经营风险、财务风险，推动高质量发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司系统性推进投资者关系管理，恪守坦诚务实原则，通过多种方式与投资者沟通，荣获投资者关系管理天马奖。",
+      "original_text": "立足投资者需求，公司恪守坦诚务实的原则，系统性推进投资者关系管理；荣获投资者关系管理天马奖。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与股东的沟通互动，广泛听取中小股东合理化建议，及时回应市场关切，坦诚交流战略方向和经营动态。",
+      "original_text": "高度重视与股东的沟通互动，广泛听取中小股东的合理化建议，及时回应市场关切；并坦诚交流公司战略方向和经营动态。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露年度考核获'A'类评级，累计挂网披露各类文件143份，严格遵守信息披露原则，确保所有股东平等获取信息。",
+      "original_text": "2025年，公司信息披露年度考核获'A'类评级；累计挂网披露各类文件143份；严格遵守信息披露原则，确保所有股东平等获取信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司通过定期开展税务健康检查、建立税企沟通机制、加强税务风险识别、组织税务合规培训等举措，提升税务管理水平，2025年实现利税10.56亿元。",
+      "original_text": "通过定期开展税务健康检查、建立税企沟通机制、加强税务风险识别、组织税务合规培训等举措，持续提升税务管理水平；2025年实现利税10.56亿元。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.712
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

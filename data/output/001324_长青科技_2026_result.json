@@ -1,0 +1,441 @@
+{
+  "company_name": "长青科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1860.36,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体（基于市场）排放总量为1,860.36吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 547.17,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一 吨二氧化碳当量 547.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二（基于位置） 吨二氧化碳当量 3,114.15；范围二（基于市场） 吨二氧化碳当量 1,494.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1011.02,
+      "unit": "吨标煤",
+      "original_text": "能源消耗总量 吨标煤 1,011.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 8090,
+      "unit": "吨",
+      "original_text": "废水排放量8,090吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 136.8,
+      "unit": "吨",
+      "original_text": "废弃物总排放量为136.8吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 831.94,
+      "unit": "万元",
+      "original_text": "环境相关投入831.94万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 0.327,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）0.327吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.035,
+      "unit": "吨",
+      "original_text": "硫氧化物（SOx）0.035吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.07,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）0.07吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 851,
+      "unit": "人",
+      "original_text": "截至报告期末，长青科技正式员工总数为851人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21.97,
+      "unit": "%",
+      "original_text": "女性员工占比达21.97%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 11.31,
+      "unit": "万元",
+      "original_text": "员工培训发展投入共计11.31万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 15,
+      "unit": "小时/人",
+      "original_text": "人均受训时数达15小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 16.5,
+      "unit": "%",
+      "original_text": "员工主动离职率为16.5%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 6.24,
+      "unit": "%",
+      "original_text": "收入比例6.24%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 97.64,
+      "unit": "万元",
+      "original_text": "安全投入 万元 97.64",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 101.5,
+      "unit": "万元",
+      "original_text": "社会公益投入 万元 101.5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会9名成员中有女性董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名（占比33.33%）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 4,
+      "unit": "人",
+      "original_text": "女性董事4名（占比44.44%）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了《减少能源消耗和温室气体排放管理制度》，系统性规划减排举措，包括优化能源结构、提升资源利用效率、开发低碳产品，并设定碳中和目标。",
+      "original_text": "制定《减少能源消耗和温室气体排放管理制度》，系统性地规划并实施了一系列减排举措",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过GB/T 24001-2016环境管理体系和ISO 14001环境管理体系认证，并制定《环境职业健康安全管理手册》等内部文件。",
+      "original_text": "已通过GB/T 24001-2016环境管理体系和ISO 14001环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司倡导绿色和轻量化设计，铝蜂窝复合板产品通过环境声明与碳足迹年度监督核查，产品具有轻量化、环保化、可循环利用优势。",
+      "original_text": "铝蜂窝复合板产品成功通过环境声明与碳足迹年度监督核查等环境友好产品认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司制定《保护生物多样性管理控制制度》，明确生产和生活中避免破坏生态系统的具体要求，承诺努力维持自身运营不影响生态系统和生物多样性。",
+      "original_text": "制定并实施《保护生物多样性管理控制制度》，系统化推进生态环境保护工作",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司建立“产品分解回收循环再利用指南”，执行产品报废后拆解分类，可回收材料直接利用或外售综合利用。",
+      "original_text": "建立“产品分解回收循环再利用指南”，执行产品报废后将产品拆解，按照可回收材料表分类",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法与员工签订劳动合同、缴纳社会保险，保障员工合法权益，制定《禁止使用童工管理规定》，落实女性员工孕期、产期和哺乳期休假规定，开展女职工性骚扰调查。",
+      "original_text": "依法与员工签订劳动合同、缴纳社会保险，将员工的合理诉求...制定《禁止使用童工管理规定》...严格落实女性员工孕期、产期和哺乳期休假规定",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "已通过ISO 45001职业健康安全管理体系认证，成立职业健康与安全生产委员会，定期开展安全培训、消防演练，安全生产相关培训4,255小时，安全教育培训参加合格率100%。",
+      "original_text": "已获得ISO 45001职业健康安全管理体系认证...成立职业健康与安全生产委员会...安全教育培训参加、合格率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司规范供应链准入、考核、评价、沟通、培训、退出等全流程，签署《廉洁协议书》/《质量协议》比例95.1%，向供应商开展质量相关培训19次。",
+      "original_text": "规范供应链准入、考核、评价、沟通、培训、退出等全流程运作...《廉洁协议书》/《质量协议》签署比例95.1%...累计向供应商开展质量相关培训19次",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司已通过ISO 9001质量管理体系认证，2025年获得DINT 6701升级版EN 17460粘接质量管理体系资质，产品质量相关培训5,106小时，产品一次交验合格率≥98%。",
+      "original_text": "已通过ISO 9001质量管理体系认证...2025年获得了DINT 6701的升级版EN 17460粘接质量管理体系资质...产品质量相关培训5,106小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《IT管理制度》和《网络突发事件应急预案》，建立信息安全管理体系，设立计算机信息系统安全保护工作小组，明确IT资产流程，采取网站管理、数据备份与灾难恢复等措施。",
+      "original_text": "长青科技制定了《IT管理制度》和《网络突发事件应急预案》，建立完善的信息安全管理体系，确保信息系统的安全性和稳定性。公司设立计算机信息系统安全保护工作小组，负责网络突发事件的应急处理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益事业，重点关爱社区老弱群体，2025年社会公益投入101.5万元，并参与乡村振兴等社区活动。",
+      "original_text": "积极投身公益事业，重点关爱社区老弱群体...社会公益投入 万元 101.5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视员工多元与平等，承诺招聘、晋升中不因性别、肤色等歧视，女性员工比例21.97%，女性董事占比44.44%，鼓励女性员工发展。",
+      "original_text": "重视员工多元与平等，承诺并坚持在招聘、晋升、日常工作中，员工不会因不同的性别、肤色...女性员工占比达21.97%...女性董事占比达到44.44%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司制定《战略委员会工作细则》，明确将ESG管理工作上升至董事会层级，并下设战略委员会作为公司ESG治理机构，协调各类ESG事宜；其下ESG工作小组作为执行层，具体落实、推进各项ESG管理工作落地见效。",
+      "original_text": "长青科技制定《战略委员会工作细则》，明确将ESG管理工作上升至董事会层级，并下设战略委员会作为公司ESG治理机构，协调各类ESG事宜；其下ESG工作小组作为执行层，具体落实、推进各项ESG管理工作落地见效。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《廉洁管理规定》《供应商廉洁协议书》等制度，成立廉洁监督组，开展反腐倡廉专项培训，明确举报渠道和保护措施。",
+      "original_text": "公司制定《廉洁管理规定》《供应商廉洁协议书》等制度，进一步强化公平交易与廉洁合规的工作标准...公司成立由行政部、财务中心、审计部组成的廉洁监督组...公司积极开展反贪污培训...制定《举报和监察管理规定》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守反垄断、反不正当竞争相关法律，将合规要求融入战略与业务全流程，设立独立合规检查部门，将合规绩效纳入考核。",
+      "original_text": "公司严格遵守《中华人民共和国反垄断法》《中华人民共和国反不正当竞争法》相关政策要求，明确将合规要求融入战略目标与业务全流程，设立独立的合规检查部门，将合规绩效纳入母子公司和部门考核。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立系统化、多维度的风险管理体系，由审计委员会监督管理，下设审计部作为主要执行部门，统筹开展风险评估、管理及缓释各项工作。",
+      "original_text": "长青科技建立系统化、多维度的风险管理体系，通过完善的控制程序和专项监督机制，确保公司合规运营。公司的风险管理由审计委员会监督管理，下设审计部作为主要执行部门，统筹开展公司风险评估、管理及缓释各项工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司在官网设立投资者关系管理专栏，通过电子邮箱和互动平台与投资者沟通，举办业绩说明会，回复投资者问题。",
+      "original_text": "公司在官网设立投资者关系管理专栏，并通过电子邮箱和互动平台与投资者沟通...组织业绩说明会2次，公司通过投资者互动平台回复投资者问题数量31个，投资者问题回复率为100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司秉持开放、透明的态度，积极与股东、政府、客户、员工、供应商等利益相关方沟通，定期举办股东会、投资者交流会及客户座谈会等活动。",
+      "original_text": "长青科技秉持开放、透明的态度，积极与各利益相关方沟通互动。公司主要利益相关方包括股东及投资者、政府及监管机构、客户、员工、供应商、行业伙伴及社区等。公司定期举办股东会、投资者交流会及客户座谈会等交流活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》《投资者关系管理制度》，明确界定信息披露范围、对外信息报送流程及保密管理要求，保障信息披露的真实性、准确性、完整性和及时性。",
+      "original_text": "公司制定《信息披露管理制度》《投资者关系管理制度》，明确界定信息披露范围、对外信息报送流程及保密管理要求，切实保障信息披露的真实性、准确性、完整性和及时性。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司组织财务部门参加财税风险专项培训，全面梳理财税管理薄弱环节、完善财税风险防控思路。",
+      "original_text": "2025年11月，为强化公司财税合规管理、防范财税领域各类潜在风险，公司组织财务部门参加大成方略开展的《财税风险360º复盘与综合解决策略》专项课程，重点面向公司财务、审计及相关核心岗位人员开展系统培训。",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "泰格医药",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 14866.95,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 13,850.09 13,060.55 14,866.95",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 81.02,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一（直接）温室气体排放量 吨二氧化碳当量 81.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2753.83,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二（间接）温室气体排放量（基于市场） 吨二氧化碳当量 2,753.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 117171.01,
+      "unit": "吨",
+      "original_text": "总耗水量 117,171.01 立方米",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 0.03216,
+      "unit": "吨",
+      "original_text": "氮氧化物排放 32.16 千克",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.00075,
+      "unit": "吨",
+      "original_text": "硫氧化物排放 0.75 千克",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.00237,
+      "unit": "吨",
+      "original_text": "颗粒物排放 2.37 千克",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 9590,
+      "unit": "人",
+      "original_text": "全职劳动合同制员工数 人 8,831 8,965 10,274 9,590",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 54,
+      "unit": "%",
+      "original_text": "54%的高级管理层是女性（不含方达控股）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 221.24,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 634.41 399.97 222.67 221.24",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 53.58,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 109.68 99.48 52.90 53.58",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 18.52,
+      "unit": "%",
+      "original_text": "员工流失率为 18.52%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 25764.36,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 26,155.51 23,838.55 25,764.36",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.8,
+      "unit": "%",
+      "original_text": "研发投入金额占主营业务收入比例 % 3.54 3.61 3.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.42,
+      "unit": "次/百万工时",
+      "original_text": "员工百万工时可记录工伤率 次/百万 0.34 0.77 0.63 0.42",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会成员人数 7",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "董事会中独立非执行董事占比 42.86%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会会议次数（表格中未明确数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会设置",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会各专门委员会会议次数 共审议、审阅、审查或听取议案、报告项数约（未明确具体次数）",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已识别气候风险与机遇，制定应对策略，并通过科学碳目标（SBTi）推动价值链减排。",
+      "original_text": "2025年已通过SBTi，以科学目标推动价值链减排；将气候相关指标纳入高管薪酬绩效。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了环境管理体系，涵盖废气、废水、废弃物管理，并定期披露环境目标进展。",
+      "original_text": "规范公司废气与废水排放、有害及无害废弃物及物料使用管理，定期披露环境量化目标进展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发低碳化临床试验解决方案，如电子化数据采集、远程监查等，减少纸质使用和差旅需求。",
+      "original_text": "公司通过开发低碳化的临床试验解决方案，如通过电子化数据采集减少纸质使用、推广远程监查技术减少差旅需求等，降低临床试验相关成本。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "公司主营业务以临床研究服务为主，对生态系统及生物多样性的直接影响有限，未设定具体目标。",
+      "original_text": "公司主营业务以提供临床研究服务为主，较少涉及生产制造环节，对生态系统及生物多样性的直接影响有限。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行精益化生产、废弃物减量、雨水回收、光伏发电等循环经济实践。",
+      "original_text": "建成雨水回收系统并用于绿化清洁；推进光伏发电系统建设；推行标签精益化生产流程，降低标签耗损率。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司营造多元平等、开放包容的工作环境，尊重员工文化习俗与信仰，关注女性员工权益，制定多元化目标，承诺每年新员工中女性比例不低于一定标准。",
+      "original_text": "营造多元平等、开放包容、协同互助的工作环境，尊重员工文化习俗与信仰，关注女性员工权益并制定多元化目标：承诺每年新员工中...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司严格遵守安全生产法，实现零工伤死亡事故、零火灾事故、零职业病事件，为员工提供职业健康安全培训，配备防护设施，开展心理健康关怀。",
+      "original_text": "实现零工伤死亡事故、零火灾事故、零职业病事件的职业健康与安全管理目标；为员工提供专门的职业健康与安全培训，定期组织专项应急演练。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行质量稽查，要求签署供应商行为准则，签署率78.13%，并推动供应链低碳合作与能力培训。",
+      "original_text": "供应商质量稽查8次，供应商行为准则签署率78.13%；开展供应商能力培训，推动价值链协同减碳。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持高标准质量体系，遵循全球化质量标准，质量管理体系培训覆盖所有员工，通过培训提升员工素质和专业能力。",
+      "original_text": "泰格医药坚持高标准的质量体系，遵循全球化质量标准，公司质量管理体系培训覆盖所有员工。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司持续完善数据安全与隐私保护机制，构建专属数据安全围墙，定期评估数据安全风险，提升员工信息安全意识。",
+      "original_text": "泰格医药秉持高度责任感，将信息安全与数据隐私保护作为支撑企业可持续发展的重要力量，持续完善数据安全与隐私保护机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司围绕医疗健康、教育助学等领域持续开展公益活动与志愿服务，报告期内参与公益项目10个，完成赠书活动。",
+      "original_text": "围绕医疗健康、教育助学等领域持续开展公益活动与志愿服务。参与公益项目10个，完成《代谢性疾病药物临床试验受试者小宝典》10,000册赠书活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司员工具有不同性别、国籍、种族、肤色等，构建女性友好型职场，设立员工多元化管理，承诺每年新员工中女性比例目标。",
+      "original_text": "随着泰格医药全球化战略的不断深入，我们的员工具有不同的性别、国籍、种族、肤色等。构建女性友好型职场，设立员工多元化管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会、合规及委员会、审计委员会等组成的ESG治理架构，董事会负责监督ESG策略及汇报，合规及委员会负责制定管理方针、目标、战略及架构，并定期向董事会汇报。",
+      "original_text": "公司董事会对ESG策略及汇报履行全部责任；合规及委员会负责制定合规经营、商业道德、信息安全保护和知识产权保护议题的管理方针、目标、战略及架构，并定期将议题中的重大影响、风险与机遇汇报至公司董事会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《反贪污与反贿赂政策》，与高管及供应商签署合规承诺，开展反腐败审计，设立举报机制，提供反腐败合规邮箱，并定期进行商业道德与反腐败培训。",
+      "original_text": "公司制定《反贪污与反贿赂政策》，与高管及供应商签署合规承诺，反腐败审计覆盖范围持续扩大；设立举报机制，确保违规行为能够被及时发现、调查和纠正；商业道德相关培训覆盖的董事比例100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守最高商业道德标准，制定《泰格医药员工行为准则》，涵盖商业道德与反腐败，并定期开展培训，确保经营活动符合道德和法律要求。",
+      "original_text": "泰格医药始终坚守最高的商业道德标准，推动高标准的商业道德实践与合规运营。通过定期培训和内部审计，提升员工廉洁从业意识，确保经营活动符合道德和法律要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了系统化的合规风险管理流程，通过专项工作组定期识别、评估和应对业务运营中的风险，内控内审部定期向董事会审计委员会报告审计发现及整改进展。",
+      "original_text": "公司建立了系统化的合规风险管理流程，通过专项工作组定期识别、评估和应对业务运营中的风险；内控内审部定期向董事会审计委员会报告审计发现及整改进展，推动内控管理的持续优化。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立与股东有效沟通的渠道，包括定期报告、投资者热线、深交所互动易平台、投资者专用预约访问邮箱等，并积极进行现金分红回报股东。",
+      "original_text": "公司建立与股东有效沟通的渠道，除定期报告外，还设立投资者专属预约访问邮箱，开通官网投资者关系专栏；自上市以来，公司每年以现金方式分配的利润均超过当年归属于上市公司股东扣除非经常性损益的净利润的30%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司针对重要性议题与利益相关方进行深入沟通，包括股东和投资者、政府及监管机构、客户、供应商、员工等，通过多种渠道如股东会、定期报告、客户满意度调查、供应商行为准则签署等。",
+      "original_text": "公司针对重要性议题，与泰格医药的利益相关方进行深入沟通，以充分识别其中潜在的机遇与风险。沟通方式包括股东会、定期报告、投资者热线、客户满意度调查、供应商行为准则签署等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《泰格医药信息披露管理制度》，按要求真实、准确、完整、及时地开展信息披露工作，主动披露所有可能对股东或其它利益相关方决策产生实质性影响的信息。",
+      "original_text": "公司制定《泰格医药信息披露管理制度》，按要求真实、准确、完整、及时地开展信息披露工作，主动披露所有可能对股东或其它利益相关方决策产生实质性影响的信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司设立财税合规组，负责制定和优化财税合规管理体系，监督采购及业务交易的财税合规，确保财务管理的透明度和稳健性。",
+      "original_text": "公司设立财税合规组，主要负责制定和优化财税合规管理体系、监督采购及业务交易的财税合规，确保企业财务管理的透明度和稳健性。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "300347_泰格医药_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

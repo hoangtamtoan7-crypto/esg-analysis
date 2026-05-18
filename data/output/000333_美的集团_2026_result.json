@@ -1,0 +1,448 @@
+{
+  "company_name": "美的集团",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2543435395,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1、范围2、范围3碳排放总量 507,184 1,591,752 211,444,459 总量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 507184,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一 507,184",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1591752,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二 1,591,752",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.046,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "范围一、范围二温室气体排放强度 0.046吨二氧化碳当量/万元营收",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 3622856.57,
+      "unit": "兆瓦时",
+      "original_text": "综合能源消耗总量 千个千瓦时 3,622,856.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 11.79,
+      "unit": "%",
+      "original_text": "自有光伏绿色电力占比达11.79%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 25759769.34,
+      "unit": "吨",
+      "original_text": "总取水量 吨 25,759,769.34",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 5124856.41,
+      "unit": "吨",
+      "original_text": "工业废水排放总量 吨 5,124,856.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 738458.97,
+      "unit": "吨",
+      "original_text": "有害废弃物总量 吨 22,061.02；一般固废总量 吨 716,397.95",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 64.66,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）排放量 吨 64.66",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 45.54,
+      "unit": "吨",
+      "original_text": "硫氧化物（SOx）排放量 吨 45.54",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 204.06,
+      "unit": "吨",
+      "original_text": "颗粒物质（PM）排放量 吨 204.06",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 198000,
+      "unit": "人",
+      "original_text": "员工总人数 千人 198",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 29.3,
+      "unit": "%",
+      "original_text": "女性 千人 58",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 17000,
+      "unit": "万元",
+      "original_text": "累计培训总费用 亿元 1.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 35.7,
+      "unit": "%",
+      "original_text": "员工流失率 % 35.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1778800,
+      "unit": "万元",
+      "original_text": "2025年 177.88",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 8247.6,
+      "unit": "万元",
+      "original_text": "投入金额 万元 8,247.6",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.04,
+      "unit": "‰",
+      "original_text": "二十万工时损工事故率 / 0.04",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1000,
+      "unit": "万元",
+      "original_text": "捐赠1,000万港元驰援香港大埔救灾",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司设定温室气体排放目标（范围1、范围2、范围3），目标2030年碳达峰、2060年碳中和，并逐步推进科学碳目标倡议工具的使用。",
+      "original_text": "我们积极响应国家“2030年前实现碳达峰，2060年前实现碳中和”目标，设定温室气体排放目标（范围1、范围2、范围3）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，并通过ISO 14001:2015认证，同时有能源管理体系认证工厂目标。",
+      "original_text": "能源管理体系认证工厂数量 50家 37家",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦全生命周期碳减排，推动绿色设计与标准制订，智能家电主要品类碳足迹核算实现全覆盖，并推出80亿元“绿色行动・以旧换新”活动。",
+      "original_text": "智能家电主要品类碳足迹核算实现全覆盖。80亿元“绿色行动・以旧换新”活动的落地",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "美的集团制定并发布《美的集团生物多样性保护政策》，明确在生物多样性以及森林保护方面的承诺和行动方向。在业务运营中优先选择无生态干扰的设计和施工方案，开展实地考察与环境影响评价。推进生物多样性影响风险地图建设，推广循环包装以减少纸质包装材料使用。",
+      "original_text": "美的集团制定并发布《美的集团生物多样性保护政策》，明确在生物多样性以及森林保护方面的承诺和行动方向。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进废旧资源循环利用，累计产品回收数量目标5,000万台，2025年进展1,380万台。",
+      "original_text": "累计产品回收数量 5,000万台 1,380万台",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工权益，提供有竞争力的薪酬和福利，设有员工座谈会、董事长直通车等沟通渠道，并关注员工多元化。",
+      "original_text": "员工权益与多元化：提供有竞争力的薪酬和福利；员工座谈会；董事长直通车；尊重职场环境多元化",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，开展危害识别、风险评估和事件调查，提供职业健康服务，并设定二十万工时损工事故率目标。",
+      "original_text": "职业健康安全管理体系；危害识别、风险评估和事件调查；职业健康服务；二十万工时损工事故率0.03（2030目标）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行ESG管理，包括环境和社会标准筛选、可持续发展绩效评估、赋能供应商，并开展冲突矿产尽职调查。",
+      "original_text": "新加入供应商可持续发展绩效评估覆盖率100%；SSC供方赋能供应商数量；供应商冲突矿产尽职调查比率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司重视产品质量与安全，设定产品满意度目标99.9%，并评估产品和服务类别的健康与安全影响。",
+      "original_text": "产品质量与安全；产品满意度99.9%；对产品和服务类别的健康与安全影响的评估",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司关注数据安全与客户隐私保护，设有相关制度和流程，并监控侵犯客户隐私的投诉。",
+      "original_text": "数据安全与客户隐私保护；设立保护客户隐私的制度和流程；与侵犯客户隐私和丢失客户资料有关的经证实的投诉",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区投资，包括乡村振兴、教育支持、公益活动，并设有'美一次'公益活动项目。",
+      "original_text": "乡村振兴、教育支持、公益活动；'美一次'公益活动项目累计投入员工10,000人次（2030目标）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重职场环境多元化，关注员工权益与多元化，并提供育儿假等福利。",
+      "original_text": "尊重职场环境的多元化；员工权益与多元化；育儿假",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会、ESG委员会等多层级单位组成的ESG治理架构，ESG委员会审核确认重要性议题评估结果。",
+      "original_text": "重要性议题评估结果将作为美的集团ESG管理与规划、信息披露重点的依据，经由董事会、ESG委员会等多层级单位审核与确认后在本报告中披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "建立由董事会审计委员会领导的反贪腐治理架构，集团廉正办公室负责日常反腐工作，制定《廉正举报管理办法》，畅通举报渠道，落实零容忍原则。",
+      "original_text": "建立由董事会审计委员会领导的反贪腐治理架构，由集团廉正办公室负责日常反腐工作...坚决落实'零容忍'原则。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "制定并遵守《美的集团商业行为规范》，每三年对所有业务运营范围内的商业道德潜在风险点开展审计，遵循ISO26000、ISO37001等国际标准。",
+      "original_text": "我们恪守商业道德，制定并严格遵守商业行为准则，定期开展商业道德审计...每三年均会对所有业务运营范围内的商业道德潜在风险点开展审计。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "修订《全面风险管理办法》《风控体系运作机制》，由集团风险管控委员会统筹管理重大风控事项，建立三道防线机制，常态化开展年度重大风险评估。",
+      "original_text": "修订《全面风险管理办法》《风控体系运作机制》等管理制度...由集团风险管控委员会统筹管理重大风控事项与决策...不断健全'经营单位——集团职能和风控——审计/反舞弊'的三道防线机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "定期开展线上业绩说明会、投资人路演交流等活动，组织投资者参观灯塔工厂，通过互动易、投资者关系记录表积极回应投资者关注的问题。",
+      "original_text": "我们高度重视投资者关系维护，报告期内定期开展线上业绩说明会、投资人路演交流等活动，并组织投资者参观公司灯塔工厂，通过互动易、投资者关系记录表积极回应投资者关注的问题。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "根据各利益相关方的诉求和沟通习惯，建立常态化的沟通机制和制度文件，通过股东会、投资者日、员工座谈会、供应商大会等多种渠道进行互动。",
+      "original_text": "我们根据各利益相关方的诉求和沟通习惯，按利益相关方类别分别建立了常态化的沟通机制和相应的制度文件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "严格遵守信息披露相关法律法规，确保信息披露真实、准确、完整、及时、公平，自2019年连续多年获得深交所A级评价。",
+      "original_text": "美的集团严格遵守上市地信息披露相关法律法规...确保信息披露真实、准确、完整、及时、公平...自2019年，美的集团信息披露工作已连续多年获得深圳证券交易所A级评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关措施或政策。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "000333_美的集团_2026.md",
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 31,
+    "quantitative_issues": [
+      {
+        "indicator_id": "E_Q01",
+        "indicator_name": "温室气体排放总量",
+        "issue": "数值2543435395超出合理范围[0, 1000000000]"
+      }
+    ],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.877
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

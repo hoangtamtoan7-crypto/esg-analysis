@@ -1,0 +1,441 @@
+{
+  "company_name": "ST沈化",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 585566.24,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 535,473.50 585,566.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 434004.24,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二排放量 吨二氧化碳当量 406,152.90 434,004.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 174801200,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 18,359.42 17,480.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1592400,
+      "unit": "吨",
+      "original_text": "废水排放量 万吨 103.81 159.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 460467.9,
+      "unit": "吨",
+      "original_text": "固体废弃物产生总量 吨 492,224.71 460,467.90",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.219,
+      "unit": "吨",
+      "original_text": "颗粒物（PM） 千克 76,120 219",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1484,
+      "unit": "人",
+      "original_text": "在职员工数量 人 1,484 1,521",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 68.89,
+      "unit": "万元",
+      "original_text": "员工培训支出 万元 68.89 63.21",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 53.1,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时长 小时 53.1 26.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 7.13,
+      "unit": "%",
+      "original_text": "中国大陆员工流失率 % 7.13 14.71",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2.32,
+      "unit": "亿元",
+      "original_text": "研发投入金额 亿元 2.32 2.09",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.14,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 4.14 4.16",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 24.01,
+      "unit": "万元",
+      "original_text": "安全生产培训投入 万元 24.01 10.72",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 0,
+      "unit": "万元",
+      "original_text": "公益活动投入金额 万元 0 9.96",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会人数 人 9 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事人数 人 3 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "董事会女性人数 人 2 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "召开董事会次数 次 7 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "2025年公司监事会已撤销，原监事会职能由审计委员会担任。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和。通过优化能源结构、能耗在线系统，采用清洁生产工艺和先进治理技术，降低大气污染物排放，减少化石能源燃烧产生的碳排放。",
+      "original_text": "公司已在全国碳排放管理平台，完成2024年度的碳排放数据的填报，并已经通过第三方机构对我公司温室气体排放进行核查。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，通过ISO 14001:2015认证。出台多项污染防治管理规定，规范三废排放与处置，开展年度环境信息披露。",
+      "original_text": "公司严格遵守《中华人民共和国环境保护法》等法律法规，建立健全环境管理体系，持续完善环境管理制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司积极开发绿色低碳产品，满足消费者需求；推动资源节约工作开展。",
+      "original_text": "积极开发绿色低碳产品，满足消费者需求；推动资源节约工作开展。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司遵守相关规范，厂区绿化率达到15%，但主要专注于厂区绿化维护，未来计划扩展生态公益项目。",
+      "original_text": "规划区边界，绿化率达到15%，符合规范要求。公司目前主要专注于厂区绿化的维护与提升，未来计划进一步扩展环保工作，包括植树造林和生物多样性保护等生态公益项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动清洁生产和循环经济，实施清洁生产改造，推进固废资源化利用，加快构建绿色低碳循环产业体系。",
+      "original_text": "积极推动清洁生产和循环经济。公司致力于将环境影响降至最低，逐步完善固体废物污染防治责任。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，制定多项管理制度，保障员工薪酬福利、带薪假期、职业发展等权益，未发生重大劳工纠纷。",
+      "original_text": "沈阳化工严格遵循《中华人民共和国劳动法》...等法律法规，积极贯彻“人才兴企”计划，持续优化、完善人力资源管理体系...报告期内，公司未发生重大劳工纠纷事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立HSE管理体系，通过职业健康安全管理体系认证，实施三级安全教育，开展职业健康体检，保障员工安全健康。",
+      "original_text": "公司建立完善的管理体系，始终将职业健康与安全放在首位...获得职业健康安全管理体系认证证书。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将健康安全环境管理、履行社会责任、质量体系等内容纳入供应链管理过程，将三体系认证、节能环保等作为筛选要素。",
+      "original_text": "公司将健康安全环境管理、履行社会责任、质量体系等内容纳入供应链管理过程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司成立产品质量安全管理领导小组，制定质量管理规定，强化全流程风险管控，报告期内未发生产品和服务相关的安全与质量重大责任事故。",
+      "original_text": "公司聚焦产品质量安全，强化全流程风险管控...报告期内，公司未发生产品和服务相关的安全与质量重大责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守数据安全相关法律法规，制定网络安全管理办法，开展网络安全宣传周活动，报告期内未发生重大数据安全和泄露客户隐私事件。",
+      "original_text": "公司严格遵守《中华人民共和国数据安全法》...等法律法规...报告期内，公司未收到涉及侵犯客户隐私和丢失客户资料的投诉，未发生重大数据安全和泄露客户隐私事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与公益助学、乡村振兴等公益事业，以实际行动反哺社会。",
+      "original_text": "我们心系社会，积极参与公益助学、乡村振兴等公益事业，以实际行动反哺社会，传递温暖与责任。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司坚持公开公平公正招聘，严格落实性别平等与反就业歧视政策，但未明确提及多元化与包容的具体政策或目标。",
+      "original_text": "公司持续优化招聘全流程，严格落实性别平等与反就业歧视政策...",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会作为ESG治理的最高决策机构，下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会，各委员会为董事会决策提供专业建议。",
+      "original_text": "沈阳化工董事会高度重视ESG管理，持续推动公司不断完善ESG治理体系。公司董事会作为公司ESG治理的...公司董事会下设4个专门委员会——战略委员会、审计委员会、提名委员会、薪酬与考核委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《沈阳化工反贿赂反腐败管理办法》等制度，规范检举人保护机制，公布举报邮箱及电话，组织廉洁文化日活动，全员签署廉洁承诺。",
+      "original_text": "公司遵照《沈阳化工反贿赂反腐败管理办法》等制度，规范检举人保护机制...公司官方网站上公布举报邮箱及电话的反贪腐举报途径...组织开展'9·10'廉洁文化日活动，张贴宣传海报15张，全员签署廉洁承诺900余份。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信经营、公平竞争，建立《沈阳化工合规管理规定》《沈阳化工反垄断管理办法》等制度，打造合规管理'三道防线'，全体员工签订《合规义务公约》。",
+      "original_text": "公司坚持诚信经营、公平竞争，反对任何形式的商业贿赂、洗钱、垄断、不正当竞争行为，建立《沈阳化工合规管理规定》和《沈阳化工反垄断管理办法》并遵照执行...公司已组织公司全体员工签订《合规义务公约》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立《沈阳化工风险管理办法》，将风险分为战略、财务、市场、运营和合规五个一级类别，制定风险管理责任清单，建立重大风险台账，报告期内未发生重大风险事件。",
+      "original_text": "沈阳化工依据国务院国资委《中央企业风险分类监测指标体系》，制定风险管理责任清单，将风险分为战略、财务、市场、运营和合规风险五个一级类别...报告期内，公司未发生重大风险事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理办法》，董事会秘书为投资者关系管理事务负责人，通过股东会、业绩说明会、互动平台等多种方式与投资者沟通，回复率100%。",
+      "original_text": "公司制定《投资者关系管理办法》...董事会秘书为公司投资者关系管理事务的负责人...互动平台回复投资者提问超500条且回复率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过股东会、接待来访、热线电话、公司网站专栏、新媒体平台等多种途径与利益相关方沟通，并开展重要性议题调研。",
+      "original_text": "沈阳化工与投资者、客户、政府机构等各利益相关方保持常态化沟通，记录不同利益相关方的关注议题及具体内容，公司通过股东会、接待来访、热线电话、公司网站专栏、新媒体平台等多种途径，拓展利益相关方沟通渠道。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司秉承真实、可靠的原则发布ESG报告，报告已经公司董事会审议通过，保证内容不存在虚假记载、误导性陈述或重大遗漏。",
+      "original_text": "本报告是沈阳化工股份有限公司向社会发布的ESG报告，秉承真实、可靠的原则...本报告已经公司董事会审议通过，公司董事会保证本报告内容不存在虚假记载、误导性陈述或重大遗漏。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司坚守合规纳税底线，依托内控管理持续优化税务业务流程，完善税务风险管理制度，依法履行纳税义务。",
+      "original_text": "守合规纳税底线，依托内控管理持续优化税务业务流程，完善税务风险管理制度。通过依法履行纳税义务，及时...",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

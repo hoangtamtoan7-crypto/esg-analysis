@@ -1,0 +1,441 @@
+{
+  "company_name": "招商公路",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 54855.39,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量1 Total GHG emissions1 | tCOe 2 | 54,855.39 | 61,425.42 | 53,320.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3280.23,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1温室气体排放量2 Scope 1 GHG emissions2 | tCOe 2 | 3,280.23 | 3,671.42 | 7,333.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 138,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "305-2 能源间接(范围2)温室气体排放 138 138",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 4.11,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 GHG emission intensity | tCOe/百万营收 2 tCOe/RMB 1 million 2 revenue | 4.11 | 4.83 | 5.48",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.08,
+      "unit": "%",
+      "original_text": "研发投入金额占主营业务收入比例 Proportion of R&D investment in core business revenue | % | 2.50 | 2.56 | 4.08",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1300,
+      "unit": "万元",
+      "original_text": "通过招商局慈善基金会捐赠资金1,300万元 人民币用于2025年乡村振兴项目",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "现任董事会成员中，共有董事12人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比为33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "现任董事会成员中女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "董事会召开 10 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "专门委员会（包含独立董事工作会议）召开 22 次",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司建立气候法规动态响应机制，制定节能环保考核管理办法，持续监测政策，探索内部碳定价机制，并推动清洁能源产业运营，打造零碳服务区。",
+      "original_text": "机制建设：建立气候法规动态响应机制...制度管理：制定《节能环保考核管理办法》《能源消费和碳排放统计监测管理办法》...政策探索：探索内部碳定价机制...清洁能源产业运营及探索：积极推动公司绿色低碳发展，打造低碳公路...打造“零碳服务区”",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定《节能环保考核管理办法》《能源消费和碳排放统计监测管理办法》，健全碳排放数据管理及信息披露常态化管理机制。",
+      "original_text": "制度管理：制定《节能环保考核管理办法》《能源消费和碳排放统计监测管理办法》，健全自身运营碳排放的数据管理及信息披露的常态化管理机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推广生物基改性沥青等绿色材料与快速施工工艺，打造零碳服务区，集成光伏建筑、雨水回收、分布式能源站等场景。",
+      "original_text": "绿色材料与工艺创新：推广应用生物基改性沥青...打造“零碳服务区”，集成光伏建筑、雨水回收、分布式能源站等场景",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "京津塘高速构建覆盖施工与运营全周期的生物多样性保护体系；招商交科研发隧道地下水排放量远程自动监测系统，解决隧道施工可能引发的地下水流失与生态破坏问题。",
+      "original_text": "京津塘高速针对项目沿线生态敏感性，构建覆盖施工与运营全周期的生物多样性保护体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司探索废弃物资源化路径，如修剪枝干粉碎作为边坡绿化肥料；桂林公司完成超大型复拌就地热再生工程，减少沥青废料排放。",
+      "original_text": "修剪枝干经现场粉碎直接作为边坡绿化肥料；桂林公司完成国内首个'单体百万平米'超大型复拌就地热再生工程，减少沥青废料排放",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司尊重员工各项权利，依法保障员工参与民主管理与监督的权利，建立多样化的双向沟通渠道与沟通机制，积极推动工会工作，定期召开职工代表大会。",
+      "original_text": "尊重员工各项权利...依法保障员工参与民主管理与监督的权利，建立多样化的双向沟通渠道与沟通机制。积极推动工会工作，定期召开",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定并持续完善《招商公路职业健康与安全政策》《招商公路职业健康与劳动保护管理办法》，构建全方位职业健康安全管理体系，配备符合国家标准的防护设施和用品，开展专项培训。",
+      "original_text": "公司制定并持续完善《招商公路职业健康与安全政策》《招商公路职业健康与劳动保护管理办法》，构建全方位职业健康安全管理体系...配备符合国家标准的职业健康防护设施和用品，开展专项培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行ESG相关管理情况的资料核查与现场审核，包括资质证书、质量保证体系、安全防控、劳动用工环境、环境保护等，组织供应商开展入场前培训，涵盖环保法规、职业健康安全、劳工权益等。",
+      "original_text": "对供应商的资质、资信背景、生产经营现场情况等履约能力...核实范围包括资质证书、质量保证体系、安全防控、劳动用工环境、环境保护等ESG相关管理情况进行资料核查与现场审核...组织供应商开展入场前培训，培训内容涵盖环保法规解读、职业健康安全管理、劳工权益保障等多个维度",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司对供应商的产品或服务质量、合同履约、售后服务等情况进行全面、客观、准确评价，并倡导绿色采购。",
+      "original_text": "对供应商的产品或服务质量、合同履约、售后服务等情况进行全面、客观、准确评价",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司根据《招商公路网络安全管理制度》，明确各岗位信息安全管理责任，强化员工客户信息保护意识与合规操作培训，保障客户隐私安全。",
+      "original_text": "公司根据《招商公路网络安全管理制度》，明确各岗位信息安全管理责任，强化员工客户信息保护意识与合规操作培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司助力乡村振兴，开展公益慈善活动，与社区及媒体保持沟通，形成'项目补充'的公益发展格局。",
+      "original_text": "助力乡村振兴...公益慈善活动...项目补充的公益发展格局",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持性别平等原则，制定公平的薪酬政策、晋升机制以及培训计划，为男女员工提供公平的工作机会，为女性员工提供母婴室、健康讲座等福利和支持。",
+      "original_text": "公司坚持性别平等原则，制定公平的薪酬政策、晋升机制以及培训计划...为女性员工提供相应福利和支持，如设立母婴室、提供女性健康讲座，营造友好、包容的工作环境",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了可持续发展三层治理架构，由董事会及下设战略与可持续发展委员会负责总体决策与监督，可持续发展工作小组负责执行。",
+      "original_text": "公司搭建了可持续发展三层治理架构，由董事会及下设战略与可持续发展委员会负责总体决策与监督，可持续发展工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《招商公路反贿赂与反腐败政策》，坚持全覆盖原则，将廉洁教育贯穿于从董事会成员到基层员工的各个层级。",
+      "original_text": "招商公路制定《招商公路反贿赂与反腐败政策》，坚持全覆盖原则，将廉洁教育贯穿于从董事会成员到基层员工的各个层级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定涵盖商业道德、利益冲突等要求的制度，明确董事亲属不得担任管理人员、董事不得与重要客户等存在商业联系，确保独立性。",
+      "original_text": "大捐赠、亲属关系等明确要求，包括但不限于董事的亲属不得担任公司或所属公司的管理人员、董事不与公司的重要客户、供应商、合作伙伴存在商业联系或利益关系、董事与公司存在巨大金额捐赠或赞助的第三方无关联关系、董事在董事会中不存在与公司产生任何利益冲突导致其丧失独立性的情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会对风险管理负最高责任，构建了“总部统筹、上下协同”的内控管理工作机制。",
+      "original_text": "招商公路董事会对风险管理负最高责任，并积极推动高级管理层落实风险管理战略方向，监督风险管理的有效实施与执行。公司构建了“总部统筹、上下协同”的内控管理工作机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《招商公路投资者关系管理制度》，通过股东会、信息披露等渠道与投资者沟通，保障股东权益。",
+      "original_text": "募集资金管理制度》《招商公路对外担保管理制度》《招商公路投资者关系管理制度》等涵盖公司治理、信息披露、确保董事会充分发挥在重大事项、经营管理等方面的决策、监督作用。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "本报告旨在与各利益相关方进行有效交流，系统地回应利益相关方的期望和要求。",
+      "original_text": "旨在与各利益相关方进行有效交流，系统地回应利益相关方的期望和要求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "本报告已经过董事会审议，董事会对此报告内容进行保证，不存在虚假记载、误导性陈述或重大遗漏。",
+      "original_text": "本报告已经过董事会审议，董事会对此报告内容进行保证，不存在虚假记载、误导性陈述或重大遗漏",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关信息。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

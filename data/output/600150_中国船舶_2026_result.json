@@ -1,0 +1,442 @@
+{
+  "company_name": "中国船舶",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 767755.49,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体范围1排放量 767,755.49 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1718256.2,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2排放量 1,718,256.20 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 709224.79,
+      "unit": "吨",
+      "original_text": "有害废弃物总量 44,000.19 无害废弃物总量 665,224.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 374.08,
+      "unit": "吨",
+      "original_text": "颗粒物（PM） 374.08",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 41839,
+      "unit": "人",
+      "original_text": "在职员工41,839人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "员工培训投入金额（出现但无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "员工流失率（出现但无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "研发投入（出现但无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "研发投入总额占营业收入比例（出现但无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产投入（出现但无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 612,
+      "unit": "万元",
+      "original_text": "2025年购买帮扶物品金额共计612万余元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "公司董事会共有11名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "董事会中女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "监事会的撤销",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司深度践行国家‘双碳’战略，将绿色低碳理念贯穿生产经营全流程，制定了《碳达峰行动方案》《节能降碳工作计划》等，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "中国船舶深度践行国家‘双碳’战略，将绿色低碳理念贯穿生产经营全流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依据GB/T24001-2016编制环境管理体系管理手册、程序文件，部分子公司如大连船阀2025年首次通过ISO14001环境管理体系认证。",
+      "original_text": "依据GB/T24001-2016编制环境管理体系管理手册、程序文件",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦高端化、绿色化，研发绿色船舶如甲醇双燃料动力智能VLCC、风帆助推阿芙拉型成品油船等，提供绿色动力系统、压载水处理系统等。",
+      "original_text": "甲醇双燃料动力智能VLCC‘凯拓’轮、风帆助推阿芙拉型成品油船等绿色船舶相继交付",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格遵循生态优先原则，落实水生生态保护与补偿措施，开展水生生态补偿与鱼类增殖放流活动，修复水域生态环境。",
+      "original_text": "积极开展水生生态补偿与鱼类增殖放流活动，科学投放适宜本地水域生长的鱼苗，有效修复水域生态环境",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进固废资源化回收利用，如70万吨再生水用于码头自来水替换，节省近900万元费用；推进废弃物资源化利用。",
+      "original_text": "70万吨再生水用于码头自来水和江水的替换，实现了水资源循环利用的跨越式提升",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司构建覆盖全员的职业成长体系，完善多元化人才培养与晋升通道，全力保障员工合法权益，持续优化薪酬福利与关怀机制。实行平等公正的招聘流程，依法签订劳动合同，杜绝童工与强迫劳动。",
+      "original_text": "公司构建覆盖全员的职业成长体系，完善多元化人才培养与晋升通道，全力保障员工合法权益，持续优化薪酬福利与关怀机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立了职业健康安全、环境管理（HSE）体系，获得挪威船级社(DNV)认证。开展安全培训与应急演练，完善职业健康防护体系。",
+      "original_text": "建立了职业健康安全、环境管理（HSE）体系，获得挪威船级社(DNV)颁发的认证证书",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司聚焦供应链薄弱环节，优化供应链结构，强化风险预警管理、深化供应多元布局、增强上下游多元合作。建立供应商评估、准入、考核、分级、退出的完整制度体系。",
+      "original_text": "公司聚焦供应链薄弱环节，不断优化供应链结构。从强化风险预警管理、深化供应多元布局、增强上下游多元合作等三方面...建立评估、准入、考核、分级、退出的完整工作制度体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立覆盖产品全生命周期的一体化质量管理体系，编制质量文化手册，将质量管控贯穿研发设计、生产制造、检验试验等环节。核心业务单元取得船舶行业相关专业质量认证与船级社工厂认可。",
+      "original_text": "公司建立覆盖产品全生命周期的一体化质量管理体系，编制质量文化手册，将质量管控贯穿研发设计、生产制造、检验试验...核心业务单元取得船舶行业相关专业质量认证与船级社工厂认可、产品认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司已披露数据安全与信息保密相关制度体系的建立、运行及管理措施，并纳入公司治理、内部控制与信息管理范畴。坚守合法、审慎、安全、有效原则，保护客户信息安全与商业秘密。",
+      "original_text": "公司已披露数据安全与信息保密相关制度体系的建立、运行及管理措施，并纳入公司治理、内部控制与信息管理范畴披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身乡村振兴事业，以精准帮扶赋能乡村发展，广泛开展公益志愿服务与社会公益行动，在社区服务、慈善捐赠、助学支教、消费帮扶、关爱留守儿童等公益活动中彰显央企担当。",
+      "original_text": "公司积极投身乡村振兴事业，以精准帮扶赋能乡村发展，广泛开展公益志愿服务与社会公益行动，用爱心与行动传递温暖",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等原则，实行平等公正的招聘流程，构建长期的女性员工关怀体系，保障女性员工孕产期、哺乳期休假规定，保障女性员工拥有平等的薪酬福利和职业发展机会。",
+      "original_text": "条件平等原则，实行平等公正的招聘流程...构建长期的女性员工关怀体系...保障女性员工拥有平等的薪酬福利和职业发展机会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建起“决策层－管理层－执行层”三级可持续发展治理架构。董事会是可持续发展领导与决策层，战略委员会负责识别、评估及管理气候变化相关风险等，并向董事会提供建议。",
+      "original_text": "公司构建起“决策层－管理层－执行层”三级可持续发展治理架构。公司董事会是可持续发展领导与决策层，董事会战略委员会负责识别、评估及管理气候变化相关的风险、机遇和影响，牵头拟定战略目标、实施路径与评价体系，并向董事会提供专业决策建议。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司对商业贿赂等违法违规行为持零容忍态度，定期召开党风廉政建设和反腐败工作会议，组织签订责任书，强化廉洁教育，覆盖采购招标、外协外包等高风险领域。",
+      "original_text": "公司严格遵守法律法规，始终坚守合规经营底线，对洗钱、商业贿赂等违法违规行为持零容忍态度。公司定期召开党风廉政建设和反腐败工作会议，组织签订《党风廉政建设责任书》，对党风廉政建设和反腐败工作形势进行分析和评估；同时强化廉洁教育提醒，将“三不腐”机制建设贯穿始终。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守《反不正当竞争法》《反垄断法》等，主动规范经营行为，维护公平竞争秩序。建立了覆盖商业秘密保护、反不正当竞争等方面的规范制度。",
+      "original_text": "公司严格遵守《中华人民共和国反不正当竞争法》《中华人民共和国反垄断法》等法律法规，主动规范经营行为，自觉维护公开公平的市场竞争秩序。对防范虚假宣传、防范侵犯公司商业秘密等方面建立了规范制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了系统化、常态化的内部合规管控机制，持续强化全流程合规监督与内控执行，构建“1+4+N”现代上市公司规范治理制度体系、合规信息披露体系、内控与风险管理体系。",
+      "original_text": "公司坚持将合规风险管理作为依法治企的重要抓手，严格遵循《公司法》《证券法》等法律法规及有关规章制度要求，推进构建“1+4+N”现代上市公司规范治理制度体系、合规信息披露体系、内控与风险管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司以投资者保护为理念传递公司价值，通过多元投关为桥梁，开展特色活动，增进资本市场认同。",
+      "original_text": "以投资者保护为理念传递好公司价值，以多元投关为桥梁，内强质地、外塑形象，开展会等系列特色活动，向市场阐述好公司经济价值、功能价值和战略价值，增进资本市场认同。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与各利益相关方的沟通与协作，通过多种渠道回应期望和诉求，识别重要议题。",
+      "original_text": "公司始终高度重视与各利益相关方之间的沟通与协作，致力于在公平、公正、公开、互信、互赢的基础上，构建长期稳定、协同发展的合作关系。为全面识别并应对可持续发展领域的各类风险与机遇，科学制定符合可持续发展要求的战略目标，开展利益相关方沟通并结合公司业务发展实际，识别出31项潜在重要议题。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司以信息披露为核心，严把合规治理入口关和信息披露出口关，高质量披露公告，全年信息披露无差错。",
+      "original_text": "公司高度重视信息披露工作，以信息披露为核心，以规范运作为主线，严把“合规治理入口关、信息披露出口关”，不断优化与公司全级次并表企业重大事项的沟通协调机制，提升公司信息披露工作效能。高质量披露公告，全年信息披露无差错。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600150_中国船舶_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

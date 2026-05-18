@@ -1,0 +1,441 @@
+{
+  "company_name": "青岛双星",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 361093.79,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体合计排放总量 吨二氧化碳当量 361,093.79",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 2250.75,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 2,250.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 281106.77,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放总量 358,843.04 281,106.77 340,552.35",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.78,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "2025年，公司碳排放强度（按营业收入）为 0.78吨 二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 4.63,
+      "unit": "%",
+      "original_text": "清洁能源用电占比达到 4.63%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 649471,
+      "unit": "吨",
+      "original_text": "用水量总量 吨 649,471.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 529948,
+      "unit": "吨",
+      "original_text": "公司废水排放量为529,948吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 9342.94,
+      "unit": "吨",
+      "original_text": "固体废弃物产生总量 吨 9,342.94 7,972.05 7,826.99",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 3406.83,
+      "unit": "万元",
+      "original_text": "公司共计投入 3,406.83 万元，用于环保合规宣传、环境技术研发及环保设施的建设和",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量（NO）x 吨 - - -",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量（SOx） 吨 - - -",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 8.23,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 吨 8.23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5909,
+      "unit": "人",
+      "original_text": "员工人数 人 5,909 5,161 4,274",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21,
+      "unit": "%",
+      "original_text": "按性别划分 女性员工占比 % 22% 21% 21%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 11.1,
+      "unit": "%",
+      "original_text": "女性 11.1%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 152.5,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 152.5 140.0 101.0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 67.2,
+      "unit": "小时/人",
+      "original_text": "培训人均时长为67.2小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 11.31,
+      "unit": "%",
+      "original_text": "员工流失率 % 11.31% 11.98% 13.96%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 17800.65,
+      "unit": "万元",
+      "original_text": "研发投入总金额 万元 17,800.65 19,189.10 20,423.88",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.84,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 3.84 4.43 4.39",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 158.5,
+      "unit": "万元",
+      "original_text": "各生产基地共完成635项设备本质安全化改造项目，总计投入158.5万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 7529.95,
+      "unit": "万元",
+      "original_text": "纳税总额 万元 4,267.71 7,474.84 7,529.95",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会由 9位董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "含独立董事 3名...独立董事人数占董事会总人数比例不低于三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "董事会女性成员人数 人 3 3 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "董事会会议召开次数 次 11 8 8",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司已于2025年8月取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 4,
+      "unit": "次",
+      "original_text": "审计委员会会议召开 4 次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已建立气候变化应对管理体系，由环境保护委员会统筹，制定年度目标计划，并建立温室气体减排计划，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司由高级管理层成立环境保护委员会统筹、指导、督促推进公司整体环境保护工作持续改善...制定公司年度气候变化应对目标计划...建立温室气体减排计划",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立覆盖董家口、十堰等核心生产基地的全流程环境管理体系，通过ISO14001认证，形成三级管理架构。",
+      "original_text": "构建了覆盖董家口、十堰等核心生产基地的全流程环境管理体系，形成了'公司统筹、基地落实、全员参与'的三级管理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦高性能化、环保、减碳方向，推动生物基与循环再生材料应用，开发可持续炭黑、多元可持续助剂等，并推广新能源汽车轮胎。",
+      "original_text": "以'性能升级、可持续材料体系革新'为核心锚点，聚焦高性能化、环保、减碳三大核心方向...推动生物基与循环再生材料在全品类产品中的逐步替代",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司重视生物多样性保护，遵循相关法律法规，通过可持续采购、生态保护监测与公益活动、培训等方式降低运营影响。",
+      "original_text": "青岛双星将生物多样性保护视为企业可持续发展的重要责任...通过可持续采购从源头规避生态破坏风险，开展生态保护监测与公益活动确保运营影响可控",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过废旧轮胎回收利用、废旧设备回收再利用、中水回用、绿色包装等实践，2025年废旧轮胎回收利用节约成本超400万元。",
+      "original_text": "2025年，公司全年合计入库废旧轮胎超23.66万条...通过废旧轮胎回收利用合计节约成本超400万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉持'员工是亲人'理念，全面保障员工合法权益，构建覆盖职业发展、健康安全、人文关怀的员工权益体系。",
+      "original_text": "青岛双星坚守国企社会责任，以'员工是亲人'理念筑牢人本根基，实现全员培训与关怀全覆盖。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "董家口和十堰基地已通过ISO45001职业健康安全管理体系认证，开展安全培训，安全生产培训人均时长等指标有披露。",
+      "original_text": "安全生产与职业健康 董家口和十堰基地已通过ISO45001职业健康安全管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "构建绿色责任供应链，联动上下游共推零碳发展，将天然橡胶等品类的可持续采购列为供应链管理核心举措。",
+      "original_text": "构建绿色责任供应链，联动上下游共推零碳发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "已投入运营的家生产基地均已通过质量管理体系，产品安全与质量重大责任事故0起。",
+      "original_text": "已投入运营的 家生产基地均已通过 质量管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "信息安全与客户隐私泄露事件0起，信息安全培训员工覆盖率100%，保持信息安全事件发生率为0。",
+      "original_text": "信息安全与客户隐私泄露事件 0 起；信息安全培训员工覆盖率 % 100 100 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "通过系统化、多元化的公益实践，积极投身社区共建，包括无偿献血、关爱残疾人、海外教育捐赠、支持城市马拉松等。",
+      "original_text": "青岛双星始终将履行企业公民责任置于战略核心，通过系统化、多元化的公益实践，积极投身社区共建。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "重视女性员工的健康与福祉保障，开展三八妇女节主题活动、普法宣传、健康体检等，女性员工占比21%。",
+      "original_text": "我们重视女性员工的健康与福祉保障，通过开展'三八'国际妇女节主题活动、组织专项普法宣传、为女职工提供健康体检等系列务实举措",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建‘董事会统筹 - 专业委员会支撑 - 执行层落地’的可持续发展治理架构，董事会为最高领导机构，下设可持续发展委员会等专门委员会。",
+      "original_text": "青岛双星构建“董事会统筹 - 专业委员会支撑 - 执行层落地”的可持续发展治理架构，董事会作为公司可持续发展工作的核心领导机构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "对商业贿赂和腐败行为采取‘零容忍’政策，建立专项内部管理制度，开展反腐败培训4场，员工覆盖率100%。",
+      "original_text": "我们对商业贿赂和腐败行为采取“零容忍”政策，建立专项内部管理制度...开展反腐败培训 4 场，员工商业道德与反腐败培训覆盖率 100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "构建‘董事会顶层决策、高级管理层统筹部署、法务部牵头主责’的三级反垄断与公平竞争管理体系，将公平竞争理念嵌入运营。",
+      "original_text": "青岛双星立足国有企业合规经营使命，构建‘董事会顶层决策、高级管理层统筹部署、法务部牵头主责...三级反垄断与公平竞争管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "搭建由业务部门、法务部及审计部协同的风险管理三道防线，董事会是风险管理体系的最高责任与监督机构。",
+      "original_text": "公司搭建由业务部门、法务部及审计部协同的风险管理三道防线...董事会是公司风险管理体系的最高责任与监督机构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "建立健全投资者关系管理体系，编制《投资者关系管理制度》，通过业绩说明会、投资者调研等多渠道沟通。",
+      "original_text": "我们建立健全投资者关系管理体系，编制《投资者关系管理制度》...通过业绩说明会、投资者调研、互动平台问答等多渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "通过内外部环境扫描、政策追踪、运营数据分析、利益相关方沟通，动态监测ESG风险变化。",
+      "original_text": "通过内外部环境扫描、政策追踪、运营数据分析、利益相关方沟通，动态监测ESG风险变化",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "制定《信息披露管理制度》，明确披露义务人范围、职责及流程，报告期内未发生信息披露违规及重大负面舆情事件。",
+      "original_text": "制定《信息披露管理制度》...报告期内，公司未发生信息披露违规及重大负面舆情事件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司视依法诚信纳税为企业公民的基本义务和核心社会责任，通过建强税务管理团队、提升人员专业能力，打通税务管理，切实履行纳税义务。",
+      "original_text": "公司视依法诚信纳税为企业公民的基本义务和核心社会责任。通过建强税务管理团队、提升人员专业能力，打通税务管理，切实履行纳税义务",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.933
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "凯撒旅业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 4594.31,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量(范围1和范围2) 4,594.31 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1880.0,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接（范围一）温室气体排放量 1,880.00 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2714.31,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接（范围二）温室气体排放量 2,714.31 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 5.75,
+      "unit": "吨二氧化碳当量/每百万元营收",
+      "original_text": "温室气体排放强度(范围1和范围2) 5.75 吨二氧化碳当量/每百万元营收",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 203699,
+      "unit": "吨",
+      "original_text": "203,699 总用水量 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 136576,
+      "unit": "吨",
+      "original_text": "废水排放总量 136,576 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 43.18,
+      "unit": "万元",
+      "original_text": "环保投入 万元 43.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1487,
+      "unit": "人",
+      "original_text": "2025年，公司共雇佣员工1,487人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 53.67,
+      "unit": "%",
+      "original_text": "女性员工比例 53.67 %",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 13,
+      "unit": "万元",
+      "original_text": "培训投入 万元 13",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 3.5,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 3.5 小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 18.12,
+      "unit": "%",
+      "original_text": "2025年，公司员工流失329人，流失率为18.12%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 185.05,
+      "unit": "万元",
+      "original_text": "2025年，公司安全生产投入185.05万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "工伤率 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 4449.97,
+      "unit": "万元",
+      "original_text": "2025年，公司纳税总额4,449.97万元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "由11名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事4人，但比例未明确给出具体数值",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "3名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "2025年，公司共召开董事会 次（原文未填写具体数字）",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司取消监事会，未提及监事会规模",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确给出审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定气候变化治理架构，识别评估气候风险机遇并制定应对措施，制定《应对气候变化管理制度》，设定温室气体减排目标，并纳入管理层绩效考核。",
+      "original_text": "凯撒旅业把气候变化治理作为可持续发展管理体系的关键一环。各子公司依据实际情况，制定《应对气候变化管理制度》等针对性专项制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依据ISO 14001标准构建环境管理体系，制定《质量环境手册》，并通过认证。2025年持有ISO 14001环境管理体系证书。",
+      "original_text": "凯撒旅业依据ISO 14001标准构建完善的环境管理体系，制定《质量环境手册》。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推广绿色出行，规划低碳路线，引入新能源交通工具，发展绿色邮轮，采用清洁动力系统，提供环保旅游产品。",
+      "original_text": "凯撒旅游全力倡导绿色出行，精心规划低碳或零碳出行路线，引入新能源交通工具。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司制定《生物多样性保护制度》，发展环境友好型和动物友好型旅游，发起极地保护宣言，实施登陆点轮休机制，避免惊扰海洋生物。",
+      "original_text": "凯撒旅游深入贯彻人与自然和谐共生、守护野生动植物的理念，制定《生物多样性保护制度》。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推广循环经济理念，实施废水分类处理与回用，推动资源循环利用，减少浪费。",
+      "original_text": "提高能源使用效率，推广循环经济理念，实现资源节约与减少浪费。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《劳工保护制度》《招聘管理规定》禁止使用童工和强迫劳动，保障女性员工权益，提供平等就业机会。",
+      "original_text": "公司制定《劳工保护制度》《招聘管理规定》明确禁止使用童工...公司坚决维护女性员工的权利与健康",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司开展健康安全培训、消防应急演练，健全职业健康安全管理体系，强化安全生产培训与应急演练。",
+      "original_text": "凯撒旅业多次举办形式多样的培训活动...开展针对性的安全培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将供应商ESG风险纳入识别、防范和管控流程中。",
+      "original_text": "完善供应链管理体系，将供应商ESG风险纳入识别、防范和管控流程中",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立多层次产品与服务质量体系，通过多项质量认证，未发生健康安全违规事件。",
+      "original_text": "凯撒旅业未有涉及产品和服务的健康与安全影响的违规事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司确保客户隐私泄露事故为'零'，在数字化建设中注重数据安全。",
+      "original_text": "确保客户隐私泄露事故为'零'",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社区建设、公益事业，开展文化活动、志愿服务，参与乡村振兴。",
+      "original_text": "凯撒旅业积极投身于社区建设及各类公益事业实践",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司致力于公平公正就业环境，尊重差异化，鼓励多元化，支持残疾人就业，提供16个残障岗位。",
+      "original_text": "公司给予残障人士平等的就业机会...共提供残障人士就业岗位16个",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了‘董事会–战略与可持续发展管理委员会–可持续工作管理小组–可持续发展专项执行组’的层级管理模式，董事会负责审议和批准可持续发展战略与规划。",
+      "original_text": "董事会–战略与可持续发展管理委员会–可持续工作管理小组–可持续发展专项执行组",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《廉洁体系制度》，设立专门职能部门开展常态化专项管控，高级管理层承担统筹主导职责，董事会对相关管理事宜履行全面统筹与监督责任。",
+      "original_text": "制定《廉洁体系制度》等规章制度，不断完善反舞弊机制，公司设立专门职能部门开展常态化专项管控",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持恪守高标准商业道德，严格遵守国家法律法规，坚决杜绝不正当竞争和腐败行为，确保商业活动合法合规。",
+      "original_text": "坚持恪守高标准商业道德，严格遵守国家法律法规，坚决杜绝不正当竞争和腐败行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立覆盖风险识别、风险评估、风险应对的完整体系，通过落实‘三道防线’机制筑牢风控体系，将合规管理嵌入组织架构。",
+      "original_text": "建立覆盖风险识别、风险评估、风险应对的完整体系，通过落实‘三道防线’机制筑牢风控体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视投资者关系管理，制定并严格执行《投资者关系管理工作细则》，以董事会办公室牵头统筹。",
+      "original_text": "重视投资者关系管理，制定并严格执行《投资者关系管理工作细则》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多元化渠道与政府、股东等利益相关方保持沟通，积极倾听并回应其诉求与期望。",
+      "original_text": "通过多元化渠道与各方保持沟通，积极倾听并回应其诉求与期望",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照法律法规要求，真实、准确、完整地披露公司经营发展的相关信息，持续提升信息披露透明度。",
+      "original_text": "严格按照法律法规要求，真实、准确、完整地披露公司经营发展的相关信息，持续提升信息披露透明度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司遵循‘依法合规，应纳尽纳，应享尽享’原则，制定《财务管理制度》及各项管理流程，严格管理税务工作。",
+      "original_text": "遵循‘依法合规，应纳尽纳，应享尽享’原则，制定《财务管理制度》及各项管理流程，严格管理税务工作",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

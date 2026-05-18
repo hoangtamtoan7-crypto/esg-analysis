@@ -1,0 +1,446 @@
+{
+  "company_name": "广济药业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 65914.1,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一与范围二） 吨二氧化碳当量 65,914.10",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 37775.79,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围一） 吨二氧化碳当量 37,775.79",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 28138.31,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围二） 吨二氧化碳当量 28,138.31",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.06,
+      "unit": "吨二氧化碳当量/万元营业收入",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元营业收入 1.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1045100,
+      "unit": "吨",
+      "original_text": "总用水量 万吨 104.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 854102.82,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 854,102.82",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 2979.35,
+      "unit": "吨",
+      "original_text": "一般固体废弃物产生总量 吨 2,971.4；危险废弃物产生总量 吨 7.95",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 2873.5,
+      "unit": "万元",
+      "original_text": "环保投入 万元 2,873.5",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1164,
+      "unit": "人",
+      "original_text": "员工总人数 人 1,164",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 35.91,
+      "unit": "%",
+      "original_text": "女性员工 人 418",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 22.13,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 22.13",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 14.43,
+      "unit": "%",
+      "original_text": "员工总流失率 % 14.43",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4191.04,
+      "unit": "万元",
+      "original_text": "研发投入 万元 4,191.04",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 6.72,
+      "unit": "%",
+      "original_text": "研发投入比例 % 6.72",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 314.81,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 314.81",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 3.2,
+      "unit": "万元",
+      "original_text": "公益志愿活动投入 万元 3.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事人数 名 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司全面识别并积极把握气候变化背景下的发展机遇，加快推进绿色低碳转型，着力发展清洁能源与节能减排项目，持续完善碳资产管理与交易机制，跟踪双碳政策动态，参与数字化能碳管理培训。",
+      "original_text": "广济药业全面识别并积极把握气候变化背景下的发展机遇，加快推进绿色低碳转型。公司着力发展清洁能源与节能减排项目，加快低碳技术应用与创新，持续优化产业结构与能源体系，主动布局绿色产业、强化技术研发投入，提升资源利用效率。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司及下属3家子公司均已获得ISO14001:2015环境管理体系认证，孟州公司2025年通过监督审核。公司制定《环保管理制度》等系列文件，构建权责清晰、运行高效的内部环保组织体系。",
+      "original_text": "其下属3家子公司均已获得ISO14001：2015环境管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司提及研发符合市场需求的绿色、低碳产品，开发生物降解材料、低碳产品，但未明确具体绿色产品认证或详细描述。",
+      "original_text": "消费者和客户对绿色、低碳产品的需求增加，为企业提供新的市场空间。开发生物降解材料、低碳产品。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动循环经济，实现废水、废气和废料的资源化利用；要求供应商对部分包装材料100%回收并交由第三方规范处置；回收再利用的废弃物占比91.20%。",
+      "original_text": "推动循环经济，实现废水、废气和废料的资源化利用。公司要求供应商对部分包装材料实施100%回收并交由第三方规范处置，推动包装材料高效循环利用。回收再利用的废弃物占比 % 91.20",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，制定《员工招聘管理办法》，杜绝童工和强制劳动，保障员工权益。建立多元化沟通平台，召开职工代表大会，工会诉求解决率100%。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规，制定《员工招聘管理办法（试行）》...坚决杜绝任何形式的童工现象与强制劳动行为...保障员工权益、推动民主管理进程",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司以职业健康安全管理体系为引领，获得认证。构建四级安全责任体系，开展安全培训、应急演练，配备防护用品，推行轮岗机制降低职业危害。",
+      "original_text": "公司以职业健康安全管理体系为引领，将员工健康安全贯穿于生产经营全过程，在获得职业健康安全管理体系认证的基础上...按'公司-分子公司-车间-班组'四级与全体员工签订安全生产责任状",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将质量、职业健康、安全生产、环境管理等纳入供应商准入标准，与供应商签订质量协议，实施分级管理和绩效评价，确保供应链稳定可持续。",
+      "original_text": "供应商基本情况、产品生产与质量管理状况，并将质量、职业健康、安全生产、环境管理等纳入准入标准...与合格供应商签订质量协议，实施分级管理并定期开展绩效评价",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全生命周期质量管控体系，获得质量管理体系、食品安全管理体系等认证。2025年产品质量事件发生次数为0。",
+      "original_text": "公司对产品实行全生命周期有效管控...建立了...程序文件指导日常操作，确保产品质量安全、有效、可控。质量管理体系认证 食品安全管理体系认证...产品质量事件发生次数 次 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视信息安全管理，建立规范的信息管理制度，严格落实保密规程，强化内部信息保护措施。2025年客户信息与隐私泄露事件发生次数为0。",
+      "original_text": "广济药业高度重视信息安全管理，建立规范的信息管理制度，严格落实保密规程...客户信息与隐私泄露事件发生次数 次 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展环保公益活动、重阳节社区公益活动、村企共建等，助力乡村振兴。2025年环保公益活动员工参与人次30。",
+      "original_text": "武穴分公司深化村企共建...广济药业开展重阳节社区公益活动...环保公益活动员工参与人次 人次 30",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视女职工权益保障，开展女性健康讲座，提供专属体检项目。员工构成包括少数民族员工6人，女性员工418人。",
+      "original_text": "公司高度重视女职工权益保障...对女职工增设妇科专项筛查、乳腺健康检查等专属项目...少数民族员工 人 6",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了ESG治理架构，董事会审定风险管理战略，监督执行情况，优化风险管控体系。经董事会对重要性议题结果进行审议，形成ESG重要性议题矩阵图。",
+      "original_text": "董事会 审定风险管理战略，监督执行情况，优化风险管控体系。经董事会对重要性议题结果进行审议，审议通过后形成最终的2025年广济药业ESG重要性议题矩阵图。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格执行反商业贿赂、反垄断等合规要求，规范市场交易行为，加强商业道德培训，推动诚信经营文化建设。",
+      "original_text": "广济药业严格遵守商业道德和法律法规，持续完善商业行为管理体系，严格执行反商业贿赂、反垄断等合规要求，规范市场交易行为，防范虚假宣传和不正当竞争，加强商业道德培训，推动诚信经营文化建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司持续完善合规管理体系，制定《合规管理实施细则（试行）》，覆盖对外贸易、境外投资等领域，建立风险识别预警、合规审查和应对机制。2025年合规审核各类文件147份。",
+      "original_text": "广济药业贯彻落实《合规管理实施细则（试行）》，持续完善合规管理体系，强化组织统筹和责任落实，确保合规要求融入经营管理各环节，建立风险识别预警、合规审查和应对机制。2025年，公司合规审核各类文件147份。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立层级清晰、职责明确的风险管理架构，形成决策、监督、执行相结合的管理机制，按季度组织风险评估并形成报告。",
+      "original_text": "广济药业严格落实《全面风险管理制度（试行）》，持续完善风险管理体系，强化全流程、全方位风险防控能力，建立层级清晰、职责明确的风险管理架构，形成决策、监督、执行相结合的管理机制。公司按季度组织4次风险评估工作并形成风险评估报告。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司积极落实投资者关系管理要求，通过股东会、网站公告、业绩说明会及电话咨询等多种渠道与投资者保持良好互动，积极回应市场关切。",
+      "original_text": "广济药业积极落实投资者关系管理要求，依托《投资者关系管理工作细则》管理流程，不断完善沟通机制，确保信息披露的公平性和透明度，通过股东会、网站公告、业绩说明会及电话咨询等多种渠道，与投资者保持良好互动，积极回应市场关切。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过问卷调研方式了解利益相关方对ESG议题重要性的评价，2025年调研涉及多个对象，并形成重要性议题矩阵。",
+      "original_text": "通过问卷调研方式了解利益相关方对各项关键ESG议题重要性的评价。2025年调研涉及对象如下：...经董事会对重要性议题结果进行审议，审议通过后形成最终的2025年广济药业ESG重要性议题矩阵图。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格执行信息披露管理要求，贯彻落实多项信息披露制度，明确工作流程、责任分工和监督机制，确保投资者及时准确获取信息。2025年披露公告104份，报告64份。",
+      "original_text": "广济药业严格执行信息披露管理要求，贯彻落实《信息披露事务管理制度》《年报信息披露重大差错责任追究制度》《重大信息内部报告制度》《定期报告编制和披露管理制度》，明确信息披露的工作流程、责任分工和监督机制。2025年披露公告数量 份 104，披露报告数量 份 64。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 19,
+    "qualitative_issues": [
+      {
+        "indicator_id": "E_L04",
+        "indicator_name": "生物多样性保护",
+        "issue": "缺少summary字段"
+      }
+    ],
+    "overall_quality_score": 0.863
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

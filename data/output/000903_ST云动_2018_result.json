@@ -1,0 +1,403 @@
+{
+  "company_name": "ST云动",
+  "report_year": "2018",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 398,
+      "unit": "万元",
+      "original_text": "报告期内，公司投入环保治理费用共计约398万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "每年减少废砂外排15000吨左右",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 25.63,
+      "unit": "小时/人",
+      "original_text": "公司内部人均培训学时25.63学时/人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 16100,
+      "unit": "万元",
+      "original_text": "税金1.61亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 17,
+      "unit": "次",
+      "original_text": "17次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 5,
+      "unit": "人",
+      "original_text": "公司监事会共有5名监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "公司响应国家节能减排政策，努力减少温室气体排放，推广绿色环保节能。",
+      "original_text": "响应国家节能减排政策，努力减少温室气体排放，推广绿色环保节能",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司成立了环境污染防治领导小组，负责日常环保工作，并修订了《突发环境事件应急预案》。",
+      "original_text": "公司成立了环境污染防治领导小组，主要负责公司日常环保工作的开展",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "实施旧砂再生系统，每年节约新硅砂材料成本约200万元，减少废砂外排15000吨；实施铁屑压饼机项目，减少废铁屑外排。",
+      "original_text": "实施清洁生产高费方案'旧砂再生系统'，每年可节约新硅砂材料成本费用约200万元，同时每年减少废砂外排15000吨左右",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司根据劳动法修订完善员工管理办法、薪酬管理制度等，保障员工合法权益，按时足额发放工资奖金，建立职工监事选任制度及工会组织。",
+      "original_text": "根据《劳动法》、《劳动合同法》等国家法律法规的规定，公司结合实际情况不断修订完善《员工管理办法》、《薪酬管理制度》及...法享有劳动权利和履行劳动义务。公司每月按时足额发放工资、奖金，...建立职工监事选任制度及工会组织，维护员工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司注重劳动安全保护，配备劳动防护用品，组织安全排查和培训演练，新员工体检，隔年组织员工体检。",
+      "original_text": "针对不同岗位每年定期为员工配备必要的劳动防护用品及保护设施，不定期地对公司生产安全进行全面排查，并组织员工参加安全知识培训，开展多种形式的安全演练活动。所有新入厂员工必须体检合格，并隔年组织员工进行体检。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司与主要供应商和合作伙伴长期合作，建立技术、质量、供应能力一流的供应链，进行信息交流和质量控制。",
+      "original_text": "公司不仅为员工提供多种信息沟通渠道，而且把主要供应商和合作伙伴的长期合作，公司已建立了一支技术、质量、供应能力一流，可支...求，为提升供应及质量控制能力紧密合作，达到及时进行信息交流。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严把质量关，确保产品合格出厂，通过改进工艺技术、生产绿色环保产品满足客户要求，提高售后服务质量，获得昆明市市长质量奖等。",
+      "original_text": "质量关，确保产品合格出厂；通过不断改进工艺技术、生产绿色环保产品来满足客户和国家排放要求；不断提高售后服务质量，保障客户...2012年公司荣获昆明市市长质量奖，2017年荣获第三届云南省人民政府质量奖。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极组织公益慈善活动，解决社会就业问题，对接翠华镇提供就业岗位，重点解决建档立卡贫困户劳动力转移就业。",
+      "original_text": "积极对接翠华镇政府，针对翠华劳动力特点，提供适合翠华劳动人员的岗位，并进行广泛宣传，积极争取、吸引翠华镇劳动力到云内集团就业，尤其是重点解决建档立卡贫困户剩余劳动力转移就业。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司坚持以人为本，尊重和维护员工个人权益，提供广阔发展平台，但未明确提及多元化与包容的具体政策。",
+      "original_text": "公司坚持以人为本，以营建和谐、健康的人才成长环境为基础，为员工提供广阔的发展平台，尊重和维护员工的个人权益。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了股东大会、董事会、监事会和经营管理层组成的'三会一层'治理架构，分别行使权力机构、决策机构、监督机构、执行机构职能。",
+      "original_text": "公司建立了股东大会、董事会、监事会和经营管理层组成的'三会一层'治理架构，分别行使权力机构、决策机构、监督机构、执行机构职能。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司遵守社会公德、商业道德，接受政府和社会公众的监督。",
+      "original_text": "遵守社会公德、商业道德，接受政府和社会公众的监督。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了风险管理制度，明确了风险管理职责与权限，通过修订内控手册完善风险控制点，确保重大风险危机处理。",
+      "original_text": "公司建立了风险管理制度，明确了公司风险管理的职责与权限。通过修订补充内控手册内容，完善了管理层业务的风险控制点、控制活动，确保公司重大风险的危机处理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司加强投资者关系管理，确保股东地位平等，通过投资者关系管理平台回答投资者提问共计285次，及时披露信息。",
+      "original_text": "加强投资者关系管理，确保包括中小股东在内的公司所有股东地位平等；通过公司投资者关系管理平台回答投资者提问共计285次。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司对股东、债权人、职工、供应商、客户等利益相关方负责，维护员工合法权益，与供应商诚实守信、互惠互利。",
+      "original_text": "对公司股东、债权人、职工、供应商、客户等利益相关方负责；按照诚实守信、互惠互利、合法合规的交易原则，与供应商合作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司设立专门信息披露部门，以指定媒体和官网专栏及时发布信息，严格按照信息披露规定，获得监管机构和资本市场认可。",
+      "original_text": "设立专门的信息披露部门，以《中国证券报》、《证券时报》及巨潮资讯网为公司信息披露指定媒体，并通过公司官网的'投资者关系'专栏，及时发布公司有关信息。报告期内公司严格按照信息披露的规定，信息披露工作获得了监管机构和资本市场的认可。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 21,
+    "quantitative_valid": 21,
+    "quantitative_issues": [],
+    "qualitative_count": 18,
+    "qualitative_valid": 18,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.721
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 39,
+    "missing": 13,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_L03",
+        "name": "绿色产品与服务",
+        "type": "qualitative"
+      },
+      {
+        "id": "E_L04",
+        "name": "生物多样性保护",
+        "type": "qualitative"
+      }
+    ],
+    "completeness": 75.0
+  }
+}

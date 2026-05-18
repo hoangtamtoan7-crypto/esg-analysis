@@ -1,0 +1,441 @@
+{
+  "company_name": "华瓷股份",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 30.1,
+      "unit": "%",
+      "original_text": "2024年发电754万度电，占用电量的30.1%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 745300,
+      "unit": "吨",
+      "original_text": "耗水量74.53万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 450,
+      "unit": "万元",
+      "original_text": "2024年环境保护投入共450万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5392,
+      "unit": "人",
+      "original_text": "31 岁至50 岁 人 2998 55.60% 51 岁及以上 人 2189 40.60%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 57.88,
+      "unit": "%",
+      "original_text": "女员工数量 人 3121 57.88%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 124.05,
+      "unit": "万元",
+      "original_text": "培训支出金额 万元 124.05 全集团",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 27.92,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 27.92 全集团",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 5.13,
+      "unit": "%",
+      "original_text": "研发费用占主营业务收入5.13%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 5.65,
+      "unit": "万元",
+      "original_text": "安全培训投入金额共计 5.65 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 33,
+      "unit": "万元",
+      "original_text": "华瓷股份公益捐赠33万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 4,
+      "unit": "次",
+      "original_text": "召开董事会4次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "公司监事会由3名监事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 4,
+      "unit": "次",
+      "original_text": "董事会审计委员会会议 次 4",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳战略，将绿色发展融入技术研发与生产全流程，包括材料创新源头减碳、工艺升级能效突破、循环利用降本增效。计划自2025年起未来三年吨瓷能耗、碳排放逐年下降5%。",
+      "original_text": "我们积极响应国家“双碳”战略，将绿色发展融入技术研发与生产全流程：材料创新，源头减碳；工艺升级，能效突破；循环利用，降本增效。计划自2025年起，未来三年吨瓷能耗、碳排放逐年下降5%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001环境管理体系认证，并制定了《环保教育培训制度》、《废气管理规定》、《危险废物管理制度》等，建立环境管理体系并持续改进。",
+      "original_text": "ISO14001环境管理体系认证；公司通过实施环境方针和目标、指标、内部审核、数据分析，对环境管理体系进行持续改进",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发低铅镉环保产品如麻点釉面环保瓷、网纹状浮雕釉产品，满足欧美市场安全标准。所有新品在设计研发阶段进行绿色方案设计、轻量化设计。",
+      "original_text": "推出“网纹状浮雕釉”等低铅镉环保产品，满足欧美市场安全标准；所有新品在设计研发阶段都进行绿色方案设计、轻量化设计",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司生产运营选址确保对生物多样性不产生负面影响，鼓励泥料供应商进行绿地恢复，优先选择复绿率高的供应商。",
+      "original_text": "鼓励泥料供应商进行绿地恢复，优先选择复绿率高的供应商，保护生物多样性",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进废瓷粉、尾矿砂等固废资源循环利用技术，废瓷替代20%原材料，回笼泥替代25%原材料，素烧坯替代2.5%原材料。废弃物综合利用率提升至90%。",
+      "original_text": "推进废瓷粉、尾矿砂等固废资源循环利用技术；废瓷替代20%原材料，回笼泥替代25%原材料，素烧坯替代2.5%原材料；废弃物综合利用率提升至90%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持'以人为本'，完善员工福利制度，帮扶困难员工，多渠道听取员工意见和建议，确保员工权益得到保障和尊重。",
+      "original_text": "始终将员工的利益放在首位，不断完善员工福利制度，帮扶困难员工。多渠道听取员工意见和建议，确保员工的权益得到保障和尊重。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业卫生档案和劳动者健康监护档案，开展职业健康宣传教育培训，签订《职业病危害因素告知书》，每年组织员工体检，全年重大安全事故为零。",
+      "original_text": "建立职业卫生档案和劳动者健康监护档案，随时关注员工职业健康安全...全年重大安全事故为零",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司与供应商签订《廉洁协议》、《环境和职业健康安全协议》，将供应商纳入合规管理体系，定期进行劳工审计和检查，开展供应链管理培训10次。",
+      "original_text": "通过与员工及供应商签订《廉洁协议》、《环境和职业健康安全协议》，华瓷股份将供应商纳入统一的合规管理体系...开展供应链管理相关培训次数 次 10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司贯彻'一开始就符合'的质量方针，发布《产品质量管理办法》，2024年产品安全事故数为1，已启动召回程序妥善解决。",
+      "original_text": "2024年产品安全事故数为1，已启动紧急召回程序，妥善解决，未造成不良后果。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《数据安全管理制度》，推进EAS、MES系统全覆盖，搭建数字化风控平台，2024年数据及隐私负面事件数为0。",
+      "original_text": "2024年数据及隐私负面事件数为0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社会公益事业，支持慈善教育事业，公益捐赠33万元，为社区养老、教育、乡村振兴等方面做出贡献。",
+      "original_text": "积极参与社会公益事业，回馈社会，支持慈善教育事业...公益捐赠33万元，为社区养老、教育、乡村振兴等方面做出贡献。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持开放的用人原则，促进员工多元化发展，举办三八妇女节主题活动惠及3,038名女员工，开展'两癌'筛查体检。",
+      "original_text": "坚持开放的用人原则，促进员工多元化发展...女性职工关爱：举办三八妇女节主题活动，惠及3,038名女员工",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司成立了由各部门负责人组成的可持续发展委员会，负责统筹协调可持续发展相关工作。董事会下设审计、战略、提名与薪酬考核等专业委员会。",
+      "original_text": "公司成立了由各部门负责人组成的可持续发展委员会，负责统筹协调可持续发展相关工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司成立反商业贿赂小组，严格开展廉洁从业风险检查，与员工签署自律协议，加强反腐宣传。2024年内负面商业贿赂、不正当竞争事件数为0。",
+      "original_text": "公司成立反商业贿赂小组，严格开展廉洁从业风险检查，坚决打击商业贿赂与腐败行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德，坚持诚信经营、公平竞争，反对不正当竞争。2024年未发生损害其他经营者合法权益行为。",
+      "original_text": "我们恪守商业道德，严格遵守国家相关法律法规，坚持诚信经营、公平竞争，坚决反对不正当竞争。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司不断完善内控体系和风险管理体系，设置《内部控制缺陷认定标准》，将风险量化管理，审计出的风险处置率达100%。",
+      "original_text": "不断完善公司的内控体系和风险管理体系，不断提高公司管理水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司设立董事会办公室为投资者关系管理职能部门，通过定期财报披露及投资者沟通会提升信息披露透明度。2024年共接待机构投资者现场调研15批次。",
+      "original_text": "公司设立董事会办公室为公司的投资者关系管理职能部门，具体负责公司投资者关系管理事务。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司积极与利益相关方保持沟通交流，深入了解其需求和关注点，并将其转化为公司发展的目标和方案。2024年接待利益相关方参观358批次。",
+      "original_text": "我们积极与利益相关方保持沟通交流，深入了解利益相关方的需求和关注点，并将其转化为公司发展的目标和方案。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照相关法律法规履行信息披露义务，确保信息披露的及时性、真实性、完整性和准确性。2024年披露公告信息89次。",
+      "original_text": "公司严格按照《中华人民共和国公司法》、《中华人民共和国证券法》等法律、法规、中国证监会《信息披露管理办法》等相关规定，履行上市公司信息披露义务。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司制定有《税务管理办法》，健全税务管理业务流程和制度体系，每半年进行一次税务风险评估，防范和控制税务风险。",
+      "original_text": "公司制定有《税务管理办法》，健全税务管理业务流程和制度体系，不断完善税务风险管理制度。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

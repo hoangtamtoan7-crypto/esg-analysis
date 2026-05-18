@@ -1,0 +1,442 @@
+{
+  "company_name": "交通银行",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 487944.25,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "全集团温室气体排放 合计排放 487,944.25 吨CO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 18775.26,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放 18,775.26 吨CO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 467086.1,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放 467,086.10 吨CO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 3897861.45,
+      "unit": "吨",
+      "original_text": "集团用水量 3,897,861.45 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 86959,
+      "unit": "人",
+      "original_text": "正式员工 86,959 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工 50,523 人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性中高层管理人员是指境内银行机构职级 9 级及以上的女性正式和派遣员工总数",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 23558,
+      "unit": "万元",
+      "original_text": "员工培训支出 万元 23,558",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时长是指交通银行总行和境内所有分行员工在 e 校园系统和中国干部网络学院平台上受训的平均",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 17430,
+      "unit": "万元",
+      "original_text": "17,430 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 15,
+      "unit": "人",
+      "original_text": "董事会现有董事 15 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "独立董事人数在董事会成员总数中的占比达 40 %",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事 2 人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会会议 9 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "本行积极应对气候变化，充分响应国家“双碳”战略，建立健全气候相关治理体系，识别气候相关风险和机遇，将气候风险纳入全面风险管理体系。",
+      "original_text": "本行积极应对气候变化，充分响应国家“双碳”战略，建立健全气候相关治理体系，识别气候相关风险和机遇，将气候风险纳入全面风险管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "本行遵守相关法律法规，制定《交通银行绿色运营管理办法》等管理制度，推进绿色数据中心和碳中和网点建设。",
+      "original_text": "本行遵守《中华人民共和国水法》《中华人民共和国水污染防治法》等法律法规，遵守《交通银行绿色运营管理办法》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "通过绿色信贷、绿色债券等产品，助力清洁能源和绿色交通建设，推动产业低碳绿色转型发展。",
+      "original_text": "通过绿色信贷、绿色债券等产品，助力清洁能源和绿色交通建设，推动产业低碳绿色转型发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "本行关注生态系统和生物多样性保护，在业务中防控生态保护、环境污染、气候变化、生物多样性等ESG风险。",
+      "original_text": "测、防控业务活动中的生态保护、环境污染、气候变化、生物多样性等ESG风险",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "本行积极践行循环经济理念，通过优先采购再生耗材、促进办公用品循环使用，系统开展废弃物分类回收。",
+      "original_text": "本行积极践行循环经济理念，通过优先采购再生耗材、促进办公用品循环使用，从源头减少资源消耗，同时，系统开展废弃物分类回收",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "本行遵守劳动法律法规，建立健全员工管理、关怀和保障制度体系，切实维护所有员工的基本权益。未发生重大劳动用工纠纷事件。",
+      "original_text": "本行遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》...建立健全员工管理、关怀和保障制度体系，切实维护所有员工的基本权益。2025 年，未发生重大劳动用工纠纷事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "本行建立职业健康安全管理体系，开展健康体检、安全隐患排查治理，建立三级消防报警联动监控机制，保障员工健康与安全。",
+      "original_text": "建立三级消防报警联动监控机制，优化监控中心火情处置流程。开展职业健康安全管理。推进安全隐患排查治理，建立安全隐患清单。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "本行通过推行绿色可持续采购、保护供应商合法权益以及加强人才队伍建设，全方位保障供应链的安全、稳定与可持续。在供应商准入环节审核环境和社会维度。",
+      "original_text": "本行通过推行绿色可持续采购、保护供应商合法权益以及加强人才队伍建设，全方位保障供应链的安全、稳定与可持续。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "本行保障消费者知情权、自主选择权、财产安全权等各项权益。2025年未发生产品和服务相关安全与质量重大责任事故。",
+      "original_text": "2025 年，未发生产品和服务相关安全与质量重大责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "本行建立健全数据安全治理体系，通过完善制度规范、强化技术防护、深化隐私设计等多重举措，确保数据安全。截至报告期末未发生数据安全事件、客户隐私泄露事件。",
+      "original_text": "本行建立健全数据安全治理体系...截至报告期末，本行未发生数据安全事件、客户隐私泄露事件、经证实的涉及侵犯客户隐私的投诉。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "本行积极投身社会公益，全年开展公益项目216个，员工志愿活动时长390,821小时，足迹遍布助残济困、抗灾救援、生态保护等多个领域。",
+      "original_text": "全年开展公益项目 216 个，员工志愿活动时长 390,821 小时，足迹遍布助残济困、抗灾救援、生态保护等多个领域。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "本行注重董事会成员在性别、年龄、文化及教育背景、专业经验等方面的多元化。女性董事2人，女性员工50,523人，少数民族员工有统计。",
+      "original_text": "本行注重董事会成员在性别、年龄、文化及教育背景、专业经验等方面的多元化...女性董事 2 人。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会为本行ESG工作的最高决策机构，下设社会责任（ESG）与消费者权益保护委员会，负责绿色金融等工作。高级管理层负责制定发展战略和目标，定期向董事会报告。",
+      "original_text": "本行董事会为本行ESG工作的最高决策机构，对本行ESG整体战略、气候相关...董事会下设社会责任（ESG）与消费者权益保护委员会，负责绿色金融工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "本行严格执行反商业贿赂、反贪污及反不正当竞争规定，对董事及员工提供反腐败培训，建立举报渠道，对违规行为追索扣回。",
+      "original_text": "本行严格执行反商业贿赂、反贪污及反不正当竞争规定...向董事及员工提供的反腐败培训...已审结的贪污诉讼案件数",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "本行着力构建商业道德相关事项管理体系，董事会对操作、合规、案防、洗钱等风险承担最终责任，制定合规管理办法，强化内控合规监督检查。",
+      "original_text": "本行着力构建商业道德相关事项管理体系，董事会对操作、合规、案防、洗钱等风险承担最终责任...制定《交通银行股份有限公司合规管理办法》等制度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "本行董事会承担风险管理最终责任，下设风险管理与关联交易控制委员会，设定风险偏好和风险限额，覆盖信用、市场、操作、流动性、气候等各类风险。",
+      "original_text": "本行董事会承担风险管理最终责任和最高决策职能...已识别信用风险、市场风险、流动性风险、银行账簿利率风险、信息科技风险、战略风险、声誉风险、国别风险、气候风险等各类风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "本行通过股东会、投资者活动、热线、电子邮件及传真、公司公告等方式与股东沟通，提升股东回报，连续十二年获得上交所信息披露A类评价。",
+      "original_text": "股东会、投资者活动、热线、电子邮件及传真、公司公告等...连续十二年获得上交所信息披露 A 类评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "本行通过信息披露、各类活动、业务定价策略等方式与客户、股东、政府机构、员工、合作伙伴、环境、社会组织等利益相关方沟通，识别其利益诉求。",
+      "original_text": "利益相关方 定义 利益诉求 沟通方式 回应举措...客户、股东、政府机构、员工、合作伙伴、环境、社会组织",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "本行连续十二年获得上交所信息披露A类评价，发布临时公告20份，确保信息披露及时、合规。",
+      "original_text": "临时公告 20 份，确保信息披露保持及时、合规。连续十二年获得上交所信息披露 A 类评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601328_交通银行_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

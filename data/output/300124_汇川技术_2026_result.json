@@ -1,0 +1,442 @@
+{
+  "company_name": "汇川技术",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 198772.06,
+      "unit": "吨二氧化碳当量",
+      "original_text": "运营范围内温室气体排放总量 吨二氧化碳当量 198,772.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3890.51,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1 直接排放 吨二氧化碳当量 3,890.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 194831.55,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2 间接排放（基于位置） 吨二氧化碳当量 194,831.55",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 4.41,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "运营范围内温室气体排放强度 吨二氧化碳当量 / 百万元营收 4.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 33665.98,
+      "unit": "吨标准煤",
+      "original_text": "间接能源消耗总量9 吨标准煤 45,560.1111 33,665.98 27,454.59",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 10.72,
+      "unit": "%",
+      "original_text": "报告期内可再生能源消耗总量达40,884.24兆瓦时，占同期公司总能耗比例为10.72%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1085190.56,
+      "unit": "立方米",
+      "original_text": "取水总量 立方米 1,162,201.06 1,085,190.56 1,021,444.28",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 435559.7011,
+      "unit": "立方米",
+      "original_text": "废水排放总量 立方米 435,559.7011",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 6570.72,
+      "unit": "吨",
+      "original_text": "废弃物排放总量 吨 12,967.7611 6,570.72 /",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 281.35,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）排放量 千克 281.35",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.21,
+      "unit": "吨",
+      "original_text": "硫氧化物（SOx）排放量 吨 0.21",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 10.0011,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放量 千克 10,001.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 27292,
+      "unit": "人",
+      "original_text": "员工数：全职劳动合同制 人 27,292",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 24.25,
+      "unit": "%",
+      "original_text": "女性员工占比 % 24.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 5.77,
+      "unit": "%",
+      "original_text": "高级管理层中女性员工占比 % 5.77",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 351,
+      "unit": "万元",
+      "original_text": "年度培训支出金额 百万元 3.51 2.91 /",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 36.11,
+      "unit": "小时/人",
+      "original_text": "员工²接受培训平均小时数 小时 36.11",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 35.42,
+      "unit": "%",
+      "original_text": "员工流失率 % 35.42",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4255.77,
+      "unit": "万元",
+      "original_text": "研发投入 4,255.77 百万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 9.44,
+      "unit": "%",
+      "original_text": "研发投入营收占比 9.44 %",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 0,
+      "unit": "万元",
+      "original_text": "安全生产责任险投入金额 ⁴ 百万元 0 0 /",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.25,
+      "unit": "‰",
+      "original_text": "员工百万工时损工事故率 / 0.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1493,
+      "unit": "万元",
+      "original_text": "社区公益投入总金额 百万元 14.93",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "董事会中独立董事占比 % 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名，占比11%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 6 8 7",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "响应《中华人民共和国公司法》（2023修订）规范，不再设置监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司围绕'2850'和'3030'目标采取温室气体减排行动，包括推动能源管理体系建设、搭建碳排放管理平台、推进节能技改项目等。",
+      "original_text": "汇川技术围绕'2850'和'3030'目标采取一系列温室气体减排行动，核心举措包括推动重点用能基地能源管理体系建设及认证，搭建能源和碳排放管理平台，持续推进管理优化和节能技改项目",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "截至报告期末，共有13个重要运营点通过ISO 14001认证，并建立了环境管理程序文件。",
+      "original_text": "截至报告期末，共有13个重要运营点通过ISO 14001认证，管理程序》《职业健康、安全、环境监测测量程序》等内部制度文件",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司通过产品全生命周期管理，践行'原料节俭化、工艺简单化、包装简装化、功能模块化'理念，降低产品全生命周期温室气体排放。",
+      "original_text": "公司通过产品全生命周期管理，践行'原料节俭化、工艺简单化、包装简装化、功能模块化'的理念，降低产品在原材料采购阶段和生产阶段资源消耗，以及提高产品能效，降低产品使用阶段能耗，从而实现降低产品全生命周期温室气体排放的行为",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司采用山水自然保护中心和北京大学自然保护与社会发展研究中心开发的生物多样性影响评估工具。",
+      "original_text": "2025年，汇川技术采用山水自然保护中心和北京大学自然保护与社会发展研究中心开发的生物多样性影响",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司搭建循环经济管理体系、制定循环经济制度、制定循环经济目标与计划、落实循环经济相关措施。",
+      "original_text": "包括搭建循环经济管理体系、制定循环经济制度、制定循环经济目标与计划、落实循环经济相关措施",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵循法律法规，尊重并保障员工合法权益，构建多元、包容和平等的工作环境，提供具有竞争力的薪酬福利、畅通的发展通道和晋升机会，并建立民主管理制度。",
+      "original_text": "公司严格遵循法律法规与国际公约，尊重并保障员工合法权益，构建多元、包容和平等的工作环境，建立为员工提供改善自身和家庭生活质量的福利体系的各项举措。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康与安全管理体系，包括危害识别与防控、安全生产评审、安全培训和职业健康管理，已实施员工健康与安全风险评估的重要运营点占比65.22%。",
+      "original_text": "公司为保障安全生产和员工健康建立职业健康与安全管理体系，包括危害或风险的识别与防控、安全生产评审、安全培训和职业健康管理等内容。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应链ESG管理机制，明确对供应商在环境保护、劳工权益、安全生产等方面的要求，并通过供应商审核和尽职调查确保合规。",
+      "original_text": "公司建立供应链ESG管理机制，明确对供应商在各方面的具体要求，并通过供应商审核和尽职调查确保合规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司保障产品与服务符合法律法规和客户要求，建立产品安全与质量管理体系，包括目标、制度、能力建设、文化建设，并持续改进。",
+      "original_text": "公司保障自身的产品与服务符合法律法规、行业标准及客户在产品安全和质量方面的要求，符合人身、财产安全的要求和标准，涵盖了产品安全与质量管理的相关目标、管理制度、能力建设、文化建设等内容。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司搭建数据安全与隐私保护管理架构，制定相关管理制度，完善基础设施建设，制定应急响应计划，定期审查评估，并开展专题培训。",
+      "original_text": "公司基于行业属性和自身经营性质，识别涉及数据安全与隐私保护的主要运营环节，搭建数据安全与隐私保护管理架构，制定相关管理制度，完善基础设施建设，制定数据泄露或安全事件应急响应计划，实施数据系统安全防护，定期审查和评估数据与隐私相关管理体系，并开展数据安全与隐私保护相关专题培训等管理措施的行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社区建设，支持乡村振兴项目，倡导员工参与社区志愿服务，社区公益投入总金额14.93百万元。",
+      "original_text": "汇川技术积极投身社区建设，搭建社企联动平台...公司工会积极响应党中央关于“农业农村优先发展”的时代号召，支持乡村振兴项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导多元、平等与包容的理念，承诺在雇佣、薪酬、培训、升迁等环节平等对待不同性别、种族等，并持续完善员工多元平台建设。",
+      "original_text": "汇川技术倡导多元、平等与包容的理念，承诺在雇佣、薪酬、培训、升迁、解雇等环节，平等对待不同性别、种族等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由股东会、董事会和EMT组成的治理架构，董事会下设审计委员会、提名委员会、薪酬与考核委员会，并设立可持续发展委员会及可持续发展办公室负责ESG事务。",
+      "original_text": "董事会为最高决策及监督层，全面管理和监督公司ESG事务...可持续发展委员会负责制定公司可持续发展战略...可持续发展办公室作为执行部门",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展反腐败管理与廉洁文化建设，制定反贿赂和反贪污制度，进行风险评估、内部控制和合规审查，开展员工培训，建立举报机制，并定期向董事会汇报。",
+      "original_text": "公司重点开展反腐败管理与廉洁文化建设...制定和实施反贿赂和反贪污制度...建立有效的监督和举报机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严守合规经营底线，围绕贸易合规、反洗钱、数据合规、知识产权保护、反腐败、反不正当竞争等开展管理，成立出口管制与制裁合规委员会，开展反不正当竞争专项。",
+      "original_text": "汇川技术严守合规经营底线，围绕贸易合规、反洗钱、数据合规、知识产权保护、反腐败、反不正当竞争...成立出口管制与制裁合规委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司依照COSO-ERM框架建立风险管理体系，制定《风险内控管理制度》，建立‘三层防线’风控责任机制，覆盖风险识别、评估、应对、监控和报告全过程。",
+      "original_text": "公司制定了‘三层防线’风控责任机制，并由董事会作为风险管理的最终责任人...依照COSO-ERM框架建设并完善风险管理框架",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过信息披露、投资者沟通等方式保障投资者合法权益，自上市以来持续保持信息披露优异成绩，多次获得相关奖项。",
+      "original_text": "自上市以来，公司持续保持信息披露优异成绩...充分保障投资者合法权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司与股东、投资者、客户、员工、政府、供应商、社区等利益相关方进行沟通，通过利益相关方调查等方式了解期望。",
+      "original_text": "公司同股东与投资者、客户、员工、政府及监管机构、供应商及合作伙伴、社区代表等利益相关方...利益相关方调查",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司持续保持信息披露优异成绩，多次获得中上协董事会与董秘相关奖项，报告已通过董事会审核和批准。",
+      "original_text": "自上市以来，公司持续保持信息披露优异成绩，多次获得中上协董事会与董秘...报告已通过董事会审核和批准",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "300124_汇川技术_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.952
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

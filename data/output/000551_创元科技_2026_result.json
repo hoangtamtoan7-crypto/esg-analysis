@@ -1,0 +1,441 @@
+{
+  "company_name": "创元科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 56315.45,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 56,315.45 40,667.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 38609.55,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接(范围1)温室气体排放量 吨二氧化碳当量 38,609.55 813.21",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 17705.89,
+      "unit": "吨二氧化碳当量",
+      "original_text": "能源间接(范围2)温室气体排放量 吨二氧化碳当量 17,705.89 14,398.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1995431,
+      "unit": "吨",
+      "original_text": "总用水量 吨 755.00 1,719,906.00 203,510.00 71,260.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 25,
+      "unit": "人",
+      "original_text": "员工总人数 人 25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 9.12 21.20 14.44",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长 小时/人 9.2 29.75 0.9",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 23710.54,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 23,710.54",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 5.62,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 5.62",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全培训总投入 万元 0.395 3.35 14.34",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事 名，占比 %；",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "按性别划分董事会成员人数（未提供具体数字）",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "召开董事会次数 次 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "未提及监事会规模",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司重视气候变化带来的潜在影响，构建了应对气候变化的治理架构，系统推进气候变化风险与机遇的研判工作，聚焦物理风险与政策风险的精准识别，持续提升企业气候韧性水平。",
+      "original_text": "公司重视气候变化带来的潜在影响，构建了应对气候变化的治理架构...系统推进气候变化风险与机遇的研判工作...聚焦物理风险与政策风险的精准识别，持续提升企业气候韧性水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，通过ISO 14001认证，并制定《环保管理制度》《污水控制管理制度》《废弃物管理制度》等内部制度，覆盖污染物排放管理、危险废物规范化管理等核心主题。",
+      "original_text": "ISO 14001认证证书 绿色工厂 环境管理体系认证...制定并实施《环保管理制度》《污水控制管理制度》《废弃物管理制度》等",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司提供多种绿色产品与服务，包括烟气排放连续监测系统、废水零排放处理技术、超纯水系统、废气处理设备等，应用于环保、新能源、半导体等领域。",
+      "original_text": "环保烟气在线监测系统...新能源动力电池全流程生产废水零排放处理技术...超纯水系统...废气处理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格遵循国家和地方生物多样性保护相关规定，落实项目建设和运营中的生态保护要求。",
+      "original_text": "创元科技坚持依法推进生态环境保护工作，严格遵循国家和地方生物多样性保护相关规定，落实项目建设和运营中的生态保护要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过采用砂轮灰压块处理、切削液过滤回用等方式提升废弃物再利用水平，在减量化、资源化方面取得成效。",
+      "original_text": "通过采用砂轮灰压块处理、切削液过滤回用等方式，提升废弃物再利用水平，在减量化、资源化方面取得成效。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉持以人为本与合规用工原则，围绕公平就业、合法权益、职业发展与身心健康构建员工权益保障体系，建立员工申诉机制，覆盖劳动关系、薪酬福利等事项。",
+      "original_text": "公司秉持以人为本与合规用工原则，围绕公平就业、合法权益、职业发展与身心健康构建员工权益保障体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司落实职业健康与安全责任，建立职业健康安全管理体系，开展安全培训、应急演练，制定《生产安全事故综合应急预案》，安全培训员工覆盖率100%。",
+      "original_text": "公司落实职业健康与安全责任，发生工伤或职业病时及时组织救治，并按规定协助员工办理工伤认定",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商准入、评估、分级、绩效考核及退出机制，签署《环境行为协议书》，开展供应商培训。",
+      "original_text": "公司所属子公司在供应链管理中强化环境责任要求，与供应商签署《环境行为协议书》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持将产品品质作为核心生命线，实施覆盖研发、采购、生产与交付的全流程质量管控，构建“预防－评审－改进”机制，开展质量培训。",
+      "original_text": "公司坚持将产品品质作为核心生命线，实施覆盖研发、采购、生产与交付的全流程质量管控",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过制度建设、技术防护和管理措施相结合，持续强化数据安全管理，保障客户信息和业务数据的安全与合规使用，定期开展信息安全培训。",
+      "original_text": "创元科技将数据安全作为合规经营和可持续发展的重要基础，通过制度建设、技术防护和管理措施相结合，持续强化数据安全管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司以民生关怀、健康福祉、机会公平与社区共建为价值导向，常态化开展社区公益与志愿服务，推动员工福祉改善与社区可持续发展。",
+      "original_text": "常态化开展社区公益与志愿服务，推动员工福祉改善与",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "报告提及按性别、职级、学历划分员工数，但未明确说明多元化政策。有女性权益保护相关描述。",
+      "original_text": "按性别划分员工数 按职级划分员工数",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建董事会、管理层、执行层三级可持续发展治理架构，董事会下设战略与ESG委员会，负责可持续发展战略审批与监督。",
+      "original_text": "创元科技构建董事会、管理层、执行层三级可持续发展治理架构。董事会负责可持续发展战略审批与监督。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《反舞弊管理制度》和《投诉举报制度》，构建反贪污反腐败治理体系，明确舞弊定义及处理机制。",
+      "original_text": "公司制定《反舞弊管理制度》，构建反贪污反腐败治理体系，明确舞弊定义及损害、谋取不当利益等多种舞弊情形。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守诚信经营与公平竞争准则，推动商业道德与合规文化建设，未出现不正当竞争及反垄断相关违法违规行为。",
+      "original_text": "创元科技始终坚守诚信经营与公平竞争的准则，积极推动商业道德与合规文化建设。公司严守合规底线，在经营过程中未出现任何不正当竞争及反垄断相关的违法违规行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立以《内控手册2024版》为核心的内部控制体系，设立风险评估管理小组，采用定性与定量方法识别评估风险，覆盖战略、财务、市场、运营和法律等多方面。",
+      "original_text": "公司制定并实施《风险评估制度》等规则制度，设立风险评估管理小组作为风险管理机构，有效规范风险管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过股东会、业绩说明会、互动易、投资者热线等渠道与投资者沟通，荣获2024年度金信披奖和投资者关系管理天马奖。",
+      "original_text": "为保障投资者关系管理规范运行，公司制定并实施《投资者关系管理制度》，遵循合规、平等、主动、诚信原则，组织开展投资者沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司围绕股东、客户、员工、供应商、政府及社区等利益相关方建立常态化沟通机制，通过股东会、业绩说明会、互动易、投资者热线、路演等渠道进行沟通。",
+      "original_text": "创元科技围绕股东、客户、员工、供应商、政府及社区等利益相关方建立常态化沟通机制，通过股东会、业绩说明会、互动易、投资者热线、路演（不定期）等渠道。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司构建以《信息披露管理制度》为核心的信息披露管理体系，严格恪守真实、准确、完整、及时准则，报告期内未因信息披露违规受处罚，荣获金信披奖。",
+      "original_text": "公司构建了完善的信息披露管理体系，以《信息披露管理制度》《信息披露暂缓与豁免管理制度》为制度基石，严格恪守真实、准确、完整、及时的核心准则。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司制定《本部税控系统发票管理办法》规范全电发票使用，确保税务合规与票据管理规范。",
+      "original_text": "为保障税务合规与票据管理规范，公司通过制定《本部税控系统发票管理办法》规范全电发票使用。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "兴蓉环境",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 604244.04,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围1+范围2） 604,244.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 117291.67,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放范围1 117,291.67 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 486952.37,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放范围2 486,952.37 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 66.64,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "排放密度 66.64",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 241696.26,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗量 吨标准煤 241,696.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 487076.57,
+      "unit": "吨",
+      "original_text": "废弃物排放总量 吨 487,076.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 961.26,
+      "unit": "吨",
+      "original_text": "氮氧化物(NOx) 吨 961.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 274.43,
+      "unit": "吨",
+      "original_text": "硫氧化物(SO2) 吨 274.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5338,
+      "unit": "人",
+      "original_text": "员工总人数 人 5,338",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 31,
+      "unit": "%",
+      "original_text": "女性员工占比 % 31",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 353.89,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 353.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 4.56,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长 小时/年 4.56",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4227.05,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 4,227.05",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.47,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 0.47",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 93.48,
+      "unit": "万元",
+      "original_text": "安全培训投入 万元 93.48",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "对监事会进行改革，不再设立监事会和监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳战略，从治理、战略、风险管理及指标和目标四个领域完善气候管理体系，披露行动与成效。",
+      "original_text": "兴蓉环境积极响应国家“双碳”战略目标，主动对标国际可持续准则理事会（ISSB）《国际财务报告可持续披露准则第2号——气候相关披露》及气候相关财务信息披露工作组（TCFD）建议，从治理、战略、风险管理及指标和目标四个领域完善气候管理体系，持续披露公司行动与成效。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立体系化的环境管理机制，持续完善环境管理专项制度，多家子公司获得ISO 14001环境管理体系认证。",
+      "original_text": "公司积极建设分布式光伏发电项目，采用“自发自用、余电上网”模式运行；多家子公司获得ISO 14001环境管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司依托完整的水务环保产业链，提供供水保障、污水处理、资源循环利用等全链条服务，推动绿色低碳转型。",
+      "original_text": "兴蓉环境依托完整的水务环保产业链，持续为城镇提供从供水保障、污水处理到资源循环利用的全链条服务",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司深刻认识生物多样性保护的重要性，严格遵循相关公约和法律，通过强化水源地全流程管控、筑牢生物栖息安全屏障等措施保护生物多样性。",
+      "original_text": "兴蓉环境深刻认识生物多样性保护对生态平衡、自然资源可持续利用的重要性，严格遵循《联合国生物多样性公约》《中华人民共和国环境保护法》等，通过强化水源地全流程管控、筑牢生物栖息安全屏障、深耕全民环保宣教实践，全方位、多层次的生态保护体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过炉渣资源化利用、中水利用、污泥制砖等举措推动循环经济，提升资源循环利用效率。",
+      "original_text": "资源循环利用 ● 炉渣资源化利用；兴蓉环境因地制宜推进中水利用，持续为城市河湖生态、绿化灌溉、市政杂用等领域提供高品质再生水资源；污泥制砖、制水泥等建材化方向",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵循劳动法，保障平等就业、民主管理、员工关怀等权益。",
+      "original_text": "公司严格遵循《中华人民共和国劳动法》等法律法规，保障业务工作安全、高效、有序开展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建全链条安全管理体系，通过职业健康安全管理体系认证，开展安全培训。",
+      "original_text": "公司将安全健康作为高质量发展的核心底线，通过构建全链条安全管理体系、完善全周期风险防控机制、强化精细化职业健康保护。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过绿色管理、绿色采购、供应商赋能等构建韧性供应链。",
+      "original_text": "公司将可持续发展理念贯穿供应链全流程，通过绿色管理、绿色采购、廉洁安全共建、供应商赋能等，构建富有韧性的供应链。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司依据ISO 9001标准搭建质量管理体系，未发生重大质量责任事故。",
+      "original_text": "已取得质量管理体系认证。报告期内，公司未发生产品和服务相关的安全与质量重大责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定系列管理制度，构建规范化隐私与数据安全管理体系，未发生侵犯客户隐私事件。",
+      "original_text": "制定完善《信息化管理制度》《信息安全管理办法》《信息系统数据安全保护管理办法》等系列内部管理制度，明确隐私与数据安全管理要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身乡村振兴、环保科普等公益事业，开展志愿服务和社区帮扶。",
+      "original_text": "积极投身乡村振兴、环保科普等公益事业，将企...开展社区帮扶。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司建立公平公正招聘机制，杜绝就业歧视，保障女性员工权益。",
+      "original_text": "坚决杜绝因性别、种族、民族、宗教信仰等因素产生的就业歧视，为全体求职者提供平等竞争、机会均等的就业平台。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会作为ESG事宜最高决策机构，将ESG纳入战略委员会工作职责，负责可持续发展战略及ESG相关风险与机遇管理。",
+      "original_text": "兴蓉环境将董事会作为ESG事宜的最高决策机构，并将ESG纳入公司战略委员会工作职责，负责对公司可持续发展战略及ESG相关风险与机遇管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "建立覆盖董事会、高级管理层及全体员工的廉洁责任体系，将党风廉政建设成效与绩效考核、干部任用、评优评先挂钩，要求供应商签署《廉洁承诺书》，对违规合作方实施黑名单管理。",
+      "original_text": "覆盖董事会、高级管理层及全体员工的廉洁责任体系，将党风廉政建设成效与绩效考核、干部任用、评优评先深度挂钩...在供应商准入、合作洽谈等环节严格组织合作方签署《廉洁承诺书》...对存在贪污腐败及违反商业道德等行为的合作方，坚决实施黑名单管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "坚守诚实合规经营理念，建立依法治企建设工作领导小组，设立首席合规官，完善合规管理组织，完成ISO 37301及GB/T 35770合规管理双体系认证。",
+      "original_text": "兴蓉环境坚守诚实合规的经营理念，建立依法治企建设工作领导小组，设立首席合规官，不断完善合规管理组织...完成ISO 37301及GB/T 35770合规管理双体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "制定《风险防控管理制度》，构建覆盖经营管理全环节的规范化风险防控体系，包括风险识别、评估、应对与控制、监督与报告，将风控要求嵌入业务全流程。",
+      "original_text": "兴蓉环境始终将风险防控作为稳健经营、可持续发展的核心支撑，制定并实施《风险防控管理制度》，健全科学决策机制、高效监督机制，构建起覆盖经营管理全环节的规范化风险防控体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "严格遵循《股东会议事规则》《投资者关系管理制度》，公平对待所有股东及潜在投资者，积极听取投资者意见建议，常态化开展业绩说明会、投资者实地参观等活动。",
+      "original_text": "兴蓉环境严格遵循《股东会议事规则》《投资者关系管理制度》等相关规定，遵循'尊重投资者、敬畏市场'的监管要求，公平对待所有股东及潜在投资者，积极听取投资者的意见建议，持续优化公司与资本市场的双向沟通渠道，常态化开展业绩说明会、投资者实地参观等活动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "高度重视与各利益相关方的沟通，基于日常运营和管理识别重要利益相关方，通过多种沟通方式了解期望与诉求并积极回应。",
+      "original_text": "兴蓉环境高度重视与各利益相关方的沟通，基于自身的日常运营和管理、议题范畴、各方影响因素等，识别遴选出具重要影响力的内外部利益相关方通过多种沟通方式了解利益相关方的期望与诉求，并积极进行回应",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "严格执行《信息披露管理制度》《内幕信息管理制度》等制度，秉持真实、准确、完整、及时、公平的原则，信息披露连续10年获评深圳证券交易所A级。",
+      "original_text": "兴蓉环境严格执行《信息披露管理制度》《内幕信息管理制度》《投资者关系管理制度》等制度规范，始终秉持真实、准确、完整、及时、公平的原则，依法合规履行信息披露义务...信息披露连续10年获评深圳证券交易所A级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度相关政策和措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

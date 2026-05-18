@@ -1,0 +1,442 @@
+{
+  "company_name": "阳光电源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 9909739,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2025年范围1+2+3排放9,909,739吨CO₂当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 9756,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放量 tCOe 9756 6426 3806",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 36061,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放量-基于市场 tCO e 36061 40061 42996",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 163,
+      "unit": "吨二氧化碳当量/GW",
+      "original_text": "温室气体排放密度（范围一+范围二） tCO2e/GW 163",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 36384.56,
+      "unit": "吨标准煤(tce)",
+      "original_text": "综合能耗 tce 36384.56",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 79,
+      "unit": "%",
+      "original_text": "绿色用电占比提升至79%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 851195.23,
+      "unit": "吨",
+      "original_text": "总取水量 m³ 851195.23 695179 459024",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 680956.18,
+      "unit": "立方米",
+      "original_text": "总排水量 m³ 680956.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 47845,
+      "unit": "吨",
+      "original_text": "废弃物总产生量 t 47845",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 484.25,
+      "unit": "万元",
+      "original_text": "污染治理 万元 484.25 684 581.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未披露",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未披露",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 6.5356,
+      "unit": "吨",
+      "original_text": "颗粒物（PM10）排放量 t 6.5356",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 19006,
+      "unit": "人",
+      "original_text": "全职劳动合同制员工 人 19006",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 19.0,
+      "unit": "%",
+      "original_text": "到2025年女性员工占比达到22% 未完成³ / 2020年16.90% 19.00% 2025年22%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 15,
+      "unit": "%",
+      "original_text": "女性管理者占比达到15%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 2374,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 2374",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 91.1,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均时长 小时/人 91.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 10.64,
+      "unit": "%",
+      "original_text": "员工自愿离职率 % 10.64",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 417497,
+      "unit": "万元",
+      "original_text": "研发投入 万元 417497 316352 244739",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 13860.8,
+      "unit": "万元",
+      "original_text": "健康安全投入 万元 13860.8 12540.8 5623.4",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.25,
+      "unit": "‰",
+      "original_text": "百万工时损工事故率达到0.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1948.83,
+      "unit": "万元",
+      "original_text": "慈善捐赠金额 万元 1948.83 2078.03 587.79",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "公司董事会设董事8名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "独立董事占比达到37.5%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "2025年，公司共召开董事会8次。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司不再设立监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2028年实现运营碳中和（范围1+2），2038年实现供应链碳中和（范围1+2+3）。将气候转型目标转化为可执行行动计划，形成闭环管理机制。",
+      "original_text": "已完成 / 2028年实现运营碳中和(范围1+2) ... 2038年实现供应链碳中和(范围1+2+3)",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司遵守全球相关环境法律法规，建立环境管理体系，生产基地每年由外部第三方审核机构开展环境管理体系审核，定期委托第三方开展废水、废气、噪声等排放检测。",
+      "original_text": "公司生产基地每年由外部第三方审核机构开展环境管理体系审核，同时不定期开展...公司定期委托第三方机构开展废水、废气、噪声等排放检测",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦清洁能源领域，提供光伏、储能等绿色产品，累计16款产品获碳足迹认证，11款产品获EPD环境产品声明，覆盖90%光储产品EPD。",
+      "original_text": "累计16款产品获碳足迹认证，并持续扩大生态设计覆盖面...11款产品获 EPD 环境产品声明",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司评估业务对生态系统和生物多样性的潜在影响，在项目选址时避开生态环境脆弱区，运营期监测水体溶氧量与水质，不使用化学清洗剂。2025年开展了多次生物多样性保护专题培训。",
+      "original_text": "在项目选址时，避开生态环境脆弱区...运营期：监测水体溶氧量与水质（漂浮项目），确保不影响水下生物多样性；定期清理光伏板时不使用化学清洗剂。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进来料包装标准化、精简化，推动卡板箱、仓储笼等循环回收包装，推进电芯、电抗器等循环包装。在循环经济、产品全生命周期管理中有投入。",
+      "original_text": "公司推进来料包装标准化、精简化，推动卡板箱、仓储笼等循环回收包装，推进电芯、电抗器、...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《社会责任风险评估管理程序》，涵盖员工权益、强迫劳动、童工等议题，建立投诉举报机制，保障员工自由结社与集体谈判权。",
+      "original_text": "公司制定《社会责任风险评估管理程序》,确定了风 险影响的议题与对象，采取控制措施，持续改善并 员工及供应链合作伙伴的人权培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司设立安全生产委员会，建立三级安全责任体系，覆盖全员健康安全培训，目标2028年培训覆盖率100%，百万工时损工事故率降至0.5。",
+      "original_text": "公司设立安全生产委员会，作为安全生产与职业健康 公司建立了“主要负责人-部门负责人-员工”三级安 全责任体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行ESG审核，涵盖人权、劳工权益、健康安全、环境、商业道德等，优先选择可持续发展表现良好的供应商。",
+      "original_text": "在同等条件下，公司将优先考虑与可持续发展表现良好的供 应商合作",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立覆盖产品全生命周期的质量与安全管理体系，通过ISO 9001、QC080000等认证，2025年重大责任事故为0。",
+      "original_text": "公司构建覆盖产品全生命周期的质量与安全管理体系，在产品 2025年，公司产品相关的安全与质量重大责任事故数量为0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循《数据安全法》《个人信息保护法》，建立隐私保护运营体系，目标信息安全培训覆盖率100%，重大泄露事件0。",
+      "original_text": "公司遵循《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》，建立隐私保护运营体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过公益项目、社区培训、沟通活动等参与社区发展，2025年公益性支出近2000万，成立公益基金会。",
+      "original_text": "加大在生态环保、社区发展、科普助学、应急救灾等领域的公益投入 2025年成立公益基金会，持续加大在公益领域的投入，公司全年公益性支出近2000万",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司设定女性员工占比目标，提供女性员工关爱措施，保障平等就业机会，反对歧视。",
+      "original_text": "设定目标‘到2030年，女性管理者占比提升至20%’，保障女性员工权益，未发生歧视事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会下设战略与可持续发展委员会，负责ESG治理，并设立可持续发展管理办公室和执行工作组。",
+      "original_text": "公司在董事会层面设立战略与可持续发展委员会。2024年，管理办公室的指导下，统筹开展公司ESG领域的政策制定、",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立反腐败管理体系，设立审计委员会和审计督察部，制定多项制度，要求员工签署廉洁承诺书，覆盖率100%。",
+      "original_text": "董事会下设审计委员会，作为反腐败工作的最高管理机构...公司设立独立一级部门审计督察部...员工入职前需签署《廉洁合规自律承诺书》，常态化签署覆盖率达100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立商业道德管理体系，制定《反贿赂合规管理办法》等制度，实施合规管理体系建设，通过ISO 37301认证。",
+      "original_text": "公司持续完善商业道德管理体系...制定《反贿赂合规管理办法》...阳光电源持续完善ISO 37301合规管理体系建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，通过ISO 37301认证，实施合规风险防控机制，覆盖超过400项合规风险。",
+      "original_text": "公司建立完善的合规管理体系...建设全面风险管理体系，通过ISO 37301认证...覆盖超过400项合规风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司修订《投资者关系管理制度》，通过互动平台、业绩说明会等方式与投资者沟通，及时回复问题。",
+      "original_text": "公司修订《投资者关系管理制度》...通过深交所投资者关系互动平台及时回复投资者问题",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过职工代表大会、客户满意度调查、网站社交媒体等多种方式与利益相关方沟通。",
+      "original_text": "1.员工雇佣与权益 1.职工代表大会...2.客户满意度调查...2.网站、社交媒体（实时开展）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司修订《信息披露管理制度》，确保信息披露真实准确，获得深交所信息披露等级评价认可。",
+      "original_text": "修订公司《信息披露管理制度》...信息披露工作获得监管部门高度认可,在深交所进行的信息披露等级评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未在报告中找到关于税务透明度的具体描述。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "300274_阳光电源_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.923
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

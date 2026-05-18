@@ -1,0 +1,441 @@
+{
+  "company_name": "富奥股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 26170.08,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 24,265.65 23,821.68 26,170.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 70405.77,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 92,030.27 83,829.67 70,405.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.06,
+      "unit": "吨二氧化碳/万元",
+      "original_text": "单位产值温室气体排放量 吨二氧化碳/万元 0.07 0.06 0.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 51484.79,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 39,863.66 45,776.21 51,484.79",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 22.38,
+      "unit": "%",
+      "original_text": "非化石能源使用比例 % 20.39 18.77 22.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 893860,
+      "unit": "吨",
+      "original_text": "耗水总量 吨 778,514 741,285 893,860",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 676113.91,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 716,180.45 648,856.18 676,113.91",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 18686.77,
+      "unit": "吨",
+      "original_text": "废弃物总量 吨 19,156.82 15,279.91 18,686.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 18000,
+      "unit": "人",
+      "original_text": "1.8万名员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 470.04,
+      "unit": "万元",
+      "original_text": "年度培训支出 万元 536.15 469.57 470.04",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 34.04,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时长 小时 34.04",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 5.94,
+      "unit": "%",
+      "original_text": "员工流失率 % 8.70 4.98 5.94",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 64800,
+      "unit": "万元",
+      "original_text": "研发投入 亿元 5.71 5.41 6.48",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.72,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比重 % 3.60 3.29 3.72",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2983.87,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 1,554.81 2588.07 2,983.87",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 62.13,
+      "unit": "万元",
+      "original_text": "社会公益活动投入的资金额 万元 106.89 9.60 62.13",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "名董事构成 名 名 名",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会次数 次 9 14 11",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "监事会",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳目标，制定碳中和时间表（2020-2060），识别气候风险与机遇，推动节能降碳技术应用。",
+      "original_text": "富奥股份积极响应国家‘双碳’目标，制定碳中和时间表；识别气候风险与机遇，推动节能降碳技术应用。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司按照ISO 14001环境管理体系要求，建立健全覆盖生产及环境治理全流程的环境管理制度，并通过绿色工厂认证。",
+      "original_text": "按照ISO 14001环境管理体系要求，建立健全覆盖生产及环境治理全流程的环境管理制度；下属公司通过国家级绿色工厂认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司布局新能源领域，开发新能源汽车热管理集成模块等绿色产品，推动产品全生命周期低碳管理。",
+      "original_text": "开发新能源汽车热管理集成模块；将绿色低碳理念贯穿产品全生命周期，打造产品全链低碳管理模式。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司在业务布局与运营过程中对生物多样性保护予以充分考虑，保护园区生态环境，降低业务活动对生态环境的负面影响。",
+      "original_text": "在业务布局与运营过程中，对生物多样性保护予以充分考虑，保护园区生态环境，降低业务活动对生态环境的负面影响。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进废弃物循环利用，布局新能源电池回收和梯次利用，实施电镀前处理水循环使用项目，提高水资源利用效率。",
+      "original_text": "推进废弃物循环利用；聚焦新能源电池循环生态产业链，布局退役电池回收和梯次利用；实施电镀前处理水循环使用项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，推行合规平等雇佣，保障员工各项权益，建立多元化职业发展通道，提供公平薪酬和福利。",
+      "original_text": "富奥股份始终秉持“以人为本”的发展理念，依法保障员工各项权益，构建多元化职业发展通道，全面守护员工身心健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，开展安全生产培训、应急演练，重视职业病防治，保障员工安全健康。",
+      "original_text": "富奥股份始终将员工安全与健康作为企业可持续发展的重要基石，通过强化安全生产防线；扎实开展职业病防治工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司持续完善供应链管理体系，强化供应商全周期管理，包括准入、评估考核、赋能成长，推进可持续供应链生态建设。",
+      "original_text": "打造责任供应链，富奥股份持续完善供应链管理体系，强化供应商全周期管理，提升风险防控能力，推进可持续供应链生态建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司未发生产品安全相关的重大责任事故，推进自工序完结，开展质量文化建设，确保产品安全性与可靠性。",
+      "original_text": "富奥股份未发生产品安全相关的安全与质量重大责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司贯彻网络安全法，制定《信息安全管理办法》，通过TISAX信息安全认证复审，2025年未发生数据安全事件。",
+      "original_text": "富奥股份贯彻《中华人民共和国网络安全法》等法律法规要求，制定《信息安全管理办法》，TISAX信息安全认证复审，对14家单位开展全面的信息安全评审。2025年，公司未发生任何数据安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身乡村振兴、公益慈善与社区建设，开展公益合作和志愿活动，以实际行动回馈社会。",
+      "original_text": "积极履行社会责任，投身乡村振兴、公益慈善与社区建设，以实际行动回馈社会、传递温暖。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司不对性别、民族、年龄加以限制，积极为残障员工提供就业机会，杜绝歧视，搭建多元化人才发展体系。",
+      "original_text": "合规雇佣 不对性别、民族、年龄加以限制，并积极为残障员工提供就业机会，杜绝任何形式的歧视、童工雇佣。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了权责清晰的ESG治理架构，董事会下设战略与ESG委员会，负责ESG目标、规划、政策制定等，管理层负责日常执行。",
+      "original_text": "富奥股份搭建权责清晰的ESG治理架构，董事会下设战略与ESG委员会，负责ESG目标、规划、政策制定、组织实施、风险评估等；管理层负责日常执行。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展廉洁提醒、通报典型案例、廉洁风险排查等，驰而不息正风肃纪反腐。",
+      "original_text": "重要节假日开展廉洁提醒，通报典型案例，开展廉洁风险排查、调研督导、廉政提醒；驰而不息正风肃纪反腐。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立健全守法合规管理体系，强化合规审查，深化员工合规意识，厚植合规文化。",
+      "original_text": "富奥股份深入贯彻习近平法治思想，落实法治国企建设要求，建立健全守法合规管理体系，强化规章制度、合同等的合规合法性审查，深化员工合规与法治意识，厚植合规文化。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司聚焦风险管控，持续迭代升级风险管理体系，建立常态化风险评估机制，强化内审内控，2025年未发生重大风险事件。",
+      "original_text": "富奥股份聚焦风险管控，持续迭代升级风险管理体系，建立常态化风险评估机制，强化内审内控，2025年公司未发生重大风险事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过业绩交流会、现场调研等方式主动回应股东关切，保障中小股东权益。",
+      "original_text": "富奥股份不断健全投资者关系管理制度与实践机制，制定《投资者关系管理制度》，通过业绩交流会、现场调研等主动回应股东关切，保障中小股东权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多种渠道与政府、股东、客户、员工、供应商等利益相关方深入交流，回应期望与诉求。",
+      "original_text": "富奥股份积极履行社会责任，采用多种渠道与政府和监管机构、股东及投资者、客户/用户、员工、环境、供应商/合作伙伴等利益相关方进行深入交流。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续4年荣获深圳证券交易所信息披露最高等级'A'级，制定信息披露暂缓与豁免等制度。",
+      "original_text": "公司连续4年荣获深圳证券交易所信息披露最高等级'A'级，制定《信息披露暂缓与豁免管理制度》《自愿性信息披露管理制度》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

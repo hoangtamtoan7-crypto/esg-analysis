@@ -1,0 +1,442 @@
+{
+  "company_name": "中国国航",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 28443600,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 二氧化碳排放（万吨） 2,844.36",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 28250000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范畴一 二氧化碳排放（万吨） 2,825",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 194000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范畴二 二氧化碳排放（万吨） 19.4",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 909.6,
+      "unit": "克/吨公里",
+      "original_text": "二氧化碳排放密度( 克/ 吨公里) 909.6",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 662000,
+      "unit": "吨",
+      "original_text": "处理工业废水 万吨 66.2",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 59462.9,
+      "unit": "万元",
+      "original_text": "国航在节能降耗方面共计投入 59,462.9",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 107795,
+      "unit": "人",
+      "original_text": "在岗员工人数（人） 102,874 104,909 107,795",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 38.36,
+      "unit": "%",
+      "original_text": "女性员工 41,348 38.36%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "人均受训小时数（小时） 人均受训小时数（小时）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.08,
+      "unit": "%",
+      "original_text": "国航员工整体流失率 2.08%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "第七届董事会成员为9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 44.44,
+      "unit": "%",
+      "original_text": "独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "2025年，董事会共召开会议12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "审计和风险管理委员会（监督委员会）召开会议9次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，制定碳达峰专项行动方案，设定科学减碳目标，编制《绿色发展暨'双碳'重点任务清单》，并开展气候变化情景分析，识别气候风险与机遇。",
+      "original_text": "中国国航积极响应国家'双碳'战略，关注气候影响，不断完善环境管理体系...制定碳达峰专项行动方案...设定科学的减碳目标...编制了《绿色发展暨'双碳'重点任务清单》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司保持ISO 14001体系认证全覆盖，依据《国航环境管理手册》等文件，系统实施环境管理，并成立碳达峰碳中和、生态环境保护工作领导小组。",
+      "original_text": "保持ISO 14001体系认证全覆盖...依据《国航环境管理手册》...成立碳达峰碳中和、生态环境保护工作领导小组",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出'净享飞行低碳行'绿色出行服务，旅客可参与碳减排项目；机上餐具等产品100%替换为可降解材质；累计使用可持续航空燃料1,501吨；国航世纪大厦获得LEED铂金级认证。",
+      "original_text": "推出'净享飞行低碳行'绿色出行服务...机上餐具等产品100%替换为可降解材质...累计使用可持续航空燃料（SAF）1,501吨...国航世纪大厦获得LEED绿色建筑认证体系最高级别铂金级认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司开展'国航长江生态保护基金·渝你同行生物多样性保护公益活动'，并面向公众开展生物多样性监测体验与主题宣传活动。",
+      "original_text": "国航长江生态保护基金·渝你同行生物多样性保护公益活动成功举办...积极面向公众开展生物多样性监测体验与主题宣传活动",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司全面实施航班减塑降废行动，机上餐具等产品100%替换为可降解材质；推进水资源循环利用，引入市政中水进行绿化灌溉；深化水资源循环利用与废弃物管理。",
+      "original_text": "全面实施航班减塑降废行动...机上餐具等产品100%替换为可降解材质...引入市政中水进行绿化灌溉...深化水资源循环利用与废弃物管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，坚持平等用工，杜绝强迫劳动、童工及歧视，保障员工合法权益。",
+      "original_text": "营造公正、合规、平等的职场环境，坚决杜绝强迫劳动、童工及职场歧视、骚扰和霸凌，切实保障员工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康管理体系，开展安全生产应急演练、健康培训，配备劳动保护用品，保障员工健康安全。",
+      "original_text": "国航致力于为员工打造安全、健康、舒适、便捷的工作环境。公司严格遵守《中华人民共和国职业病防治法》...定期开展安全生产应急演练、安全知识培训、警示教育等覆盖全员且形式多样的安全文化活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商管理规程，依托采购管理平台，对供应商进行准入、绩效评估、退出管理，推动供应链数字化转型。",
+      "original_text": "国航将ESG理念全面融入供应链管理体系，通过严格的供应商准入与绩效评估机制，推动廉洁运营与公平合作。建立《供应商管理规程》，依托中航集团采购管理平台，对供应商进行准入、绩效评估、退出管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司持续推进ISO 9001、FSSC 22000、HACCP等体系认证，对餐食安全进行全流程监控，未发生重大安全质量事故。",
+      "original_text": "2025年，公司持续推进ISO 9001质量管理体系、FSSC 22000食品安全管理体系、HACCP体系认证审核，保障机上餐食的食品安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建全流程数据管理体系，制定网络安全管理办法，开展全员培训，保护客户隐私。",
+      "original_text": "国航将信息安全与隐私保护视为公司可持续发展的重要基石。我们构建了权责清晰、执行严格的全流程数据管理体系，持续提升数据安全治理的专业水准与风险防控能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，参与乡村振兴、公益慈善，带动社区经济发展。",
+      "original_text": "中国国航始终将履行企业社会责任视为己任，赋能社区公益事业发展。我们积极响应国家战略，履行海外责任，助力乡村振兴，与行业携手前行，共建美好、和谐社会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等用工和员工多元化，关注员工诉求，营造和谐工作氛围。",
+      "original_text": "国航持续深化员工权益保障工作，坚持平等用工和员工多元化，关注员工诉求，积极营造和谐工作氛围。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了系统完善、运行有效的ESG治理体系，董事会是ESG事宜的最高负责与决策机构，下设社会责任工作领导小组，负责拟定及审议ESG战略、目标与年度实施计划。",
+      "original_text": "构建了系统完善、运行有效的ESG治理体系。董事会是ESG事宜的最高负责与决策机构。下设社会责任工作领导小组，负责拟定及审议公司ESG战略、目标与年度实施计划。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建反腐败与合规管理体系，持续培育诚信文化，对违规行为'零容忍'，深化反腐败机制建设，强化廉洁风险防控。",
+      "original_text": "国航以商业道德为经营基石，构建反腐败与合规管理体系，持续培育诚信文化，对违规行为'零容忍'。国航持续深化反腐败机制建设，强化廉洁风险防控。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司构建以《合规管理规定》和《合规行为准则》为核心的'2+N'合规制度体系，针对反垄断、数据保护、出口管制等高风险领域制定专项制度与操作指引，持续开展合规培训。",
+      "original_text": "构建以《合规管理规定》和《合规行为准则》为核心的'2+N'合规制度体系，针对反垄断、数据保护、出口管制等高风险领域制定专项制度与操作指引。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司实行统一领导、分工负责的风险管理体系，党委全面领导，董事会负责有效性，经理层组织实施，法律部承担风险管理办公室职责，各单位为第一道防线，形成全面风险管理'三道防线'。",
+      "original_text": "国航实行统一领导、分工负责的风险管理体系。党委全面领导风险管理工作，董事会就全面风险管理工作的有效性对出资人负责，经理层负责按照董事会要求和授权组织领导风险管理的落地实施。法律部承担风险管理办公室职责。各单位、风险管理办公室和各类风险牵头部门、审计监督部门组成全面风险管理'三道防线'。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视与各利益相关方的沟通，通过持续优化多元沟通渠道，积极回应利益相关方的意见和建议，及时、合规披露信息，开展投资者关系工作。",
+      "original_text": "国航重视与各利益相关方的沟通，通过持续优化多元沟通渠道，积极回应利益相关方的意见和建议，及时、合规披露信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多层次沟通机制与各利益相关方保持互动，并开展双重重要性评估，识别和评估ESG相关议题。",
+      "original_text": "通过多层次沟通机制与各利益相关方保持互动，并开展双重重要性评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司2024-2025年度信息披露工作评价结果为A（优秀），严格遵循监管要求，构建完善的ESG治理体系，推动信息披露工作。",
+      "original_text": "2024-2025年度信息披露工作评价结果为A。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601111_中国国航_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

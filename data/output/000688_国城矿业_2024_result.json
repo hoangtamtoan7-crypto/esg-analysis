@@ -1,0 +1,379 @@
+{
+  "company_name": "国城矿业",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 5142,
+      "unit": "万元",
+      "original_text": "2023年公司安全生产费用投入5142万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "东矿与乌拉特后旗红十字会共同...万元",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 13,
+      "unit": "次",
+      "original_text": "报告期内，公司召开了 13 次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "监事会共有3名成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司推进能源绿色低碳转型，稳步落实“双碳”目标任务，积极探索传统能源和新能源优化组合，助力碳达峰碳中和目标的实现。",
+      "original_text": "推进能源绿色低碳转型，稳步落实“双碳”目标任务。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司坚持绿色施工，从源头抓起，事前签订环保协议、明确环保责任，事中保障环保设施正常运行，事后妥善处置遗留固废。子公司东矿打造绿色矿山，国城资源发展循环经济。",
+      "original_text": "公司坚持绿色施工并从源头抓起，事前在施工合同中签订环保协议、明确环保责任，事中在施工过程中保障环保设施正常运行，事后妥善处置遗留固废。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司布局金鑫矿业锂矿资源切入新能源产业上游核心领域，逐步打造新能源产业链。国城资源钛白粉项目是循环经济实践，产出磷酸铁锂核心材料。",
+      "original_text": "布局金鑫矿业锂矿资源切入新能源产业上游核心领域，逐步打造新能源产业链。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "国城资源着力发展循环经济，通过运用清洁和循环利用技术，对东矿采选尾矿深度开发，将丰富尾矿资源化利用。",
+      "original_text": "子公司国城资源着力发展循环经济，通过运用清洁和循环利用技术，对东矿采选尾矿深度开发，将丰富尾矿资源化利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司注重人力资源战略价值，构建和谐劳动关系，保障员工民主权利，提供完善薪酬福利和社会保险。",
+      "original_text": "员工是企业发展的基石...构建和谐劳动关系...有效保证员工民主决策、民主管理、民主监督的权利...提供养老、医疗、工伤、失业和生育等保险...节假日慰问金、职工体检、职工宿舍、员工食堂、健身房等职工福利",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司注重职业健康监护管理，制定职业健康体检方案，持续改善工作环境，减少职业病危害因素接触。",
+      "original_text": "公司尤其注重员工职业健康监护管理...规范做好公司和各施工单位从业人员的岗前、岗中和离岗职业健康体检...持续改善员工工作环境，有效减少接触职业病危害因素的几率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司对新引入供应商从T-技术、Q-质量、R-响应、D-交货等方面评估，但未明确提及ESG标准。",
+      "original_text": "对新引入的供应商，公司会从 T-技术、Q-质量、R-响应、D-交货、...",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过本地服务器保障数据安全，防止信息泄露及非法访问。",
+      "original_text": "及本地服务器保障数据安全，有效防止信息泄露及非法访问",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司多次进行社会公益捐赠，支持当地教育，优先选用当地企业和少数民族劳动力，带动区域经济发展。",
+      "original_text": "东矿多次向社会进行公益捐赠...支持乌拉特后旗当地教育领域相关的公益项目...优先选用当地企业和少数民族劳动力...带动区域经济发展",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司雇佣残疾员工5人，为残疾人提供平等就业机会，并优先选用当地少数民族劳动力。",
+      "original_text": "包含残疾员工5人，为残疾人群体的平等就业提供了机会...优先选用当地企业和少数民族劳动力",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了股东大会、董事会、监事会、经营层“三会一层”的公司治理组织架构，权责分明、有效制衡、科学决策。",
+      "original_text": "公司构建了股东大会、董事会、监事会、经营层“三会一层”的公司治理组织架构，权责分明、有效制衡、科学决策",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "partial",
+      "summary": "报告提及供应商合同中包含廉洁条款和道德约束条款，但未明确公司内部反腐败制度。",
+      "original_text": "洁条款和道德约束条款，对于存在违反商业道德、国家法律法规或公司规定的供",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定并持续修订了《公司章程》《股东大会议事规则》《董事会议事规则》等多项治理制度，强化依法合规。",
+      "original_text": "制定并持续修订了《公司章程》《股东大会议事规则》《董事会议事规则》《监事会议事规则》《投资者关系管理制度》《独立董事工作制度》等多项公司治理相关制度，强化依法合规",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司形成了以监事会为核心的内部监督体系，加强对各类潜在风险事项的监控。",
+      "original_text": "形成了以监事会为核心的内部监督体系，加强对各类潜在风险事项的监控",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司构建了多元化的投资者沟通渠道，包括业绩说明会、在线交流等，并认真做好投资者关系活动的记录和归档。",
+      "original_text": "公司构建了多元业绩说明会，公司董事及高管通过在线交流形式就公司治理、经营状况和发展战略等问题与投资者互动沟通。此外，公司认真做好投资者关系活动的记录和归档，并及时将投资者关系活动表对外披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司重视股东权益保护，积极与股东沟通，同时关注供应商、承包商等利益相关方，通过合同条款约束商业道德。",
+      "original_text": "公司重视股东权益保护，积极保持与股东的密切沟通。供应商、承包商作为公司利益相关方，与其稳定合作，有助于保障业务稳定",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司及时将投资者关系活动表对外披露，充分保障投资者的知情权及参与权。",
+      "original_text": "及时将投资者关系活动表对外披露，充分保障投资者的知情权及参与权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 11,
+    "quantitative_valid": 11,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.721
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 31,
+    "missing": 21,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q01",
+        "name": "员工总数",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q02",
+        "name": "女性员工比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q03",
+        "name": "女性高管比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q06",
+        "name": "员工流失率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q07",
+        "name": "研发投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q08",
+        "name": "研发投入占营收比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q10",
+        "name": "工伤事故率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q12",
+        "name": "纳税总额",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 59.6
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "陕西煤业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 30422875.75,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一、范围二） 吨二氧化碳当量 30,422,875.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 28681418.26,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 28,681,418.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1741457.49,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 1,741,457.49",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.94,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元 1.94",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 41030885.31,
+      "unit": "吨",
+      "original_text": "新鲜水取水量 吨 41,030,885.31",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 60099135.0,
+      "unit": "吨",
+      "original_text": "污废水排放量 吨 60,099,135.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 22827502.01,
+      "unit": "吨",
+      "original_text": "一般固废产生量 吨 22,827,502.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 5150.88,
+      "unit": "吨",
+      "original_text": "氮氧化物排放总量 吨 5,150.88",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 2188.78,
+      "unit": "吨",
+      "original_text": "二氧化硫排放总量 吨 2,188.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 648.42,
+      "unit": "吨",
+      "original_text": "烟尘排放总量 吨 648.42",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 43455,
+      "unit": "人",
+      "original_text": "员工总人数 43,455",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 12.77,
+      "unit": "%",
+      "original_text": "12.77%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "未明确提及女性高管比例",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 9286.27,
+      "unit": "万元",
+      "original_text": "公司年度培训支出金额 万元 9,286.27",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "未明确提及人均培训时长",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 3.62,
+      "unit": "%",
+      "original_text": "员工流失率 % 3.62",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 6.65,
+      "unit": "亿元",
+      "original_text": "研发投入 亿元 6.65",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.42,
+      "unit": "%",
+      "original_text": "研发投入总额占营业收入比例 % 0.42",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 444594.25,
+      "unit": "万元",
+      "original_text": "安全投入 万元 444,594.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "未明确提及工伤事故率",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提及社会公益捐赠金额",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提及纳税总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "未明确提及董事会总人数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事人数3人，但未提供董事会总人数，无法计算比例",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事人数 人 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及董事会会议次数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司已取消监事会及监事设置，由审计委员会承接相关职责",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定《“双碳”工作行动方案》等政策文件，持续完善绿色低碳发展资金保障制度，将应对气候变化深度融入公司战略规划与管理实践，制定长期低碳发展战略。",
+      "original_text": "公司制定《“双碳”工作行动方案》等政策文件，持续完善绿色低碳发展资金保障制度，将应对气候变化深度融入公司战略规划与管理实践",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续完善能源管理体系，为能源设备高效运行、信息化节能系统规范建设提供坚实管理保障。",
+      "original_text": "公司持续完善能源管理体系，为能源设备高效运行、信息化节能系统规范建设提供坚实管理保障",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司提及能源转型催生对绿色低碳产品（如高质量清洁煤炭、碳基材料）、综合能源服务及碳管理服务的巨大需求，但未明确说明自身提供此类产品与服务。",
+      "original_text": "能源转型催生对绿色低碳产品（如高质量清洁煤炭、碳基材料）、综合能源服务及碳管理服务的巨大需求",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生物多样性保护理念深度嵌入生产运营，以系统性土地复垦、植被群落重建与生态廊道构建为核心行动，通过科学规划的生态修复工程改善矿区生境。",
+      "original_text": "公司将生物多样性保护理念深度嵌入生产运营，以系统性土地复垦、植被群落重建与生态廊道构建为核心行动，通过科学规划的生态修复工程改善矿区生境",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司系统推进废气、废水、固体废弃物的精准防治与资源化利用，构建了覆盖生产全流程的清洁化、低碳化运行体系。",
+      "original_text": "系统推进废气、废水、固体废弃物的精准防治与资源化利用，构建了覆盖生产全流程的清洁化、低碳化运行体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《劳动合同管理办法》《劳动用工管理办法》等制度，杜绝雇佣童工、强迫劳动，严禁职场霸凌与骚扰。",
+      "original_text": "制定《劳动合同管理办法》《劳动用工管理办法》《人员招录管理办法》等内部制度，通过校园招聘、社...杜绝雇佣童工、强迫劳动等行为，严禁一切形式的职场霸凌与骚扰。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定《职业健康管理办法》，设立职业健康管理领导小组，推进NOSA安健环体系建设，安全培训总人次123,361，职业病安全档案覆盖率100%。",
+      "original_text": "公司制定《职业健康管理办法》，设立由董事长、总经理牵头，多部门协同的职业健康管理领导小组...推动NOSA（诺诚）安健环体系建设...职业病安全档案覆盖率 % 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司构建覆盖供应商准入、考核、惩戒、赋能等全流程的责任供应链体系，将诚信履约、质量安全、廉洁自律与绿色发展融入供应链管理。",
+      "original_text": "公司构建起覆盖供应商准入、考核、惩戒、赋能等全流程的责任供应链体系，将诚信履约、质量安全、廉洁自律与绿色发展要求融入供应链管理各环节",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司持续健全质量管理体系，将产品全周期安全质量管控纳入治理架构，通过工艺创新、技术改造提升产品品质。",
+      "original_text": "陕西煤业持续健全质量管理体系，以卓越服务为客户提供安全可靠的能源产品...将产品全周期安全质量管控与服务全链条规范运营纳入...通过工艺创新、技术改造",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视客户隐私与数据安全保护，完善制度规范与技术防护体系，数据安全事件涉及金额0万元。",
+      "original_text": "公司高度重视客户隐私与数据安全保护，不断完善制度规范与技术防护体系...数据安全事件涉及的金额 万元 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司精准对接乡村振兴战略，开展公益慈善项目，广泛动员志愿活动，参加社会公益活动次数287次。",
+      "original_text": "陕西煤业精准对接乡村振兴战略，系统开展公益慈善项目，广泛动员志愿活动，积极回馈社会...参加社会公益活动次数 次 287",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司明确禁止任何形式的歧视，共有残疾员工148人，少数民族员工361人，实施'巾帼赋能'计划，保障女性员工权益。",
+      "original_text": "明确禁止任何基于种族、性别、年龄、婚姻状况、宗教信仰、残疾等任何形式的歧视...共有残疾员工148人...少数民族员工总数 361人...实施'巾帼赋能'计划",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会领导、ESG办公室统筹的可持续发展管治架构，董事会负责监督可持续发展相关目标、策略和管理。",
+      "original_text": "ESG办公室（证券部）统筹安排...董事会是最高决策机构，负责审批公司风险管理战略、重大政策...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵守反腐败法律法规，建立‘六位一体’大监督机制，聚焦关键少数和重点领域，强化权力制约与监督。",
+      "original_text": "陕西煤业严格遵守《中华人民共和国刑法》《国有企业领导人员廉洁从业若干规定》等法律法规...聚焦‘关键少数’和采购、销售、工程建设等重点领域，强化权力运行的制约与监督",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持依法治企，构建合规管理与风险防控体系，编制《合规管理制度》和《合规管理手册》，定期开展合规培训。",
+      "original_text": "陕西煤业坚持依法治企、合规经营，系统构建了覆盖全面、职责清晰、运行高效的合规管理与风险防控体系...编制发布《合规管理制度》和《合规管理手册》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立由董事会领导的‘三道防线’风险管理体系，覆盖风险识别、评估、应对和监控全流程，并制定《风险管理制度》。",
+      "original_text": "公司建立由董事会领导、自下而上的‘三道防线’风险管理体系...修订完善了《风险管理制度》，将风险明确划分为战略风险、经营风险、财务风险和法律风险等主要类型",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，健全工作机制，提升信息披露及时性、准确性与透明度，并荣获‘投资者关系管理天马奖’。",
+      "original_text": "公司高度重视投资者关系管理，制定《投资者关系管理制度》，健全工作机制，提升信息披露的及时性、准确性与透明度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立规范的沟通管理机制，通过现场调研、策略会、路演、投资者热线等方式与政府、股东、员工、客户等利益相关方沟通。",
+      "original_text": "陕西煤业高度重视与各利益相关方的双向沟通，建立规范的沟通管理机制...通过现场调研、策略会、路演、投资者热线、日常对接等方式",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露工作连续多年获得上海证券交易所‘A级’评定，规范履行信息披露职责。",
+      "original_text": "信息披露工作连续多年获得上海证券交易所 ‘A级’评定",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度相关政策和措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "source_file": "601225_陕西煤业_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

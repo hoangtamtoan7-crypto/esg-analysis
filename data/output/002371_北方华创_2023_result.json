@@ -1,0 +1,442 @@
+{
+  "company_name": "北方华创",
+  "report_year": "2023",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 7.96,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "百万元营业收入温室气体排放强度 14.56 10.04 9.77 9.46 7.96",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 10007,
+      "unit": "人",
+      "original_text": "截至2022年底，员工总数为10,007人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 29.4,
+      "unit": "%",
+      "original_text": "女性员工比例 % ... 29.4",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 35.66,
+      "unit": "亿元",
+      "original_text": "研发资金投入 亿元 ... 35.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 24.28,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % ... 24.28",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 37.33,
+      "unit": "万元",
+      "original_text": "2022年北方华创公益图书馆捐助学校 37,330元，惠及师生960余人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 13.7,
+      "unit": "亿元",
+      "original_text": "支付的各项税费 亿元 ... 13.70",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "董事会由11名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事占全体董事比例",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "董事会10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司追求'生产过程的零碳排放、产品的零碳排放'，将减少能源消耗和碳排放作为核心措施和长期战略。",
+      "original_text": "不断追求'生产过程的零碳排放、产品的零碳排放'是我们应对气候变化的核心措施和长期战略。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "集团所属10家公司通过ISO 14001体系认证，建立了环境风险防控管理体系，并定期进行环保培训。",
+      "original_text": "集团所属10家公司通过ISO 14001体系认证，建立了环境风险防控管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "产品广泛应用于新能源光伏等领域，为绿色制造赋能；产品设计注重能耗问题，努力降低环境影响。",
+      "original_text": "产品设计开发过程中注重产品能耗问题，努力降低产品对环境的影响",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "对包装进行绿色设计，使用可回收材料；对废料及废旧包装进行回收处理，制作成新的物料盒或托盘循环使用。",
+      "original_text": "对产品的包装进行绿色设计，提高单位体积的装载量，包装材料尽量使用可回收材料；依据《废旧包装物管理制度》对废料及废旧包装进行回收处理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，杜绝用工歧视，尊重员工差异，依法签订劳动合同，提供五险一金、补充医疗保险及企业年金等社会保障与福利，重视员工隐私保护。",
+      "original_text": "我们严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规，杜绝用工歧视，尊重不同国籍、种族、性别、宗教信仰和文化背景的员工差异与个性需求。我们依法与员工签订劳动合同，并为员工提供五险一金、补充医疗保险及企业年金等社会保障与福利，重视员工隐私保护。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司以ISO 45001职业健康安全管理体系为基础，遵循安全生产法和职业病防治法，建立职业健康安全管理制度，开展培训，组织职业健康检查，2022年未发生职业病事件。",
+      "original_text": "我们以 ISO 45001职业健康安全管理体系建设为基础，严格遵循《中华人民共和国安全生产法》《中华人民共和国职业病防治法》，建立职业健康安全管理制度，开展线上和线下职业健康教育培训，为接触职业危害劳动者定期组织上岗、在岗和离岗职业健康检查，2022年全部职业危害岗位的化学尘毒浓度均符合国家职业卫生标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司倡导'安全、强壮、高效、阳光'的供应链准则，践行'公平、诚信、公开'的采购原则，发布供应商认证体系及供应链质量管理体系，实施供应商绩效考核和帮扶措施，举办供应商大会和协同创新座谈会。",
+      "original_text": "我们倡导“安全、强壮、高效、阳光”的供应链准则，践行“公平、诚信、公开”的采购原则，发布《北方华创供应商认证体系及供应链质量管理体系》，打造负责任、可持续发展的供应链，与合作伙伴共建半导体基础产品产业生态圈。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司秉承'全链条协同、全流程改善'的质量理念，建立以客户为中心的双向质量管理体系，通过ISO 9001质量体系认证，开展质量培训、质量月活动、质量改进项目，确保产品安全可靠。",
+      "original_text": "我们秉承“全链条协同、全流程改善”的质量理念，通过“以客户为中心”的双向质量管理体系，营造全员积极参与的氛围、开展持续改善措施，探索以北方华创为纽带，和客户、供应商等利益相关方共同发展的质量生态，追求卓越。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司按照ISO 27001信息安全管理体系要求，开展客户信息保护，健全商业秘密管理体系，定期进行商业秘密培训和考核，2022年开展4次覆盖全员的线上商业秘密培训与考核，全年未发生商业秘密泄露事件。",
+      "original_text": "我们严格按照ISO 27001信息安全管理体系要求，开展客户信息保护，健全商业秘密管理体系，不断完善《商业秘密管理办法》《商业秘密惩罚和奖励办法》和《员工商业秘密行为规范》等系列管理条例，确保客户资料及隐私得到有力保障。2022年，我们开展4次覆盖全员的线上商业秘密培训与考核，全年未发生商业秘密泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司热心公益事业，在教育支持、志愿服务等领域持续做出贡献，包括开展乡村中小学图书馆捐赠活动、帮扶困难群体、开展垃圾分类活动、志愿献血、参与社区防疫等。",
+      "original_text": "关怀弱势群体 构建和谐关系 开展乡村中小学“图书馆捐赠活动” 开展公益活动 帮扶困难群体 开展垃圾分类活动 环保活动 热衷公益慈善 帮扶集体经济薄弱村 减少能源消耗和碳排放 开展志愿献血活动 社区 积极参与环保活动 进行环保教育宣传 助力环保产业发展 组织环保公益活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司提倡尊重、关怀女性员工，认可女性员工能力，激励女性员工成长，开展三八表彰大会，授予三八红旗奖章；同时尊重不同国籍、种族、性别、宗教信仰和文化背景的员工差异与个性需求。",
+      "original_text": "我们提倡尊重、关怀女性员工，在工作中，认可女性员工能力，激励女性员工成长；在生活中，关注女性员工需求，不断完善基础设施为女性员工提供更加从容的职场环境。我们开展“心有主张 · 自带光芒”为主题的三八表彰大会，集中表彰优秀女性员工，授予三八红旗奖章。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司治理结构由股东大会、董事会、监事会、执行委员会及专门委员会组成，董事会下设ESG相关委员会，董事长担任执行委员会主席。",
+      "original_text": "公司的治理结构由股东大会、董事会、监事会、执行委员会及专门委员...组长：董事长（执行委员会主席）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展反腐倡廉主题教育活动，加强反腐败主题教育，优化合规举报渠道，发布《合规举报声明》。",
+      "original_text": "我们开展反腐倡廉主题教育活动...加强反腐败主题教育活动...优化了合规举报渠道，在公司官方网站开辟合规举报专区",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守法律法规，恪守商业道德，健全完善合规体系，加强商业秘密保护、反商业贿赂、商业合作伙伴行为等合规管理。",
+      "original_text": "我们始终以诚信守法作为公司一切经营活动的前提，健全完善合规体系...着力加强商业秘密保护、反商业贿赂、商业合作伙伴行为、反腐败主题教育等合规重点领域建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司升级了风险管理体系，通过访谈、调研问卷等形式开展风险识别，联合多部门进行风险评估，建立风险应对措施数据库并监控实施进度。",
+      "original_text": "我们升级了风险管理体系，将风险沟通融入到风险管理的各个环节...建立风险应对措施数据库，并监控风险应对实施的进度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东大会、日常沟通、媒体信息披露等方式与投资者交流，获得第十三届中国上市投资者关系天马奖评选“中国上市公司最佳投资者关系奖”。",
+      "original_text": "利用线上及线下方式，开展投资者交流活动...第十三届中国上市投资者关系天马奖评选“中国上市公司最佳投资者关系奖”",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司健全社会责任沟通机制，通过股东大会、日常沟通、媒体信息披露等方式与股东、政府、媒体等利益相关方沟通，回应诉求。",
+      "original_text": "我们不断健全社会责任沟通机制，拓展与利益相关方的沟通方式...利益相关方沟通机制包括股东大会、日常沟通、媒体信息披露等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续2年被深圳交易所信息披露评级为A级，严格按照规定进行信息披露，确保真实、准确、完整、及时、公平。",
+      "original_text": "连续2年被深圳交易所信息披露评级为A级...保信息披露真实、准确、完整、及时、公平",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "002371_北方华创_2023.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

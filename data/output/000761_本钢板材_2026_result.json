@@ -1,0 +1,441 @@
+{
+  "company_name": "本钢板材",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 20980000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围1+范围2） 万吨 2154 2230 2098",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5668586.36,
+      "unit": "吨标煤",
+      "original_text": "能源消耗量 吨标煤 6372949.56 6014438.88 5668586.36",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 30723039,
+      "unit": "吨",
+      "original_text": "新鲜水用水量 吨 35042591 32788866 30723039",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1714024,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 5954348 4973101 1714024",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 7109779.5,
+      "unit": "吨",
+      "original_text": "无害废弃物产生量 吨 6752987.419 6704491.1154 7009758.61；有害废弃物产生量 吨 174072.7874 175535.3036 100020.89",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 687500,
+      "unit": "万元",
+      "original_text": "公司累计投入环保治理资金68.75亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 5468.7,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 8738 6195.2 5468.7",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 1903.2,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 吨 3993 2167.4 1903.2",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "千人负伤率为零",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "全年共召开董事会会议11次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "正式取消监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "已通过省级绿色工厂认证，国家级申报正有序推进。",
+      "original_text": "已通过省级'绿色工厂'认证，国家级申报正有序推进",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发低碳排放汽车钢，获得莱茵碳足迹证书，产品碳效等级E级。",
+      "original_text": "低碳汽车钢产品获得德国莱茵颁发的碳足迹证书",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司打造花园式工厂，进行绿地建设，但未明确提及生物多样性保护政策。",
+      "original_text": "打造国家'AAA'级旅游景区花园式工厂，栽植地被植物",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司对氧化铁皮、污泥、工业粉尘等废弃物进行内部综合利用，废钢作为原料使用。",
+      "original_text": "氧化铁皮、无机废水污泥、有机废水污泥、工业粉尘：作为烧结配料送烧结系统",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，保障员工平等就业、薪酬福利、休假等权益，建立员工信息管理系统保护隐私，杜绝强迫劳动和歧视。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》...杜绝设置与岗位无关的限制性条件，确保不同性别、民族、年龄、户籍、宗教信仰的应聘者均能获得平等竞争机会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司以本质安全型企业为目标，完善健康安全管理体系，通过职业健康安全管理体系认证，开展安全培训、隐患排查、职业病防治，2025年未发生安全生产事故，千人负伤率为零。",
+      "original_text": "公司以全面建成本质安全型企业为目标，不断完善健康安全管理体系...2025年未发生安全生产事故，千人负伤率为零。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行ESG审核，涵盖劳工标准、职业健康安全、环境保护及商业道德，严格筛选新进供应商，并开展供应商社会责任培训。",
+      "original_text": "涵盖劳工标准、职业健康安全、环境保护及商业道德等方面。在资料评审环节，公司对供应商环境管理体系及职业健康安全管理等管理资质要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立标准化质量管控体系，通过质量认证审核，完善质量数据管理平台，以极致品质满足用户需求，未提及产品召回数据。",
+      "original_text": "本钢板材始终将质量管理贯穿于生产经营全流程，通过建立健全标准化质量管控体系、强化技术创新与工艺改进、完善质量追溯机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立完善的员工信息管理系统，确保员工个人信息安全与保密，加强隐私宣传教育，防止个人信息泄露。",
+      "original_text": "公司建立完善的员工信息管理系统，确保员工个人信息的安全与保密。同时加强对员工隐私的宣传教育，增强员工对隐私保护的意识。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司热心参与乡村振兴与社区建设，开展公益慈善、社区服务活动，包括改善社区环境、支持文化建设、志愿者活动等。",
+      "original_text": "公益慈善，服务社区...乡村振兴 社区公益 协会组织...改善社区环境、社区共建、参与社区建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等就业，确保不同性别、民族、年龄、户籍、宗教信仰的应聘者获得平等机会，关注女性员工关怀，组织女性员工活动。",
+      "original_text": "杜绝设置与岗位无关的限制性条件，确保不同性别、民族、年龄、户籍、宗教信仰的应聘者均能获得平等竞争机会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立独立于董事会和专业委员会的ESG管理委员会，由董事长担任主任委员，委员由各部门负责人担任。董事会下设战略委员会、审计与风险委员会、提名委员会、薪酬与考核委员会。",
+      "original_text": "层面设立独立于董事会和专业委员会的ESG管理委员会。委员会由董事长担任主任委员，委员由各部门负责人担任；董事会下设战略委员会、审计与风险委员会、提名委员会、薪酬与考核委员会四个专门委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司坚持正风肃纪反腐，强化日常监督，开展党委巡察，制定党风廉政建设和反腐败工作要点，组织签订廉洁承诺书，开展警示教育。",
+      "original_text": "公司坚持以严的基调强化正风肃纪反腐，强化日常监督，扎实开展党委巡察工作，坚定不移推进党风廉政建设和反腐败工作；制定《2025年党风廉政建设和反腐败工作要点及任务分工》；组织领导干部和关键敏感岗位人员签订《廉洁承诺书》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司以法治建设为抓手，将合规管理融入生产经营全过程，连续3年重大法律纠纷零发生，合同审核率100%，合规审查覆盖率100%。设立首席合规官，建立法律风险预警机制。",
+      "original_text": "公司以法治建设为抓手，将合规管理深度融入企业生产经营全过程，走出一条具有行业特色的法治建设之路。公司连续3年实现重大法律纠纷'零发生'，合同审核率100%，合规审查覆盖率100%；设立首席合规官，由总法律顾问兼任",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建以风险防控为前提、内部控制为支撑、合规管理为准则的'三合一'管控体系，重新修订重大事项风险评估与合规审查管理办法，组织2025年重大风险评估，共评估出30项风险。",
+      "original_text": "本钢板材始终坚守合规底线、筑牢风险防线，构建以风险防控为前提、内部控制为支撑、合规管理为准则的'三合一'管控体系；重新修订《本钢板材股份有限公司重大事项风险评估与合规审查管理办法》；组织2025年重大风险评估，共评估出30项风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司修订投资者关系管理制度，明确董事会、管理层及相关部门职责，开展面对面投资者交流，全年接待机构投资者调研23次。",
+      "original_text": "修订《本钢板材股份有限公司投资者关系管理制度》，进一步明确董事会、管理层及相关部；开展'面对面'投资者交流，邀请投资者来公司调研参观，全年共接待机构投资者调研23次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过股东大会、信息报送、征求意见、社区沟通会、新闻发布等多种方式与股东、员工、社区等利益相关方沟通，回应其期望与要求。",
+      "original_text": "利益相关方沟通：股东期望合规运营、提高投资回报率，通过股东大会、信息报送等方式回应；社区期望保护生态环境，通过社区沟通会、花园式工厂建设等回应",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循监管规定，修订信息披露事务管理制度，确保信息披露真实、准确、完整、及时、公平。2025年完成信息披露43次，披露文件131份。",
+      "original_text": "严格遵循监管规定，修订《信息披露事务管理制度》及《内幕信息知情人登记管理制度》；2025年完成信息披露43次，披露文件131份",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司在利益相关方沟通中提及'主动纳税'，但未详细披露税务管理政策或透明度措施。",
+      "original_text": "利益相关方沟通：股东期望与要求包括'主动纳税'",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "立新能源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 16760.77,
+      "unit": "吨二氧化碳当量",
+      "original_text": "合计（范围一+范围二） 吨二氧化碳当量 26,475.37 17,171.76 16,760.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 193.05,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一 吨二氧化碳当量 250.65 301.94 193.05",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 16567.72,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二 吨二氧化碳当量 26,224.72 16,869.82 16,567.72",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 16.93,
+      "unit": "吨二氧化碳当量/百万营收",
+      "original_text": "温室气体排放强度（范围一和范围二） 24.98 17.69 16.93",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 3678.0,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 6,208.95 4,021.89 3,678.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 21270.54,
+      "unit": "吨",
+      "original_text": "总用水量 吨 53,160.00 16,192.08 21,270.54",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 30.9,
+      "unit": "万元",
+      "original_text": "全年环保投入共计30.90万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 240,
+      "unit": "人",
+      "original_text": "员工总人数 人 240 245 199",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 19.6,
+      "unit": "%",
+      "original_text": "女性员工比例 9.16%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 24.49,
+      "unit": "万元",
+      "original_text": "全年累计投入培训经费24.49万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "每名员工年度平均培训时长",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 6.7,
+      "unit": "%",
+      "original_text": "员工离职率 % 6.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 696.47,
+      "unit": "万元",
+      "original_text": "研发投入 696.47 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "研发投入强度",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1401,
+      "unit": "万元",
+      "original_text": "安全生产投入 1,401 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "未发生任何生产安全事故",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 140,
+      "unit": "万元",
+      "original_text": "乡村振兴及社区公益投入 万元 140 123 52.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "其中女性董事 / 占比",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "本年度，为实现公司的科学规范管理，根据新《公司法》规定，公司不再设置监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司将应对气候变化融入公司治理，系统识别气候风险与机遇，构建气候风险治理架构，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "立新能源将应对气候变化融入公司治理，系统识别气候风险与机遇，构建气候风险治理架构，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，制定《环境保护管理制度》，推动环保责任层层落实，并通过ISO 14001认证。",
+      "original_text": "公司已建立环境管理体系，制定《环境保护管理制度》，推动环保责任层层落实，并通过ISO 14001认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦风电、光伏等清洁能源项目，提供绿色电力，并通过清洁能源机组避免大量二氧化碳排放。",
+      "original_text": "公司聚焦风电、光伏等清洁能源项目，提供绿色电力，并通过清洁能源机组避免大量二氧化碳排放。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司实施生态修复，如‘风电+生态修复’模式，在风机间植树绿化1.04公顷。",
+      "original_text": "公司实施生态修复，如‘风电+生态修复’模式，在风机间植树绿化1.04公顷。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施废弃物分类管理，一般废弃物和危险废弃物分别处理。废旧电池组件由生产商回收，废变压器油统一收集后暂存危废暂存间。建筑垃圾综合再利用及回收率达到30%，碎石类、土石方类垃圾再利用率超过50%。",
+      "original_text": "公司实施废弃物分类管理，一般废弃物和危险废弃物分别处理。废旧电池组件由生产商回收，废变压器油统一收集后暂存危废暂存间。建筑垃圾综合再利用及回收率达到30%，碎石类、土石方类垃圾再利用率超过50%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严禁使用童工及强迫劳动，禁止就业歧视，建立民主沟通、合理薪酬体系、职业晋升通道及员工福利关怀。",
+      "original_text": "严禁使用童工及未成年工，严格禁止任何形式的强迫劳动与基于性别、民族、年龄等方面的就业歧视",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立安全生产制度体系，通过职业健康安全管理体系认证，安全生产投入1401万元，应急演练覆盖率100%，未发生安全事故。",
+      "original_text": "立新能源建立了完善的安全生产制度体系，安全风险较低。安全生产投入 1,401 万元 应急演练覆盖率 100% 未发生任何生产安全事故",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司全面考核供应商在资源消耗、废弃物处理、污染排放、员工福利、安全生产及社区参与等方面的表现，要求供应商通过ISO9001、ISO14001、ISO18001认证。",
+      "original_text": "公司全面考核供应商在资源消耗、废弃物处理、污染排放、员工福利、安全生产及社区参与等方面的表现",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持质量第一，建立质量管理体系，从原材料采购到工程交付全过程质量控制，强化质量培训，保障客户权益。",
+      "original_text": "坚持质量第一，建立健全质量管理体系，严格控制产品质量，为客户提供安全可靠的新能源产品和服务",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循网络安全法、数据安全法等法律法规，建立系统化数据安全治理体系，落实一把手负责制，保障信息安全。",
+      "original_text": "严格遵循《中华人民共和国网络安全法》《中华人民共和国数据安全法》...建立系统化的数据安全治理体系，落实'一把手'负责制",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展志愿服务活动，走进社区关爱弱势群体，参与乡村振兴及社区公益投入140万元，志愿服务时长300小时。",
+      "original_text": "开展志愿服务活动，组织员工走进社区，关爱弱势群体，传递温暖与爱心",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司提供平等的人才培训机会与晋升通道，女性员工比例19.6%，少数民族员工占比9.16%，设立多元化发展通道。",
+      "original_text": "多元共融、平等包容、健康安全的职场与作业环境，竭力为每位员工提供平等的人才培训机会与晋升通道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建起以董事会为核心的三层ESG治理架构，明确划分决策层、管理层、执行层职责，并制定《董事会战略与ESG委员会实施细则》。",
+      "original_text": "公司构建起以董事会为核心的三层ESG治理架构，明确划分“决策层－管理层－执行层”职责",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司党委与董事会作为反贪污腐败最高监管机构，制定《2025年党风廉政建设和反腐败工作方案》，开展廉政警示教育，报告期内贪污腐败事件发生次数0次。",
+      "original_text": "公司将反贪污管理纳入发展全局，持续完善相关管理体系。公司党委与董事会作为反贪污腐败的最高监管机构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德，持续强化反商业贿赂与反贪污体系建设，完善不正当竞争监管，将合规要求融入公司治理和业务流程。",
+      "original_text": "立新能源恪守商业道德，对内持续强化反商业贿赂与反贪污体系建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了完善的风险管理体系，由总经理全面负责，搭建“风险识别-风险评估-风险应对”管控流程，并将ESG因素融入风险评估体系。",
+      "original_text": "公司建立了完善的风险管理体系，由总经理全面负责公司风...搭建“风险识别-风险评估-风险应对”的管控流程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》《信息披露管理制度》，通过投资者热线、邮件、互动易等多渠道沟通，并开展招商证券投资者交流活动。",
+      "original_text": "制定《投资者关系管理制度》《信息披露管理制》...投资者热线、邮件、互动易等多渠道沟通平台",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立与利益相关方常态化的沟通机制，通过问卷调研等方式进行实质性议题评估，识别出24项ESG议题。",
+      "original_text": "公司高度重视与各利益相关方的沟通，不断拓宽沟通渠道...通过问卷调研的方式与各类内外部利益相关方进行",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循《上市公司信息披露管理办法》，本年度发布公告214个，信息披露工作获深圳证券交易所评价。",
+      "original_text": "严格遵循《上市公司信息披露管理办法》等法...本年度，公司顺利发布公告214个",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司依法做好税务管理，建立常态化的税务风险识别与评估机制，定期开展税务风险评估，并对员工开展培训。",
+      "original_text": "依法做好税务管理，通过系统性筑牢风险防线...聘请专业的税务咨询机构协助公司建立常态化的税务风险识别与评估机制",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

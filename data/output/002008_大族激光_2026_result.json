@@ -1,0 +1,441 @@
+{
+  "company_name": "大族激光",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 189082.92,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量(范围1和范围2) 吨二氧化碳当量 189082.92",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 571.67,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接(范围1)温室气体排放 吨二氧化碳当量 571.67",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 188511.26,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接(范围2)温室气体排放 吨二氧化碳当量 188511.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 10.08,
+      "unit": "吨二氧化碳当量/百万元",
+      "original_text": "温室气体排放强度(范围1和范围2) 吨二氧化碳当量/百万元 10.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 166084.53,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 166084.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 168605.38,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 168605.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 9989.57,
+      "unit": "吨",
+      "original_text": "有害废弃物总量 吨 3.34 无害废弃物总量 吨 9986.23",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 1.17,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 1.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.0024,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量 吨 0.0024",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.93,
+      "unit": "吨",
+      "original_text": "悬浮粒子与颗粒物（PM）排放量 吨 0.93",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 20961,
+      "unit": "人",
+      "original_text": "员工总数 20961 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 14.99,
+      "unit": "%",
+      "original_text": "女性员工比例 % 14.99",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 5.3,
+      "unit": "%",
+      "original_text": "女性高管占比 5.3",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 29.19,
+      "unit": "%",
+      "original_text": "员工总流失率 % 29.19",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 208422.66,
+      "unit": "万元",
+      "original_text": "研发投入 万元 208422.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1045.43,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 1045.43",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 2.31,
+      "unit": "‰",
+      "original_text": "百万工时工伤率 % 2.31",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "独立董事数量 人 4 非独立董事数量 人 8",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事占比 女性高管占比",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定《应对气候变化管理办法》，开展气候风险管理，明确指标目标，稳步推进长期行动。搭建从董事会、高级管理层到执行部门的三级管理架构，实现气候问题全流程闭环。",
+      "original_text": "公司将应对气候变化作为战略议题，针对温室气体管理和应对气候变化建立气候治理体系，搭建从董事会、高级管理层到执行部门的三级管理架构，实现气候问题从“决策-管理-执行”全流程闭环。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001环境管理体系认证，并依据该标准制定《环境及能源管理手册》等文件，建立三级环境管理架构。",
+      "original_text": "2007年通过ISO 14001环境管理体系认证；2025年，我们秉持“绿色低碳、高效创新”方针，依托三级环境管理架构，通过ISO 14001环境管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司以全生命周期管理理念统筹绿色产品工作，将绿色要求融入产品规划、设计、制造、交付及服务等环节，制定绿色产品发展中长期规划；对重点产品开展碳足迹与水足迹核算。",
+      "original_text": "公司以全生命周期管理理念统筹绿色产品工作，将绿色要求融入产品规划、设计、制造、交付及服务等环节，制定绿色产品发展中长期规划；对重点产品开展碳足迹与水足迹核算。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格执行国家生态保护要求，在项目建设选址阶段进行环境影响评估，报告期内未发生损害生物多样性的重大事件。",
+      "original_text": "公司深知保护自然资源与生物多样性的重要性，严格执行国家生态保护相关要求。在项目建设选址阶段根据《环境影响评价法》进行评估。报告期内，未发生损害生物多样性的重大事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行清洁生产工艺，降低生产能耗、水耗与废弃物产生，加强生产废料的内部循环利用，推进生产过程绿色化。建立雨水回收系统，全年雨水回收量870吨。",
+      "original_text": "推行清洁生产工艺，降低生产能耗、水耗与废弃物产生，提升工厂可再生能源使用比例，加强生产废料的内部循环利用，推进生产过程绿色化。建立雨水回收系统，用于园区绿化灌溉，降低新鲜水用量，全年雨水回收量870吨。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《员工手册》等规章制度，依法签订劳动合同，完善薪酬绩效体系，提供五险一金及补充商业保险，通过安居房、购房补贴等助力员工发展。",
+      "original_text": "公司严格遵守法律法规，制定《员工手册》等规章制度，依法签订劳动合同，贯彻落实劳工准则，完善薪酬绩效体系...依法为员工缴纳五险一金，并补充购买商业保险，通过安居房、购房及住房补贴等多种形式，助力员工扎根发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，制定《职业健康安全管理手册》等制度，开展安全培训、应急演练，实现职业病和重大生产安全事故零发生。",
+      "original_text": "通过ISO 45001职业健康安全管理体系认证...实现职业病、重大生产安全事故“零发生”...制定《职业健康安全管理手册》《危险源识别与评价控制程序》等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将ESG要求纳入供应商全生命周期管理，开展供应商培训123次，覆盖1516家供应商，并对供应商进行环境和社会影响评估。",
+      "original_text": "以可持续供应链建设为抓手，将ESG要求纳入供应商全生命周期管理...报告期内，开展供应商培训123次...开展了环境影响评估的供应商数量 家 1544，开展了社会影响评估的供应商数量 家 1540。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO 9001质量管理体系认证，建立涵盖《质量问题处罚规定》等制度体系，未发生产品召回事件。",
+      "original_text": "公司及下属子公司建立了涵盖《质量问题处罚规定》《市场反馈问题处理规定》等在内的制度体系...报告期内，公司未发生产品召回事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过ISO 27001信息安全管理体系认证，成立信息安全管理委员会，制定《信息安全管理手册》等制度，未发生泄露客户隐私事件。",
+      "original_text": "通过ISO 27001信息安全管理体系认证...成立信息安全管理委员会...报告期内泄露客户隐私事件的情况 件 0。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司支持社会公益和乡村振兴，组建专业志愿服务团队，拥有员工志愿者1008人，累计服务时长3180小时，荣获先进志愿服务组织。",
+      "original_text": "持续帮扶广西河池都安加范村；组建专业志愿服务团队，拥有员工志愿者1008人，累计服务时长3180小时...荣获“宝安区2025年度先进志愿服务组织”。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司制定《反歧视与多元化管理制度》，反对用工歧视，提供包容公平的发展机会，女性员工比例14.99%，女性高管占比5.3%，少数民族员工占比3.08%。",
+      "original_text": "制定《大族激光科技产业集团股份有限公司反歧视与多元化管理制度》，为员工提供包容、公平的发展和晋升机会...女性员工比例 % 14.99...女性高管占比 5.3...少数民族员工数量 人 945。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建起覆盖决策层、实施层，且分工明确、权责清晰的ESG治理架构：董事会统筹ESG事项的审议。",
+      "original_text": "大族激光构建起覆盖决策层、实施层，且分工明确、权责清晰的ESG治理架构：董事会统筹ESG事项的审议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立董事会监督指导，审计委员会统筹协调，审计中心推动落实，跨部门协同执行的反贪污与反腐败管理架构。",
+      "original_text": "公司建立董事会监督指导，审计委员会统筹协调，审计中心推动落实，跨部门协同执行的反贪污与反腐败管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司始终将合规管理与商业道德建设作为企业实现可持续发展的基石，严格恪守商业道德准则，对不正当竞争、商业贿赂等行为零容忍。",
+      "original_text": "大族激光始终将合规管理与商业道德建设作为企业实现可持续发展的基石，持续织密风险防护网，严格恪守商业道德准则",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立覆盖全业务、全流程的全面风险管理组织架构，设立风险控制委员会，建立风险识别、评估、应对、报告、监控与改进的闭环管理机制。",
+      "original_text": "大族激光通过设立风险控制委员会，统筹推进公司审计与风险管理制度建设，构建起覆盖全业务、全流程的全面风险管理组织架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司始终将投资者权益保护作为投资者关系管理的核心要务，通过接待现场调研、投资者热线电话、电子邮箱等渠道与投资者沟通。",
+      "original_text": "大族激光始终将投资者权益保护作为投资者关系管理的核心要务，通过接待现场调研、投资者热线电话、电子邮箱等渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司制定相关制度文件，搭建多元渠道及时了解股东、客户、员工、供应商、社区等利益相关方的期望与诉求，推动共同创造与共享价值。",
+      "original_text": "大族激光高度重视与利益相关方的沟通，制定《对相关方施加影响控制程序》等制度文件，搭建多元渠道及时了解利益相关方期望与诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循《上市公司规范运作指引》和《信息披露管理制度》等规定，真实、准确、完整、及时地履行信息披露义务。",
+      "original_text": "遵循《深圳证券交易所上市公司规范运作指引》和《公司章程》《信息披露管理制度》的相关规定，真实、准确、完整、及时地履行信息披露义务",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

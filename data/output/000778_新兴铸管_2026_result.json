@@ -1,0 +1,433 @@
+{
+  "company_name": "新兴铸管",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 14115,
+      "unit": "人",
+      "original_text": "截至2025年底，公司共有职工14115人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司现任7名董事会成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "3名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "全年召开董事会9次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "专门委员会11次（未单独列示审计委员会）",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司推进燃气入厂清洁燃料替代项目，谋划光伏发电，上线碳排放管理平台，构建全链条碳排放管理体系，助力双碳目标。",
+      "original_text": "为积极响应国家煤改气政策，践行绿色低碳发展理念...全力推进燃气入厂清洁燃料替代项目...谋划推进光伏发电项目建设...2025年底，公司碳排放管理平台成功上线，构建起全链条、精细化的碳排放管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续完善供应链环境管理体系，建立严格的供应商准入与评价机制，搭建全流程绿色供应链。",
+      "original_text": "新兴铸管始终将绿色发展理念贯穿供应链全流程，以绿色采购为抓手，持续完善供应链环境管理体系...建立严格的供应商准入与评价机制，搭建全流程绿色供应链。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司核心产品球墨铸铁管获评工信部工业绿色设计产品，持续保持荣誉，以高品质绿色产品引领行业绿色转型。",
+      "original_text": "旗下核心产品球墨铸铁管成功获评工信部工业绿色设计产品，并持续保持该项荣誉，绿色设计水平获得国家级认可。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司芜湖新兴将水资源保护、水环境治理与生物多样性保护深度融合，投资建设初期雨水收集池，保护长江流域生态安全。",
+      "original_text": "公司芜湖新兴始终以保护和改善长江生态环境质量为核心...将水资源保护、水环境治理与生物多样性保护深度融合...投资1047万元新建8000m3初期雨水收集池...保护流域水生生物生存环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司推广节水工艺与高效设备，提升水重复利用率与非常规水资源利用率，减少新水消耗。",
+      "original_text": "公司大力推广节水工艺与高效设备，持续提升水重复利用率与非常规水资源利用率，大幅减少新水消耗。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法与员工签订劳动合同，缴纳五险一金，保障员工基本权益，劳动关系和谐稳定。",
+      "original_text": "遵循公平、平等、自愿、协商一致、诚实信用的原则依法与员工签订劳动合同，为员工缴纳五险一金，切实保障了员工在养老、医疗、失业、工伤、生育等方面的基本权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司高度重视员工职业健康管理，建立覆盖全员职业生命周期的健康管理体系，严格执行岗前、在岗、离岗体检，并开展安全生产培训与应急演练。",
+      "original_text": "新兴铸管坚持以人为本、生命至上，高度重视员工职业健康管理工作，严格遵守《中华人民共和国职业病防治法》，建立覆盖全员职业生命周期的健康管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司持续完善供应商准入评估与动态管理机制，定期开展供应商专项培训，构建绿色供应链，推动上下游企业协同降碳、减污、增效。",
+      "original_text": "持续完善供应商准入评估与动态管理机制；定期开展供应商专项培训，促进双方共建可持续发展的供应链生态。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "partial",
+      "summary": "公司提及产品全生命周期理念和绿色设计，但未明确提及产品安全与质量的具体措施或认证。",
+      "original_text": "新兴铸管坚持以产品全生命周期理念为引领，将绿色低碳融入研发、设计、生产、包装全流程。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "报告未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展植树护绿生态公益活动，参与长江流域生态保护，并在埃及工厂为当地创造就业岗位，履行社会责任。",
+      "original_text": "常态化开展植树护绿生态公益活动，用实际行动增绿护绿、美化环境，彰显央企绿色担当。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司提及员工职业发展通道建设和人才引进，但未明确提及多元化与包容的具体政策或数据。",
+      "original_text": "新兴铸管着力完善员工职业发展通道建设，通过制度创新与多元措施，为各类人才搭建了广阔的成长平台。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建了以股东会、董事会及其专门委员会、管理层为核心的现代公司治理体系。",
+      "original_text": "构建了以股东会、董事会及其专门委员会、管理层为核心的现代公司治理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "partial",
+      "summary": "提及合规管理，但未明确提及反腐败具体措施。",
+      "original_text": "加快建立覆盖全业务链条的合规管理运行机制",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "开展合规管理能力水平提升专项行动，建立分层分类培训机制，覆盖管理层、关键岗位和基层员工。",
+      "original_text": "开展合规管理能力水平提升专项行动，建立分层分类培训机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "开展年度全面风险评估和季度风险指标监测预警，持续优化内控体系，开展制度立改废释工作。",
+      "original_text": "统筹组织开展年度全面风险评估和4次季度风险指标监测及预警工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "partial",
+      "summary": "提及维护投资者合法权益，但未详细说明投资者关系管理机制。",
+      "original_text": "切实维护投资者的合法权益",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "提及信息披露和投资者权益，但未全面描述利益相关方沟通机制。",
+      "original_text": "高度重视合规信息披露工作",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "确保信息披露的真实性、准确性、完整性与及时性，严格把控文稿编制、传递、审核及签发等关键环节。",
+      "original_text": "确保信息披露的真实性、准确性、完整性与及时性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 29,
+    "quantitative_valid": 29,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.731
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 49,
+    "missing": 3,
+    "missing_list": [
+      {
+        "id": "S_Q02",
+        "name": "女性员工比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q03",
+        "name": "女性高管比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q06",
+        "name": "员工流失率",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 94.2
+  }
+}

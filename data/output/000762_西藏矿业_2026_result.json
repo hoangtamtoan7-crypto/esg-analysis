@@ -1,0 +1,441 @@
+{
+  "company_name": "西藏矿业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 27462.22,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（吨二氧化碳当量）2 27,462.22 1,389.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1389.07,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一直接温室气体排放量（吨二氧化碳当量） 1,389.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 26073.1534,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二间接温室气体排放量（吨二氧化碳当量）4 26,073.1534 0.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.03,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "单位产值温室气体排放强度（吨二氧化碳当量/万元）7 0.11 0.08 0.06 0.03 1.03 0.05",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 11998.54,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量（吨标准煤）1 11,998.54",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 100,
+      "unit": "%",
+      "original_text": "实现100%绿电供应",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 284300,
+      "unit": "吨",
+      "original_text": "取水量（万吨） 36.5 15.22 28.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 116.53,
+      "unit": "万吨",
+      "original_text": "污水排放量（万吨） 116.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 280.1,
+      "unit": "万元",
+      "original_text": "280.1万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 412,
+      "unit": "人",
+      "original_text": "公司员工总数（人） 412",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 19.9,
+      "unit": "万元",
+      "original_text": "员工培训投入金额（万元） 19.90",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 48.21,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时长（小时） 48.21",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 3.1,
+      "unit": "%",
+      "original_text": "员工流失率（%） 3.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 96.15,
+      "unit": "万元",
+      "original_text": "研发费用投入为 96.15万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 230.8,
+      "unit": "万元",
+      "original_text": "安全生产投入费用达230.8万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 200,
+      "unit": "万元",
+      "original_text": "公益慈善投入金额（万元） 200",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "报告期内，公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事占董事名额的三分之一以上",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "尼拉 女",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "已取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 1,
+      "unit": "次",
+      "original_text": "召开1次会议",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已建立气候变化应对组织体系，识别气候风险与机遇，制定应对策略，推进碳达峰碳中和。",
+      "original_text": "公司将深入学习贯彻习近平生态文明思想，全面贯彻落实党中央、国务院关于碳达峰碳中和的重大决策部署，将应对气候变化作为企业绿色低碳转型的核心议题。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立涵盖环境保护责任、事件问责、固体废物与危险废物管理、环保设施运行、环境监测、能源管理、隐患排查等关键领域的环境管理体系。",
+      "original_text": "公司已建立涵盖环境保护责任、事件问责、固体废物与危险废物管理、环保设施运行、环境监测、能源管理、隐患排查等关键领域的环境管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司采用绿色低碳工艺，配套光伏+光热+储能系统，实现100%绿电供应，生产碳酸锂等绿色产品。",
+      "original_text": "项目采用“膜分离+蒸发结晶”绿色低碳工艺，配套“光伏+光热+储能”项目实现源网荷储一体化孤网能源系统，实现100%绿电供应与国际先进水平的资源综合利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格遵守相关法律法规，将生物多样性保护纳入管理，开展绿色矿山建设，保护青藏高原生态。",
+      "original_text": "西藏矿业严格遵守《中华人民共和国环境保护法》《矿山生态环境保护与恢复治理技术规范（试行）》等法律法规，将生物多样性保护纳入管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进废弃物循环利用，废石全部用于井下充填，废水循环利用，危险废物100%合规处置。",
+      "original_text": "山南分公司产生废石11.84万吨，全部用于井下充填及采坑回填，综合利用率达100%。公司对危险废物实施100%合规处置管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法，建立公平透明的薪酬激励体系，提供多元化福利，未发生强迫劳动或使用童工事件，未发生劳动争议。",
+      "original_text": "公司遵守《中华人民共和国劳动法》，建立公平、透明且具有竞争力的薪酬激励体系。报告期内，公司未发生任何强迫劳动或使用童工事件，亦未发生任何劳动争议或纠纷事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO 45001认证，开展安全培训、职业病预防，安全生产投入230.8万元，安全培训覆盖率100%。",
+      "original_text": "公司职业健康安全管理体系持续符合标准要求并有效运行，主要生产基地ISO 45001认证覆盖。安全生产投入费用达230.8万元，安全培训员工覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对承包商实行统一管理，严格筛选供应商，提出质量、安全、环保要求，推动绿色采购。",
+      "original_text": "公司对承包商人员实行与自有员工同等标准的统一管理。严格筛选新进供应商，并提出质量、安全、环境保护等专业管理和资质要求。积极贯彻绿色采购理念。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司落实质量管控措施，山南分公司在坑口临时堆场增设专职质检岗位，西藏扎布耶严格执行'一人一池'责任制，牢牢守住产品质量生命线。",
+      "original_text": "实质量管控措施，山南分公司在坑口临时堆场增设专职质检岗位，西藏扎布耶严格执行'一人一池'责任制，一线实践汇成管理合力。正是这些基础性、规范性的管理举措，牢牢守住产品质量生命线。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定网络安全管理办法，开展全员信息安全培训，未发生数据安全事件或客户隐私泄露事件。",
+      "original_text": "公司制定并执行《网络安全管理办...》，开展新全员信息安全专项培训。未发生信息及客户隐私泄露事件，未因信息泄露而对客户及员工造成影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过公益慈善、乡村振兴、社区关系等回馈社会，报告期内公益慈善投入200万元。",
+      "original_text": "公司积极践行社会责任，在乡村振兴、公益慈善、社区关系等领域持续深耕。公益慈善投入共计200万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重不同年龄、种族、性别、国籍、身体条件的员工，确保招聘、薪酬、晋升等环节公平，未发生歧视事件。",
+      "original_text": "公司尊重不同年龄、种族、性别、国籍、身体条件的员工，确保在招聘、薪酬激励、培养、晋升等环节的程序与过程均做到公平。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已成立以董事会办公室为牵头部门的ESG治理架构，并设有董事会下设的审计委员会、战略委员会、薪酬与考核委员会、提名委员会。",
+      "original_text": "公司已经成立以董事会办公室为牵头部门的ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司重视廉洁文化建设，通过线上与线下方式对董事、管理层与员工开展商业道德合规培训，报告期内未发生腐败和贿赂违规事件。",
+      "original_text": "报告期内，公司未发生腐败和贿赂违规事件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司致力于建设诚信合规的营商环境，将商业道德规范、合规经营理念与各利益相关方期望相结合，坚决反对任何形式的商业贿赂。",
+      "original_text": "公司致力于建设诚信合规的营商环境，将商业道德规范、合规经营理念与各利益相关方期望相结合",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了全面风险管理体系，包括三道防线：第一道防线为各分子公司，第二道防线为职能部门，第三道防线为审计法务部。",
+      "original_text": "构建西藏矿业全面风险管理体系，全方位提升公司风险管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "partial",
+      "summary": "公司提及与股东及投资者保持沟通，但未详细说明投资者关系管理机制。",
+      "original_text": "持续与股东及投资者、政府及监管机构、客户、员工、合作伙伴及供应商、社区等利益相关方保持积极沟通",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多种日常沟通和专项沟通渠道，及时、全面了解相关方的诉求和期望，并基于此进行回应。",
+      "original_text": "通过建立多种日常沟通和专项沟通渠道，及时、全面了解相关方的诉求和期望",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司参照TCFD框架编制年度气候信息披露，并披露了GRI指标对应关系。",
+      "original_text": "参照TCFD框架编制年度气候信息披露；GRI 2：一般披露 2021",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

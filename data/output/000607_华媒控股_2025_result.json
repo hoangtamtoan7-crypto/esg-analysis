@@ -1,0 +1,370 @@
+{
+  "company_name": "华媒控股",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2426,
+      "unit": "人",
+      "original_text": "公司（含控股子公司，不含参股公司）共有在职员工 2,426 人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 967670,
+      "unit": "元",
+      "original_text": "共拨付公益助学金967670 元，资助阳光学子189 人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "9 次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "公司倡导环保低碳生活，但未明确提及具体的气候变化应对策略或目标。",
+      "original_text": "公司通过媒体宣传和公益广告等多种形式，不断宣传、贯彻国家环境保护法规政策，倡导环保低碳生活。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "子公司通过国家绿色印刷认证、ISO9000、ISO14000等认证。",
+      "original_text": "子公司杭报集团盛元印务有限公司通过国家绿色印刷认证、ISO9000、ISO14000",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司通过绿色印刷认证，但未明确提及绿色产品或服务的具体内容。",
+      "original_text": "子公司杭报集团盛元印务有限公司通过国家绿色印刷认证",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司参与‘拯救民勤 绿色传递’公益治沙活动，种植梭梭树，关注生态文明。",
+      "original_text": "由杭州日报发起的‘拯救民勤 绿色传递——10元钱种一株梭梭’活动，围绕‘关注生态文明、建设美丽中国’主题。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司倡导无纸化办公、双面打印等节能措施，但未明确提及循环经济实践。",
+      "original_text": "选择可双面打印的打印机和复印机作为采购对象；尽可能使用电子签批方式，倡导无纸化办公。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持'以人为本'，严格按照《劳动法》《劳动合同法》等法律法规保障员工权益，为特殊群体提供保护，设立爱心基金，提供健康体检等。",
+      "original_text": "公司全力保障各类员工权益，为特殊群体（例如孕妇、哺乳期妇女）提供特殊保护，如设置母婴室等。关注员工身心健康，甄选专业体检机构为员工提供一年一次的健康体检。公司还设立了爱心基金，帮助员工解决医保不能覆盖的疾病、意外和家庭生活困难。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司为职工提供健康、安全的工作环境和生活环境，依法安排职工参加社会保险，严格执行国家劳动安全卫生制度。",
+      "original_text": "公司为职工提供健康、安全的工作环境和生活环境，依法安排职工参加社会保险，在劳动安全卫生制度、社会保障等方面严格执行国家规定和标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司的研发生产均严格执行国家标准、行业标准，未出现环保事故，未被列入环保黑名单，并通过多项质量认证。",
+      "original_text": "公司的研发生产均严格执行国家标准、行业标准，未出现环保事故，未被列入环保黑名单，并通过ISO9000、ISO14000等认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司保护员工著作权等合法权益，保护其商业机密。同时开展网络安全知识互动活动，普及网络安全知识。",
+      "original_text": "著作权等合法权益，保护其商业机密。19楼联合杭州市网络安全协会推出线上'网络安全知识互动问答赢电影票'活动，向广大市民普及网络安全知识。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益慈善，通过快公益平台、阳光助学、绿色传递等品牌公益活动，关注社会热点，推动公益事业发展。",
+      "original_text": "公司持续承担社会责任，积极投身公益慈善，从公益教育、绿色环保、关爱老人、留守儿童等多个维度助力社会公益。'快公益'平台发起50余个公益项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司为特殊群体提供保护，如设置母婴室，但未明确提及多元化与包容政策。",
+      "original_text": "公司全力保障各类员工权益，为特殊群体（例如孕妇、哺乳期妇女）提供特殊保护，如设置母婴室等。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "partial",
+      "summary": "公司设立了股东会、董事会及其专门委员会、监事会、经营管理层等治理架构，但未明确提及ESG治理架构。",
+      "original_text": "设立了股东会、董事会及其专门委员会、监事会、经营管理层等",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "未提及反腐败与廉洁建设相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "partial",
+      "summary": "公司提到内控工作目标包括防范经营风险，但未明确提及商业道德与合规政策。",
+      "original_text": "以全面风险管理为导向，优化内控体系，提升管理水平，防范经营风险，提高经济效益",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了以全面风险管理为导向的内控体系，并开展内部控制评价工作。",
+      "original_text": "以全面风险管理为导向，优化内控体系，提升管理水平，防范经营风险，提高经济效益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理工作，日常通过电话和深交所互动平台与投资者沟通。",
+      "original_text": "公司高度重视投资者关系管理工作，日常通过电话和深交所互动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "公司提及股东大会采用现场和网络投票相结合的方式，但未全面描述利益相关方沟通机制。",
+      "original_text": "股东大会均采用现场和网络投票相结合的方式",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格依法履行信息披露义务，真实、准确、完整、及时、公平地披露信息。",
+      "original_text": "公司严格依法履行信息披露义务，真实、准确、完整、及时、公平地向所有股东披露信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 9,
+    "quantitative_valid": 9,
+    "quantitative_issues": [],
+    "qualitative_count": 19,
+    "qualitative_valid": 19,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.712
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 28,
+    "missing": 24,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q02",
+        "name": "女性员工比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q03",
+        "name": "女性高管比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q04",
+        "name": "员工培训投入",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q05",
+        "name": "员工培训时长",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q06",
+        "name": "员工流失率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q07",
+        "name": "研发投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q08",
+        "name": "研发投入占营收比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q09",
+        "name": "安全生产投入",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q10",
+        "name": "工伤事故率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q12",
+        "name": "纳税总额",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_L03",
+        "name": "供应链ESG管理",
+        "type": "qualitative"
+      }
+    ],
+    "completeness": 53.8
+  }
+}

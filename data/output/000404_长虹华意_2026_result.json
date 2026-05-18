@@ -1,0 +1,446 @@
+{
+  "company_name": "长虹华意",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 109106.0,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 109,106.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 17218.49,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 17,218.49",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 91887.51,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 91,887.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 12.59,
+      "unit": "吨二氧化碳当量/百万元产值",
+      "original_text": "温室气体排放强度12.59吨 二氧化碳当量/百万元产值。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 38366.06,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗总量 吨标准煤 35,882.56 39,121.65 38,366.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 25.0,
+      "unit": "%",
+      "original_text": "市场可再生能源消耗量占比 % 5.9 20.3 25.0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 17955410,
+      "unit": "吨",
+      "original_text": "总用水量 吨 9,445,182 11,952,941 17,955,410",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 50645.63,
+      "unit": "吨",
+      "original_text": "产生的无害废弃物总量 吨 39,050.98 49,207.14 50,645.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 1109.72,
+      "unit": "万元",
+      "original_text": "环保投入金额 万元 1,109.72",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 7434,
+      "unit": "人",
+      "original_text": "员工总数 人 7,797 7,281 7,434",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21.82,
+      "unit": "%",
+      "original_text": "女性员工比例 % 21.71 23.05 21.82",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 269,
+      "unit": "万元",
+      "original_text": "报告期内员工培训支出金额 万元 296 438 269",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 45.58,
+      "unit": "小时/人",
+      "original_text": "每位员工平均参与的培训时间 小时 42.54 46.12 45.58",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 10.74,
+      "unit": "%",
+      "original_text": "员工流失率 % 12.75 12.43 10.74",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 44336,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 47,696 35,765 44,336",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.76,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 3.70 2.99 3.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1770.7,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 1,380.81 1,418.81 1,770.70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 100.8,
+      "unit": "万元",
+      "original_text": "社会公益总投入 万元 34.96 57.19 100.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会成员9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33,
+      "unit": "%",
+      "original_text": "独立董事比例 % 33 33 33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "2025年度，公司董事会共召开了11次会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司不再设置监事会或者监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司构建了完善的应对气候变化的管理机制，成立零碳工厂体系委员会，制定《环境保护责任制度》《温室气体排放管理制度》《能源管理制度》等制度文件系统化应对气候变化。制定了零碳工厂创建中长期规划，减碳目标为每年温室气体排放绝对量或强度下降1%。",
+      "original_text": "公司构建了完善的应对气候变化的管理机制，成立零碳工厂体系委员会，制定《环境保护责任制度》《温室气体排放管理制度》《能源管理制度》等制度文件系统化应对气候变化。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，并通过ISO 50001能源管理体系认证，同时持有环境管理体系认证证书。",
+      "original_text": "环境管理体系认证，有环境管理体系认证证书",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司坚持以绿色低碳为核心战略，推动绿色设计贯穿产品全生命周期，研发高能效环保压缩机产品，从源头助力降碳减耗。加西贝拉VTN1116Y小型超高效变频冰箱压缩机收录于《首批绿色低碳电子家电及零部件产品推荐目录》。",
+      "original_text": "公司坚持以绿色低碳为核心战略，通过技术创新、设备系统化升级以及绿色创新实践，全面推进减碳技术的研发与应用。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过植树绿化构建四季生态景观，为传粉昆虫等野生动物提供食物链支撑，保护厂区生物多样性。",
+      "original_text": "构建了四季有绿、三季有花的生态景观，为传粉昆虫等野生动物提供了关键的食物链支撑",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进资源循环利用，建立雨水回收系统，截至2025年底已累计回收5,500吨雨水；加西贝拉中水回收利用项目年回用水量达；采用环保、可回收的循环包装材料，优化包装结构以减少包装废弃物。",
+      "original_text": "公司建立雨水回收系统，截至2025年底已累计回收5,500吨雨水，回收后的雨水主要用于景观。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，保障员工基本权益，依法签订劳动合同，足额缴纳社保公积金；通过职工代表大会、工会座谈会等渠道保障员工知情权、参与权、表达权与分享权。",
+      "original_text": "保障员工基本权益，依法签订劳动合同，足额缴纳社保公积金；通过职工代表大会、工会座谈会、员工座谈会等渠道保障员工权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立安全环保及职业健康总部平台，开展职业健康安全培训，持有职业健康管理培训合格证，建立职业健康档案，通过职业健康安全管理体系认证。",
+      "original_text": "职业健康安全培训359次，累计22,817人次；职业健康档案实行一人一档；职业健康安全管理体系认证证书。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司推进供应链安全工作，构建完善安全管理体系，强化风险识别，规范采购流程，开展绿色供应链培训、有害物质培训。",
+      "original_text": "长虹华意推进供应链安全工作，构建完善安全管理体系，修订相关制度，明确各部门职责；强化风险识别；绿色供应链培训 有害物质培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以'顾客满意是我们的宗旨，零缺陷是我们追求的目标'为质量方针，构建全流程产品质量保障体系，开展质量类专业资格认证，196人通过。",
+      "original_text": "公司以'顾客满意是我们的宗旨，零缺陷是我们追求的目标'为质量方针，构建全流程产品质量保障体系，开展质量类专业资格认证，196人顺利通过。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立全流程信息安全与隐私保护工作组织架构，开展网络信息安全培训，制定《用户档案》等制度保护客户隐私。",
+      "original_text": "信息安全与隐私保护工作的组织架构；开展网络信息安全培训；专门针对客户个人信息保护制定《用户档》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社区发展与公益事业，开展爱心慰问、消费帮扶、志愿服务等活动，社会公益总投入、志愿活动参与人次等数据有披露。",
+      "original_text": "公司主动履行社会责任，积极投身社区发展与公益事业；情系公益践初心，爱心担当暖民生；社会公益总投入 志愿活动参与人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重职场多元化，坚持同工同酬，杜绝职场歧视；女性员工比例21.82%，女性高管比例未明确；开展女职工关爱活动，为女职工投保幸福险。",
+      "original_text": "多元化与平等；尊重职场环境的多元化，坚持同工同酬，杜绝职场歧视；为全体女职工投保 '女职工幸福险'。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了董事会统筹决策、战略委员会监督指导、各职能管理部门分工落实的ESG治理机制，董事会是ESG最高管治机构，战略委员会在董事会授权下统筹ESG工作，ESG管理职能部门负责执行。",
+      "original_text": "董事会是公司ESG工作的最高管治机构，全面领导公司ESG事务，制定ESG战略及目标。董事会战略委员会在董事会授权下统筹ESG相关工作。ESG管理职能部门作为ESG工作执行主体。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续推进廉洁从业制度建设，分层分类规范反贪污、反腐败和反商业贿赂制度，设立多渠道举报机制，开展反腐败培训，报告期内未发生违反法律法规、商业道德的情形。",
+      "original_text": "公司持续推进廉洁从业制度建设，为防范商业道德风险，分层分类规范反贪污、反腐败和反商业贿赂制度。公司制定《长虹华意信访举报管理办法》，设立多渠道举报机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持合规经营，完善内控体系，坚守诚信公平底线，建立全流程反垄断与公平竞争风险管控机制，报告期内未发生重大内控缺陷、重大不合规情形。",
+      "original_text": "长虹华意坚守合规经营，完善内控体系，推进廉洁教育，坚守诚信公平底线，实现治理规范、合规有序。公司建立《长虹华意合规与风控管理制度》等100余项内控制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立重大风险监控预警机制，各子公司每月报送重大经营风险，构建合规风险管理‘三道防线’，成立合规与风险防控工作领导小组，设置首席合规官。",
+      "original_text": "公司建立重大风险监控预警机制，各子公司每月向公司合规与风控管理总部平台报送重大经营风险。长虹华意合规风险管理‘三道防线’。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司深耕投资者关系管理，搭建多元化沟通渠道，严格履行信息披露义务，确保全体股东享有和行使股东权利，采用网络投票方式，实行中小投资者表决单独计票。",
+      "original_text": "长虹华意深耕投资者关系管理，搭建多元化沟通渠道，严格履行信息披露义务，以透明沟通实现与投资者的良性互动。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司与政府部门、股东、客户、合作伙伴等主要利益相关方建立常态化沟通机制，通过问卷、座谈等方式了解期望，并开展重要性议题评估。",
+      "original_text": "我们与政府部门、股东、客户、合作伙伴等主要利益相关方建立了常态化的沟通机制，通过问卷、座谈等方式进行沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格履行信息披露义务，保证信息披露的真实、准确、完整、及时、公平、有效，建立内幕信息知情人登记制度，组织合规宣贯。",
+      "original_text": "公司确保信息披露的真实、准确、完整、及时、公平、有效。公司在重大事项、定期报告及临时报告等信息披露前，严格要求相关人员登记《内幕信息知情人档案》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 19,
+    "qualitative_issues": [
+      {
+        "indicator_id": "G_L08",
+        "indicator_name": "税务透明度",
+        "issue": "缺少summary字段"
+      }
+    ],
+    "overall_quality_score": 0.882
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

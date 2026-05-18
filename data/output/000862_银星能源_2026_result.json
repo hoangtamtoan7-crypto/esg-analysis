@@ -1,0 +1,441 @@
+{
+  "company_name": "银星能源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 12801.29,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1和范围2） 吨二氧化碳当量 12,030.37 12,801.29",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 919.64,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接（范围1）温室气体排放 吨二氧化碳当量 704.88 919.64",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 11881.65,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接（范围2）温室气体排放 吨二氧化碳当量 11,325.49 11,881.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 22935.5,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 22,935.50",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 80.82,
+      "unit": "%",
+      "original_text": "可再生能源消耗量占比 % 80.82",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 79094.76,
+      "unit": "吨",
+      "original_text": "新鲜水用水量 吨 79,094.76",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 826.62,
+      "unit": "吨",
+      "original_text": "产生的无害废弃物总量 吨 753.00; 产生的有害废弃物总量 吨 73.62",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 556,
+      "unit": "人",
+      "original_text": "截至2025年12月31日，公司员工人数556人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 19.1,
+      "unit": "%",
+      "original_text": "女性员工占比 % 19.1 19.5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 111.34,
+      "unit": "万元",
+      "original_text": "员工培训投入金额 万元 111.34 85.32",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.38,
+      "unit": "%",
+      "original_text": "员工流失率/离职率 % 0.38 6.23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 712.71,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 712.71 923",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.8,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 0.80 /",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2435,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 2,435 2,569",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.2,
+      "unit": "‰",
+      "original_text": "工伤率 % 0.2 /",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 30.6,
+      "unit": "万元",
+      "original_text": "公益活动投入金额 万元 30.6 27.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "共召开董事会会议8次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "有序取消监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极践行'碳达峰、碳中和'战略，强化碳排放管理，提升碳效率，通过项目升级、绿电交易等举措培育绿色低碳新优势。参考IFRS S2框架，成立安环委会统筹气候应对。",
+      "original_text": "银星能源积极践行'碳达峰、碳中和'战略，强化碳排放管理，提升碳效率，通过项目升级、绿电交易等举措培育绿色低碳新优势。公司参考《国际财务报告可持续披露准则第2号——气候相关披露》（IFRS S2）框架，成立职业健康安全和环境委员会（安环委会），统筹环境目标建立、环保培训、环保调查等工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司及下属装备工程分公司、新能源检修中心均通过ISO14001:2015环境管理体系认证，构建了覆盖全流程的生态环境保护治理管控责任体系。",
+      "original_text": "银星能源及下属装备工程分公司、新能源检修中心均通过ISO14001:2015环境管理体系认证，构建'横向到边、纵向到底'的生态环境保护治理管控责任体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦'绿电'核心赛道，打造集绿电直连、老旧风机改造、分散式风电、分布式光伏、'风光同场'增容为一体的新能源项目矩阵，提供绿色电力。",
+      "original_text": "公司聚焦'绿电'核心赛道，积极协同与铝产业在集中式新能源项目开发、智能化运营、绿电收益与碳减排等方面的互补优势，打造集绿电直连、老旧风机改造、分散式风电、分布式光伏、'风光同场'增容为一体的新能源项目矩阵。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司在新能源项目建设过程中践行文明绿色施工，通过科学施工规划、水土保持评价、植被保护和土地复垦等措施，并捐助绿化资金用于植树造林、修复生态。",
+      "original_text": "银星能源在新能源项目建设过程中践行文明绿色施工，我们通过科学施工规划、水土保持评价、植被保护和土地复垦、...源公司和陕西西夏能源公司合计捐助绿化资金20万元，植树造林、修复生态、美化环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司建立固体废物管理体系，实施废水循环利用，推动资源循环复用。",
+      "original_text": "银星能源建立“分类收集、定向处置、全程追溯”的固体废物管理体系；将电场运营产生的生活废水处理后用于绿化灌溉，实现水资源循环复用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，制定《员工手册》等制度，保障员工合法权益，提供平等就业机会，杜绝童工、强迫劳动等行为。",
+      "original_text": "银星能源始终坚守员工权益保障底线，严格遵循劳动相关法律法规，不断完善雇佣、薪酬、休假等各项管理制度",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO 45001:2018职业健康安全管理体系认证，建立四级安全生产管理架构，开展安全培训、应急演练等。",
+      "original_text": "银星能源、装备工程分公司及新能源检修中心均已通过ISO 45001:2018 职业健康安全管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司聚焦供应链合规风险、质量风险、环境社会风险，建立全流程风险防控机制，通过严格的准入审核、年度考评等。",
+      "original_text": "银星能源聚焦供应链合规风险、质量风险、环境社会风险，建立全流程风险防控机制",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司注重产品质量与安全，报告期内未发生产品召回事件。",
+      "original_text": "因健康与安全原因须撤回和召回的产品数量 件 0 /",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视数据安全与客户隐私保护，制定《保密工作管理办法》等制度，报告期内未发生客户隐私泄露事件。",
+      "original_text": "银星能源高度重视数据安全与客户隐私保护，构建全流程防控体系。报告期内，公司未发生客户隐私泄露事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司践行绿色发展理念，积极开展环保公益活动，参与植树造林并投入绿化资金，助力生态修复。",
+      "original_text": "银星能源践行绿色发展理念，积极开展环保公益活动，参与植树造林并投入绿化资金，助力生态修复。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司为不同性别、年龄、宗教、文化背景的员工提供平等就业和发展机会，注重董事会成员多元化和包容性。",
+      "original_text": "公司始终为不同性别、年龄、宗教、文化背景的员工提供平等的就业和发展机会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司持续完善ESG治理架构，董事会下设战略与可持续发展（ESG）委员会，对ESG重大事项进行审议、决策。",
+      "original_text": "公司持续完善ESG治理架构，将ESG事务充分融入自身的发展战略和经营活动中，建立健全分工合理、权责分明、运行高效的ESG治理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司扎实推进廉洁建设，搭建完善的廉洁管理体系，开展纪律教育和警示教育，报告期内未发生不正当竞争等法律诉讼。",
+      "original_text": "银星能源将商业道德深度融入经营发展核心，扎实推进廉洁建设，搭建完善的廉洁管理体系，通过常态化开展纪律教育、党风廉政建设警示教育大会4次。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉持诚实守信的经营理念，组建合规管理组织架构，形成三维《诚信合规手册》，组织全体员工签署《合规承诺书》。",
+      "original_text": "公司秉持诚实守信的经营理念，组建了职责明确、协调联动的合规管理组织架构体系，不断加强合规制度建设，形成集文件汇编、业务手册及管理案例于一体的三维《诚信合规手册》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了由董事会、经营管理层、审计部门和各职能部门组成的多层次风险管理组织架构，制定《风险管理制度》，按月跟踪重大风险。",
+      "original_text": "银星能源持续推进风险管理体制完善，构建了由董事会、经营管理层、审计部门和各职能部门组成的多层次风险管理组织架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，制定《投资者投诉处理工作制度》，通过多种渠道与投资者沟通，荣获“第六届全景投资者关系金奖”。",
+      "original_text": "银星能源高度重视投资者关系管理工作，不断完善相关管理制度，制定《投资者投诉处理工作制度》，规范投资者投诉处置流程、保障投资者合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司与员工、股东、投资者、政府等利益相关方保持常态化沟通，通过股东会、接待来访、热线电话、网站专栏等多种途径拓展沟通广度和深度。",
+      "original_text": "通过常态化与员工、股东、投资者、债权人、政府监管机构等各类利益相关方开展深度沟通，精准研判各方诉求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司坚守信息披露的真实性、准确性、完整性和及时性，制定相关制度，报告期内未发生信息披露违规行为。",
+      "original_text": "银星能源坚守信息披露的真实性、准确性、完整性和及时性的核心原则，制定《信息披露管理制度》《重大信息内部报告制度》等制度。报告期内，公司未发生信息披露违规行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司明确将税务合规视为经营管理核心底线，建立健全税务管理制度与内控流程。",
+      "original_text": "银星能源将税务合规视为经营管理的核心底线，建立健全税务管理制度与内控流程，确保各项税务工作规范有序开展。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

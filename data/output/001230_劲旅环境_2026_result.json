@@ -1,0 +1,441 @@
+{
+  "company_name": "劲旅环境",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1279.58,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 1,279.58 2,020.93",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 37.92,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放 吨二氧化碳当量 37.92 115.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1905.28,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放量（tCO e） 1,241.66 1,905.28",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.2,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "温室气体排放强度（tCO2e/百万元营收） 1.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 361.4,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗量 吨标准煤 361.40 178.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 6581300,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 658.13",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 16900,
+      "unit": "吨",
+      "original_text": "废水排放总量 万立方米 1.69 1.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 503.71,
+      "unit": "吨",
+      "original_text": "废弃物产生总量 吨 503.71 562.86",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 15.14,
+      "unit": "万元",
+      "original_text": "报告期内，公司环境管理总投入15.14万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 51.01,
+      "unit": "千克",
+      "original_text": "氮氧化物（NOx）排放量 千克 51.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.06,
+      "unit": "千克",
+      "original_text": "硫氧化物（SOx）排放量 千克 0.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 169.54,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放量 千克 101.10 169.54",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 38213,
+      "unit": "人",
+      "original_text": "员工总数 人 37,121 38,213",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 28.57,
+      "unit": "%",
+      "original_text": "女性董事占比28.57%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "培训投入金额",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "人均培训时长",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2976.26,
+      "unit": "万元",
+      "original_text": "研发投入 万元 2,497.31 2,976.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 39.94,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 43.4 39.94",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 521629,
+      "unit": "元",
+      "original_text": "2025年，公司累计支出公益资金 521,629 元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会成员共7名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事3名，独立董事占比42.86%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "其中女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "2025年，公司召开董事会会议10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "不设监事会或者监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 4,
+      "unit": "次",
+      "original_text": "召开审计委员会会议4次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司始终将应对气候变化作为核心议题，制定碳中和路线图，目标2030年碳达峰、2060年碳中和，并构建全流程气候管理体系。",
+      "original_text": "制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001环境管理体系认证，并制定《环境保护管理办法》等制度，系统管理环境风险。",
+      "original_text": "依托ISO14001环境管理体系，公司将环境风险识别、过程管控及合规贯穿生产经营全流程",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发无人驾驶新能源环卫车、纯电动洗扫车等低碳产品，提供城乡环境治理、水域保洁等绿色服务。",
+      "original_text": "研发无人驾驶、智能调度等技术，打造差异化低碳产品与服务",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司参与江淮地区生物多样性保护事业，捐赠公益基金用于湿地保护项目。",
+      "original_text": "劲旅环境始终秉持着对生态环境的高度责任感与使命感，积极投身于江淮地区生物多样性保护事业。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司建立‘三废’资源化处理工艺，实施节水循环体系，推广水性涂料，建立固体废弃物分类回收体系。",
+      "original_text": "建立‘三废’资源化处理工艺，实施‘绿色循环’体系，构建以河水、中水等天然水源为核心的循环体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持以人为本，构建人力资源管理体系，涵盖平等雇佣、职业发展、薪酬激励、员工关怀等。",
+      "original_text": "劲旅环境始终将员工视为最宝贵的财富与事业伙伴，构建以人为本的人力资源管理体系，在平等雇佣、职业发展、薪酬激励、员工关怀、安全健康等方面持续投入。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO45001认证，设有安委会，开展安全培训、应急演练，新员工安全培训不少于24学时，在岗员工每年不少于12学时。",
+      "original_text": "ISO45001职业健康安全管理体系认证证书；新员工接受安全培训时间不少于24学时，员工接受安全培训时间每年不少于12学时。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司推行绿色供应链管理，优先采购环保认证原材料，要求重点供应商提供ISO14001、ISO45001等体系证书。",
+      "original_text": "公司要求重点部件供应商提供包括ISO14001环境管理体系认证、ISO45001职业健康安全管理体系认证在内的相关体系证书，并优先采购获得环保认证的原材料与零部件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建覆盖产品全生命周期和全流程的质量管理体系，制定质量控制目标，开展质量意识培训，通过ISO9001等认证。",
+      "original_text": "劲旅环境始终将产品和服务安全与质量视为企业发展的生命线。公司贯彻'以客户满意为导向'的质量方针，构建覆盖产品全生命周期和服务全流程的质量管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过ISO27001认证，建立三级数据安全与隐私保护管理架构，制定《客户隐私保护制度》，开展数据安全培训。",
+      "original_text": "获得ISO27001信息安全管理体系认证；建立三级数据安全与隐私保护管理架构；制定并实施《客户隐私保护制度》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展常态化环保科普与公益活动，向SEE基金会捐赠公益基金用于湿地保护项目。",
+      "original_text": "开展常态化环保科普与公益...向SEE基金会捐赠公益基金用于湿地保护项目",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，不以个人好恶、性别等为录用标准，涵盖各年龄段和专业领域，在职退役军人员工、残疾人员工等多元化雇佣。",
+      "original_text": "不以个人好恶、性别、考察品德修养与专业技能；多元化雇佣划分（人）包括退役军人员工、残疾人员工等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会下设战略与ESG委员会，负责ESG相关事项的研究、指导和评估，董事会办公室为日常办事机构。",
+      "original_text": "董事会下设战略与ESG委员会，作为ESG工作的研究和指导机构，主要研究、分析和评估ESG等相关事项",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立健全反腐败管理体系，确保合规运营；加强员工廉洁从业、合规履职和风险防范意识，推动廉洁建设。",
+      "original_text": "建立健全反腐败管理体系，确保合规运营；加强员工廉洁从业、合规履职和风险防范意识，推动廉洁建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定并实施《风险管理制度》《合规经营制度》等，构建覆盖事前、事中和事后的合规管理体系，强化合规执行力。",
+      "original_text": "制定并实施《风险管理制度》《合规经营制度》《法务案件管理制度》等管理文件，构建覆盖事前、事中和事后的合规管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立由业务部门、风险管理与法律合规部门、内部审计构成的三道防线风险管理体系，持续完善风险管理和合规经营机制。",
+      "original_text": "建立由业务部门、风险管理与法律合规部门、内部审计构成的三道防线风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》《投资者接待、推广及信息披露备查登记制度》等，通过业绩说明会、股东会、现场参观等方式与投资者沟通。",
+      "original_text": "制定《投资者关系管理制度》《投资者接待、推广及信息披露备查登记制度》《投资者投诉及纠纷处理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司已建立并持续完善利益相关方沟通管理，通过多种方式与股东、客户、员工等利益相关方进行及时有效的信息沟通。",
+      "original_text": "公司高度重视利益相关方沟通管理，已建立并持续完善《劲旅环境科技股份有限公司投资者关系管理制度》等制度体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《年报信息披露重大差错责任追究制度》《内幕信息知情人登记管理制度》等，切实提高信息披露质量和透明度。",
+      "original_text": "制定《年报信息披露重大差错责任追究制度》《内幕信息知情人登记管理制度》等公司内部制度，切实提高公司信息披露的质量和透明度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "普洛药业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 564411.04,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一、范围二） 564,411.04吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 75759.82,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 75,759.82吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 488651.22,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 488,651.22吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.58,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "万元营业收入温室气体排放量（范围一、范围二） 0.58吨二氧化碳当",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 144500,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 万吨标准煤 13.27 14.45",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 4400000,
+      "unit": "吨",
+      "original_text": "总用水量 万吨 413.11 440.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 3077000,
+      "unit": "吨",
+      "original_text": "工业废水排放量 万吨 292.71 307.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "环保总投入 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 66.97,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）排放量 吨 35.87 66.97",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 12.96,
+      "unit": "吨",
+      "original_text": "硫氧化物（SOx）排放量 吨 16.20 12.96",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 6787,
+      "unit": "人",
+      "original_text": "员工总数 名 6,787 7,060",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 11.11,
+      "unit": "%",
+      "original_text": "全体董事中，有1名女性（占比11.11%）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "员工培训投入金额",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "员工培训时长 小时 696,126",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 20.79,
+      "unit": "%",
+      "original_text": "员工流失率 % 20.79 17.88",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 65900,
+      "unit": "万元",
+      "original_text": "研发投入 亿元 6.59 6.41",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 6.74,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 % 6.74 5.33",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会现有9名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "有1名女性（占比11.11%）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "董事会会议 次数 8",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会，相关监督职能由董事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应双碳目标，制定《碳达峰碳中和宣言》，明确减碳目标及路径规划，设定了以2024年为基准年，到2030年碳排放强度降低15%的长期目标。",
+      "original_text": "积极响应“双碳”目标，制定《碳达峰碳中和宣言》，明确减碳目标及路径规划；设定了“以2024年为基准年，到2030年碳排放强度降低15%”的长期目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司通过ISO 14001:2015环境管理体系认证，建立了完善的环境合规管理体系，配备专业团队负责环境管理体系的建立、维护、监督与考核。",
+      "original_text": "通过ISO 14001:2015环境管理体系认证；EHS管理部作为专职管理机构，配备专业团队，负责环境管理体系的建立、维护、监督与考核",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司开发绿色工艺，降低产品碳足迹，提高产品环保性，满足客户环保偏好。",
+      "original_text": "开发绿色工艺，降低产品碳足迹数值，提高产品环保性，满足客户的环保偏好",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司生产场所均未位于自然保护区域内或保护区外生物多样性丰富区域内，并积极引导员工参与生物多样性保护实践。",
+      "original_text": "普洛药业严格遵循国家及地方生态环境保护法律法规与政策要求，致力于构建生态友好的生产体系，办公场所、经营场地及工业厂区均未位于自然保护区域内或保护区外生物多样性丰富区域内。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进循环经济，实施中水回用、水平衡管理，提高水重复利用率；推进母液回收利用，减少废渣产生量；实施固废减量化资源化利用项目。",
+      "original_text": "实施中水回用、水平衡管理，提高水重复利用率；推进母液回收利用，减少废渣产生量；浙江生物开展污泥、安普浓浆固废减量化资源化利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法签订劳动合同，缴纳五险一金，坚持平等雇佣，优化薪酬绩效，推进民主管理，保障员工权益。",
+      "original_text": "依法与员工签订劳动合同，明确双方权利义务；坚持平等雇佣，优化完善薪酬绩效管理体系，推进民主管理，为员工营造平等、安全、健康的工作环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO 45001认证，开展安全培训、应急演练，保障员工健康安全。",
+      "original_text": "ISO 45001:2018职业健康安全管理体系有效运行，6家子公司通过认证。安全培训2,665次；安全培训覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司向供应商传达商业道德、职业健康、环境保护和产品质量要求，开展联合审查与持续监督，确保供应链符合可持续发展要求。",
+      "original_text": "定期审核供应商，向供应商传达商业道德、职业健康、环境保护和产品质量等方面的要求，从而帮助供应商更加合规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建全流程质量管理体系，明确CEO为质量安全第一责任人，全员质量培训覆盖率100%，确保产品安全有效。",
+      "original_text": "普洛药业构建“金字塔式”质量责任体系，明确CEO为质量安全第一责任人。全员质量培训覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守网络安全法和个人信息保护法，构建信息安全防护矩阵，2025年未发生客户信息泄露事件。",
+      "original_text": "2025年，公司未发生客户信息、隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区共建，举办公益活动，探访弱势群体，设立奖学金，履行社会责任。",
+      "original_text": "积极通过公司的发展来回馈社会，包括增加社会捐赠，举办公益活动，探访老人、儿童等弱势群体。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，保障女性员工权益，提供多元化福利，营造包容工作环境。",
+      "original_text": "坚持平等雇佣，保障女性员工在就业中的权益，营造包容、多元、安全的工作环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "形成由董事会、战略与ESG委员会、ESG办公室及执行工作组组成的ESG治理架构，战略与ESG委员会由五名董事组成（含至少一名独立董事），负责ESG发展规划等事项。",
+      "original_text": "形成由董事会、战略与ESG委员会、ESG办公室及执行工作组组成的 战略与ESG委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "围绕廉洁反腐、反垄断与公平竞争等方面，建立商业道德体系，进行腐败风险评估，并传达反腐败政策及培训。",
+      "original_text": "围绕廉洁反腐、反垄断与公平竞争等方面，将商业道德建设作为企业治理的重要组成部分",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "坚持合规诚信经营，将商业道德建设作为企业治理的重要组成部分，涵盖廉洁反腐、反垄断与公平竞争、知识产权合规等。",
+      "original_text": "普洛药业坚持合规诚信经营，将商业道德建设作为企业治理的重要组成部分",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "构建覆盖战略、运营、合规、安全、环境等领域的全方位风险管理体系，设立风险管控委员会，建立风险识别、评估、处置、改进的闭环管理机制。",
+      "original_text": "构建覆盖战略、运营、合规、安全、环境等领域的全方位风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "规范投资者关系管理工作，通过业绩说明会、投资者电话交流会、互动易平台、定期信息披露等方式加强与投资者的有效沟通。",
+      "original_text": "为规范投资者关系管理工作，加强公司与投资者之间的有效沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "建立多维度利益相关方沟通机制，与股东、客户、员工、政府等利益相关方通过研讨会、座谈会、信息披露等方式沟通。",
+      "original_text": "建立多维度利益相关方沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "连续五年获得深圳证券交易所信息披露工作最高评级'A'级，制定信息化与信息披露管理制度。",
+      "original_text": "连续五年获得 深圳证券交易所信息披露工作最高评级'A'级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

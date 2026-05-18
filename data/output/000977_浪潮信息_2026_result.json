@@ -1,0 +1,441 @@
+{
+  "company_name": "浪潮信息",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 879774.66,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 879,774.66",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 248.07,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 248.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 42954.71,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 42,954.71",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 8707.51,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗量 吨标煤 8,707.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 100,
+      "unit": "%",
+      "original_text": "太阳能占清洁能源的比例 % 100",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 297594.77,
+      "unit": "吨",
+      "original_text": "耗水总量297,594.77 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 3868.99,
+      "unit": "吨",
+      "original_text": "废弃物总量 吨 1,577.05 2,288.52 3,868.99",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 125,
+      "unit": "万元",
+      "original_text": "环保运行总费用约125万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 6896,
+      "unit": "人",
+      "original_text": "员工总数 6,896 （人）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 300,
+      "unit": "万元",
+      "original_text": "员工培训总投入300余万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "人均培训时长约19小时（职业健康安全）",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 13.6,
+      "unit": "%",
+      "original_text": "报告期内，公司员工流动率为13.60%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 387745.73,
+      "unit": "万元",
+      "original_text": "研发投入 万元 387,745.73",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 464.78,
+      "unit": "万元",
+      "original_text": "464.78万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "安全生产事故数 0 （起）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 90,
+      "unit": "万元",
+      "original_text": "报告期内，公司乡村振兴和公益活动投入金额约90万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司董事会共设7名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "董事会中独立董事占比 % 50 50 42.86",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "报告期内，董事会共召开会议8次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司修订《公司章程》，取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极应对气候变化，推进清洁技术创新、节能降碳举措、能源管理，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司积极应对气候变化带来的风险与机遇，围绕节能降耗、绿色厂区建设及清洁技术创新，持续提升能源利用效率，降低碳排放，助力绿色低碳发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，通过ISO 14001认证，并运行ISO 50001能源管理体系。",
+      "original_text": "持续运行环境管理体系，确保ISO 14001认证有效落地；公司ISO 50001能源管理体系认证证书。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司持续加大液冷等绿色算力技术研发，推出液冷服务器、元脑智算产品，并开展产品碳足迹认证。",
+      "original_text": "围绕液冷服务器这一清洁算力关键技术，持续推进全链式液冷服务器智能制造体系建设；元脑服务器获得产品碳足迹认证证书。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司所有生产运营地均非全球或国家保护生物多样性重要或敏感地区，未来新建厂区也避免设置在敏感地区。同时，公司以算力助力生物多样性保护，如智慧水文项目。",
+      "original_text": "公司所有生产运营地均非全球或国家保护生物多样性重要或敏感地区，各...未来新建厂区规划也均不考虑或避免设置在保护生物多样性重要或敏感地区。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司围绕废弃物减量化、资源化和无害化目标，推进废弃物管理，深化包装优化、设备再利用和以旧换新等循环利用实践。",
+      "original_text": "在包装优化、设备再利用和以旧换新等环节深化循环利用实践，推动生产经营向绿色低碳和可持续发展转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持以人为本，保障员工合法劳动权益，建立职工代表大会，实施反歧视政策，保障女性权益，提供申诉渠道。",
+      "original_text": "公司始终坚持以人为本的发展理念，将保障员工合法劳动权益、构建公平包容的职场生态、坚守合法合规用工底线贯穿企业经营管理全过程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司持续完善职业健康安全管理体系，通过安全培训、应急演练与风险排查强化安全管理，报告期内未发生安全生产事故。",
+      "original_text": "浪潮信息持续完善职业健康与安全管理体系，通过安全培训、应急演练与风险排查强化安全管理，营造安全文化氛围。报告期内，未发生安全生产事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司实现供应商ESG培训全覆盖，新供应商筛选应用环境及社会影响评估比例100%，对二级供应商开展社会责任审核。",
+      "original_text": "签订包含环境和劳工要求条款的供应商比例 100%，新供应商筛选应用环境及社会影响评估比例 100%，开展环境及社会影响评价的供应商数量（含一级和二级供应商）330家。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建覆盖产品全生命周期的质量与安全管控机制，实施全流程检验与可靠性测试，通过IECQ等认证。",
+      "original_text": "公司建立覆盖产品全生命周期的质量与安全管控机制，实施全流程检验与可靠性测试，严格执行既定质量与安全标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司依据ISO/IEC 27001、ISO/IEC 27701及ISO 38505等标准建立数据安全与隐私管理体系，将隐私保护嵌入产品设计。",
+      "original_text": "公司依据ISO/IEC 27001信息安全管理体系、ISO/IEC 27701隐私信息管理体系及ISO 38505数据安全治理管理体系要求，将隐私保护与安全控制前置嵌入产品设计。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展乡村振兴和公益活动，投入约90万元，组织社区服务、环境保护、养老慰问、科普教育等主题的志愿活动。",
+      "original_text": "报告期内，公司乡村振兴和公益活动投入金额约90万元，组织社区服务、环境保护、养老慰问、科普教育等主题的志愿活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚守多元文化价值观，建立反歧视和多元化管理体系，保障女性员工平等权利，推动机会平等与多元包容。",
+      "original_text": "公司坚守多元文化价值观，在内部构建完善的反歧视和多元化管理体系与制度，保障女性员工在管理者选拔中的平等权利。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建自上而下、层次清晰、结构完善的可持续发展治理架构。董事会作为最高决策与监督机构，下设战略与可持续发展委员会，系统推动ESG工作融入公司治理。",
+      "original_text": "董事会领导下的战略与可持续发展治理架构，确保ESG目标与业务战略深度融合，实现闭环管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "开展廉洁教育宣传与培训，积极落实反垄断与反不正当竞争管理措施，确保企业运营合规透明。",
+      "original_text": "洁教育宣传与培训，积极落实反垄断与反不正当竞争管理措施，确保企业运营合规透明。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守相关法律法规，确保信息披露的及时性、准确性和完整性。建立了完善的内部控制体系，明确董事会对内部控制体系建设、实施与评价有效性的最终责任。",
+      "original_text": "公司严格遵守相关法律法规，确保信息披露的及时性、准确性和完整性。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "依托“三道防线”体系构建涵盖风险识别、评估、应对与监控的全面风险管理框架。合规法务部门承担风险防控职责，审计部门负责监督。",
+      "original_text": "浪潮信息将合规经营与全面风险管理视为可持续发展的基石，依托“三道防线”体系构建涵盖风险识别、评估、应对与监控的全面风险管理框架。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "已建立系统、规范的投资者关系管理体系。报告期内修订了《投资者关系管理制度》，提升与资本市场的沟通质量与透明度。",
+      "original_text": "浪潮信息已建立系统、规范的投资者关系管理体系。为提升与资本市场的沟通质量与透明度，公司于报告期内修订了《投资者关系管理制度》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司广泛关注各类利益相关方，建立并维护常态化的双向沟通机制，明确相关方需求，优化对各相关方的影响。",
+      "original_text": "公司广泛关注各类利益相关方，建立并维护常态化的双向沟通机制，明确相关方需求，优化对各相关方的影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守相关法律法规，确保信息披露的及时性、准确性和完整性。",
+      "original_text": "公司严格遵守相关法律法规，确保信息披露的及时性、准确性和完整性。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "民生银行",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 63042.57,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范畴1和2）（吨）4 63,042.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 6492.67,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接排放（范畴1）（吨） 6,492.67",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 56549.9,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接排放（范畴2）（吨） 56,549.90",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.04,
+      "unit": "吨二氧化碳当量/平方米",
+      "original_text": "单位面积温室气体排放量（范畴1和2）（吨/平方米） 0.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 135316.84,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗（兆瓦时）1 135,316.84",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 951774.42,
+      "unit": "吨",
+      "original_text": "耗水量（吨） 951,774.42",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 61000,
+      "unit": "人",
+      "original_text": "员工超6.1万名",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 57.0,
+      "unit": "%",
+      "original_text": "女性 35,144 57.00%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 4523,
+      "unit": "万元",
+      "original_text": "年度培训支出 4,523 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 56.65,
+      "unit": "小时/人",
+      "original_text": "总体员工平均培训时长56.65小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 12700,
+      "unit": "万元",
+      "original_text": "集团全年对外1.27亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "本行围绕国家'双碳'目标，制定碳达峰、碳中和工作方案，有序推进碳达峰、碳中和工作，确保相关战略举措和目标的达成。",
+      "original_text": "本行围绕国家'双碳'目标，积极应对气候风险并把握绿色发展机遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "本行已建立能源管理体系并有效运行，通过能源管理体系认证。印发《中国民生银行能源管理办法》，将环境、社会和治理风险及气候风险纳入全面风险管理体系。",
+      "original_text": "本行已完成能源管理体系搭建并有效运行，并通过能源管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "本行推出'民生峰和'绿色金融产品体系，包括'光伏贷''民生碳 e 贷'等，重点支持绿色项目。创新推出CCER质押融资等碳金融产品。",
+      "original_text": "通过'民生峰和'绿色金融产品体系（如'光伏贷''民生碳 e 贷'），重点支持绿色项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "本行制定专门的绿色金融信贷政策指导意见，重点支持绿地、水域、湿地等保护和修复，山水林田湖草沙一体化保护和修复，生物多样性保护工程。",
+      "original_text": "重点支持老旧社区改造与升级，绿地、水域、湿地等保护和修复，山水林田湖草沙一体化保护和修复，生物多样性保护工程。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "本行全面实施垃圾分类回收，对废弃物品进行分类管理和回收处理，确保有害垃圾100%合规处置。",
+      "original_text": "2018年起，本行全面实施垃圾分类回收，2026年本行将持续实施垃圾与废弃物分类及回收。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，保障员工权益，设立福利假与行龄假，提供健康保障，并建立员工关怀机制。",
+      "original_text": "本行在与员工建立、履行、终止或解除劳动合同等过程中，严格遵守《中华人民共和国劳动法》等国家法律法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司重视职业健康安全，设立安全生产委员会，开展安全培训与演练，提供健康小屋和医务室服务，保障员工健康。",
+      "original_text": "本行重视员工的职业健康与安全，严格遵守《中华人民共和国劳动法》等国家法律法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "本行坚持绿色采购理念，在采购中考虑环境保护、资源节约、安全健康等方面。对供应商提出环境、社会及治理要求，包括劳工标准、职业健康安全等，并适时开展现场审核。",
+      "original_text": "本行坚持和贯彻绿色采购理念，在采购中充分考虑环境保护、资源节约、安全健康等方面；对供应商提出环境、社会及治理管理要求，包括劳工标准、职业健康安全等，并适时开展现场审核",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "本行关注产品和服务安全与质量，制定相关政策，并遵守相关法律及规例。对于产品召回，认为与本行业务未有重大相关性。",
+      "original_text": "有关所提供产品和服务的健康与安全、广告、标签及私隐事宜以及补救方法的政策及遵守相关法律及规例的资料；已售或已运送产品总数中因安全与健康理由而须回收的百分比与本行业务未有重大相关性",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立完善的数据安全管理架构，制定多项制度，开展培训，获得认证，未发生数据泄露事件。",
+      "original_text": "本行高度重视隐私与数据安全领域的全方位体系建设，为从源头保护消费者个人数据安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过公益捐赠、志愿者活动、社区宣教等方式参与社区发展，全年对外捐赠1.27亿元。",
+      "original_text": "在公益事业方面持续投入，不断加强与社区沟通，支持社区发展，创造社会价值。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "本行提供公平的职业发展通道，设置'最佳新人奖'激励青年员工，并关注残障人士服务，如组织员工学习手语。",
+      "original_text": "设置'最佳新人奖'表彰青年员工；如长沙分行组织员工利用晨会时间积极学习手语，并定期对一线员工开展手语服务培训，保证残障人士享受同样周到便捷的无障碍服务。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "本行构建了自上而下、层次分明的ESG治理架构，覆盖董事会、董事会专门委员会及管理层。董事会全面监督ESG政策及规划的实施，战略发展与消费者权益保护委员会负责审议ESG相关事项，管理层负责制定ESG目标与重点任务。",
+      "original_text": "本行构建了自上而下、层次分明的ESG治理架构，全面覆盖董事会、董事会专门委员会及...董事会全面监督ESG政策及规划的实施...董事会战略发展与消费者权益保护委员会负责审议ESG相关事项...本行管理层积极贯彻董事会战略部署，负责制定全行ESG相关工作目标与重点任务",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "本行成立了问责委员会负责商业道德监督，董事长任主席。董事会指导制定《从业人员行为守则》并监督执行。强化反洗钱合规体系建设，董事会及高级管理层高度重视反洗钱资源投入。",
+      "original_text": "本行成立了中国民生银行问责委员会负责商业道德监督，董事长任委员会主席...董事会指导制定《中国民生银行从业人员行为守则》，并监督管理守则的执行...筑牢高层引领的洗钱风险管理防线。董事会及高级管理层高度重视反洗钱资源投入",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "本行坚持诚信经营、合规经营，持续完善内控合规体系，加强合规文化建设。董事会关联交易控制委员会由6名独立非执行董事组成，负责关联交易审查。",
+      "original_text": "本行坚持诚信经营、合规经营，不断加强合规管理和文化建设...本行持续完善内控合规体系...董事会关联委成员为6名，全部为独立非执行董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "本行董事会承担全面风险管理的最终责任，风险管理委员会负责审议全面风险管理事项。将ESG风险纳入全面风险管理体系，建立ESG管理体系，有效识别、监测和防控业务活动中的ESG风险。",
+      "original_text": "本行董事会承担全面风险管理的最终责任。董事会风险管理委员会主要负责审议或审批全面风险管理相关事项...将环境、社会和治理风险及气候风险纳入全面风险管理体系，建立ESG管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "本行重视投资者关系，通过年度报告、ESG报告等渠道主动披露绿色金融成果与气候风险管理进展，深化利益相关方沟通。",
+      "original_text": "定期透明披露，通过年度报告、ESG报告等渠道，主动披露绿色金融成果与气候风险管理进展。深化利益相关方沟通，积极回应市场期待",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "本行识别了政府监管部门、投资人与股东、客户、员工、社区及非政府组织、供应商等核心利益相关方，并通过多种渠道进行沟通。",
+      "original_text": "相关的核心利益相关方群体，包括：政府监管部门、投资人与股东、客户、员工、社区及非政府组织、供应商等利益相关方",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "本行依法合规开展信息披露，持续提升ESG披露质量。董事会每年审议ESG相关目标进展，监督战略执行情况。报告期内审议通过《2024年度可持续发展（ESG）专题报告》。",
+      "original_text": "依法合规开展信息披露，持续提升ESG披露质量...董事会每年审议ESG相关目标进展，监督战略执行情况...审议通过《中国民生银行2024年度可持续发展（ESG）专题报告》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600016_民生银行_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

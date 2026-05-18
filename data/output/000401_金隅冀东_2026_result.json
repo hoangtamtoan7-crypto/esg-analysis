@@ -1,0 +1,446 @@
+{
+  "company_name": "金隅冀东",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 49851400,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 万吨二氧化碳当量 4,985.14",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 47347500,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围1） 万吨二氧化碳当量 4,734.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2503900,
+      "unit": "吨二氧化碳当量",
+      "original_text": "能源间接温室气体排放量（范围2） 万吨二氧化碳当量 250.39",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 20.35,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放密度 吨二氧化碳当量/万元营收 20.35",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5450673.93,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗折标煤总量 5 吨标准煤 5,450,673.93",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 2,
+      "unit": "%",
+      "original_text": "可再生能源消耗量占比 百分比 2",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 16669200,
+      "unit": "吨",
+      "original_text": "用水总量 万吨 1,666.92",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 76833,
+      "unit": "吨",
+      "original_text": "废水排放总量 m3 76,833.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1986600,
+      "unit": "吨",
+      "original_text": "无害废弃物总量(主要为矿山废石) 吨 1,986,600",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 8523.22,
+      "unit": "吨",
+      "original_text": "氮氧化物排放总量 吨 8,523.22",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 1235.56,
+      "unit": "吨",
+      "original_text": "二氧化硫排放总量 吨 1,235.56",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 1303.02,
+      "unit": "吨",
+      "original_text": "颗粒物排放总量 吨 1,303.02",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 21148,
+      "unit": "人",
+      "original_text": "在职员工总数 人 21,148",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 19.22,
+      "unit": "%",
+      "original_text": "女性员工比例 19.22%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 8.36,
+      "unit": "%",
+      "original_text": "女性高管比例 8.36%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 576.77,
+      "unit": "万元",
+      "original_text": "培训经费支出金额 万元 576.77",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 94.46,
+      "unit": "小时/人",
+      "original_text": "员工受训平均时数 小时/人 94.46",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.71,
+      "unit": "%",
+      "original_text": "员工流失比例 % 2.71",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 12012.1,
+      "unit": "万元",
+      "original_text": "研发投入 万元 12,012.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.49,
+      "unit": "%",
+      "original_text": "研发投入金额占营业收入比例 % 0.49",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 39898,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 39,898",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 400,
+      "unit": "万元",
+      "original_text": "2025年，公司累计公益投入400万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "设立3名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "其中包括1名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 13,
+      "unit": "次",
+      "original_text": "报告期内，公司共召开董事会13次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司已取消监事会并废止《监事会议事规则》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "公司共召开11次董事会专门委员会（未单独列示审计委员会次数）",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已将气候变化应对深度融入整体发展战略，构建系统化气候管理体系，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "金隅冀东积极响应国家“双碳”战略部署，将气候变化应对工作深度融入公司整体发展战略，从治理架构、发展战略、风险管理及指标与目标四大维度构建系统化气候管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，67家水泥企业获得环境管理体系认证证书，制定并实施《环境保护管理制度》《环境保护责任制》等制度。",
+      "original_text": "截至目前，已有67家水泥企业获得了环境管理体系认证证书。有效推动公司环境管理水平提质升级",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出低碳环保建材产品，如农业饲料石粉、超细水泥、油井水泥等，并参与国家标准制定。",
+      "original_text": "全年新增13款定制化产品；油井水泥成功应用于煤矿瓦斯封堵领域；参与六项国家标准的制定工作",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司系统推进绿色矿山建设与生物多样性保护，矿山开采严格按照《环境保护方案》《水土保持方案》执行。",
+      "original_text": "金隅冀东深入践行“绿水青山就是金山银山”理念，系统推进绿色矿山建设与生物多样性保护",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司持续开展水泥窑协同处置废弃物，使用替代燃料300万吨、替代原料900万吨，推动危固废资源化利用。",
+      "original_text": "持续开展水泥窑协同处置废弃物，实现工业固废转化为水泥、混凝土的替代原料；全年使用替代燃料300万吨、替代率13.76%，使用替代原料900万吨、替代率9.34%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，规范劳动合同管理，健全员工权益保障体系，杜绝强制劳工及童工，提供公平雇佣机会。",
+      "original_text": "金隅冀东始终将员工作为企业最宝贵的财富与发展基石。公司严格遵守《劳动法》《劳动合同法》...持续规范劳动合同管理，不断健全员工权益保障体系...坚决杜绝强制劳工及童工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001认证，覆盖率达100%。建立安全生产管理体系，开展安全培训，投入安全生产责任险，报告期内无新增职业病病例。",
+      "original_text": "均通过ISO 45001职业健康安全管理体系认证，覆盖率达100%。报告期内，接触职业病危害岗位无新增职业病病例。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司要求供应商/承包商遵守健康与安全政策，禁止使用童工，推动供应商落实安全生产主体责任，减少工伤事故。",
+      "original_text": "供应商、承包商严格遵守公司《安全生产管理制度》《职业健康安全管理规定》等健康与安全管理相关政策，禁止供应商使用童工...推动供应商/承包商同步落实安全生产主体责任",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立完善的产品质量管理体系，制定质量管理制度，设立三级质量管理责任体系，严守质量安全底线。",
+      "original_text": "建立完善的产品质量管理体系，为客户提供符合质量要求的产品...以制度化建设筑牢质量安全防线",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定数据安全管理制度，建立覆盖数据全生命周期的9项安全管理制度，报告期内未发生数据安全及客户隐私泄露事件。",
+      "original_text": "金隅冀东高度重视数据安全与客户隐私保护...报告期内未发生数据安全及客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司投身社区共建与公益事业，通过稳健经营与责任担当，推动企业与社会的和谐发展。",
+      "original_text": "积极投身社区共建与公益事业，通过稳健经营与责任担当，推动企业与社会的和谐发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司构建多元化、包容性的董事会架构，优化性别、年龄、专业背景结构，提供公平发展机会。",
+      "original_text": "公司积极构建多元化、包容性的董事会架构，持续优化董事会成员在性别、年龄、专业背景及文化背景等方面的结构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已建立由董事会、董事会战略委员会、管理层及各部门组成的可持续发展管理体系，董事会为最高决策机构。",
+      "original_text": "公司已建立结构完整、层级清晰、权责明确且运行高效的可持续发展管理体系，搭建由董事会、董事会战略委员会、管理层及各部门组成的治理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司坚守诚信经营底线，制定《纪检、巡察与审计协同监督管理办法》等制度，开展反腐倡廉培训，覆盖560人。",
+      "original_text": "公司坚守诚信经营底线，将商业道德融入治理全流程，严格恪守公平、公正、廉洁的从业准则，大力推进反贪腐与反贿赂管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《反垄断合规指引》《违规经营投资责任追究实施办法》等制度，开展合规培训，累计参训200余人次。",
+      "original_text": "公司坚持公平竞争、合规经营理念，制定《违规经营投资责任追究实施办法》《反垄断合规指引》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建全面风险管理体系，建立四道防线协同机制，制定《企业法治建设考核评价办法》，聚焦境外经营与关键业务风险。",
+      "original_text": "公司不断加强风险防控体系建设，将风险管控要求融入日常管理，制定《企业法治建设考核评价办法》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过股东会、公司官网、分析师会议、业绩说明会等渠道与投资者沟通，报告期内召开股东会5次。",
+      "original_text": "公司高度重视投资者关系管理工作，通过健全的制度机制，维护全体股东的合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过系统化调研、多渠道对话及常态化反馈机制，与政府、股东、员工、客户、供应商等利益相关方沟通。",
+      "original_text": "公司致力于搭建开放、透明的利益相关方沟通桥梁，通过系统化的调研、多渠道的对话及常态化的反馈机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露监管要求，秉持真实、准确、完整、及时、公平的原则进行披露，董事会已知悉双重重要性评估结果并审批报告。",
+      "original_text": "公司严格遵守各项信息披露监管要求，秉持真实、准确、完整、及时、公平的原则进行有针对性的披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 19,
+    "qualitative_issues": [
+      {
+        "indicator_id": "G_L08",
+        "indicator_name": "税务透明度",
+        "issue": "缺少summary字段"
+      }
+    ],
+    "overall_quality_score": 0.93
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "万科A",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2833997.61,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "万科温室气体排放总量为2,833,997.61 tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 66445.96,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放量为66,445.96tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2568094.8184,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接排放二氧化碳（范围二） 吨二氧化碳当量 2,568,094.8184",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 650666.2387,
+      "unit": "吨标准煤",
+      "original_text": "能源总耗量 吨标准煤 650,666.2387",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 88533385.292,
+      "unit": "吨",
+      "original_text": "用水量 吨 88,533,385.2920",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 160970.925,
+      "unit": "吨",
+      "original_text": "无害废弃物总量 吨 160,970.925",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 42094.109,
+      "unit": "千克",
+      "original_text": "NO排放量 千克 42,094.109",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 460.2578,
+      "unit": "千克",
+      "original_text": "SO排放量 千克 460.2578",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 33.8878,
+      "unit": "千克",
+      "original_text": "颗粒物排放量 千克 33.8878",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 131097,
+      "unit": "人",
+      "original_text": "员工总数 人 131,429 127,638 131,097",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 44.6,
+      "unit": "%",
+      "original_text": "女性员工 % 43.9 44.9 44.6",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 32.85,
+      "unit": "小时/人",
+      "original_text": "全体员工 小时 32.85 28.33 25.63",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 29.8,
+      "unit": "%",
+      "original_text": "员工流失比率 % 30.1 29.7 29.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "儿童健康等领域累计公益投入超10.5亿元",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "董事会有8 名董事（含1 名女性董事），其中包括1 名职工代表董事及4 名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 50,
+      "unit": "%",
+      "original_text": "4 名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "含1 名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 17,
+      "unit": "次",
+      "original_text": "第二十届董事会共召开会议17次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和，并发布《万科集团气候变化政策》。",
+      "original_text": "实现碳达峰，2060年实现碳中和。发布《万科集团气候变化政策》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立并完善环境管理体系，严格遵循ISO 14001环境管理体系标准，并获得ISO 50001能源管理体系认证。",
+      "original_text": "建立并完善环境管理体系的内外部审核机制，严格遵循ISO 14001环境管理体系标准，并获得ISO 50001能源管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司深耕绿色设计，满足绿色建筑评价标准，新建项目100%获得绿色认证，应用住宅产业化占总开工95%，新建项目引入可再生能源70.7%。",
+      "original_text": "满足绿色建筑评价标准3.42亿平方米，新增项目中获得绿色建筑认证的项目100%，应用住宅产业化占总开工95%，新建项目引入可再生能源70.7%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司发布《万科集团生物多样性政策》，参与环境治理、植被保育、雪豹保护、江豚保护、红树林湿地保护、珊瑚保护等。",
+      "original_text": "发布《万科集团生物多样性政策》，参与环境治理、植被保育、雪豹保护、江豚保护、红树林湿地保护、珊瑚保护",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推广“零废弃”及建筑垃圾减量化管理，发布《咖啡渣堆肥指南》及《零废弃推动力报告》，推进社区废弃物管理。",
+      "original_text": "推广“零废弃”及建筑垃圾减量化管理，发布《咖啡渣堆肥指南》及《零废弃推动力报告》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定了《职员职务行为准则》等人力资源政策和程序，涵盖劳动条件、工作环境、员工健康与安全、歧视与骚扰、工作时间、休息休假、劳动安全卫生、职工培训等员工权益规章制度，并监督制度实施过程；沟通职工与管理层之间的信息。",
+      "original_text": "《职员职务行为准则》等人力资源政策和程序，劳动条件、工作环境、员工健康与安全、歧视与骚扰、工作时间、休息休假、劳动安全卫生、职工培训等员工权益规章制度",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，发布《万科集团健康与安全政策》，要求所有业务线的所有员工及承包商遵守。开展健康与安全培训，包括安全生产晨会、AED急救培训、消防安全培训等。2025年无职业病发生。将健康安全绩效作为高管及相关员工的绩效评价指标之一。",
+      "original_text": "建立职业健康安全管理体系，发布《万科集团健康与安全政策》，健康与安全培训覆盖全体员工及相关方，2025年无职业病发生",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过供应商综合指数（SCI）评价体系评估供应商在ESG方面的表现，包括劳工权益、环境保护、健康安全、商业道德等。要求供应商获得ISO 45001职业健康安全管理体系认证。对供应商开展产品质量与安全培训，覆盖率100%。",
+      "original_text": "供应商综合指数（SCI）评价体系，评估供应商在ESG方面的表现，供应商产品质量与安全培训覆盖率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立覆盖产品全生命周期的质量管控体系，包括安全检查体系、质量检查体系及交付评估体系。制定《万科集团在建项目安全质量检查管理办法》，设立专职部门。每年面向员工及承包商开展产品质量与安全培训，覆盖总部及地区公司工程系统全体人员。",
+      "original_text": "覆盖产品全生命周期的质量管控体系，安全检查体系、质量检查体系及交付评估体系，每年面向员工的产品质量与安全培训覆盖总部及地区公司工程系统的全体",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立完善的信息安全管理体系，制定《个人信息合规管理纲要》《数据安全管理纲要》等。成立专项合规小组，获得ISO27701信息安全管理与隐私信息管理双体系认证。开展信息安全培训，2025年重大安全合规事件数量为0。",
+      "original_text": "制定《个人信息合规管理纲要》《数据安全管理纲要》，ISO27701信息安全管理与隐私信息管理双体系认证，2025年重大安全合规事件数量为0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司关注弱势群体，开展公益慈善事业。万科公益基金会累计公益投入超10.5亿元，发起多场志愿活动，号召员工参与。通过社区活动如主题市集、公益行动等激活社区情感连接。",
+      "original_text": "儿童健康等领域累计公益投入超10.5亿元，万科公益基金会共发起多场志愿活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司积极践行董事会成员多元化政策，强调性别、技能、知识、经验等方面的多元化构成，避免单一性别董事会。为女性员工定制专项体检套餐，关注女性健康。工会主席与员工深入交流超百人次。",
+      "original_text": "董事会成员多元化政策，避免单一性别董事会，女性员工定制专项套餐",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会作为ESG管理体系的最高决策机构，负责决定公司ESG管理架构及管理策略；确保设立合适及有效的ESG风险管理及内部监控系统。",
+      "original_text": "董事会作为ESG管理体系的最高决策机构，负责决定公司ESG管理架构及管理策略；确保设立合适及有效的ESG风险管理及内部监控系统",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司提及反商业贿赂及反贪污，商业道德标准培训是全体董事会成员及员工以及承包商的强制性培训项目。",
+      "original_text": "反商业贿赂及反贪污；商业道德标准培训是全体董事会成员及员工以及承包商的强制性培训项目",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "万科坚持合规经营，尊重现行法律法规，不断加强对合规风险的防范。建立合规管控体系，将合规管理融入集团风险管理。",
+      "original_text": "万科坚持合规经营，在业务运营过程中尊重现行有效的法律、行政法规、部门规章和规范性文件，不断加强对合规风险的防范",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司延续'三道防线'管理脉络，实现风险管理工作业务范围100%覆盖。强化第二道防线职责，在总部层面完善风险识别、监控和防范。",
+      "original_text": "我们延续'三道防线'管理脉络，实现风险管理工作业务范围100%覆盖。2025年，我们强化第二道防线职责",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定了《投资者关系管理规定》，面向董监高、政府及监管机构、股东等，保障客户隐私及信息安全。",
+      "original_text": "制定了《投资者关系管理规定》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司已建立利益相关方沟通机制，覆盖施工期间的污染排放、三废管理、健康风险及缓解措施的信息披露与互动。",
+      "original_text": "我们已建立利益相关方沟通机制，覆盖施工期间的污染排放、三废管理、健康风险及缓解措施的信息披露与互动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "本报告经董事会审核后发布，内容不存在虚假记载、误导性陈述或重大遗漏。公司遵循中国证监会和香港联交所要求。",
+      "original_text": "本报告经董事会审核后发布，内容不存在任何虚假记载、误导性陈述或重大遗漏。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "000002_万科A_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

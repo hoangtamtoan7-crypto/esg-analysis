@@ -1,0 +1,441 @@
+{
+  "company_name": "盐 田 港",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 21512,
+      "unit": "吨",
+      "original_text": "温室气体排放量 吨 / / 21,512",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1871,
+      "unit": "吨",
+      "original_text": "范围一温室气体排放量 吨 / 2,092.22 1,871",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 19641,
+      "unit": "吨",
+      "original_text": "范围二温室气体排放量 吨 / 21,329.44 19,641",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5104,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗量 吨标准煤 / / 5,104",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 624699,
+      "unit": "吨",
+      "original_text": "年度总耗水量 吨 / / 624,699",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 15,
+      "unit": "吨",
+      "original_text": "有害固体废弃物产生量 吨 27.88 21.15 15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 899,
+      "unit": "人",
+      "original_text": "员工总数 人 899 895 868",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 26.36,
+      "unit": "%",
+      "original_text": "女性员工比例 % 26.36 27.71 25.69",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 23,
+      "unit": "%",
+      "original_text": "女性管理者比例 % 23 27 31",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 146.45,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 146.45 107.88 76.34",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 11,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 / 11 8.19",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 4.6,
+      "unit": "%",
+      "original_text": "员工流失率 % 4.60 4.25 2.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 523.25,
+      "unit": "万元",
+      "original_text": "研发投入 万元 94.27 594.89 523.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1044,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 1,044 884.88 638.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中独立董事3人，非独立董事6人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司锚定'双碳'战略，持续推进新能源应用，构建清洁高效的港口能源体系，并制定了《深圳港集团碳达峰行动方案》。",
+      "original_text": "公司锚定'双碳'战略，持续推进新能源应用，通过推广电动化设施、布局可再生能源项目，构建清洁高效的港口能源体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "惠深港务通过环境管理体系（ISO 14001）和能源管理体系（ISO 50001）双认证。",
+      "original_text": "惠深港务通过环境管理体系（ISO 14001）和能源管理体系（ISO 50001）双认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推广电动化设施、布局可再生能源项目，建设光伏基础设施，提供绿色港口服务。",
+      "original_text": "各港口建设光伏基础设施，充分利用太阳能等可再生资源",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过保留原生生态、科学绿化、打造花园式港区等方式，实现开发建设与生态保护协同共进。2025年不存在对生物多样性有重大影响的事件。",
+      "original_text": "公司始终将生态保护要求贯穿项目全生命周期...通过保留原生生态、科学绿化、打造花园式港区等方式，筑牢绿色生态基底",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过源头减量、完善固废和危废收贮运体系、提高资源化利用等措施，推动港口绿色发展。",
+      "original_text": "公司通过源头减量、完善固废和危废收贮运体系、提高资源化利用等措施，提高资源使用效率，做到'物尽其用、变废为宝'",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，保障员工劳动报酬、休息休假、社会保险等权益，建立职工代表大会等民主管理渠道，实行平等雇佣，不设置歧视性条件。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规...保障每位员工享有平等的就业与发展机会",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建安全生产责任体系，逐级签订责任书，开展安全培训、隐患排查、应急演练，实现零伤亡、零事故目标。职业健康体检覆盖率100%。",
+      "original_text": "公司坚持科技赋能安全发展...全年未发生重大安全生产责任事故...职业健康体检覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "报告提及与合作伙伴透明诚信合作，打造责任供应链，但未详细说明供应链ESG管理具体措施。",
+      "original_text": "透明、诚信合作 推动行业发展 携手合作共赢 打造责任供应链",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立质量管理制度，将质量指标列为考核重点，检测质量评分95.8分，多个项目获优质工程奖。",
+      "original_text": "公司督促各项目建立完善质量管理制度...检测质量评分95.8分...获评'中交优质工程奖'",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司修订《网络与信息安全管理办法》，落实数据分类分级保护，对隐私信息脱敏处理，保障客户隐私安全。",
+      "original_text": "公司修订《网络与信息安全管理办法》...商务信息共享时对隐私信息脱敏处理，杜绝外泄",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益慈善、乡村振兴、志愿服务等活动，构建'企业+员工+社区'三方协同公益模式，支持社区发展。",
+      "original_text": "公司始终将公益事业融入企业发展战略...组织开展无偿献血、爱心驿站便民服务...助力乡村振兴",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重和包容员工在国籍、种族、性别等方面的差异，提供平等就业机会，女性管理者比例23%，少数民族员工占比2.02%。",
+      "original_text": "尊重和包容员工在国籍、种族、性别...不设置任何歧视性条件，保障每位员工享有平等的就业与发展机会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了由董事会领导、战略规划委员会指导、可持续发展工作组负责实施、董事会秘书处统筹日常事务的可持续发展治理架构。",
+      "original_text": "盐田港股份致力构建结构完整、权责明确、运营高效的可持续发展治理架构，董事会为领导决策机构，战略规划委员会提供研究指导，可持续发展工作组负责具体实施，董事会秘书处统筹日常事务。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定党风廉政建设和反腐败工作要点，与下属企业签订责任书，定期召开工作会议，部署重点任务。",
+      "original_text": "制定《盐田港股份有限公司2025年党风廉政建设和反腐败工作要点》，与下属各所属企业党组织签订《2025年党风廉政建设责任书》，定期组织召开党风廉政建设和反腐败工作会议。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立健全合规管理体系，全年未发生重大合规风险事件；通过签署廉洁协议等方式明确禁止商业贿赂、营私舞弊。",
+      "original_text": "合规管理三年行动计划（2023-2025年）对合规管理建设的要求，建立健全合规管理体系，全年未发生重大合规风险事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司印发《全面风险管理制度》，建立权责清晰的全面风险管控体系，形成风险识别、评估、监测、预警、应对的全闭环管理流程。",
+      "original_text": "公司印发《全面风险管理制度》，建立权责清晰的全面风险管控体系，形成党委全面领导、董事会统一领导、全面风险管理领导...风险识别—评估研判—跟踪监测—预警响应—应对处置的全闭环管理流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视投资者关系，通过股东会、定期报告、现场参观、电话咨询等渠道与投资者沟通，保障股东权益。",
+      "original_text": "重视投资者关系 规范信息披露...股东与投资者 股东会 定期报告与公告 现场参观 电话咨询",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过发放调研问卷、行业论坛、交流活动等多种渠道与利益相关方沟通，回应其期望。",
+      "original_text": "盐田港股份持续深化与利益相关方的战略协同与价值共创，通过构建多维度、多层次的沟通反馈体系，持续跟踪各利益相关方...通过发放利益相关方调研问卷的方式，收集来自股东、员工、供应商等内外部相关方对...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续16年获深交所信息披露考核A级评价，严格遵守上市公司信息披露规定。",
+      "original_text": "连续16年获深交所信息披露考核“A”级（最高）评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司依法合规经营，依法纳税，精准防范税收风险，维护国家税收秩序与企业良好纳税信用。",
+      "original_text": "依法合规经营 依法纳税...精准防范税收风险，维护国家税收秩序与企业良好纳税信用。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

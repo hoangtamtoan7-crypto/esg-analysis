@@ -1,0 +1,442 @@
+{
+  "company_name": "智飞生物",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 71976.81,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体总排放量 吨二氧化碳当量 71,976.81",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 9870.83,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围一） 吨二氧化碳当量 9,870.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 62105.98,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围二） 吨二氧化碳当量 62,105.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.08,
+      "unit": "吨二氧化碳当量/万元收益",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元收益 0.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1185055.43,
+      "unit": "吨",
+      "original_text": "总取水 吨 1,532,948.16 1,185,055.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 920063.53,
+      "unit": "吨",
+      "original_text": "废水排放量 立方米 1,149,361.64 920,063.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 12210.01,
+      "unit": "吨",
+      "original_text": "无害废弃物产生总量25 吨 12,210.01 1,108.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 0.8534,
+      "unit": "吨",
+      "original_text": "氮氧化物 20.03mg/m³ 0.8534吨 4.7407吨 未超标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 6292,
+      "unit": "人",
+      "original_text": "截至报告期末，在职员工总数达6,292人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工占比",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "公司设有15名高级管理人员，其中女性高管占6名",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 3641.89,
+      "unit": "万元",
+      "original_text": "员工培训支出12 万元 3,641.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 61.66,
+      "unit": "小时/人",
+      "original_text": "员工每年接受培训的平均小时数 小时 61.01 61.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 18.35,
+      "unit": "%",
+      "original_text": "公司员工流失率为18.35%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 143600,
+      "unit": "万元",
+      "original_text": "2025年，公司研发投入达14.36亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 750.84,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 750.84 453.86",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 322,
+      "unit": "万元",
+      "original_text": "实际捐赠金额超322万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会共有9名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "3名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "包括2名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会审计委员会共召开",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司参照TCFD框架构建治理体系，打出了'碳配额清缴+多元碳抵消'的组合拳。2025年，智飞绿竹足额完成5,208吨碳配额履约，并通过注销BCER、CCER及EBA等碳资产支持国家'双碳'战略。",
+      "original_text": "面对气候挑战，公司参照TCFD框架构建治理体系，打出了'碳配额清缴+多元碳抵消'的组合拳。2025年，智飞绿竹足额完成5,208吨碳配额履约，并通过注销BCER、CCER及EBA等碳资产，以真金白银支持国家'双碳'战略，践行绿色发展承诺。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司确立了将EHS治理嵌入战略规划的顶层设计，通过规范治理与明确目标有机统一，筑牢可持续发展根基。智飞龙科马综合能耗同比下降24%，超额完成年度目标，其明珠大道产业园厂区荣获'无废工厂'称号。",
+      "original_text": "公司确立了将EHS治理嵌入战略规划的顶层设计，通过规范治理与明确目标有机统一，筑牢可持续发展根基。智飞龙科马综合能耗同比下降24%，超额完成年度目标，其明珠大道产业园厂区更荣获'无废工厂'称号。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司致力于让优质疫苗不仅'造得出'，更能'用得上、负担得起'。在国内，自主产品结核诊断试剂宜卡（EC）继续纳入国家医保目录；在国际，推动发展中国家疫苗生产，实施差异化的分层定价策略。",
+      "original_text": "公司致力于让优质疫苗不仅'造得出'，更能'用得上、负担得起'。在国内，自主产品结核诊断试剂宜卡（EC）继续纳入国家医保目录，代理产品HPV疫苗、重组带状疱疹疫苗积极参与各地惠民活动；在国际，公司为发展中国家疫苗制造商联盟（DCVMN）成员，推动发展中国家疫苗生产，并在海外市场实施差异化的分层定价策略。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司提及生态系统和生物多样性保护议题，并披露相关行动如减少鲎试剂使用。",
+      "original_text": "生态系统和生物多样性保护；采用动态显色法替代传统凝胶法，减少50%鲎试剂使用，以保护濒危物种中国鲎",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司秉持'源头减量、设计精益、工艺高效、循环再生'的循环经济理念，致力于打造资源闭环流动、环境和谐共生的绿色运营模式。通过工艺革新与设备升级，提升生产效率，降低单位产品能耗。",
+      "original_text": "智飞生物秉持'源头减量、设计精益、工艺高效、循环再生'的循环经济理念，致力于打造资源闭环流动、环境和谐共生的绿色运营模式。通过工艺革新与设备升级，公司提升生产效率，降低单位产品能耗。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司视人才为最宝贵的资产，保障员工权益与发展机会，支持员工提升专业技能。承诺在招聘、培训、晋升等环节不因性别、年龄、民族等歧视。",
+      "original_text": "公司视人才为最宝贵的资产，保障员工权益与发展机会，支持员工提升专业技能...所有候选人和员工一视同仁，公司承诺在招聘、培训、晋升等关键环节，不因性别、年龄、民族、地区、宗教信仰或文化",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，落实EHS管理，开展安全生产培训，全年零起重大质量安全责任事故。",
+      "original_text": "ISO 45001职业健康安全管理体系认证...落实EHS管理...全年零起重大质量安全责任事故",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司打造负责任供应链，重点关注供应商在用工、职业健康安全、商业道德及环境管理等方面的表现，开展关键物资审计培训。",
+      "original_text": "智飞生物致力于打造负责任的供应链体系，重点关注供应商在用工、职业健康安全、商业道德及环境管理等方面的表现...开展关键物资审计培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持质量优先，已上市产品生产线100%通过GMP认证，全年零起重大质量安全责任事故，未发生任何产品和服务相关的安全与质量重大责任事故。",
+      "original_text": "已上市产品生产线100%通过GMP认证...全年零起重大质量安全责任事故...未发生任何产品和服务相关的安全与质量重大责任事故",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守《数据安全法》与《网络安全法》，制定《数据记录隐私和安全管理制度》，覆盖数据收集、存储、使用等环节，保护客户、员工及合作方个人信息。",
+      "original_text": "严格遵守《中华人民共和国数据安全法》与《中华人民共和国网络安全法》...制定并落实《数据记录隐私和安全管理制度》...保护客户、员工及合作方个人信息",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司累计捐赠超4亿元，2025年实际捐赠超322万元，参与12项公益项目，涵盖教育支援、救灾援助、健康科普等。",
+      "original_text": "已累计捐赠超4亿元...实际捐赠金额超322万元...2025年重点参与12项公益项目",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司承诺不因性别、年龄、民族等歧视，女性高管占40%，智飞生物妇女联合会为女性员工提供专属沟通平台与成长通道。",
+      "original_text": "所有候选人和员工一视同仁...不因性别、年龄、民族、地区、宗教信仰或文化...女性高管占6名...智飞生物妇女联合会正式开始运行",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了可持续发展治理架构，涵盖董事会、董事会专门委员会、ESG工作小组三个层级。董事会下设战略与可持续发展委员会统筹管理ESG事宜。",
+      "original_text": "公司搭建了可持续发展治理架构，具体涵盖董事会、董事会专门委员会、ESG工作小组三个层级。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立了合规、商业道德及反贪腐管理架构，全年保持零起重大商业贿赂诉讼。合作方需签订《廉洁协议》，并开展反商业贿赂培训。",
+      "original_text": "公司建立了行之有效的合规、商业道德及反贪腐管理架构...全年保持零起重大商业贿赂诉讼。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定了《负责任营销政策》，实施市场推广行为全周期合规管控。董事会是合规、商业道德与风险事项处理研讨的最高决策机构。",
+      "original_text": "公司制定了《负责任营销政策》，将合规风险防范与公众知情权保障置于首位，实施市场推广行为的全周期合规管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司设有风险控制部，采用合规飞行检查、深度核查等方式识别风险。董事会审计委员会监督评价内部控制有效性。",
+      "original_text": "风险控制部采用合规飞行检查、深度核查等多种方式，精准定位各类风险点和管理漏洞。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定并完善《投资者关系管理制度》，通过股东会、热线电话、互动易等方式与投资者沟通，增进互信。",
+      "original_text": "智飞生物视投资者关系管理为价值传递的纽带，制定并持续完善《投资者关系管理制度》...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司构建系统化、常态化的沟通反馈机制，积极维系投资者、合作伙伴、员工、社会公众等各方的紧密联结。",
+      "original_text": "智飞生物高度重视利益相关方的需求与期待，构建系统化、常态化的沟通反馈机制...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循真实、准确、完整、及时、公平的披露原则，加强自愿性信息披露，保护投资者合法权益。",
+      "original_text": "公司董事会切实保障股东及各利益相关方权益，确保信息披露的真实、准确、完整、及时和公平。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司参照GRI 207-1税务方针进行披露，表明有税务透明度相关方针。",
+      "original_text": "GRI 207-1 税务方针",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "300122_智飞生物_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

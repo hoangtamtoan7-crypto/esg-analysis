@@ -1,0 +1,441 @@
+{
+  "company_name": "柳    工",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 174832.8,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一和范围二）(吨二氧化碳当量) 9,706.28 12,009.46 13,025.02",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 98409.87,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接（范围一）温室气体排放量(吨二氧化碳当量) 98,409.87",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 76422.93,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接（范围二）温室气体排放量(吨二氧化碳当量) 76,422.93",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.0232,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "单位产值二氧化碳排放量 0.0232 吨二氧化碳当量/万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 32385.98,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 24,248.98 28,612.52 32,385.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 32.3,
+      "unit": "%",
+      "original_text": "可再生能源消耗量占比 % 3 8 32.3",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1568544,
+      "unit": "吨",
+      "original_text": "新鲜水取水总量(吨) 1,681,284 1,400,371 1,568,544",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 551455,
+      "unit": "吨",
+      "original_text": "废水排放量7 吨 510,833 481,983 551,455",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 3844,
+      "unit": "吨",
+      "original_text": "吨 6,682 4,001 3,844",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 2877,
+      "unit": "万元",
+      "original_text": "环保投入 光伏发电量 2,877 48,422,497 万元 千瓦时",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 45,
+      "unit": "吨",
+      "original_text": "颗粒物（PM） 吨 50.72 56.54 45",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 15000,
+      "unit": "人",
+      "original_text": "截至2025年，柳工在全球拥有25个制造基地，15,000多名员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21,
+      "unit": "%",
+      "original_text": "女性 21%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 16,
+      "unit": "%",
+      "original_text": "公司管理人员中女性比例16%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 142330.41,
+      "unit": "万元",
+      "original_text": "2025 142,330.41 4.29",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.29,
+      "unit": "%",
+      "original_text": "2025 142,330.41 4.29",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 79.03,
+      "unit": "万元",
+      "original_text": "安全教育培训 万元 85 85 79.03",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1263.1,
+      "unit": "万元",
+      "original_text": "公司公益总投入达1,263.1万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "报告期内，公司董事会成员12人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比 33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "其中女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "召开董事会会议10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已明确'十五五'ESG战略规划，制定减碳目标：可再生能源占组织能源消耗总量百分比逐年提升、2030年碳达峰、2055年碳中和。积极践行科学碳目标（SBTi）倡议，推动零碳工厂建设。",
+      "original_text": "柳工已明确'十五五'ESG战略规划，针对气候变化领域制定具体的减碳目标，包括可再生能源占组织能源消耗总量百分比逐年提升、2030年实现碳达峰、2055年实现碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立覆盖全价值链的能源与环境管理体系，通过ISO 14001环境管理体系认证，制定多项环境管理制度，并设立健康安全环保管理委员会。",
+      "original_text": "覆盖全价值链的能源与环境管理体系，环境管理体系认证证书（部分）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司积极研发制造电动新能源产品，融合先进的节能减排技术，电动产品无废气、噪声排放，减少对化石燃料的依赖。",
+      "original_text": "柳工系统推进生态环境保护工作，积极研发制造电动新能源产品，融合先进的节能减排技术，减少对化石燃料的依赖。电动产品无废气、噪声排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司未在生态环境敏感脆弱区域开展生产经营活动，未发生损害生物多样性的事件。",
+      "original_text": "报告期内，公司未在生态环境敏感脆弱区域开展生产经营活动，未发生损害生物多样性的事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以循环经济实践为路径提升资源效率，推行多种节水措施，提高水资源重复利用率，废水回收利用率为2.27%，对废钢材等废弃物进行资源化回收利用。",
+      "original_text": "以循环经济实践为路径提升资源效率，协调推进生产方式绿色化，实现污染减排、环境改善、资源节约的多重价值共赢。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司明确禁止歧视、骚扰、强迫劳动、雇佣童工，建立多元化沟通渠道和申诉机制，保障员工人权。",
+      "original_text": "视、禁止骚扰、禁止强迫或强制劳动、禁止雇佣童工、多元化与包容性等14个关键领域做出明确规定。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司及17家子公司获得职业健康安全管理体系认证，建立健康安全环保管理委员会，制定风险识别控制程序，开展安全培训。",
+      "original_text": "柳工及17家子公司均获得职业健康安全管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过宣导培训、协议约束与协同赋能，与供应商签订安全环保生产协议书和承诺书，开展供应商质量大会。",
+      "original_text": "柳工将ESG理念融入供应链管理，通过宣导培训、协议约束与协同赋能",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司设立质量委员会和首席质量官，制定质量激励与责任追究制度，产品出厂合格率100%，报告期内无质量安全事故。",
+      "original_text": "报告期内，公司未发生任何质量安全事故与投诉。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司定期组织信息安全培训，与员工签订保密协议和竞业限制，参与网络安全攻防演练，报告期内未发生违反科技伦理行为。",
+      "original_text": "守数据安全、隐私保护等科技伦理要求，依规开展科技创新与运营。报告期内，公司未发生违反科技伦理的行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身乡村振兴、兴教助学、社区共建，开展消费帮扶和公益助学金捐赠，组织员工及家属家庭开放日等活动。",
+      "original_text": "积极投身乡村振兴、兴教助学、社区共...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重员工隐私与自我认同，提供多元化培训，女性管理人员比例16%，享受产假和育儿假员工返岗率100%。",
+      "original_text": "本公司尊重员工的个人隐私与自我认同，截止报告期末，有56名员工未提供或选择不披露其性别信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已建立由董事会、战略与ESG委员会、ESG领导小组、ESG工作小组组成的ESG治理架构，并制定《ESG管理制度》。",
+      "original_text": "柳工全面建设ESG治理体系，已于2024年制定《ESG管理制度》，建立由董事会、战略与ESG委员会、ESG领导小组、ESG工作小组组成的ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《反腐败合规管理指引》等制度，建立全过程反腐败管理体系，开展培训，并在供应商合同中加入廉洁从业条款。",
+      "original_text": "柳工制定《反腐败合规管理指引》《法律合规组织管理办法》等制度文件，加强对反腐败的合规管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司已形成现代化、国际化合规治理体系，确立由董事会合规管理委员会统一领导的“三道防线”架构，制定系列合规制度文件。",
+      "original_text": "柳工在合规治理体系的构建中，历经合规组织建设、合规规范运行、合规标准化体系三个阶段，已初步形成一套具有行业标杆意义的现代化、国际化合规治理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司制定《风险识别控制程序》《风险评价及分级管控程序》等制度，合规委员会统筹风险管理，设立法律合规组织，实施垂直管理。",
+      "original_text": "柳工将风险管理深度融入企业战略与日常运营，持续推动风险管理体系的系统化完善与效能提升",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过业绩说明会、互动易平台、投资者热线等多元化渠道与投资者沟通，报告期内开展交流活动超280场。",
+      "original_text": "公司制定《投资者关系管理制度》，明确由董事长承担首要责任，董事会秘书处统筹执行投资者关系管理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司制定《利益相关方沟通制度》，系统化规范化管理与各利益相关方的沟通，通过问卷等形式识别重要议题。",
+      "original_text": "柳工高度重视利益相关方的期望和诉求，制定《利益相关方沟通制度》，系统化、规范化地管理与存在利益关联或受其活动影响各方的沟通活动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露制度》等，确保及时、准确、完整披露信息，报告期内年度信息披露考评等级为A级。",
+      "original_text": "公司制定并完善了《信息披露制度》《自愿性信息披露制度》《信息披露暂缓与豁免事务管理制度》...报告期内，公司年度信息披露考评等级为A级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司制定《税务管理制度》及相关业务指引，健全税务风险管理。",
+      "original_text": "为健全税务风险管理，公司制定了《税务管理制度》及相关业务指引",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

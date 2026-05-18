@@ -1,0 +1,441 @@
+{
+  "company_name": "盛航股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 252378.0,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 252,378.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 199909.99,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 199,909.99",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 262.01,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 262.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 174.92,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/百万元营收 174.92",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 115390.97,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 115,390.97",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 158637.05,
+      "unit": "立方米",
+      "original_text": "总耗水量 立方米 158,637.05",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 104175.07,
+      "unit": "立方米",
+      "original_text": "废水排放总量 立方米 104,175.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 691.43,
+      "unit": "吨",
+      "original_text": "无害废弃物产生量 吨 301.75; 有害废弃物产生量 吨 389.68",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 6637.06,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）排放量 吨 6,637.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 288.87,
+      "unit": "吨",
+      "original_text": "硫氧化物（SOx）排放量 吨 288.87",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 168,
+      "unit": "人",
+      "original_text": "员工总人数 人 168",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 12.5,
+      "unit": "%",
+      "original_text": "女性董事1名，占比12.50%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 10.01,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 10.01",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 9.03,
+      "unit": "%",
+      "original_text": "员工离职数 人，员工流失率 % 14 9.03",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2896.79,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 2,896.79",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "截至报告期末，公司共有董事8名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "独立董事3名，占比37.50%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名，占比12.50%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及董事会会议次数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "已完成监事会改革，但未提及具体人数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司锚定'双碳'目标，制定绿色低碳转型发展'三步走'战略，包括节能减排新技术示范应用、船队逐步适配零碳燃料、全面转向零碳动力新船型等。",
+      "original_text": "公司响应国家'双碳'目标和《IMO船舶温室气体减排初步战略》，制定绿色低碳转型发展'三步走'战略。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定《HSEEn职业健康安全、环境、能源管理手册》《环境保护管理程序》等制度，构建并运行基于ISO 14001的环境管理体系。",
+      "original_text": "公司制定《HSEEn职业健康安全、环境、能源管理手册》《环境保护管理程序》等制度，构建并运行基于ISO 14001的环境管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司应用长效型有机硅防污漆，新船配备SCR装置降低氮氧化物排放，满足IMO Tier III标准。",
+      "original_text": "应用长效型有机硅防污漆；主推进系统配备选择性催化还原（SCR）装置，可高效降低氮氧化物排放，满足国际海事组织（IMO） Tier III标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司制定《绿色可持续发展及生物多样性管理制度》，规范船舶污水、垃圾及压载水的合规处理，严格避开生物敏感水域和生态保护区。",
+      "original_text": "制定《绿色可持续发展及生物多样性管理制度》，规范船舶污水、垃圾及压载水的合规处理。在贸易及船舶航线运营范围内，严格避开生物敏感水域和生态保护区。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行'源头减量、分类回收、循环复用'的废弃物管理模式，岸基办公区域实施垃圾分类，废旧电池、硒鼓专项回收，船舶废弃物分类收集处理。",
+      "original_text": "公司推行'源头减量、分类回收、循环复用'的废弃物管理模式，岸基办公区域实施垃圾分类管理，对废旧电池、打印机硒鼓等废弃物进行专项回收处理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司重视员工合法权益保障，严格遵循劳动法、劳动合同法等法律法规，制定人力资源管理制度，保障员工休息时间，禁止雇佣童工、强迫劳动、歧视等行为。",
+      "original_text": "盛航股份重视员工合法权益保障，致力于营造公平、和谐的工作环境，严格遵循《中华人民共和国劳动法》《中华人民共和国劳动合同法》《中华人民共和国社会保险法》等法律法规，制定完善《人力资源管理制度》《员工手册》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO 45001职业健康安全管理体系认证，制定职业健康管理制度，定期组织职业健康体检，开展职业健康培训与宣传教育，保障员工身心健康。",
+      "original_text": "公司及子公司盛航浩源已通过ISO 45001职业健康安全管理体系认证；公司定期开展职业健康培训与宣传教育，强化员工对职业危害的认知",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司定期对供应链环境、健康与安全、劳工权益及道德风险等方面进行全面评估与识别，提供培训等赋能服务，强化供应链各环节的协同适配性。",
+      "original_text": "公司定期对供应链环境、健康与安全、劳工权益及道德风险等方面进行全面评估与识别，充分识别和评估...项培训等赋能服务，强化供应链各环节的协同适配性",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司及旗下船舶严格遵循ISM要求，搭建完善的安全质量管理体系，已拥有ISO 9001质量管理体系认证，制定安全质量管理手册等制度。",
+      "original_text": "公司及旗下船舶严格遵循ISM要求，搭建完善的安全质量管理体系，截至报告期末，已拥有ISO 9001质量管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视信息安全与隐私保护，制定信息安全管理制度，实现信息安全培训全员覆盖，建立应急响应机制，采取立体化安全防护策略。",
+      "original_text": "盛航股份高度重视信息安全与隐私保护，将信息安全纳入ESG管理体系，严格遵循《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规，制定《信息安全管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过开展公益慈善捐赠、志愿服务等方式积极履行企业社会责任，主动投身民生改善、生态保护等社会公益事业。",
+      "original_text": "公司通过开展公益慈善捐赠、志愿服务等方式积极履行企业社会责任，主动投身民生改善、生态保护等社会公益事业",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司对不同性别、种族、年龄等背景的员工一视同仁，打造包容的工作环境，在招聘及员工任用过程中不歧视。",
+      "original_text": "拓展优质人才库，同时践行多元化与国际化战略，对不同性别、种族、年龄等背景的员工一视同仁，打造包容的工作环境",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了由董事会统筹、战略与可持续发展委员会研究指导、总经理牵头的ESG管理领导小组推进的ESG治理体系，并制定了相关制度。",
+      "original_text": "公司将可持续发展融入整体治理架构，构建起结构完整、权责清晰、运营高效的ESG治理体系。董事会统筹战略方向；战略与可持续发展委员会承担研究指导与风险评估职能；总经理牵头的ESG管理领导小组负责具体工作推进。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《反商业贿赂管理办法》等制度，设立首席反商业贿赂合规官，将廉洁从业要求嵌入供应链管理，并开展培训。",
+      "original_text": "公司将反商业贿赂纳入合规管理总体框架，制定《反商业贿赂管理手册》，设立首席反商业贿赂合规官，领导风控管理部督促落实反商业贿赂工作，协调开展反商业贿赂培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德准则，在反贪污、反垄断、反不正当竞争等方面持续强化合规，并推动产业链合规共建。",
+      "original_text": "恪守商业道德准则，将廉洁从业要求嵌入供应链管理，推动产业链合规共建，营造公平竞争的市场环境与社会风气。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了覆盖决策、执行、监督的全链条风险防控体系，董事会全面负责内控，制定并持续完善风险管理制度。",
+      "original_text": "通过构建内部审计与分级问责制度，形成覆盖决策、执行、监督的全链条风险防控体系。董事会全面负责内控，制定并持续完善风险管理制度和内控管理制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《市值管理制度》，构建以董事会为领导机构、证券事务部为执行部门的市值管理组织体系，并通过业绩路演、互动易等方式与投资者沟通。",
+      "original_text": "公司依据相关法律法规制定《市值管理制度》，秉持'合规性、科学性、系统性、常态性'的原则，构建以董事会为领导机构、证券事务部为具体执行部门、各部门及子公司协同配合的市值管理组织体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立信息沟通机制，通过访谈、座谈、问卷调查等方式常态化开展多方交流，识别重要议题。",
+      "original_text": "公司尊重并保障利益相关方的合法权益，建立信息沟通机制，常态化开展多方交流，通过访谈、座谈、问卷调查等多种方式听取利益相关方的反馈意见和建议。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司依托信息披露管理制度优化治理透明度，建立多维度标准化披露框架，提升信息披露质量和经营管理效能。",
+      "original_text": "依托信息披露管理制度优化治理透明度，建立战略、运营、风险、合规多维度标准化披露框架，提升信息披露质量和经营管理效能。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵循国家税收法律法规，制定并持续完善税务管理制度，设置专门税务管理岗位，定期开展税务培训，保障税务管理合法合规。",
+      "original_text": "公司严格遵循国家现行税收相关法律法规及政策要求，结合自身经营发展实际情况，制定并持续完善税务管理制度...设置专门的税务管理岗位，明确职责...定期开展税务培训，提升专业素质，有效降低潜在税务风险",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

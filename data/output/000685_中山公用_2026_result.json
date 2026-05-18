@@ -1,0 +1,441 @@
+{
+  "company_name": "中山公用",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 265084.38,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量 吨二氧化碳当量 265,084.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 29489.07,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 29,489.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 235595.31,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 235,595.31",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 57.48,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/百万元营收 57.48",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 173033.96,
+      "unit": "吨标煤",
+      "original_text": "能源消耗总量 吨标煤 173,033.96",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 69084144,
+      "unit": "吨",
+      "original_text": "2025年，公司总耗水量为0.69亿吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 328575700,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨 32,857.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 1410.95,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 974.90 898.52 1,410.95",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 125.06,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量 吨 125.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 35.96,
+      "unit": "吨",
+      "original_text": "悬浮粒子与颗粒物（PM）排放量 吨 26.37 25.60 35.96",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 6825,
+      "unit": "人",
+      "original_text": "员工总人数 人 5,080 5,794 6,825",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21.46,
+      "unit": "%",
+      "original_text": "女性员工占比 % 21.46 22.13 20.82",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性管理者占比 % 3.54 29.21 27.12",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 188.95,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 188.95 120.81 143.53",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 12.24,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 小时 12.24 20.87 11.15",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "员工流失率 % - 8.90 9.38",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1.17,
+      "unit": "亿元",
+      "original_text": "全年科技研发投入 亿元 1.17",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3,
+      "unit": "%",
+      "original_text": "研发投入占比 % 3 3 2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 6937.59,
+      "unit": "万元",
+      "original_text": "投入安全生产费用6,937.59万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 22.54,
+      "unit": "万元",
+      "original_text": "公益捐赠总额 万元 22.54 8.72 97.45",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司锚定'双碳'目标，积极应对气候变化，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "锚定'双碳'目标，应对气候变化",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立健全环境管理体系，截至2025年12月，下属7家企业已取得ISO 14001环境管理体系认证证书。",
+      "original_text": "截至2025年12月，下属公用工程、公用热力、中部公用、北部公用、株洲公用、市场公司、排水公司共7家企业已取得ISO 14001环境管理体系认证证书。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司布局绿色能源赛道，提供分布式光伏、零碳园区、能源托管、节能改造、碳管理等绿色服务。",
+      "original_text": "中山公用积极布局绿色能源赛道，服务城市能源结构绿色低碳转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进资源循环利用，如中水回用、污泥资源化、垃圾焚烧发电等。",
+      "original_text": "在固废处理方面，坚持并购扩张与资源循环闭环建设",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持平等就业，抵制歧视，严禁强迫劳动、骚扰虐待等行为，严格禁止使用童工，尊重员工性别、宗教信仰与文化差异；劳动合同签订率100%。",
+      "original_text": "坚持平等就业，抵制歧视，严禁强迫劳动、骚扰虐待等行为，严格禁止使用童工，对所有员工一视同仁，尊重员工性别、宗教信仰与文化差异；公司劳动合同签订率为100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司持续健全安全生产与职业健康管理体系，常态化开展安全宣教与实操培训，投入安全生产费用6,937.59万元，工伤保险覆盖率100%，未发生一般以上安全生产责任事故。",
+      "original_text": "公司持续健全安全生产与职业健康管理体系，常态化开展安全宣教与实操培训，压实主体责任保障作业安全；投入安全生产费用6,937.59万元，工伤保险覆盖率100%；发生一般以上安全生产责任事故0起。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司严格落实责任采购要求，推动各下属单位健全招标采购制度，规范供应商评价与遴选标准，持续优化供应链管理体系；强化供应商资质审核与风险管控。",
+      "original_text": "公司严格落实责任采购相关要求，推动各下属单位健全招标采购制度，规范供应商评价与遴选标准，持续优化供应链管理体系；强化供应商资质审核与风险管控，有效防范供应链全链条风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司秉持'安全供水、优质服务'的质量方针，持续健全以客户为中心的质量管理体系，已通过ISO 9001质量管理体系认证；报告期内未发生产品及服务相关的重大安全与质量责任事故。",
+      "original_text": "始终秉持'安全供水、优质服务、追求卓越、责任担当'的质量方针，持续健全以客户为中心的质量管理体系；已通过ISO 9001质量管理体系认证；报告期内，未发生产品及服务相关的重大安全与质量责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司开展维护客户信息安全培训，报告期内培训次数4次（2025年），并提及数据安全与客户隐私保护议题。",
+      "original_text": "维护客户信息安全培训次数 次 4 3 11；数据安全与客户隐私保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司以'百千万工程'为引领助力乡村振兴，开展结对帮扶、基础设施建设、志愿服务等活动；2025年结对帮扶个村（社区）项目完工，相关行动惠及群体。",
+      "original_text": "以'百千万工程'为引领助力乡村振兴，以专业优势投身社区服务；2025年，公司结对帮扶个村（社区）项目完工，相关行动惠及群体。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等就业，抵制歧视，尊重员工性别、宗教信仰与文化差异；通过多元引才渠道与透明选拔机制，打造多元化员工队伍；少数民族员工占比2.73%（2025年）。",
+      "original_text": "坚持平等就业，抵制歧视，严禁强迫劳动、骚扰虐待等行为，严格禁止使用童工，尊重员工性别、宗教信仰与文化差异；通过多元引才渠道与透明选拔机制，打造业务过硬、履职尽责、富有创新精神的员工队伍。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立起跨单位联动的ESG管理工作机制，公司党委、董事会以及战略委员会积极推进ESG治理融入公司战略。",
+      "original_text": "中山公用按照公司战略规划，结合行业特色，建立起跨单位联动的ESG管理工作机制。公司党委、董事会以及战略委员会...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司坚决扛起全面从严治党主体责任，持之以恒抓好党风廉政建设和反腐败工作，常态化开展廉洁教育培训。",
+      "original_text": "公司坚决扛起全面从严治党主体责任，持之以恒抓好党风廉政建设和反腐败工作，常态化开展廉洁教育培训，筑牢党员...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司依法合规经营，健全合规管理体系，持续深化国企改革，认真履行信息披露义务。",
+      "original_text": "依法合规经营，夯实稳健运营。健全有效的公司治理是企业实现高质量发展的基石。中山公用夯实公司治理体系，健全合规管理体系...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司高度重视环境和气候风险管理，常态化开展气候相关风险识别与评估，制定针对性管控措施，实现对气候风险的有效防范与闭环管理。",
+      "original_text": "公司高度重视环境和气候风险管理，常态化开展气候相关风险识别与评估，制定针对性管控措施，实现对气候风险的有效防范与闭环管理...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格遵循《上市公司投资者关系管理工作指引》，重视投资者关系管理工作，通过多元方式与投资者交流。",
+      "original_text": "公司严格遵循《上市公司投资者关系管理工作指引》，重视投资者关系管理工作，聚焦媒体采访、官网官微、互动平台、交流会、业绩说明会等多元方式...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司持续完善与各利益相关方的日常沟通机制，通过官方微信公众平台、企业官方网站、社交媒体等多种渠道进行沟通。",
+      "original_text": "公司持续完善与各利益相关方的日常沟通机制，充分尊重和保障利益相关方的知情权和参与权...通过官方微信公众平台、企业官方网站、社交媒体、财经媒体采访、互动平台、路演、参与公益活动等形式...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司持续健全信息披露制度体系，强化全流程审核及风险把控，落实关键信息复核机制，保障披露内容的准确性与完整性。",
+      "original_text": "持续健全信息披露制度体系，强化全流程审核及风险把控，落实关键信息复核机制，保障披露内容的准确性与完整性，切实提升定期报告编制质量。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告中提到依法纳税，但未详细披露税务透明度相关具体措施。",
+      "original_text": "依法纳税，创造就业",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "浙商中拓",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 37820.48,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 16,957.96 29,343.28 37,820.48",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 22481.95,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量2 吨二氧化碳当量 16,135.39 20,865.00 22,481.95",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 15338.53,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量（基于位置）3 吨二氧化碳当量 822.57 8,478.28 15,338.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.16,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "每百万元营收温室气体排放总量4 吨二氧化碳当量 0.08 0.15 0.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 17523.75,
+      "unit": "吨标煤",
+      "original_text": "能源消耗总量2 吨标煤 10,313.62 14,855.00 17,523.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 5.44,
+      "unit": "%",
+      "original_text": "可再生能源消耗量占比6 % 4.07 2.57 5.44",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 245876,
+      "unit": "吨",
+      "original_text": "总耗水量8 立方米 15,945.47 197,500.00 245,876.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 139059.4,
+      "unit": "吨",
+      "original_text": "废水排放总量 立方米 —— 56,000.00 139,059.40",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 13762.04,
+      "unit": "吨",
+      "original_text": "废弃物总量 吨 12,209.20 12,240.88 13,762.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 0,
+      "unit": "万元",
+      "original_text": "万元 0 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2094,
+      "unit": "人",
+      "original_text": "员工总人数（全职劳动合同制） 人 2,531 2,408 2,094",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 45.8,
+      "unit": "%",
+      "original_text": "女性员工比例 % 43.66 44.31 45.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 371.34,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 —— 298.26 371.34",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 15.57,
+      "unit": "小时/人",
+      "original_text": "员工接受培训的人均时长 小时 17.46 26.07 15.57",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 20.2,
+      "unit": "%",
+      "original_text": "员工流失率1 % 12.03 14.06 20.20",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 14231.87,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 6,476.53 12,377.00 14,231.87",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.06,
+      "unit": "%",
+      "original_text": "研发投入金额占主营业务收入比例2 % 0.03 0.06 0.06",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 13.0,
+      "unit": "万元",
+      "original_text": "员工安全生产责任险投入金额 万元 7.10 9.20 13.00",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 77.0,
+      "unit": "万元",
+      "original_text": "慈善捐赠金额1 万元 25.00 165.00 77.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告披露日，公司共有9名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "董事会中独立董事占比 % 33.33 33.33 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "董事会会议召开次数 次 9 11 10",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "董事会审计委员会会议召开次数 次 6 6 6",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳号召，聚焦光伏、锂电等新能源产业，推动能源结构清洁替代，并制定了碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司深刻把握能源革命的时代机遇，积极响应国家“双碳”号召，聚焦光伏、锂电等新能源产业，以供应链集成服务为生态基石...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定《实体型企业环保管理工作暂行规定》《环境保护工作管理制度》等管理制度，规范日常能源及水资源管理，并依托环境管理架构统筹管理污染物排放与废弃物处理。中拓新材料于2024年被嘉兴市评为“无废工厂”。",
+      "original_text": "公司制定《实体型企业环保管理工作暂行规定》《环境保护工作管理制度》等管理制度，规范日常能源及水资源管理...中拓新材料于2024年被嘉兴市评为“无废工厂”。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦光伏、锂电等新能源产业，提供户用光伏、工商业光伏、两轮换电等绿色产品与服务，并拓展海外光伏业务。",
+      "original_text": "聚焦光伏、锂电等新能源产业，以供应链集成服务为生态基石...户用光伏品牌中拓光盈...两轮换电业务...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司聚焦废钢等再生资源领域，打造废钢资源集散中心，推动钢铁行业绿色低碳发展。中拓新材料酸洗、磷化后清洗废水经回用水池沉淀处理后回用。",
+      "original_text": "在再生资源领域，公司聚焦废钢...打造区域内废钢资源集散中心...中拓新材料酸洗、磷化后清洗废水经回用水池沉淀处理后回用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持以人为本，遵守劳动法律法规，杜绝童工和强迫劳动，提供带薪年休假、父母陪护假、育儿假等福利，并建立民主管理机制。",
+      "original_text": "浙商中拓坚持以人为本，秉承‘六有’人才观，严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规及监管要求，坚决杜绝聘用童工及强迫劳动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO 45001:2018职业健康安全管理体系认证，建立‘1+4+X’安全监管格局，2025年未发生安全生产责任事故。",
+      "original_text": "公司已通过ISO 45001:2018职业健康安全管理体系认证。2025年，公司未发生安全生产责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行资信实力、运营质量及业务安全性、盈利性、可持续性综合评估，建立‘黑白灰’名单制度，强化供应链安全及韧性。",
+      "original_text": "对供应商的资信实力、运营质量及业务安全性、盈利性、可持续性进行综合评估，给予一定的信用额度。建立‘黑白灰’名单制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO 9001:2015质量管理体系认证，质检中心通过CNAS国家实验室认可，制定产品质量管理暂行规定。",
+      "original_text": "2025年，公司已通过ISO 9001:2015质量管理体系认证，公司质检中心通过CNAS国家实验室认可。公司制定《浙商中拓集团生产制造单位产品质量管理暂行规定》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定数据安全管理制度，2025年未发生数据安全事件及客户隐私泄露事件，开展安全培训和应急演练。",
+      "original_text": "2025年，公司未发生数据安全事件及客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司参与共同富裕建设，开展志愿服务、公益献血、敬老助老等活动，捐赠慈善款项。",
+      "original_text": "公司全年多频次开展“学雷锋”“公益献血”“敬老助老”等主题...慈善捐赠金额1 万元 25.00 165.00 77.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司杜绝歧视，坚持公平公正公开招聘，推进校企合作，注重员工多元化。",
+      "original_text": "公司杜绝任何性别、年龄、国籍、种族、宗教信仰等方面的歧视，以公平、公正、公开的招聘策略吸引人才。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建由'董事会战略与ESG委员会－战略与ESG工作委员会－办公室'三级ESG治理架构，明确各层级职责。",
+      "original_text": "公司搭建由'董事会战略与ESG委员会－战略与ESG工作委员会－办公室'三级气候变化治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司董事会统筹领导商业道德与反腐败工作，开展新员工入职廉洁教育，推进数智纪检三期建设，优化监督预警模型。",
+      "original_text": "公司董事会统筹领导公司商业道德与反腐败工作，审计委员会及高级管理层协同开展工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立以《合规管理办法》《全面风险管理办法》为核心的'1+N+N'合规制度体系，动态监测预警合规风险。",
+      "original_text": "浙商中拓秉持'制度至上、合规为先'的决策理念，建立以《合规管理办法》《全面风险管理办法》为核心的'1+N+N'合规制度体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立由战略与ESG工作委员会主导的常态化风险管理流程，覆盖识别、评估、管理和监督环节。",
+      "original_text": "公司建立了系统的气候相关风险和机遇管理流程，覆盖识别、评估、管理和监督三大关键环节",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过业绩说明会、分析师会议、投资者热线等渠道与投资者沟通。",
+      "original_text": "公司制定《投资者关系管理制度》，坚持以合规性、平等性、主动性、诚实守信原则开展投资者关系管理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别六大关键利益相关方，建立多元化、常态化的沟通机制，包括股东会、投资者热线、供应商审查等。",
+      "original_text": "公司建立多元化、常态化的利益相关方沟通机制，充分倾听各利益相关方的意见和反馈",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司依法履行信息披露义务，获得'最佳信披奖'，董事会对报告内容保证真实、准确、完整。",
+      "original_text": "董事会对报告的内容进行保证，不存在虚假记载、误导性陈述或重大遗漏",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.913
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

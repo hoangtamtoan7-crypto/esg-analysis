@@ -1,0 +1,441 @@
+{
+  "company_name": "申万宏源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围 范围 ） 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围 温室气体排放量 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围 温室气体排放量 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "员工总数为全职劳动合同制员工数，不包括劳务派遣工、经纪人等其他雇佣形式员工。",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 47.72,
+      "unit": "%",
+      "original_text": "女性员工占比 47.72%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均小时数 小时",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公益基金会向该项目投入公益资金 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "董事11名，独立非执行董事4名；女性董事2名，占董事会比例18.2%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立非执行董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'目标，将环境和气候风险纳入全面风险管理体系，制定《环境和气候风险管理办法》，明确管理原则和流程。",
+      "original_text": "公司积极响应国家'双碳'目标以及应对气候变化工作的战略部署...制定《申万宏源集团股份有限公司环境和气候风险管理办法（试行）》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，通过ISO 14001:2015认证，并制定相关管理办法。",
+      "original_text": "公司已建立完善的环境管理体系，通过了ISO 14001:2015认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司持续开展绿色融资、绿色投资、碳金融、绿色研究等业务，创新绿色金融产品，支持绿色产业发展。",
+      "original_text": "公司从绿色融资、绿色投资、碳金融、绿色研究等多方面推进绿色金融业务，强化产品创新",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司倡导绿色低碳办公，包括节约用电、无纸化办公、低碳出行等，但未明确提及循环经济具体实践。",
+      "original_text": "倡导员工践行'节约用水用电，随手关灯、关电脑、关设备、关水龙头'的低碳行动，并从节约用电、无纸化办公、低碳出行、绿色机房建设等方面开展工作",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定了一系列员工管理制度，涵盖招聘、解雇、薪酬、福利、晋升、培训等，保障员工权益，落实同工同酬，提供社会保险和福利。",
+      "original_text": "公司已制定全面的员工管理目标，涵盖劳动关系、机会公平、多元包容、员工流动与满意度以及人才发展等方面。严格落实同工同酬原则，员工薪酬待遇不因性别等因素而存在差异。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司保障工作场所安全，保护员工健康，未因违反职业安全和健康相关法律法规而受到处罚。提供员工体检、心理健康服务、保险等。",
+      "original_text": "力保障工作场所安全，保护员工健康。报告期内，公司未因违反职业安全和健康相关法律法规而受到处罚。每年组织员工体检。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商准入、监督与整改的闭环管理机制，开展供应链风险排查和应急演练，确保数据安全。",
+      "original_text": "延伸至供应商合作环节，建立覆盖准入、监督与整改的闭环管理机制...制定涵盖信息技术供应链中断和供应链攻击等场景的应急预案并开展演练、加强供应商监督检查。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过金融科技赋能，提升服务质量与客户满意度，优化产品功能，提供优质金融产品与服务。",
+      "original_text": "提供优质产品与服务、金融科技赋能、数据安全与客户隐私保护。围绕财富管理转型、智能化服务升级等战略目标，全面优化产品功能与服务架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视数据安全与隐私保护，建立完善的管理体系，制定多项内部规范，开展培训，设定管理目标，报告期内未发生客户隐私泄露事件。",
+      "original_text": "公司高度重视数据安全与隐私保护，将其视为业务发展的基础和赢得客户信任的关键。公司持续完善数据安全与客户隐私保护管理体系，建立健全管理架构。公司未有数据安全和客户隐私泄露事件发生。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极开展社区沟通与支持，通过公益基金会开展社区公益项目，如支持社区治理、养老、青少年教育等，组织志愿者活动。",
+      "original_text": "积极开展社区沟通与支持。上海申万宏源公益基金会成立志愿者队伍，聚焦城市老龄化背景下社区治理与养老服务需求，定向支持社区公益项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司注重员工多元化建设，每年开展少数民族招聘并吸纳退役士兵，制定《董事会成员多元化政策》，从性别、年龄等方面促进多元化。",
+      "original_text": "公司注重员工多元化建设，每年积极开展少数民族招聘并吸纳退役士兵，拓宽多元人才来源。公司制定《董事会成员多元化政策》，从性别、年龄等方面促进多元化。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立‘董事会—董事会战略与委员会—管理领导小组’三层管理架构，从治理、管理到执行自上而下高效运作。董事会战略与委员会负责研究ESG相关规划、目标、制度及重大事项，为董事会提供ESG战略咨询建议。",
+      "original_text": "公司建立“董事会—董事会战略与 委员会— 管理领导小组”三层 管理架构，从治理、管理到执行自上而下高效运作，以实际行动推动 管理目标实现。董事会战略与 委员会负责研究公司 相关规划、目标、制度及重大事项，为董事会提供 战略相关咨询建议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定廉洁风险防控工作体系，董事会承担廉洁风险管理最终责任。每年组织对所有单位廉洁风险排查，持续通过专题会议、合规培训、警示教育等形式弘扬廉洁文化，要求全体员工签署廉洁从业承诺书。",
+      "original_text": "单位各负其责的廉洁风险防控工作体系。董事会承担廉洁风险管理的最终责任，执行委员会是公司落实廉洁从业管理的执行机构。每年组织对所有单位廉洁风险排查。持续通过专题会议、合规培训、警示教育等多种形式，向全体员工弘扬“崇廉拒腐”的价值理念",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立由董事会及其专业委员会、经营管理层、各业务总部和分支机构、法律合规部门等共同参与的合规管理体系。2025年未发生重大合规风险事件。加强对重点业务和关键环节的合规审查与风险防控。",
+      "original_text": "公司建立由董事会及其专业委员会、经营管理层、各业务总部和分支机构、法律合规部门、相关职能管理部门共同参与的合规管理体系。2025年，公司未发生重大合规风险事件，整体合规状况持续保持良好。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，包括市场风险、信用风险、流动性风险、操作风险等。董事会下设风险控制委员会，制定《环境和气候风险管理办法》，明确三道防线职责。将ESG风险管理纳入全面风险管理体系。",
+      "original_text": "公司建立由“董事会及其专业委员会、执行委员会、合规总监/分管领导、合规部门、各部门和分支机构和子公司”组成的全面风险管理体系。制定《环境和气候风险管理办法》，明确三道防线环境和气候风险管理的职责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》《投资者关系管理制度》，通过业绩说明会、券商策略会等方式与投资者沟通。2025年获得中国上市公司协会‘董事会办公室最佳实践’、‘业绩说明会最佳实践’等荣誉。",
+      "original_text": "公司严格遵守《上市公司信息披露管理办法》等监管规定，制定《信息披露管理制度》《投资者关系管理制度》。2025年，公司获得中国上市公司协会“董事会办公室最佳实践”、“业绩说明会最佳实践”等荣誉。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司定期通过利益相关方问卷调研与专家评分相结合的方式开展双重重要性评估，与股东、政府、客户、员工、供应商等利益相关方保持常态化沟通，将其诉求纳入运营和决策过程。",
+      "original_text": "公司定期通过利益相关方问卷调研与专家评分相结合的方式开展双重重要性评估，结合政策分析、行业趋势研判、业务洞察及尽职调查，与利益相关方保持沟通交流，识别并评估相关影响、风险与机遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司编制发布《可持续发展暨环境、社会及管治报告》，参考GRI、深交所指引等标准，经董事会审议通过后对外披露。报告详尽披露ESG工作进展与成效。",
+      "original_text": "公司编制发布了《申万宏源集团股份有限公司 年度可持续发展暨环境、社会及管治报告》，以高质量信息披露回应监管要求。本报告详尽披露公司 年可持续发展暨 工作的进展与成效，于 年 月 日经董事会战略与 委员会审议通过，于 年 月 日经董事会审议通过。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.731
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

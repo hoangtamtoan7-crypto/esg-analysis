@@ -1,0 +1,442 @@
+{
+  "company_name": "中国东航",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放（二氧化碳排放 总量）* 单位 吨 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1温室气体排放 单位 吨 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2温室气体排放 单位 吨 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度（吨公里二 氧化碳排放） 单位 吨/万吨公里 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗总量 单位 千吨标准煤 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "可再生资源消耗量比例 单位 % 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "耗水量 单位 千吨 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 3967526.22,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 2023年 3,706,373.59 2024年 3,967,526.22 2025年 3,790,011.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "按类别分无害废弃物数量 单位 吨 2023年 总量 45,971 机上垃圾 36,586 生活垃圾 7,413 餐厨垃圾 1,972 2024年 2025年（数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "环境治理投入 单位 万元 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废气污染物排放量 单位 千克 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废气污染物排放量 单位 千克 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废气污染物排放量 单位 千克 2023年 2024年 2025年（表格中数值缺失）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 89277,
+      "unit": "人",
+      "original_text": "员工总数 89,277",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 37.0,
+      "unit": "%",
+      "original_text": "女性员工比例 37.0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "高管中按性别、年龄分人数 比例 按性别分：女性10.65 男性89.35",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1.23,
+      "unit": "亿元",
+      "original_text": "培训总投入 1.23亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 按性别分：女性92.2 男性118.9 按类别分：管理人员98.2 普通员工109.2",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.52,
+      "unit": "%",
+      "original_text": "员工总流失率:2.52",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 48500,
+      "unit": "万元",
+      "original_text": "公司研发投入4.85亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "工伤数量 77件 因工死亡人数 0",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 4595.75,
+      "unit": "万元",
+      "original_text": "公益总投入 万元 - - 4,595.75",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 55.18,
+      "unit": "亿元",
+      "original_text": "纳税总额 亿元 55.18",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至2025年底，公司董事会共9名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事占比（未提供具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及董事会会议次数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "未提及监事会规模",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和。董事会下设航空安全与环境委员会，定期评估气候风险与机遇，将气候因素纳入业务决策框架。",
+      "original_text": "公司制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和。董事会下设航空安全与环境委员会，负责对国内、国际与航空碳排放相关的环境保护重大问题进行审议，将气候因素纳入业务决策框架。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，发布《关于开展2025年度公司环境和能源管理体系工作的通知》，明确年度低碳环保工作要点。",
+      "original_text": "公司发布《关于开展2025年度公司环境和能源管理体系工作的通知》，明确年度低碳环保工作要点。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出“轻飞享”“低碳优享”等绿色产品，提供机上Wi-Fi、电子会员卡、电子登机牌、旅客碳排放计算器、多式联运等绿色低碳产品和服务，引导旅客“轻装出行”。",
+      "original_text": "推出“轻飞享”“低碳优享”等绿色产品，提供机上Wi-Fi、电子会员卡、电子登机牌、旅客碳排放计算器、多式联运等绿色低碳产品和服务，引导旅客“轻装出行”。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司提及加强生物多样性保护，但未提供具体措施或政策细节。",
+      "original_text": "加强生物多样性保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推广可降解机上用品，参与制定行业团体标准，并探索废弃物减量化和资源化利用。",
+      "original_text": "机上一次性用品更换为可降解材质...参与制定行业团体标准《境内始发客运航班机上一次性不可降解塑料制品替代产品技术要求》...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "所有员工均达到法定就业年龄，与员工建立劳动关系均基于双方自愿原则，并将上述要求延伸至供应链管理。",
+      "original_text": "所有员工均达到法定就业年龄，与员工建立劳动关系均基于双方自愿原则，并将上述要求延伸至供应链管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "保障员工身心健康，描述所采纳的职业健康与安全措施，以及相关执行及监察方法。",
+      "original_text": "保障员工身心健康",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "供应链ESG管理被列为重要议题，并延伸至供应商及业务合作伙伴管理，确保数据安全责任向供应链延伸。",
+      "original_text": "供应商及业务合作伙伴管理，确保数据安全责任向供应链延伸。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "产品和服务安全与质量，守护旅客健康出行，品质至上·美好体验。",
+      "original_text": "产品和服务安全与质量 守护旅客健康出行 P60-61",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "确定数据安全与隐私保护专职部门和管理层数据安全责任，建立覆盖全员的隐私与数据安全培训机制，定期开展数据治理和信息安全体系内外部审计。",
+      "original_text": "确定数据安全与隐私保护专职部门和管理层数据安全责任，建立覆盖全员的隐私与数据安全培训机制，定期开展数据治理和信息安全体系内外部审计。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "江西分公司连续28年开展“情暖社区”公益活动。",
+      "original_text": "江西分公司连续28年开展“情暖社区”公益活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "多元化与机会平等被列为重要议题，报告披露了按性别、年龄、地区等划分的员工数据。",
+      "original_text": "多元化与机会平等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由股东会、董事会和经理层构成的现代法人治理架构，董事会下设航空安全与环境委员会统筹ESG事务，审计和风险管理委员会负责监督ESG风险。",
+      "original_text": "东航股份董事会高度重视可持续发展（ESG）工作，对公司ESG事宜承担全面监管责任。董事会负责审定公司ESG战略方向、审批重大ESG政策、审议年度ESG报告。董事会下设航空安全与环境委员会，协助董事会统筹ESG事务，定期向董事会汇报ESG工作进展；审计和风险管理委员会负责指导监督ESG相关风险的识别与管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司坚决落实全面从严治党政治责任，纵深推进党风廉政建设和反腐败工作，加强新时代廉洁文化建设，深化党规党纪教育，覆盖超...（原文未完整）",
+      "original_text": "东航股份坚决落实全面从严治党政治责任，坚持党性党风党纪一起抓、正风肃纪反腐相贯通，纵深推进党风廉政建设和反腐败工作，为“十四五”圆满收官提供坚强纪律保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司将守法合规视为可持续发展基石，设立合规委员会，构建“三道防线”架构，完善以合规管理办法为统领、以反腐败反商业贿赂等关键领域合规指引为配套的制度体系。",
+      "original_text": "东航股份将守法合规视为公司可持续发展的基石，注重合规文化建设，将合规要求融入战略决策与企业运营。在组织体系建设上，公司设立合规委员会，与法治东航建设领导小组合署办公，形成由各单位部门具体落实、合规管理部门统筹协调、监督力量协同发力的“三道防线”架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立以风险主责单位为核心的风险管理执行机制，形成横向协同、纵向联动的风险管理网络。报告期内梳理出6项一级风险、45项二级风险，完善111项风险指标。",
+      "original_text": "公司建立以风险主责单位为核心的风险管理执行机制，各业务领域明确风险归口管理部门，落实风险管理主体责任，形成横向协同、纵向联动的风险管理网络。报告期内，公司健全风险指标库，对风险分类及定义进行更新维护，梳理出6项一级风险、45项二级风险，完善111项风险指标。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司坚持高质量开展信息披露和多层次投资者沟通交流工作，通过上证e互动平台、投资者电话会、年度路演、反路演等方式与投资者沟通，连续12年获得上交所信息披露A级评价。",
+      "original_text": "东航股份坚持高质量开展信息披露和多层次投资者沟通交流工作，维护投资者尤其是中小投资者的合法权益。2025年，聚焦“三飞”战略、“航空+文旅商体展”等经营亮点，通过上证e互动平台、公司投资者关系电话会、年度路演、邀请机构投资者到公司反路演等方式与投资者沟通。连续12年获得上交所信息披露A级评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司结合利益相关方期望和尽职调查，从“对公司财务的重要性”和“对经济、社会和环境的影响的重要性”两个维度识别重要议题，并设置定量目标。",
+      "original_text": "结合利益相关方期望和尽职调查，从“对公司财务的重要性”和“对经济、社会和环境的影响的重要性”两个维度识别重要议题，经董事会审定后在报告中详尽披露。重要议题设置了定量目标。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续12年获得上交所信息披露A级评价，报告内容不存在虚假记载、误导性陈述或重大遗漏。",
+      "original_text": "连续12年获得上交所信息披露A级评价。公司承诺本报告内容不存在任何虚假记载、误导性陈述或重大遗漏，并对其内容的真实性、准确性和完整性负责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600115_中国东航_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

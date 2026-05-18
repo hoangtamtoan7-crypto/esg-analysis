@@ -1,0 +1,442 @@
+{
+  "company_name": "兆易创新",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 6321.38,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体总排放量 吨二氧化碳当量 6,321.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 226.16,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范畴一温室气体排放量 吨二氧化碳当量 226.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 6095.22,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范畴二温室气体排放量 吨二氧化碳当量 6,095.22",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 109.72,
+      "unit": "吨二氧化碳当量/亿元营收",
+      "original_text": "温室气体总排放密度 吨二氧化碳当量/亿元营收 109.72",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 8,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "2023年公司综合能源消耗量8",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 17346,
+      "unit": "吨",
+      "original_text": "新鲜用水总量 吨 17,346.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1781,
+      "unit": "人",
+      "original_text": "按性别划分的员工数量 女性647人 男性1,134人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 36.3,
+      "unit": "%",
+      "original_text": "女性员工占比约36%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 25,
+      "unit": "%",
+      "original_text": "女性管理者占比 % 25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 26.73,
+      "unit": "小时/人",
+      "original_text": "人均培训时长达26.73小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 10.67,
+      "unit": "亿元",
+      "original_text": "研发投入共计10.67亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 18.52,
+      "unit": "%",
+      "original_text": "研发投入10.67亿元，占营业收入18.52%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "未发生工伤事故",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1321265.55,
+      "unit": "元",
+      "original_text": "公益项目投入总金额 1,321,265.55元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会现任董事9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 44.44,
+      "unit": "%",
+      "original_text": "其中独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "公司共计召开3次股东大会、7次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定《应对气候变化政策》，明确气候变化风险治理，设定中期目标：2030年公司范畴一和范畴二温室气体排放量较2021年降低50%。",
+      "original_text": "兆易创新制定《应对气候变化政策》，明确气候变化风险治...中期目标：2030年公司范畴一和范畴二温室气体排放量较2021年降低50%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定并严格落实《固废污染预防控制程序》《固体废物分类表》等，2023年获得环境管理体系内审员证书29人。",
+      "original_text": "公司制定并严格落实《固废污染预防控制程序》《固体废物分...2023年6月，公司获得环境管理体系内审员证书29人",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司不断开发具备低碳节能效益的产品，通过产品创新设计降低产品碳排放。",
+      "original_text": "兆易创新坚持低碳运营，不断开发具备低碳节能效益的产品。加强研发投入，通过产品创新设计，降低产品碳排放。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司实施废弃物分类管理，固体废弃物集中回收率100%，并推动电子固废回收利用。",
+      "original_text": "固体废弃物集中回收率100%，实现固体废弃物无害化管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵循劳动法，保障员工权益，实行无差别化招聘，男女同工同酬，签订劳动合同覆盖率100%，社会保险覆盖率100%。",
+      "original_text": "严格遵循《中华人民共和国劳动法》《中华人民共和国劳动合同法》等，劳动合同签订率100%，社会保险覆盖率100%，实行男女同工同酬。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，每月进行健康安全检查，每年开展危险源识别与评价，开展消防演习等应急演练，获得内审员证书29人。",
+      "original_text": "重视员工健康与安全，强化职业健康安全管理体系，每月进行健康和安全检查，每年开展危险源识别与评价工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商ESG评价体系，覆盖劳工权益、健康安全、环境、道德等，2023年完成100%Ⅰ类核心供应商ESG自评，审核覆盖比例73%。",
+      "original_text": "建立供应商ESG评价体系，评价标准覆盖劳工权益、健康与安全、环境、道德等方面。2023年完成100%Ⅰ类核心供应商ESG自评工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司注重产品质量，设置PQA岗位，开展6-sigma培训，通过ISO 26262汽车功能安全最高等级认证，建立质量培训体系。",
+      "original_text": "设置了专职于研发项目的产品质量保证（PQA）岗位，开展6-sigma线下培训，通过ISO 26262:2018汽车功能安全最高等级ASIL D体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司以ISO 27001为基准，搭建信息安全管理体系，开展员工信息安全意识培训，2023年未发生重大信息安全事件。",
+      "original_text": "以ISO 27001为基准，搭建信息安全管理体系，开展员工信息安全意识培训，2023年未发生重大信息安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区公益，2023年公益项目投入1,321,265.55元，支持公益慈善事业。",
+      "original_text": "公益项目投入总金额 1,321,265.55元，支持公益慈善事业。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司制定多元化政策，目标2025年女性管理者占比大于20%，研发技术女性员工占比大于25%，2023年女性员工占比约36%。",
+      "original_text": "制定员工多元化政策、目标与监控机制，短期目标：2025年，女性管理者占比大于20%；研发技术女性员工占比大于25%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由股东大会、董事会、监事会和管理层组成的治理架构，董事会下设战略委员会等四个专门委员会，并设立ESG工作小组负责ESG议题识别与评估。",
+      "original_text": "公司建立了由股东大会、董事会、监事会与管理层共同组成的治理架构。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会。ESG工作小组负责执行ESG各议题风险和机遇识别与评估工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司发布《商业道德准则》《反商业贿赂合规政策》等制度，建立反商业贿赂管理组织架构，开展腐败风险评估，并计划2024年上半年开展覆盖100%员工的反商业贿赂培训。",
+      "original_text": "公司发布《商业道德准则》《反商业贿赂合规政策》《举报及举报人保护政策》。公司反商业贿赂的最高管理层级为董事会。2023年，公司已制定计划邀请第三方机构开展商业道德与反腐败审计。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《贸易合规管理办法》等制度，建立合规委员会，开展贸易合规培训与审计，报告期内共开展4次专项培训，总时长达5.5小时，实现100%必修人员参训。",
+      "original_text": "公司制定《贸易合规管理办法》等合规制度，建立健全公司贸易合规管理体系。2023年公司合规委员会共开展3次会议。报告期内，我们共开展4次专项培训，总时长达5.5小时，实现100%必修人员参训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立由董事会领导、监事会监督、总经理办公会管理支持的风险管理架构，定期进行内部控制有效性评价，并将ESG风险融入公司风险清单。",
+      "original_text": "公司建立由董事会领导，监事会监督，总经理办公会管理支持的风险管理架构。兆易创新定期对公司的内部控制有效性进行评价。2023年，公司通过风险管理收集工具，向各部门收集ESG风险与机遇情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视投资者沟通，通过上证E互动、股东大会、业绩说明会等方式与投资者交流，2023年召开3次股东大会，并修订《投资者关系管理制度》。",
+      "original_text": "公司重视并积极与投资者沟通交流，听取投资者意见建议。2023年，公司在上证路演中心等平台与投资者交流。公司召开3次股东大会。公司对《投资者关系管理制度》进行了修订。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司搭建了完善的利益相关方沟通机制，与政府、股东、客户、供应商等保持密切沟通，并通过ESG报告披露、官网信息披露等方式回应利益相关方诉求。",
+      "original_text": "兆易创新重视利益相关方沟通，不断完善沟通机制。我们与政府、股东、客户、供应商、业务合作伙伴等利益相关方保持密切沟通。公司搭建了完善的利益相关方沟通机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照《上市公司信息披露管理办法》等法规进行信息披露，通过信息披露报刊和上交所网站披露信息，并制定《信息披露管理制度》。",
+      "original_text": "公司严格按照《中华人民共和国证券法》《上市公司信息披露管理办法》等相关法律法规，以及公司《信息披露管理制度》进行信息披露。投资者可以通过信息披露报刊《中国证券报》《上海证券报》以及上海证券交易所网站查阅公司2023年披露信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关措施或政策。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "603986_兆易创新_2024.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

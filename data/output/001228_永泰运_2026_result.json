@@ -1,0 +1,352 @@
+{
+  "company_name": "永泰运",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 133,
+      "unit": "万元",
+      "original_text": "永泰运化工物流股份有限公司向湖南省双峰县慈善会捐赠100万元...向绍兴市上虞区红十字会捐赠20万元...向上虞区慈善总会捐赠5万元...宁波市永港物流有限公司向宁波市北仑区慈善总会捐赠3万元...宁波凯密克物流有限公司出资5万元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司深刻认识到全球气候变迁的事实，关注全球气候议题的最新进展，承担起应负的气候责任。公司积极应对业务开展过程中燃油机动车和叉车造成的直接碳排放、电力使用造成的间接碳排放，制定自身减碳路径，将减少温室气体排放作为自身环境管理的组成部分。",
+      "original_text": "公司深刻认识到全球气候变迁的事实，关注全球气候议题的最新进展，承担起应负的气候责任。公司积极应对业务开展过程中燃油机动车和叉车造成的直接碳排放、电力使用造成的间接碳排放，制定自身减碳路径，将减少温室气体排放作为自身环境管理的组成部分。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已全面采用国际认可的环境管理体系（ISO14001）作为环境保护的指导体系，通过监督和监测不断发现问题，充分认识环境保护的重要性，预防污染，倡导环境保护，营造绿色环境。",
+      "original_text": "公司已全面采用国际认可的环境管理体系（ISO14001）作为环境保护的指导体系，通过监督和监测不断发现问题，充分认识环境保护的重要性，预防污染，倡导环境保护，营造绿色环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格按照劳动法保障员工合法权益，签订劳动合同，缴纳五险一金，并通过工会维护员工权益。",
+      "original_text": "公司严格按照《中华人民共和国劳动法》等相关法律法规规定，充分保障员工的合法权益。在与员工平等自愿、协商一致的基础上签订劳动合同，明确双方的权利和义务，依法确立劳动关系，并为员工缴纳基本养老保险、基本医疗保险、工伤保险、失业保险等法定社会保险及住房公积金。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚守安全红线，注重员工身心健康，提供安全的工作环境，并开展安全培训。",
+      "original_text": "坚守公司安全红线，坚守企业安全责任，对员工、股东、社会以及全体利益相关者负责。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区公益、慈善捐赠、养老关爱、特殊儿童帮扶等活动，并支持行业安全竞赛。",
+      "original_text": "永泰运化工物流股份有限公司向湖南省双峰县慈善会捐赠100万元，持续支持当地中学奖教助学公益活动；向绍兴市上虞区红十字会捐赠20万元，用于下管镇乐龄中心设施设备采购及改造；向上虞区慈善总会捐赠5万元，设立特殊儿童帮扶项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司为女性员工准备节日礼物，彰显对女性员工的尊重与关怀，但未提及其他多元化指标。",
+      "original_text": "司为女性员工准备了节日礼物，感谢她们的辛勤付出，彰显对女性员工的尊重与关怀。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系，通过互动易问答平台、业绩说明会、股东会、电话沟通等方式与投资者交流，设有投资者关系专线电话和电子邮箱。",
+      "original_text": "公司高度重视投资者关系，严格按照《上市公司投资者关系管理工作指引》关系管理制度》，通过互动易问答平台交流、业绩说明会、股东会、电话沟通、68 条；公司通过投资者关系专线电话，向致电的投资者认真解答其关心的问题；此外，公司还设有专门的投资者关系电子邮箱，官网设有投资者关系专栏，为公司做好投资者关系管理工作奠定了良好的基础。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "公司提及保障股东合法权益、与合作伙伴共同发展，但未系统描述利益相关方沟通机制。",
+      "original_text": "保障广大股东特别是中小股东享有平等的知情权；与客户、合作伙伴共同发展。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格履行信息披露义务，报告期内发布公告182份，信息披露真实、准确、完整、及时。",
+      "original_text": "在公司信息披露工作中，严格依照法律法规规章规范性文件和《公司章程》《重大信息内部报告制度》等规定，认真自觉履行信息披露义务，持续提高信息披露质量与透明度，提升公司规范运作水平和透明度。报告期内共发布公告182份，公司信息披露真实、准确、完整、及时，客观地反映公司发生的相关事项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 8,
+    "quantitative_valid": 8,
+    "quantitative_issues": [],
+    "qualitative_count": 14,
+    "qualitative_valid": 14,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.644
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 22,
+    "missing": 30,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_L03",
+        "name": "绿色产品与服务",
+        "type": "qualitative"
+      },
+      {
+        "id": "E_L04",
+        "name": "生物多样性保护",
+        "type": "qualitative"
+      },
+      {
+        "id": "E_L05",
+        "name": "循环经济实践",
+        "type": "qualitative"
+      },
+      {
+        "id": "S_Q01",
+        "name": "员工总数",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q02",
+        "name": "女性员工比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q03",
+        "name": "女性高管比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q04",
+        "name": "员工培训投入",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q05",
+        "name": "员工培训时长",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q06",
+        "name": "员工流失率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q07",
+        "name": "研发投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q08",
+        "name": "研发投入占营收比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q09",
+        "name": "安全生产投入",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q10",
+        "name": "工伤事故率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q12",
+        "name": "纳税总额",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_L03",
+        "name": "供应链ESG管理",
+        "type": "qualitative"
+      },
+      {
+        "id": "S_L04",
+        "name": "产品安全与质量",
+        "type": "qualitative"
+      },
+      {
+        "id": "S_L05",
+        "name": "数据安全与隐私保护",
+        "type": "qualitative"
+      }
+    ],
+    "completeness": 42.3
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "company_name": "南天信息",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 1300,
+      "unit": "小时/人",
+      "original_text": "培训总时长1300小时",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "召开董事会9次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "公司坚持走可持续发展道路，贯彻落实绿色发展理念，但未明确提及碳中和路线图或具体目标。",
+      "original_text": "坚持走可持续发展道路，公司全面落实环保企业的主体责任，坚持贯彻落实绿色发展理念",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001环境管理体系认证，并建立相关制度，如《环境污染防治责任制》《危险废弃物管理责任制》等。",
+      "original_text": "公司积极实施ISO14001环境管理体系并推行体系认证，严格按照环境管理体系的标准要求编制...主要环保制度有《突发环境事故综合应急预案》《环境污染防治责任制》《危险废弃物管理责任制》《环境因素识别和控制流程》等。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司提及智慧景区解决方案、以能看碳智能服务平台等，但未明确说明绿色产品认证或具体绿色服务占比。",
+      "original_text": "智慧景区解决方案、服刑人员资金管理系统、中小企业服务平台、以能看碳智能服务平台",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司参与植树活动，支持中国野生植物保护协会的“绿影计划”生态项目，但未系统阐述生物多样性保护策略。",
+      "original_text": "南天信息积极响应爱绿植绿护绿的号召，持续开展植树活动...兑换公益树苗，定向支持中国野生植物保护协会的“绿影计划”生态项目。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司倡导绿色办公、节约用电用水、无纸化办公，但未提及循环经济具体措施如废弃物资源化利用等。",
+      "original_text": "倡导全员“绿色办公”，持续做好科学合理的节约用电、用水，继续推广无纸化办公",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，依法签订劳动合同，保障同工同酬，实现零强迫劳动、零职场欺凌、零未成年人用工。",
+      "original_text": "南天信息严格遵守国家《劳动法》、《劳动合同法》等相关法律法规，依法与员工签订劳动合同，位员工都能享有同工同酬的权益，在日常运营中实现了零强迫劳动、零职场欺凌、零未成年人用工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO45001职业健康安全管理体系认证，建立安全生产管理体系，开展安全培训、健康体检、职业病体检等。",
+      "original_text": "ISO45001职业健康安全管理体系；每年组织员工进行定期健康体检，对从事有毒有害工种的员工，每年定期组织职业病健康体检，并建立员工职业病健康监护档案",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商评估体系，从市场规模、资质等维度把控，通过数字化手段管理供应商，实现供方资质在线管理。",
+      "original_text": "从供应链环节上对供应商的甄选严格把控，从市场规模、资质等维度对供应商进行筛选；通过数字化手段线上管理供应商，实现供方资质在线录入收集、建档更新、实时数据汇总",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO9001质量管理体系认证，建立完善的产品和服务质量评价机制，推动质量提升。",
+      "original_text": "ISO9001质量管理体系；强化全过程管控、健全完善产品和服务质量评价机制、推动产品和服务质量不断跃升",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过ISO27001、ISO27701等认证，制定信息安全管理办法，开展全员信息安全培训，保障客户数据安全。",
+      "original_text": "通过ISO27001信息安全管理体系、ISO27701隐私信息管理体系；发布《公司信息安全专项合规手册》及《公司信息安全管理办法》；常态化开展全员信息安全意识和技能培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，开展公益健走、慰问养老院等公益活动，鼓励员工投身公益。",
+      "original_text": "南天信息积极履行社会责任，彰显国企担当，依托自身优势开展、参与特色社会公益活动；开展公益健走活动，兑换公益树苗；开展'春暖心扉 温暖相伴'公益志愿活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉持多元包容理念，公平公正用工，开展关爱女性员工活动，如'三八'妇女节主题活动。",
+      "original_text": "公司秉持多元包容的发展理念与公平公正的用工原则；开展'女神们的多维芳华'主题活动，关爱女性员工发展；开展'三八'国际妇女节主题活动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了'两会一层'的公司治理结构（股东会、董事会和经营层），董事会下设审计、提名、薪酬与考核、战略、风险与合规管理五个专门委员会。",
+      "original_text": "南天信息建立了'两会一层'的公司治理结构 ( 股东会、董事会和经营层 )，董事会下设审计、提名、薪酬与考核、战略、风险与合规管理五个专门委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司完善反商业贿赂机制，修订并印发《合规风险识别与控制》《流程管控清单》《岗位合规职责清单》，实现合规审查覆盖全场景，向全体员工发出节前廉洁提醒，组织观看警示教育专题片，对关键岗位开展风险排查。",
+      "original_text": "完善反商业贿赂机制，修订并印发《合规风险识别与控制》《流程管控清单》《岗位合规职责清单》...向全体员工发出节前廉洁提醒；组织观看警示教育专题片；对采购、销售等关键岗位开展风险排查。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司通过GB/T35770合规管理体系，构建反商业贿赂长效防线，将合规要求内嵌至业务流程、固化至岗位职责，组织新员工、关键岗位及重点岗位员工参加多轮专项合规培训。",
+      "original_text": "通过GB/T35770合规管理体系；公司构建反商业贿赂长效防线...组织新员工、关键岗位及重点岗位员工参加多轮专项合规培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续完善内控管理体系，优化完善内控手册，发布《内部控制标准手册（2025年）》，审计、纪检及风险管理等部门有效协同，识别潜在的经营管理、财务及舞弊风险。",
+      "original_text": "优化完善内控手册，10月发布《内部控制标准手册（2025年）》，共新增9个、修订42个内控...审计、纪检及风险管理等部门有效协同，识别潜在的经营管理、财务及舞弊风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格恪守信息披露相关法律法规及监管要求，规范开展信息披露，凭借在投资者关系及公司治理方面的卓越表现荣获'卓越'奖项。",
+      "original_text": "公司严格恪守信息披露相关法律法规及监管要求，规范开展信息披露...凭借在投资者关系及公司治理方面的卓越表现，公司荣获'卓越'奖项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "报告提及保护利益相关方章节，但具体沟通机制未详细描述。",
+      "original_text": "保护利益相关方",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格恪守信息披露相关法律法规及监管要求，规范开展信息披露，报告经董事会审议批准，保证不存在虚假记录、误导性陈述和重大遗漏。",
+      "original_text": "公司严格恪守信息披露相关法律法规及监管要求，规范开展信息披露...公司董事会及全体董事保证本报告不存在任何虚假记录、误导性陈述和重大遗漏。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 19,
+    "quantitative_valid": 19,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.712
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 39,
+    "missing": 13,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 75.0
+  }
+}

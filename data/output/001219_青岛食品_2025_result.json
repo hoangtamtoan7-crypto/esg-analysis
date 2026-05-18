@@ -1,0 +1,441 @@
+{
+  "company_name": "青岛食品",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 7539.81,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 7,539.81",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 2710.65,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 2,710.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 4829.16,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 4,829.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.14,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元营收 0.14",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2768.27,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 2,768.27",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 78222,
+      "unit": "吨",
+      "original_text": "总用水量 吨 78,222",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 39888,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 52,680 41,926 39,888",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 6.49,
+      "unit": "万元",
+      "original_text": "环保投入总金额 万元 6.49",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 487,
+      "unit": "人",
+      "original_text": "报告期内，公司员工总数为487人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 30,
+      "unit": "%",
+      "original_text": "女性员工在管理岗位的占比 30",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 2.21,
+      "unit": "万元",
+      "original_text": "报告期内，公司对员工培训总投入2.21万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 17.52,
+      "unit": "小时/人",
+      "original_text": "平均每名员工接受培训17.52小时/人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 293.79,
+      "unit": "万元",
+      "original_text": "研发投入293.79万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.56,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例为0.56%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 0.750583,
+      "unit": "万元",
+      "original_text": "报告期内，公司安全教育培训总投入7,505.83元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "至青岛市慈善总会，用于支持社会公益事业",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司现有董事7名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 43,
+      "unit": "%",
+      "original_text": "独立董事占比 % 43",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "召开董事会次数 次 7 9 5",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 5,
+      "unit": "人",
+      "original_text": "公司现有监事5名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": 377.52,
+      "unit": "万元",
+      "original_text": "董事、监事及高级管理人员报酬 万元 499.1 350.64 377.52",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司成立战略与ESG委员会，制定应对气候变化战略和政策，推动绿色生产和节能减排，围绕'双碳'目标构建全生命周期低碳管理模式。",
+      "original_text": "公司成立战略与ESG委员会，负责制定与监督实施应对气候变化相关的战略和政策，确保各项环保措施落地见效。公司大力推动绿色生产和节能减排。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001:2015环境管理体系再认证审核，制定多项环境管理制度，并定期进行监督审核。",
+      "original_text": "截至报告期末，公司已通过ISO 14001:2015环境管理体系再认证审核。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推出低糖、低脂、高蛋白等健康新品，并推广绿色包装材料，减少塑料使用。",
+      "original_text": "推出低糖、低脂、高蛋白等健康新品；大力推广绿色包装材料，减少塑料使用，降低包装废弃物对环境的影响。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告提及公司生产经营活动对生态系统和生物多样性不具有重大负面影响，但未披露具体保护措施。",
+      "original_text": "公司生产经营活动对生态系统和生物多样性不具有重大负面影响。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行循环经济模式，通过废弃物再利用、废水处理回用等措施减少环境影响，并建立废弃物回收体系。",
+      "original_text": "积极推行循环经济模式，如通过废弃物再利用、废水处理回用等措施，切实减少对环境的影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，制定并完善员工招聘、劳动合同、薪酬管理等制度，保障员工权益。",
+      "original_text": "青岛食品高度重视员工权益保障，严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等相关法律法规，制定并完善《员工社会招聘管理办法》《劳动合同管理办法》《薪酬管理制度》及《员工手册》等规范性文件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立安全管理部，制定安全管理制度，开展安全培训、应急演练，组织职业健康体检，配备防护用品。",
+      "original_text": "公司成立安全管理部，负责规范安全教育培训，提升员工安全生产意识和知识水平。通过组织内部主要负责人、安全管理人员及一线员工的培训与考核，确保全员具备岗位所需的安全能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商考核评价机制，实行动态考核与年度评价，结果分ABCD四级，D级移除。",
+      "original_text": "供应商考核评价 实行动态考核与年度评价相结合，考核结果分为ABCD四级，D级供应商将被移除供应商库。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立质量与食品安全管理体系，通过ISO9001和ISO22000认证，制定相关手册，确保产品质量安全。",
+      "original_text": "青岛食品严格遵循《中华人民共和国食品安全法》《中华人民共和国产品质量法》及《食品安全国家标准》等法律法规，建立健全公司质量与食品安全管理体系。公司制定并实施《质量、食品安全、HACCP、HALAL和环境管理手册》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循数据安全和个人信息保护法律法规，建立信息安全体系，报告期内未发生数据安全事件。",
+      "original_text": "青岛食品严格遵循《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》等法律法规，加强信息安全规划、安全防护、数据备份及应急处理等，系统全面地保障公司信息化系统的正常稳定运行和客户隐私的保护",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与公益事业，通过捐赠活动、扶贫帮困、支持教育事业等方式回馈社会。",
+      "original_text": "积极参与公益事业，通过捐赠活动、扶贫帮困、支持教育事业等方式回馈社会",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司提倡性别平等，关爱女性职工，设立母婴室，支持女性职业发展，报告期内女性管理人员占比30%。",
+      "original_text": "青岛食品提倡性别平等，积极关爱和维护女性职工在企业生产运营中的权益...注重女性职业发展，提供多样化培训与晋升机会，支持女性员工在生产经营中发挥重要作用。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建由董事会、战略与ESG委员会和可持续发展工作组构成的ESG治理架构，形成层层推进、协同高效的管理机制。",
+      "original_text": "搭建由董事会、战略与ESG委员会和可持续发展工作组构成的ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《廉政风险防控体系手册》，开展风险排查与防控，构建长效防腐机制。",
+      "original_text": "在构建长效防腐机制方面，公司在已制定的《廉政风险防控体系手册》基础上，结合部门职能调整开展风险排查与防控",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司高度重视商业道德建设，致力于打造公平、公正、透明的经营环境，定期开展商业道德培训。",
+      "original_text": "青岛食品高度重视商业道德建设，致力于打造一个公平、公正、透明的经营环境",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立健全的风险管理体系，采用定性与定量相结合的方法识别、评估和控制风险，涵盖内部环境、风险评估、控制活动、信息与沟通、内部监督五要素。",
+      "original_text": "青岛食品通过建立健全的风险管理体系，有效识别、评估和控制公司面临的各类风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，建立多元化沟通渠道，通过互动易平台与投资者互动，举办投资者保护教育活动。",
+      "original_text": "为规范投资者关系管理，青岛食品制定《投资者关系管理制度》，并不断深化投资者关系管理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司积极构建常态化、多渠道的沟通机制，广泛识别并积极回应利益相关方的关注及合理需求。",
+      "original_text": "青岛食品充分认识到与各利益相关方建立有效沟通的重要性，根据不同利益相关方的特点，积极构建常态化、多渠道的沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵守《上市公司信息披露管理办法》，制定《信息披露事务管理制度》等，确保信息披露的真实性、准确性、完整性和及时性，报告期内无信息披露违规导致的处罚事件。",
+      "original_text": "青岛食品遵守《上市公司信息披露管理办法》等法律法规要求，制定《信息披露事务管理制度》《重大信息内部报告制度》《内幕信息知情人登记制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司通过事前预防、事中控制、事后应对三个阶段闭环管理，确保税务管理的合规性和高效性，降低税务风险。",
+      "original_text": "公司通过制定内控制度，并密切关注税收政策变化，开展合规培训，提高员工税务意识和风险防范能力",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "中国联通",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 13.82,
+      "unit": "百万吨二氧化碳当量",
+      "original_text": "温室气体排放量 百万吨 13.25 13.00 13.82",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 0.12,
+      "unit": "百万吨二氧化碳当量",
+      "original_text": "直接温室气体排放总量（范畴一） 百万吨 0.10 0.11 0.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 13.7,
+      "unit": "百万吨二氧化碳当量",
+      "original_text": "间接温室气体排放总量（范畴二） 百万吨 13.15 12.89 13.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "单位电信业务总量二氧化碳排放较",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 326,
+      "unit": "万吨标准煤",
+      "original_text": "能源消耗总量 万吨标准煤 292 304 326",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "100%绿电直供",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 336300,
+      "unit": "吨",
+      "original_text": "中国联通总部及直属办公区全年总耗水量约33.63万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "总部及直属单位生活废水排放量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "由于蓄电池报废处置按容量Ah作为计量单位，导致无法量化计算废弃物排放密度",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 4.96,
+      "unit": "亿元",
+      "original_text": "节能减排专项投资 亿元 3.36 4.11 4.96",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "公司生产过程不涉及工业废水和废气排放",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.6,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 吨 0.1 0.3 0.6",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "公司生产过程不涉及工业废水和废气排放",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 237251,
+      "unit": "人",
+      "original_text": "员工总数 人 242891 240617 237251",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 12.7,
+      "unit": "%",
+      "original_text": "高管中女性比例 % 12.3 12.9 12.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 43665,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 46465 39721 43665",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 114,
+      "unit": "小时/人",
+      "original_text": "人均培训时间 小时 115 126 114",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1.76,
+      "unit": "%",
+      "original_text": "员工流动率 % 2.06 1.97 1.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 160.4,
+      "unit": "亿元",
+      "original_text": "研发投入 亿元 151.2 159.3 160.4",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "研发经费投入强度超过4%",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 270000,
+      "unit": "万元",
+      "original_text": "安全生产投入27亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 500,
+      "unit": "万港元",
+      "original_text": "中国联通及在港机构累计捐赠现金500万港元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 13,
+      "unit": "人",
+      "original_text": "董事会13人组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和，并发布《中国联通绿色低碳工作管理办法》等制度。",
+      "original_text": "中国联通将“双碳”工作纳入公司战略，发布《中国联通节能减排管理办法（暂行）》等制度",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，通过ISO 14001认证，并制定相关管理办法。",
+      "original_text": "制定印发《中国联通绿色低碳工作管理办法》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发绿色低碳产品，如碳普惠平台、绿色智慧楼宇能碳管理平台等，赋能全社会绿色发展。",
+      "original_text": "积极探索碳普惠平台创新模式，核心技术“碳减排量计算模型”率先通过国家级绿色交易机构权威认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司网络规划避开生态保护红线，开展智慧化治理，聚焦生物多样性保护。",
+      "original_text": "网络规划充分考虑环境保护，避开生态保护红线",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动共建共享、绿色包装、废弃物回收等循环经济实践。",
+      "original_text": "共建共享双方累计为国家节约运营成本，减少碳排放",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持平等自愿和协商一致原则，100%签订劳动合同；建立企业年金制度；覆盖地市级分公司的劳动争议调解机构。",
+      "original_text": "公司始终坚持平等自愿和协商一致的原则，确保与员工100%签订劳动合同。建立企业年金制度。建立了覆盖地市级分公司的调解机构。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司保障职工健康安全权益，推广健康小屋，开展EAP专员培训及心理健康巡讲，安全生产培训覆盖率100%。",
+      "original_text": "保障职工健康安全权益，在健康环境优化、健康文化培育、职工心理健康等多领域扎实推进健康企业建设。安全生产培训覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应风险应对机制，优化供应链布局，实现资源、产品和技术的多元化供应，提升供应链安全与韧性。",
+      "original_text": "建立供应风险应对机制，优化供应链布局，实现资源、产品和技术的多元化供应，有效提升供应链安全与韧性。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司注重产品安全与质量，通过AI与集约化平台提升网络质量，提供多样化创新产品，客户问题解决综合满意率提升。",
+      "original_text": "扎实推进“移网质量提升三年行动”，网络覆盖、容量与用户体验得到显著提升...客户问题解决综合满意率达...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立数据安全与隐私保护治理架构，通过DSMM最高等级评价，制定管理办法，实施风险监测与评估，保障用户信息安全。",
+      "original_text": "数据安全与客户隐私保护治理架构...全国首家企业通过国家数据安全能力成熟度（DSMM）最高等级评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司系统开展多元化、常态化的社会公益项目，包括乡村振兴、社区关怀、公益志愿活动，在香港开展超20场公益活动。",
+      "original_text": "中国联通立足境外运营所在地社区，系统开展多元化、常态化的社会公益项目。在香港围绕'社区关爱、国情教育、青年发展、防范诈骗'等主题开展超20场公益活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司制定员工多元化政策，禁止歧视，在性别、年龄、服务年期、教育背景、专业经验等方面具有多元化特色。",
+      "original_text": "制定员工多元化政策，在招聘、晋升过程中，采取严格的检查控制程序，禁止关于民族、性别、年龄等方面的歧视政策。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会作为ESG管理的最高责任主体，全面负责ESG相关事宜，下设审计与风险委员会等专门委员会。",
+      "original_text": "中国联通将环境、社会及治理相关事宜管理纳入公司核心治理框架，董事会作为ESG管理的最高责任主体，全面负责...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "深入推进党风廉政建设和反腐败斗争，健全现代企业制度，完善风险管控和合规管理体系。",
+      "original_text": "中国联通深入推进党风廉政建设和反腐败斗争，健全与完善现代企业制度，完善风险管控和合规管理体系，坚守诚信经营",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "完善合规管理体系，健全合规委员会工作机制，印发多项合规制度，围绕高风险领域开展专项整治。",
+      "original_text": "完善合规管理体系，健全合规委员会工作机制，推动业务、法律、监督三道防线协同发力，印发《规范电信市场竞争管理办法》...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "锚定'强内控、防风险、促合规'内控目标，持续推进内控体系建设，董事会审计与风险委员会按季度听取内控与风险工作情况汇报。",
+      "original_text": "中国联通锚定'强内控、防风险、促合规'内控目标，持续推进内控体系建设，完善公司治理...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "修订《投资者关系管理办法》，加强投资者关系管理，与投资者高频次交流，召开业绩发布会。",
+      "original_text": "修订《投资者关系管理办法》，不断加强投资者关系管理工作的顶层设计和制度建设，持续推动合规有效的信息披露...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "通过利益相关方沟通反馈（投资者建议、合作伙伴大会等），梳理内部沟通渠道，及时回应利益相关方诉求。",
+      "original_text": "梳理内部沟通渠道，及时回应利益相关方的不同诉求与期待。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "积极履行信息披露义务，连续多年获得上交所最优信息披露评价，董事会保证报告真实、完整、正确。",
+      "original_text": "积极履行信息披露义务，加强战略传递以及重大投资和运营风险事项的及时披露，连续多年获得上交所最优信息披露评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未在报告中提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600050_中国联通_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

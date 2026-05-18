@@ -1,0 +1,448 @@
+{
+  "company_name": "TCL科技",
+  "report_year": "2023",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 6653747.25,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量11 吨二氧化碳当量 6,653,747.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 261350.33,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1 261,350.33 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 5525242.77,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2 5,525,242.77 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5991717144,
+      "unit": "千瓦时",
+      "original_text": "能源消耗量总量 5,991,717,144 千瓦时",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 44054464,
+      "unit": "吨",
+      "original_text": "总耗水量 44,054,464 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 31576217.49,
+      "unit": "吨",
+      "original_text": "废水排放总量15 吨 31,576,217.49",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 208667.496,
+      "unit": "吨",
+      "original_text": "废弃物排放量17 吨 208,667.496",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 71000,
+      "unit": "万元",
+      "original_text": "2022 年我们在环境保护方面投入超过 7.1 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 69828,
+      "unit": "人",
+      "original_text": "员工总数：69,828人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 25,
+      "unit": "%",
+      "original_text": "女性员工比例：25%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 20,
+      "unit": "%",
+      "original_text": "女性高管比例 % 20",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 2102.28,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 2,102.28",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 568687,
+      "unit": "小时",
+      "original_text": "培训时长共计568,687小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1077841,
+      "unit": "万元",
+      "original_text": "研发投入达107.8亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 16150.41,
+      "unit": "万元",
+      "original_text": "安全生产投入：16,150.41万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 5201.31,
+      "unit": "万元",
+      "original_text": "TCL公益基金会公益慈善事业支出 5201.31万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 13,
+      "unit": "次",
+      "original_text": "2022 年，TCL 科技共召开 13 次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司响应国家双碳战略，制定碳中和路线图，TCL华星发布碳达峰-碳中和规划，通过碳吸收、减量替换、能源替代等措施推进减碳排放。",
+      "original_text": "TCL华星发布了《TCL华星碳达峰-碳中和规划》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "各生产单位参照ISO14001标准搭建环境管理体系，并持续改进。",
+      "original_text": "产单位均参照ISO14001标准搭建环境管理体系，并保证体系管理的持续实施、保持和改进。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出绿色产品，如23.8英寸FHD显示器通过美国能源之星ES8.0认证，光伏产品在全生命周期提供清洁能源电力。",
+      "original_text": "TCL华星全面耕耘绿色产品，旗下23.8英寸FHD显示器通过美国能源之星ES8.0认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司开展废水回收利用、废弃物资源化处理，如深圳华星废水回收率达74%，一般废弃物交由TCL环境科技进行资源再利用。",
+      "original_text": "技术对排放的废水进行处理回收利用，每年可减少 26 万吨废水的排放，废水回收率达 74%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守法律法规，保障员工基本权益，劳动合同签订覆盖率100%，正式员工社保缴纳率100%，禁止使用童工、强迫劳动，建立员工投诉反馈渠道。",
+      "original_text": "2022年，公司劳动合同签订覆盖率达100%，正式员工社保缴纳率100%。并以RBA标准明确规定禁止使用童工、贩卖人口、强迫性劳动，切实保障员工基本权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，武汉华星取得ISO45001认证，开展安全培训，安全培训参与人次309,704，安全培训总时长424,722小时，员工体检健康档案覆盖率100%。",
+      "original_text": "武汉华星取得ISO45001职业健康安全管理体系认证。安全培训参与人次309,704，安全培训总时长424,722小时，员工体检健康档案覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司完善供应链全流程管理体系，制定供应商管理制度，开展供应商培训，识别供应链风险。",
+      "original_text": "TCL科技不断完善供应链全流程管理体系，采纳高标准的供应商管理制度，定期开展供应商培训，识别供应链风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格遵守国内外法律法规，产品通过CB、UL等国际安规认证，制定产品安全事故处理机制，开展质量管理培训。",
+      "original_text": "TCL科技严格遵守国内外相关法律法规，保障公司产品符合安全要求。公司及旗下产业严控产品安全合规，通过了CB、UL等国际安规认证，制定了产品安全事故处理机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《数据安全管理总则》等制度，建立数据安全平台，开展信息安全意识培训，设有应急响应、漏洞管理、数据安全平台。",
+      "original_text": "2022年，为了进一步完善TCL信息安全保护体系，公司制定了《数据安全管理总则》《数据分类分级管理规定》《数据全生命周期安全管理规定》《数据安全事件应急管理办法》《数据安全审计管理规定》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过TCL公益基金会开展公益项目，公益慈善事业支出5201.31万元，关注乡村儿童心理健康，开展员工公益创意大赛，组织员工志愿活动。",
+      "original_text": "TCL公益基金会公益慈善事业支出 5201.31万元。TCL公益基金会关注乡村儿童心理健康，于2019年与TCL工业研究院合作启动'A.I.'项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司奉行平等、非歧视的用工政策，推动员工多元化与机会平等，女性员工比例25%，在职女性员工数17,283人。",
+      "original_text": "TCL科技奉行平等、非歧视的用工政策，致力于推动员工多元化与机会平等。女性员工比例：25%。在职女性员工数 人 17,283。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立了股东大会、董事会及其下属各专门委员会、监事会及经营管理层，制定了相应的议事规则。董事会下设审计委员会，并设立审计监察部。",
+      "original_text": "大会、董事会及其下属各专门委员会、监事会及经营管理层，制定了相应的议事规则及工作... TCL 科技集团董事会下设审计委员会，并设立审计监察部作为专门的反腐机构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建反腐核心制度，规范员工行为，要求合作伙伴遵循商业道德。设置举报邮箱和电话，执行投诉举报处理流程和举报人保护机制。开展廉洁教育和反腐败宣传。",
+      "original_text": "公司通过构建反腐核心制度，规范员工行为，要求合作伙伴遵循商业道德。同时，公司... TCL 科技集团鼓励全员协助反腐工作，设置了举报邮箱和电话。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信经营，积极开展反不正当竞争和反垄断工作。制定《反垄断合规指引》，举办合规培训，提升合规经营能力。",
+      "original_text": "TCL科技坚持诚信经营，积极开展反不正当竞争和反垄断工作。... 法务部牵头指导下属产业TCL华星制定《反垄断合规指引》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了全面的合规和风险管理系统，强化内控执行，加强信息化管控。从健全内控体系、强化内控执行、加强信息化管控、加大监管力度等方面提升风险管理能力。",
+      "original_text": "TCL科技建立了全面的合规和风险管理系统，强化内控执行，加强信息化管控... 从健全内控体系、强化内控执行、加强信息化管控、加大监管力度等方面入手，不断提升风险管理能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司认真履行信息披露义务，加强与投资者沟通，不断加大股东回报力度。采用累积投票制保护中小股东选举权，举办网上业绩说明会，开设投资者关系微信公众号。",
+      "original_text": "认真履行信息披露义务，加强与投资者沟通，不断加大股东回报力度，提高股东满意度。... 采用累积投票制保护中小股东的选举权。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司保持与利益相关方密切沟通，梳理并识别ESG议题，通过股东大会、年报、新闻稿等多种方式发布信息，积极倾听相关方声音并回应。",
+      "original_text": "我们保持与利益相关方密切沟通，梳理并识别与 TCL 科技发展息息相关的环境、社会与治理方面的 20 项议题。... 通过股东大会、年报和新闻稿等多种方式向投资者发布信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露相关法规，保证信息披露的真实性、准确性和完整性。制定了《信息披露管理办法》，建立追责机制，持续提升信息披露质量和透明度。",
+      "original_text": "TCL科技严格遵守信息披露相关法规，及时履行信息披露义务，保证信息披露的真实性、准确性和完整性。... 制定了严格的《信息披露管理办法》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "000100_TCL科技_2023.md",
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 31,
+    "quantitative_issues": [
+      {
+        "indicator_id": "E_Q05",
+        "indicator_name": "综合能源消耗",
+        "issue": "数值5991717144超出合理范围[0, 1000000000]"
+      }
+    ],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.848
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

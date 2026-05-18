@@ -1,0 +1,442 @@
+{
+  "company_name": "中国核电",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 101600,
+      "unit": "吨二氧化碳当量",
+      "original_text": "二氧化碳排放量（万吨） 10.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 5238.11,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1-核电厂直接温室气体排放量 吨二氧化碳当量 5238.11",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 25890.66,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2-核电厂间接温室气体排放量 吨二氧化碳当量 25890.66",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.0126,
+      "unit": "吨二氧化碳排放当量/万元",
+      "original_text": "万元工业产值二氧化碳排放指标实际值 0.0126",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 22306,
+      "unit": "人",
+      "original_text": "员工总数 人 18574 20366 22306",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工占比 %",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 5,
+      "unit": "%",
+      "original_text": "女性高级行政管理人员占比 % 9.43 4.80 5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 21500,
+      "unit": "万元",
+      "original_text": "培训投入 万元 11379 14773 21500",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 3199739,
+      "unit": "小时",
+      "original_text": "员工培训时长 小时 3019112 3197768 3199739",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1.05,
+      "unit": "%",
+      "original_text": "员工流失率 % 1.18 1.07 1.05",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 232800,
+      "unit": "万元",
+      "original_text": "研发投入 亿元 20.05 20.70* 23.28",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.84,
+      "unit": "%",
+      "original_text": "研发投入总额占营业收入比例 % 2.67 2.68* 2.84",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "未明确提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1369.15,
+      "unit": "万元",
+      "original_text": "对外捐赠及公益项目总投入1369.15万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提及",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "董事人数 名 12 12 12",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事占比60%并担任主席",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事数量 名 2 2 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 7 12 8",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "撤销监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "高管薪酬与可持续发展相关绩效挂钩",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "审计与风险委员会",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司深刻把握双碳目标战略机遇，系统开展气候相关影响、风险与机遇管理，制定碳达峰行动方案与中长期减碳策略，推动核能综合利用及非核清洁能源开发。",
+      "original_text": "公司深刻认识到气候变化议题的复杂性与长期性，将影响、风险与机遇管理作为气候治理的核心环节，系统开展气候相关...稳健推进碳达峰行动方案与中长期减碳策略",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "所有核电厂已通过ISO 14001环境管理体系认证，建立覆盖环境监测、废水、固废、噪声、大气、海洋保护六大领域的制度体系，制定环境保护领域企业标准48项。",
+      "original_text": "所有核电厂已通过ISO 14001环境管理体系认证，各核电厂根据ISO 14001环境管理体系对企业生产全过程进行有效控制...制定环境保护领域企业标准48项",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发展核能综合利用，如核能供热供汽项目'和气一号'，获得全国首张核能供汽产品碳足迹证书；同时发展非核清洁能源，提供绿色电力。",
+      "original_text": "核能综合利用正处于快速发展的起步阶段，核能供热供汽有力推动了这一进程，并带动低碳产品与服务开发...'和气一号'项目获得全国首张核能供汽产品碳足迹证书",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司发布行业首份《生物多样性领跑企业自评管理》企业标准，开展温排水遥感测量分析，监测敏感生物指标，降低对周边生物栖息繁衍的干扰。",
+      "original_text": "发布行业首份《生物多样性领跑企业自评管理》企业标准...科学监测敏感生物指标，开展温排水遥感测量分析...降低对周边生物栖息繁衍造成干扰",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进放射性废物最小化，建立危险废物全过程管理台账，推进废水处理回收利用设施建设，实施废物减量化、资源化、无害化。",
+      "original_text": "坚持废物减量化、资源化、无害化和妥善处置...部署放射性废物最小化重点任务及重点工程...推进常规岛生产废水处理及回收利用设施",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司恪守劳动法律法规，坚持平等雇佣，严禁歧视，保障员工合法权益。",
+      "original_text": "公司恪守劳动法律法规，以规范用工保障员工权益...严禁因性别、年龄、民族、宗教等差异产生歧视，充分保障每一位员工的合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "构建‘预防为主、防治结合、全程管控、身心同护’的职业健康保障体系，开展健康促进活动，提供心理咨询。",
+      "original_text": "构建‘预防为主、防治结合、全程管控、身心同护’的职业健康保障体系...搭建远程心理健康咨询热线...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公开发布《供应商管理规定》，在健康安全、环境保护、服务质量、商业道德等方面明确供应商准入与考核，强化供应商全生命周期风险管控。",
+      "original_text": "公开发布《供应商管理规定》，在健康安全、环境保护、服务质量、商业道德等方面明确供应商准入与考核...强化供应商全生命周期风险管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "坚持‘安全第一、质量第一’方针，健全工程安全与质量管控体系，打造质量可信、安全可控的标杆工程。",
+      "original_text": "坚持‘安全第一、质量第一’的根本方针，高度重视在建工程安全质量管理和工程建设人才培养...打造质量可信、安全可控的标杆工程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "通过合同安全保密条款对供应链提出网络安全要求，加强供应链产品安全检测，制定DCS安全加固标准方案。",
+      "original_text": "通过合同安全保密条款等对供应链提出网络安全要求，加强供应链产品安全检测...制定DCS安全加固标准方案。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "深化社区共建与公益慈善，推动核工业发展成果与地方民生深度融合，连续十三年举办‘魅力之光’核科普活动。",
+      "original_text": "深化社区共建与公益慈善，推动核工业发展成果与地方民生深度融合...连续十三年举办的‘魅力之光’核科普活动累计参与人数再创新高。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "坚持性别平等，所有员工不论性别均获得相同的提升与培训机会，严格落实女性相关福利制度。",
+      "original_text": "坚持性别平等，所有员工不论性别均获得相同的提升与培训机会...严格落实女性相关福利制度，开展关爱女性员工主题活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会、审计与风险委员会、可持续发展工作领导小组等构成的ESG治理架构，董事会负责监督气候变化风险等事宜。",
+      "original_text": "公司董事会负责监督公司气候变化风险相关事宜，讨论并审阅气候变化相关战略规划、目标、风险与机遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司纪委按规定列席董事会等重要决策会议，从廉洁合规角度提出监督意见，推动纪检监督与公司治理有效衔接。",
+      "original_text": "纪委按规定列席董事会等重要决策会议，在董事会研究审议重大投资、重要人事任免等事项时，从廉洁合规角度提出监督意见",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守诚信合规的商业道德准则，持续深化商业道德建设，规范企业运营行为，编制并推行《中国核电合规手册》。",
+      "original_text": "中国核电坚守诚信合规的商业道德准则，持续深化商业道德建设，规范企业运营行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了覆盖主要业务领域的动态风险预警体系，通过关键风险指标及预警阈值设置，依托信息化平台进行监测与趋势分析。",
+      "original_text": "构建覆盖主要业务领域的动态风险预警体系，通过关键风险指标及预警阈值设置，依托信息化平台进行监测与趋势分析。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司完善投资者关系管理体系，优化组织架构与工作机制，主动开展投资者沟通与信息披露，强化透明、规范、互动的治理理念。",
+      "original_text": "中国核电严格按照国务院国资委、中国证监会和上海证券交易所等监管规定，完善投资者关系管理体系，优化组织架构与工作机制，规范工作流程，主动开展投资者沟通与信息披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司持续优化利益相关方沟通机制，通过多元化的沟通方式深入倾听各方期望与诉求。",
+      "original_text": "中国核电持续优化利益相关方沟通机制，通过多元化的沟通方式深入倾听利益相关方的期望与诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续四年信息披露工作获得上海证券交易所A级评价，入选多个ESG先锋榜单。",
+      "original_text": "连续四年信息披露工作获得上海证券交易所A级评价，入选“中国ESG上市公司先锋100（2025）”及“中国ESG上市公司央企先锋100（2025）”双榜单",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601985_中国核电_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

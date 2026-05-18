@@ -1,0 +1,441 @@
+{
+  "company_name": "中水渔业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "在职员工总数④ 人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 16,
+      "unit": "%",
+      "original_text": "女性 16%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 105.96,
+      "unit": "万元",
+      "original_text": "RMB1.0596 million.",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "安全环保培训累计时长 小时（未提供具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 60,
+      "unit": "万元",
+      "original_text": "RMB 600,000 in non‑repayable support funds",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "2025年董事会成员8名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "其中独立董事3名，非独立董事5名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会会议",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "平稳完成监事会及监事的取消工作",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极推动低碳转型，采购首艘LNG双燃料油船，推广绿色技术，减少碳排放。",
+      "original_text": "采购首艘LNG双燃料油船，主机可兼容液化天然气与传统燃油双燃料驱动，精准适配国际航运低碳化、新能源发展趋势。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001环境管理体系认证，并不断完善环境管理体系，调整节能环保领导小组。",
+      "original_text": "不断完善环境管理体系，通过ISO 14001环境管理体系认证，持续优化组织架构与人员配置，对节能环保（“双碳”）领导小组及工作小组成员进行相应调整。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推广节能环保新技术、新材料、新工艺，但未明确提及绿色产品认证或具体绿色产品。",
+      "original_text": "大力推广节能环保新技术、新材料、新工艺，以绿色技术赋能生产运维。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司秉持“人海和谐”理念，严格遵守渔业管理规定，按配额合规捕捞，落实作业天数限制等资源养护措施。",
+      "original_text": "我们秉持“人海和谐”理念，严格遵守国内及国际渔业管理规定，按配额合规捕捞，落实作业天数限制等资源养护。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司提及固体废物分类清晰，但未详细说明循环经济具体措施或资源回收利用情况。",
+      "original_text": "固体废物分类清晰，塑造整洁规范的厂容厂貌。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法保障员工权益，健全薪酬激励体系，完善福利待遇，畅通诉求表达渠道。2025年员工体检覆盖率、满意度、社会保险覆盖率及劳动合同签订率均达100%。",
+      "original_text": "我们始终坚持依法保障员工权益，不断健全薪酬激励体系，完善员工福利待遇，畅通员工诉求表达渠道，充分激发员工干事创业热情，持续增强员工归属感。2025年，员工体检覆盖率、员工满意度、社会保险覆盖率及劳动合同签订率均达到100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚持安全第一、预防为主，系统制定并落实安全生产教育和培训计划，开展专项培训和应急演练，提升安全管理水平。",
+      "original_text": "We consistently adhere to the core principle of 'safety first, prevention prioritized, and comprehensive management,' 系统制订并严格落实安全生产教育和培训计划，针对新造渔船出航、西非作业等场景开展专项培训，系统提升公司整体安全生产管理水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司强化质量管理，组织培训交流，构建安全、稳定、可持续的责任供应链。",
+      "original_text": "强化质量管理，并积极组织培训交流，全方位构建安全、稳定、可持续的责任供应链。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以全链条质量管控为抓手，聚焦捕捞、加工各环节质量痛点，开展质量标准培训、技术比武等活动，保障食品安全生产。",
+      "original_text": "公司以全链条质量管控为抓手，聚焦捕捞、加工各环节质量痛点精准发力，强化标准落地与技能提升，开展质量标准培训、质量月技术比武等活动，锤炼全员质量素养与实操能力，保障食品安全生产。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司重视员工隐私保护，员工个人信息由组织人事部统一归口管理，严格控制信息知情范围。",
+      "original_text": "重视员工隐私保护，员工个人信息由组织人事部统一归口管理，严格控制信息知情范围。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司统筹推进海内外公益慈善事业，积极参与驻地公益活动与社区共建，深化人文关怀与情感联结。",
+      "original_text": "统筹推进海内外公益慈善事业，积极参与驻地公益活动与社区共建，持续深化人文关怀与情感联结，塑造可信、可敬、可亲的形象。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持多元平等，无性别歧视，平等保障女性员工权益，公平公正对待不同国籍、种族、性别、宗教信仰和文化背景的员工。",
+      "original_text": "坚持多元平等，无性别歧视，平等保障女性员工各。公平公正对待不同国籍、种族、性别、宗教信仰和文化背景的员工。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "搭建由董事会、董事会战略与ESG委员会及ESG工作小组三个层级构成的ESG治理架构，明确各层级职责，修订《董事会战略与ESG委员会工作细则》。",
+      "original_text": "搭建由董事会、董事会战略与ESG委员会及ESG工作小组三个层级构成的ESG治理架构，明确各层级、各岗位人员的工作职责，修订《董事会战略与ESG委员会工作细则》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "坚守“廉洁合规、诚信经营”原则，将反腐败与商业道德建设深度融入经营管理全过程，构建全方位廉洁防控体系。",
+      "original_text": "我们坚守“廉洁合规、诚信经营”原则，将反腐败与商业道德建设深度融入经营管理全过程。通过强化内部监督、深化职业道德建设、抓实监管整改、提升风控队伍专业能力等举措，构建全方位廉洁防控体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "严格遵守中国及业务所在国法律法规、国际公约与商业道德准则，持续提升法治合规水平，健全风险管控机制。",
+      "original_text": "我们严格遵守中国及业务所在国法律法规、国际公约与商业道德准则，持续提升法治合规水平，健全风险管控机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "健全风险管控机制，完善全链条风险防控机制，确保企业在复杂多变的国际环境中行稳致远。",
+      "original_text": "健全风险管控机制，完善全链条风险防控机制，确保企业在复杂多变的国际环境中行稳致远",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "修订《投资者关系管理办法》，构建多层次、全方位的投资者沟通体系，通过多元化渠道积极传递企业价值。",
+      "original_text": "修订《投资者关系管理办法》，构建多层次、全方位的投资者沟通体系。通过多元化的沟通交流渠道，积极传递企业价值",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "高度重视与利益相关方的沟通，主动拓宽沟通渠道，通过官网设置专栏、常态化编发ESG报告等方式，全面倾听和研究利益相关方的需求与期望。",
+      "original_text": "中水渔业高度重视与利益相关方的沟通，主动拓宽沟通渠道，通过官网设置“ESG”“投资者关系”专栏、常态化编发ESG报告等方式，全面倾听和研究利益相关方的需求与期望",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "重视信息披露的合规性与透明度，始终坚持真实、准确、完整、及时的原则，建立常态化舆情监控与内幕信息管理机制。",
+      "original_text": "重视信息披露的合规性与透明度，始终坚持真实、准确、完整、及时的原则。建立常态化舆情监控与内幕信息管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未在报告中提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.74
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

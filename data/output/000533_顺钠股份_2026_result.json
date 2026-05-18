@@ -1,0 +1,441 @@
+{
+  "company_name": "顺钠股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 3764.98,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2025 年，公司范围一与范围二温室气体排放量为 3,764.98 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 346.98,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 346.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 3418.0,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 3,418.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.68,
+      "unit": "吨二氧化碳当量/百万元",
+      "original_text": "单位营收温室气体排放量 1.68吨二氧化碳当量/百万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "未明确给出综合能源消耗数值",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 100,
+      "unit": "%",
+      "original_text": "2025年度公司100%消耗的电力均具有可再生能源属性",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 35000,
+      "unit": "吨",
+      "original_text": "取水总量 立方米 35,000.00（2025年）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 15000,
+      "unit": "吨",
+      "original_text": "排水总量 立方米 15,000.00（2025年）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1200,
+      "unit": "吨",
+      "original_text": "废弃物处置总量 吨 1,200.00（2025年）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确给出环保投入金额",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确给出氮氧化物排放数值",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确给出硫氧化物排放数值",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确给出颗粒物排放数值",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1685,
+      "unit": "人",
+      "original_text": "员工总人数 人 1,685 1,685 1,685",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 24.63,
+      "unit": "%",
+      "original_text": "女性 % 24.63 24.63 24.63",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 26.26,
+      "unit": "万元",
+      "original_text": "员工培训总支出 万元 26.26 26.26 26.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 16.26,
+      "unit": "小时/人",
+      "original_text": "员工培训平均时长 小时/人 16.26 16.26 16.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 5.23,
+      "unit": "%",
+      "original_text": "员工流失率 % 5.23 5.23 5.23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 9475.38,
+      "unit": "万元",
+      "original_text": "2025年研发投入合计9,475.38万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.63,
+      "unit": "%",
+      "original_text": "研发投入占比 % 4.63 4.63 4.63",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 9.68,
+      "unit": "万元",
+      "original_text": "慈善捐赠金额 万元 9.68 9.68 9.68",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比达三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 4,
+      "unit": "次",
+      "original_text": "召开董事会会议4次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司正式取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会专门委员会会议9次，涉及议案13项",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家‘双碳’战略，制定并发布《零碳工厂最高管理者承诺书》《零碳工厂中长期规划》，构建应对气候变化治理体系，持续推进减排转型计划、优化能源使用等措施。",
+      "original_text": "公司积极响应国家‘双碳’战略，以提升自身气候变化减缓与适应能力为目标，持续推进减排转型计划、优化能源使用等措施",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已构建全过程环境管理体系，通过ISO 14001:2015环境管理体系认证，制定《环境目标与管理方案》等内部制度，建立由质量部负责的环境管理架构。",
+      "original_text": "公司已构建起系统化的环境监测与治理体系。截至2025年末，公司ISO 14001:2015环境管理体系认证对各环节的合规风险与机遇实施针对性管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司致力于绿色产品设计，制定《绿色产品设计管理手册》，建立产品碳足迹核算模型（LCA），识别全生命周期碳排放，并积极研发低碳产品。",
+      "original_text": "低碳产品设计 ▪建立产品碳足迹核算模型（LCA），识别从原材料获取到产品报废全生命周期环节内的碳排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生物多样性保护内嵌于可持续发展战略，所有新建项目环评均纳入生物多样性评估维度，并参与社区植树活动。",
+      "original_text": "公司将生物多样性保护内嵌于可持续发展战略，视其为履行环境责任的内在要求。公司严格遵循《中华人民共和国环境保护法》等，所有新建项目的环境影响评价报告均纳入生物多样性评估维度。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司致力于通过生产工艺优化与流程升级，提升原材料及废旧材料利用效率，减少对原生资源的依赖，降低环境负担。",
+      "original_text": "公司深刻了解资源的循环利用对于环境保护的战略价值，制定《绿色产品设计管理手册》，致力于通过生产工艺的优化与流程升级，提升原材料及废旧材料的利用效率，从而减少对原生资源的依赖，降低环境负担。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，与全体员工签订劳动合同，制定多项内部制度保障员工权益，2025年未发生雇佣童工及强制劳工案件。",
+      "original_text": "公司未发生雇佣童工及强制劳工相关案件，也未发生与员工招聘与解聘、薪酬、工时与假...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO 45001:2018职业健康安全管理体系认证，成立健康安全委员会，开展应急演练，2025年未发生生产安全重大责任事故。",
+      "original_text": "生产基地均已通过ISO 45001:2018职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商管理体系，根据原材料质量、环境和安全风险将原材料分为A、B、C、D四级，积极拓展备用供应商，严控合规风险。",
+      "original_text": "根据原材料质量、环境和安全风险影响程度，公司将原材料分为A、B、C、D四级，并建立持续完善的供应商管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格遵守产品质量法律法规，制定多项内部制度，通过ISO 9001等认证，2025年未发生产品召回事件及因产品安全相关法律导致的诉讼。",
+      "original_text": "2025年，公司未发生产品召回事件及因违反产品安全相关法律导致的诉讼。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全与隐私保护制度体系，覆盖数据全生命周期，开展员工培训，截至2025年末未发生数据安全事件及客户隐私泄露事件。",
+      "original_text": "截至2025年末，公司未发生数据安全事件及客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与乡村振兴与社区发展，通过现金捐赠、物资捐赠、公益专项活动等形式助力社区，并开展抗疫支援行动。",
+      "original_text": "顺钠股份始终以社会责任为己任，积极参与乡村振兴与社区发展，通过现金捐赠、物资捐赠、公益专项活动等多样形式。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司关注女职工、退役军人等少数群体，通过健康保障、文体活动及节日慰问等体现包容性，但未明确提及多元化政策。",
+      "original_text": "公司关注女职工、退役军人等少数群体，通过健康保障、文体活动及节日慰问等。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "建立覆盖董事会监督、战略与ESG委员会管理、ESG工作小组执行的管理架构。",
+      "original_text": "建立覆盖董事会监督、战略与ESG委员会管理、ESG工作小组执行的管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "与员工签订《员工廉洁协议》，与供应商签订《供应商反贿赂/反腐败承诺书》，开展反腐培训。",
+      "original_text": "与员工签订《员工廉洁协议》，与供应商签订《供应商反贿赂/反腐败承诺书》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "恪守商业道德，遵守《联合国反腐败公约》等，制定商业道德相关规范，开展培训。",
+      "original_text": "顺钠股份把恪守商业道德作为企业良好运作的基本准则",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "建立由ESG工作小组主导的常态化尽职调查机制，覆盖环境合规、供应链、商业道德等。",
+      "original_text": "逐步完善由ESG工作小组主导的常态化尽职调查机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "通过股东会、业绩说明会、投资者交流会、投资者热线等渠道与投资者沟通。",
+      "original_text": "股东和投资者：股东会、业绩说明会、投资者交流会、投资者热线",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "识别政府、股东、客户、供应商、员工、社会六大利益相关方，通过多种渠道常态化沟通。",
+      "original_text": "公司与各利益相关方保持常态化的沟通频率",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》，确保信息披露真实、准确、完整，2025年不存在虚假记载等违规情形，信息披露准确率100%。",
+      "original_text": "公司制定《信息披露管理制度》等内部制度，全面规范公司信息披露事务，确保及时、公平地披露信息。2025年，公司不存在虚假记载、误导性陈述或者重大遗漏等任何违反信息披露相关规定的情形。信息披露准确率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守国家税收法律法规，秉承合规经营、诚信纳税的原则，确保纳税行为与实际业务活动相一致。",
+      "original_text": "公司严格遵守国家税收法律法规，秉承合规经营、诚信纳税的原则，确保纳税行为与实际业务活动相一致，全面履行纳税义务。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

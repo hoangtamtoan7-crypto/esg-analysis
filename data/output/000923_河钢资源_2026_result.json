@@ -1,0 +1,441 @@
+{
+  "company_name": "河钢资源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 650297.1,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量78,248.6吨二氧化碳当量，范围二温室气体排放量572,048.5吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 78248.6,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量78,248.6吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 572048.5,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量572,048.5吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 831542.3,
+      "unit": "兆瓦时",
+      "original_text": "能源总消耗量 兆瓦时 831,542.3",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 0,
+      "unit": "%",
+      "original_text": "清洁能源使用量 兆瓦时 0.0 0.0 0.0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 51291000,
+      "unit": "吨",
+      "original_text": "年度用水总量 万立方米 3,897.9 5,086.8 5,129.1",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 140000,
+      "unit": "吨",
+      "original_text": "废水排放量 万立方米 13.8 12.6 14.0",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1290.4,
+      "unit": "吨",
+      "original_text": "有害废弃物排放429.4吨，无害废弃物排放861吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 110.2,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOX）排放110.2吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.7,
+      "unit": "吨",
+      "original_text": "二氧化硫（SO2）排放0.7吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 135.7,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放135.7吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 3885,
+      "unit": "人",
+      "original_text": "2025年，公司员工总数3,885人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 20.6,
+      "unit": "%",
+      "original_text": "女性员工比例 % 20.6",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 3052.1,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 3,052.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 39.9,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 小时 39.9",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 3.3,
+      "unit": "%",
+      "original_text": "员工流失率 % 3.3",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 554,
+      "unit": "万元",
+      "original_text": "工伤保险、安全生产责任险投入554万元",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 2261.1,
+      "unit": "万元",
+      "original_text": "公益捐赠总额 万元 2,261.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中包括3名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "以及2名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "2025年，公司召开董事会6次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会，监事会职权由董事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司将应对气候变化纳入企业战略，建立气候风险评估机制，识别物理风险、政策风险、技术风险等，并制定相应措施。",
+      "original_text": "将应对气候变化纳入企业战略，持续完善治理架构，将气候因素融入业务决策",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司获得ISO 14001环境管理体系认证，建立安全、健康、环境与质量（SHEQ）管理体系，并接受第三方审核。",
+      "original_text": "公司获得ISO 14001环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推进绿色制造，但未明确提及绿色产品与服务具体措施。",
+      "original_text": "推进绿色制造",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司遵守南非《国家环境管理：生物多样性法》，实施生态修复，种植本土植被，恢复生态系统功能。",
+      "original_text": "本土植被种植，逐步恢复生态系统功能；实施《生物多样性保护与利用》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动资源循环，包括废弃物分类回收、循环用水、选矿废水循环利用等。",
+      "original_text": "循环用水量 废弃物回收利用量 选矿回收率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守当地劳动法规，保障员工合法权益，劳动合同签订率100%，反对强迫劳动和童工，平等对待不同国籍、民族、性别等，建立员工沟通反馈机制。",
+      "original_text": "坚决反对任何形式的强迫劳动及童工雇佣行为，平等对待不同国籍、民族、种族、肤色、性别...劳动合同签订率为100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全体系，获得ISO 45001认证，明确安全生产'零伤害'目标，开展安全培训，2025年安全培训时长53,318小时，覆盖率92.8%。",
+      "original_text": "公司获得ISO 45001职业健康安全管理体系认证...2025年，公司开展安全培训时长达53,318小时，安全生产培训覆盖率达92.8%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司严格遵循供应链管理法律法规，构建安全稳定的责任链条，强化承包商安全协同与激励淘汰，将可持续发展、道德规范及健康安全环保要求纳入供应商管理。",
+      "original_text": "河钢资源严格遵循供应链管理法律法规，构建安全稳定的责任链条...将可持续发展、道德规范以及健康安全环保要求全面纳入供应商管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司聚焦品质卓越，深化全流程质量管理，2025年客户满意度100%。",
+      "original_text": "2025年，公司客户满意度为100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司实施用户授权管理、数据最小化处理、安全存储方案及定期信息安全培训，2025年未发生重大数据安全事件。",
+      "original_text": "2025年，公司未发生重大数据安全事件...实施用户授权管理、数据最小化处理、采用安全存储方案及定期信息安全培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极融入社区，开展志愿活动、公益项目，聚焦教育、医疗、社区治理、环境保护等领域，2025年公益捐赠总额2,261.1万元。",
+      "original_text": "河钢资源秉持普惠包容发展理念...围绕教育事业、医疗健康、社区治理、环境保护、公益慈善等核心领域精准发力",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视女性员工权益，将女性员工占比达到或超过25%作为目标，设立'采矿业的女性'项目，关怀女性员工，推进员工本地化。",
+      "original_text": "将女性员工占比达到或超过25%作为目标，通过设立'采矿业的女性'项目...关怀女性员工",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立董事会ESG委员会，由三名董事组成，至少一名独立董事，负责ESG政策、战略、风险管理、信息披露等。构建决策层、组织层、实施层三级ESG治理体系。",
+      "original_text": "设立董事会环境、社会及治理（ESG）委员会，由三名董事组成，其中至少包括一名独立董事；构建由“决策层、组织层、实施层”构成的三级ESG治理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格抵制腐败、贿赂、欺诈行为，设立24小时举报热线，开展反商业贿赂培训，董事9人、管理层65人接受培训。",
+      "original_text": "严格抵制任何对公司产生不良影响的腐败、贿赂、欺诈行为；设立24小时举报热线；接受反商业贿赂及反贪污培训的董事总数9人，管理层人员总数65人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德，遵守反不正当竞争法、反垄断法等，规范内幕信息管理和关联交易，开展守法合规培训5,141场，覆盖95.2%员工。",
+      "original_text": "严格遵守《中华人民共和国反不正当竞争法》《中华人民共和国反垄断法》及南非当地等相关法律法规；开展守法合规培训5,141场，覆盖员工总数的95.2%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司基于ISO 31000和King IV建立风险管理框架，董事会为最高决策机构，下设风险管理委员会，采用三道防线模型，定期识别、评估、应对风险。",
+      "original_text": "基于ISO 31000风险管理标准和《金氏四号公司治理守则》（King IV）要求，以COSO框架五要素形成风险识别、评估、应对、监控和报告的闭环机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过投资者热线、邮件、互动易、业绩说明会等多渠道与投资者沟通，2025年召开股东会3次，接听投资者电话等。",
+      "original_text": "通过投资者热线、邮件、互动易、采访、调研参观、电话会议、业绩说明会等方式与机构投资者、个人投资者保持多层级、多渠道、多形式的广泛沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过客户满意度调查、董事会会议、业绩说明会、发布报告等多元化方式与内外部利益相关方互动，了解期望。",
+      "original_text": "通过开展客户满意度调查、董事会会议、业绩说明会、发布报告等多元化方式与内外部利益相关方互动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司按照真实、全面、及时、充分的原则披露信息，2025年披露公告83份，不存在因信息披露违规受处罚情况。",
+      "original_text": "公司按照“真实、全面、及时、充分”的信息披露原则；2025年，公司披露公告83份，其中定期报告4份，其他文件79份；不存在因信息披露方面",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细披露税务策略或透明度具体措施。",
+      "original_text": "合规经营 支持地区发展 依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "一汽解放",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 425273,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "总二氧化碳排放量（一般性指标） 吨 509973 425273",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.049,
+      "unit": "吨二氧化碳/万元",
+      "original_text": "万元产值二氧化碳排放（约束性指标） 吨二氧化碳/万元 0.0551 0.0490",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 9.9,
+      "unit": "%",
+      "original_text": "非化石能源消费比重（一般性指标） % 9 9.9",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2904845,
+      "unit": "吨",
+      "original_text": "用新水量（一般性指标） 吨 4028098 2904845",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 2757,
+      "unit": "万元",
+      "original_text": "环保总投入 万元 2757",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 19100,
+      "unit": "人",
+      "original_text": "一汽解放集团股份有限公司（简称“一汽解放”，股票代码000800）员工1.91",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 11.11,
+      "unit": "%",
+      "original_text": "截至2025年底，公司董事会女性董事占比11.11%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1733.98,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 1733.98",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 109.2,
+      "unit": "小时/人",
+      "original_text": "员工培训时长 万小时 — 121.15 109.20",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 310500,
+      "unit": "万元",
+      "original_text": "研发投入 亿元 31.05 28.00 25.82",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 28.8,
+      "unit": "万元",
+      "original_text": "安全培训投入 万元 25.5 32 28.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 7733,
+      "unit": "万元",
+      "original_text": "对外公益捐赠 万元 7733",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会由9名董事构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "包括3名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事占比11.11%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司以全生命周期碳管理为战略支点，构建立体化碳治理体系，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "2025年，一汽解放在“双碳”战略指引下，以全生命周期碳管理为战略支点，将绿色发展理念深植企业基因，构建贯穿研发、生产、供应链与产品使用的立体化碳治理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001和GB/T 24001环境管理体系认证，并持续完善环境管理制度建设。",
+      "original_text": "推进环境管理体系认证，夯实ISO 14001和GB/T 24001环境管理体系运行基础",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司投放新能源整车产品，布局纯电、混动、燃料电池三条技术路线，获得产品碳足迹证书。",
+      "original_text": "投放新能源整车产品60...累计建成7座“无废工厂”。获得首张产品碳足迹证书",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进“无废工厂”建设，实现废溶剂100%资源化利用，推动产业链协同减废。",
+      "original_text": "实现废溶剂100%资源化利用，有效规避危险废物外委处置环节，年削减VOCs排放量约1.2吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持平等多元化雇佣，依法签订劳动合同，支付工资，提供社会保险、企业年金等，保障员工合法权益。",
+      "original_text": "一汽解放坚持平等、多元化雇佣，注重员工隐私保障，持续优化薪酬福利体系与激励...坚持依法依规与员工签订劳动合同、支付工资，并提供劳动保护、社会保险、企业年金、工会福利、健康体检等",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司完善安全生产管理体系，制定多项安全管理制度，开展安全培训、健康体检、心理健康讲座等，保障员工健康安全。",
+      "original_text": "一汽解放高度重视员工人身安全，持续完善安全生产管理体系，多维并举筑牢安全防线...制定《环境职业健康安全节能宣传教育培训管理规定》等制度...常态化开展员工体检与健康防护培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司推动供应商低碳转型，提升供应链韧性与安全水平，开展供应商ESG培训，打造可持续供应链。",
+      "original_text": "导供应商低碳转型，多措并举提升供应链韧性与安全水平，携手供应商共同打造高质量、可持续的供应链新生态。供应商ESG培训次数 供应商ESG培训时长",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持“三年质量攻坚行动”，完善产品安全保障体系，强化生产一致性管理，确保产品质量与安全。",
+      "original_text": "一汽解放重视产品安全，将安全理念贯穿于产品设计、研发和生产制造等多个环节...持续健全产品安全保障体系，强化产品生产一致性管理，严守质量安全底线",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定数据安全管理规定，落实数据安全法，加强车联网网络安全，未发生数据安全事件。",
+      "original_text": "一汽解放严格落实《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》...制定《数据安全管理规定》《个人信息安全管理规定》等管理制度...2025年，公司未发生数据安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司推进“解放爱领航”公益项目，助力乡村振兴，开展公益捐赠，关爱货车司机等群体。",
+      "original_text": "以爱为舟，以责任之心点亮多元公益之路，助力乡村全面振兴，持续擦亮“解放爱领航”公益品牌底色...对外公益捐赠 万元 7733",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等多元化雇佣，不以国籍、民族、性别等设限，重视董事会成员多元化，保障女性权益。",
+      "original_text": "一汽解放坚持平等、多元化雇佣...不以国籍、民族、宗教信仰、性别、年龄、文化背景设限...公司重视实现董事会成员多元化，综合考量教育背景、专业经验、性别等因素",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建完善的治理架构，董事会下设战略委员会、审计与风险控制委员会及薪酬与考核委员会，董事会负责ESG事务监督与参与，审批ESG报告。",
+      "original_text": "公司构建完善的治理架构，股东会、董事会（及其专门委员会）...加强董事会在公司ESG事务中的监督与参与力度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展党风廉政建设和反腐败工作，2025年未发生商业贿赂及贪污事件，未发生举报者信息泄露事件。",
+      "original_text": "2025年，公司未发生商业贿赂及贪污事件、未发生举报者信...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立以《合规管理规定》为基本制度的合规体系，发布《合规行为准则》，开展合规培训4次，全年实现重大合规风险零发生。",
+      "original_text": "一汽解放在'合规在心，正道而行'的合规方针指引下，建立起以《合规管理规定》为基本制度...全年实现重大合规风险零发生",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司设立专门风险管理机构，制定风险管理制度和流程，涵盖风险识别、评估、控制、监测和报告，2025年未发生重大风险事件。",
+      "original_text": "一汽解放设立专门的风险管理机构，负责建立风险管理体系的运行机制...2025年，公司未发生重大风险事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司设立资本运营部作为专职投资者关系管理部门，通过股东会、业绩说明会、机构调研接待等多种活动提升沟通效果。",
+      "original_text": "本运营部作为专职投资者关系管理部门，并制定《投资者关系管理制度》；创新沟通方式方法，通过股东会、业绩说明会、机构调研接待、路演及反路演等多种交流活动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司注重多方参与、互动沟通，与政府、股东、环境等利益相关方建立有效沟通机制，保障知情权与参与权。",
+      "original_text": "一汽解放注重多方参与、互动沟通，积极与利益相关方构建有效的沟通机制，保障利益相关方的知情权与参与权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续5年获得深圳证券交易所信息披露A级评价，制定信息披露管理制度，自愿性披露英文版定期报告。",
+      "original_text": "连续5年获得深圳证券交易所信息披露A级评价...自愿性披露英文版定期报告",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细披露税务透明度相关措施。",
+      "original_text": "遵守法律法规 响应政府号召 落实监管政策 依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

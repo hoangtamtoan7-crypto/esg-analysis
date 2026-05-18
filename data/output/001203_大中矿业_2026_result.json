@@ -1,0 +1,441 @@
+{
+  "company_name": "大中矿业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 285090.01,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一和范围二） 吨二氧化碳当量 285,090.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 26732.07,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 26,732.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 258357.94,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 258,357.94",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.697,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元 0.697",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 20302.32,
+      "unit": "吨二氧化碳当量",
+      "original_text": "能源消耗总量 20,302.32吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 8.09,
+      "unit": "%",
+      "original_text": "可再生能源使用占比 % 1.61 5.14 8.09",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 4802623,
+      "unit": "吨",
+      "original_text": "公司的新鲜水取水总量为4,802,623吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 0,
+      "unit": "吨",
+      "original_text": "废水排放 继续保持0排放 0排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 561092.32,
+      "unit": "吨",
+      "original_text": "2025年度，一般固体废弃物总产生量561,092.32吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 448,
+      "unit": "人",
+      "original_text": "截至报告期末 大中矿业全职员工总数为 448人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 14.29,
+      "unit": "%",
+      "original_text": "报告期内，公司董事会人员7名，其中女性董事1名，占比14.29%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 13.75,
+      "unit": "万元",
+      "original_text": "培训投入13.75万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 22.29,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均时长22.29小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 3.36,
+      "unit": "%",
+      "original_text": "在职满一年主动离职员工 38人 其流失率为 3.36%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 15286.48,
+      "unit": "万元",
+      "original_text": "研发投入15,286.48万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.74,
+      "unit": "%",
+      "original_text": "占营业收入比3.74%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.48,
+      "unit": "‰",
+      "original_text": "百万工时伤害率0.48%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 656.89,
+      "unit": "万元",
+      "original_text": "累计社会公益捐赠656.89万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "报告期内，公司董事会人员7名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "公司董事会成员中独立董事为3名，占比42.86%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "其中女性董事1名，占比14.29%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "报告期内，公司共召开董事会12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": 1993.82,
+      "unit": "万元",
+      "original_text": "报告期内，董事、监事及高级管理人员报酬总额（税前）合计为1,993.82万元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司响应国家双碳目标，全面推进节能降耗技改与绿色转型，包括设备变频改造、油改电、永磁电机升级、光伏项目建设等，并制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "响应国家“双碳”目标，全面推进节能降耗技改与绿色转型，对设备实施变频改造、铲运机“油改电”、永磁电机升级等节能技改，并有序推进矿区光伏项目建设，布局清洁能源，降低运行成本、能耗和碳排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续完善环境管理体系，已通过ISO 14001认证（大中矿业、金日晟矿业、金辉稀矿均获得认证），并制定相关管理制度，实现废水100%回收利用、固废合规处置率100%。",
+      "original_text": "持续完善环境管理体系，减少污染物排放，实现生产废水100%回收利用、固体废弃物合规处置率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司通过绿色矿山建设、工业旅游景区（国家3A级）等探索绿色发展新模式，但未明确提及绿色产品或服务认证。",
+      "original_text": "金日晟铁矿文博园和大中矿业工业旅游景区作为国家3A级景区，持续探索“工业+文旅”的绿色发展新模式",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过植树绿化、废弃矿坑回填等举措做好矿山生态修复，并编制地质环境保护与土地复垦计划书，保护生物多样性。",
+      "original_text": "通过植树绿化、废弃矿坑回填等举措，扎实做好矿山生态修复",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司形成“硫铁矿采选—硫精砂制酸—焙烧铁粉再利用—余热发电—环境治理”一体化循环经济格局，选矿尾砂充填采空区，废水循环利用，固废资源化利用。",
+      "original_text": "强化资源循环利用，形成“硫铁矿采选—硫精砂制酸—焙烧铁粉再利用—余热发电—环境治理”一体化循环经济格局",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守平等雇佣原则，劳动合同签订率100%；建立多元化培养机制，组织新员工入职集训；持续开展困难员工帮扶、健康关怀等活动。",
+      "original_text": "严格遵守平等雇佣原则，劳动合同签订率100%；建立“师带徒”等多元化培养机制，组织新员工入职集训，助力员工职业成长；持续开展困难员工帮扶、健康关怀等活动，营造“幸福矿山”的工作与生活氛围。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚持‘珍爱生命，安全为天’的安全理念，健全安全生产责任制，开展安全教育培训，强化风险隐患双重预防，全年排查整改隐患超1.7万项，重大隐患整改率100%。",
+      "original_text": "健全并严格落实全员安全生产责任制，开展安全教育培训，通过安全学习任务智能分发与员工主动学习，推动安全文化深入人心；强化风险隐患双重预防，运用数字化安全管理系统，实现风险分级管控、隐患信息的实时上报与闭环管理；全年排查并整改隐患超1.7万项，重大隐患整改率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司积极践行负责任供应链管理，强化供应商在环境、社会和治理方面的管理要求，要求供应商签署含廉洁与道德约束条款的承诺函，将环保、安全、人力资源合规等纳入准入标准，对违规供应商纳入黑名单。",
+      "original_text": "积极践行负责任供应链管理，不断强化对供应商在环境、社会和治理方面的管理要求，要求供应商签署含廉洁与道德约束条款的《供应商合作承诺函》，将环保、安全、人力资源合规等纳入准入标准，对违规供应商纳入黑名单。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司实施全面严格的产品质量全生命周期管理，确保从原料到成品的每一步都符合高标准。报告期内质量培训人次810，质量培训总时长830小时。",
+      "original_text": "大中矿业实施全面严格的产品质量全生命周期管理，确保从原料到成品的每一步都符合高标准。质量培训人次810，质量培训总时长830小时。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守数据安全相关法律法规，建立信息安全责任体系，开展网络安全意识专项培训，报告期内未发生隐私泄露或其他信息安全泄露事件。",
+      "original_text": "大中矿业严格遵守《中华人民共和国数据安全法》《中华人民共和国网络安全法》《中华人民共和国个人信息保护法》等法律法规；报告期内，公司未发生隐私泄露或其他信息安全泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极响应国家乡村振兴战略，从民生基建、文化传承与产业联动等多维赋能乡村可持续发展；累计社会公益捐赠656.89万元，支持教育助学、生态治理与应急救灾等领域。",
+      "original_text": "积极响应国家乡村振兴战略，从民生基建、文化传承与产业联动等多维赋能乡村可持续发展；累计社会公益捐赠656.89万元，支持教育助学、生态治理与应急救灾等领域。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导并推动董事会多元化建设，综合考量性别、专业领域、教育背景等；注重保障女性职工权益，正常生育享受158天产假；开展妇女节关怀活动。",
+      "original_text": "公司积极倡导并推动董事会多元化建设，在董事选聘与构成中，综合考量并平衡性别、专业领域、教育背景等；大中矿业注重保障和维护女性职工的权益，在《集体谈判协议》《员工手册》中明确规定，正常生育享受158天产假。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了以董事会为核心领导的ESG治理架构，下设战略与可持续发展（ESG）委员会，并配套工作小组。",
+      "original_text": "大中矿业建立了以董事会为核心领导的ESG治理架构，并在董事会下设战略与可持续发展（ESG）委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "全员签署廉洁协议，开展反商业贿赂及反贪污专项培训。",
+      "original_text": "坚守商业道德底线，全员签署廉洁协议，开展反商业贿赂及反贪污专项培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司围绕反垄断与公平竞争建立了完善的风险防控与合规管理体系，将反垄断合规纳入部门KPI考核。",
+      "original_text": "公司围绕反垄断与公平竞争建立了完善的风险防控与合规管理体系，董事会负责审批反垄断合规制度并授权重销售、采购部门全员每年需完成8学时反垄断培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司制定了《全面风险管理办法》，建立全面的风险管理架构，覆盖公司各层级。",
+      "original_text": "大中矿业遵循国家法律法规及相关政策，制定了《全面风险管理办法》，建立全面的风险管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立以董事长为第一责任人、董事会秘书统筹协调、董事会办公室为归口部门的投资者关系管理体系。",
+      "original_text": "以董事长为第一责任人、董事会秘书统筹协调、董事会办公室为归口部门的投资者关系管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司基于诚信、透明原则，通过多种渠道与利益相关方沟通，回应各方诉求。",
+      "original_text": "大中矿业始终秉持与利益相关方建立长远互信的理念，高度重视并持续关注各方诉求与期望",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露制度，报告期内未发生因信息披露违规受处罚的情况。",
+      "original_text": "报告期内，公司对外披露公告及相关文件206份，未发生因信息披露方面违规而受到处罚的情况",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司建立覆盖全流程的税务内控机制，定期开展税务风险评估与自查，引入专业机构审计评估。",
+      "original_text": "建立覆盖全流程的税务内控机制，明确各层级职责权限，定期开展税务风险评估与自查，及时针对关联交易及税务信息披露，引入专业机构开展审计评估",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.913
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

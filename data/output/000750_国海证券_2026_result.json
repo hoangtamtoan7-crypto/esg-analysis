@@ -1,0 +1,441 @@
+{
+  "company_name": "国海证券",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2253.83,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一+范围二） 吨二氧化碳当量 2,766.98 2,444.05 2,253.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 48.61,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 65.73 54.97 48.61",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2205.22,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 2,701.25 2,389.08 2,205.22",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 511.15,
+      "unit": "吨标准煤",
+      "original_text": "间接能源消耗量 吨标准煤 582.54 547.57 511.15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2912,
+      "unit": "人",
+      "original_text": "员工总数 人 3,131 2,927 2,912",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 290.06,
+      "unit": "万元",
+      "original_text": "2025年，国海证券母公司培训总支出290.06万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 36.43,
+      "unit": "小时/人",
+      "original_text": "人均培训时长36.43小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 9 9 8",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "独立董事人数 人 3 3 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事人数 人 2 3 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "董事会会议召开次数 次 7 8 8",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "完成监事会改革",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会各专门委员会会议召开次数 次 15 22 24",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'目标，构建全链条气候合规管理体系，强化碳核算与信息披露能力，制定应对战略，推动绿色金融与绿色运营协同发展。",
+      "original_text": "积极响应国家'双碳'目标，构建全链条气候合规管理体系，强化碳核算与信息披露能力，确保业务持续符合监管要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001:2015环境管理体系认证。",
+      "original_text": "通过了ISO 14001:2015认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司深化绿色金融，投资绿色股权项目、引入绿色公募基金、参与绿色商品期货、发行绿色债券等，提供绿色投融资服务。",
+      "original_text": "国海投资聚焦风电、光伏、储能等核心领域，2025年投资1个绿色股权投资项目，投资金额约3,000万元；全年累计引入绿色低碳类公募基金31只，累计完成销售金额1.52亿元。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "公司运营地在城镇地区，对生态系统或生物多样性的直接影响较小。公司业务暂不涉及生态系统和生物多样性保护。",
+      "original_text": "公司运营地在城镇地区，对生态系统或生物多样性的直接影响较小。公司业务暂不涉及生态系统和生物多样性",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司倡导办公用品内部循环再利用，减少废弃物产生，推动资源节约与环境保护。",
+      "original_text": "公司积极倡导员工加强办公用品的内部循环再利用，从源头减少废弃物产生，持续推动资源节约与环境保护，践行绿色运营理念。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，保障员工权益，提供五险一金、补充医疗保险、带薪休假等福利，建立民主沟通机制，通过职工代表大会、吐槽平台等渠道听取员工意见。",
+      "original_text": "国海证券始终尊重并保障员工的基本权益，为员工提供具备市场竞争力的薪资待遇与完善的薪酬福利保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定《员工健康体检管理实施办法》，定期组织员工健康体检，开展健康讲座，提供员工关爱行动，并设有职工活动室等场所。",
+      "original_text": "制定《员工健康体检管理实施办法》，定期组织员工进行健康体检。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司供应商结构简单，对IT类供应商要求质量、环境、职业健康等体系认证，并建立审核和评价机制，但未明确提及全面的ESG管理。",
+      "original_text": "针对IT类供应商，公司在招标采购中要求投标人具有质量、环境、职业健康等体系认证，并建立审核和评价机制。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司致力于提供高质量金融产品与服务，优化服务流程，提升客户体验，并设有投诉处理机制。",
+      "original_text": "国海证券致力于为客户提供高质量金融产品与服务，不断提升服务响应效率与服务体验。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全和个人信息保护法律法规，制定《个人信息保护管理办法》，采取用户认证、访问控制、数据加密等措施，目标为零信息泄露事件。",
+      "original_text": "公司将数据安全与客户隐私保护纳入日常管理要求，确立'年度零信息泄露、零安全事件'的目标。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过投教活动、公益捐赠、乡村振兴项目等积极参与社区建设，设立基金会，开展助学、募捐等活动。",
+      "original_text": "国海证券长期致力于推动公益事业发展，2006年员工自发捐款设立了国内证券行业首家基金会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉持平等雇佣原则，不因性别、年龄、国籍等因素歧视，积极吸纳多元化人才，并设有MD职级体系促进员工发展。",
+      "original_text": "公司在员工招聘中秉持客观公正原则，积极吸纳多元化人才，践行平等雇佣与反歧视政策。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了权责清晰的'两会一层'治理结构，董事会下设战略与ESG委员会，负责ESG治理研究、决策咨询，审议ESG报告并向董事会提出建议。",
+      "original_text": "公司构建了权责清晰的'两会一层'治理结构...董事会战略与ESG委员会...审议ESG报告并向董事会提出建议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "董事会负责制定廉洁从业管理目标和总体要求，纳入公司章程；董事会审计委员会对董事、高级管理人员履行廉洁从业管理职责进行监督。",
+      "original_text": "董事会负责制定廉洁从业管理目标和总体要求，并纳入公司章程；董事会审计委员会对董事、高级管理人员履行廉洁从业管理职责",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉持依法合规经营理念，建立以《公司章程》为核心的治理体系，制定多项合规管理制度，实现合规风险全流程闭环管理。",
+      "original_text": "公司秉持依法合规经营理念...建立以《公司章程》为核心...合规风险管理的全流程闭环",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了'董事会及董事会风险控制委员会、董事会审计委员会——经理层及其风险控制委员会——首席风险官、风险管理部门、内审部门'的风险管理体系。",
+      "original_text": "建立了'董事会及董事会风险控制委员会、董事会审计委员会——经理层及其风险控制委员会——首席风险官、风险管理部门、内审部门'",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格遵守《上市公司信息披露管理办法》，通过业绩说明会、路演等多平台多层次沟通渠道，维护投资者关系。",
+      "original_text": "严格遵守《上市公司信息披露管理办法》...通过业绩说明会、路演等...多平台、多层次的沟通渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立常态化沟通机制，通过定期或不定期的交流，了解各方关切，积极回应利益相关方的诉求与期望。",
+      "original_text": "建立常态化沟通机制，通过定期或不定期的交流，了解各方关切，积极回应利益相关方的诉求与期望",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露相关法律法规，规范开展信息披露工作，获得2025年度上市公司董事会办公室优秀实践案例。",
+      "original_text": "严格遵守《上市公司信息披露管理办法》...规范开展信息披露...2025年度上市公司董事会办公室优秀实践案例",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

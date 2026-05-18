@@ -1,0 +1,450 @@
+{
+  "company_name": "常山北明",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 70547,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体（范围一）排放量 70,547",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 38051,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体（范围二）排放量 38,051",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 14175,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源总消耗量 吨标准煤 14,175",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 268384,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 268,384",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 3905,
+      "unit": "人",
+      "original_text": "在职员工总数 人 3,905",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 29.43,
+      "unit": "%",
+      "original_text": "女性 % 29.43",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 6.0,
+      "unit": "%",
+      "original_text": "女性管理者占比 % 6.0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 230.231744,
+      "unit": "万元",
+      "original_text": "员工培训投入 元 2,302,317.44",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 35152.15,
+      "unit": "万元",
+      "original_text": "研发投入 万元 35,152.15",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.89,
+      "unit": "%",
+      "original_text": "研发投入强度 % 3.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 141.9,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 141.9",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "董事会董事 名 11 10 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事 名 4 4 4",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事 名 2 2 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 11 12 15",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司设有'应对气候促转型'章节，提及第二十三条、第二十四条，表明有应对气候变化策略。",
+      "original_text": "应对气候促转型 第二十三条、第二十四条",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司设有'环境管理强保障'章节，提及第三十三条，表明有环境管理体系。",
+      "original_text": "环境管理强保障 第三十三条",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "报告提及'引领绿色科技'，但未明确说明绿色产品与服务政策。",
+      "original_text": "引领绿色科技",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "no",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "劳动合同签订率100%，员工满意度100%。",
+      "original_text": "劳动合同签订率 % 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "职业健康体检覆盖率100%，安全培训多次开展。",
+      "original_text": "职业健康体检覆盖率 % 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "partial",
+      "summary": "报告提及公益善举暖民心，但无具体描述。",
+      "original_text": "公益善举暖民心",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "女性员工占比29.43%，女性管理者占比6.0%，女性董事2名。",
+      "original_text": "女性 % 29.43; 女性管理者占比 % 6.0; 女性董事 名 2",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设有ESG治理架构，参考第五十一条、第五十三条。",
+      "original_text": "ESG治理 第五十一条、第五十三条 G1.1.1-1.1.2,G1.1.9,G1.3.1-1.3.2",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "接受反商业贿赂及反贪污培训的董事总数百分比100%。",
+      "original_text": "接受反商业贿赂及反贪污培训的董事总数百分比 % 100 100 100",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司注重合规风控，参考第五十五条、第五十六条。",
+      "original_text": "筑牢发展根基 合规风控守底线 第五十五条、第五十六条 G2.1.1-2.1.4,G2.1.8,G2.2.1-2.2.3",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司有风险管理体系，参考第五十五条、第五十六条。",
+      "original_text": "合规风控守底线 第五十五条、第五十六条",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司深耕投关惠股东。",
+      "original_text": "深耕投关惠股东 — —",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "未明确提及利益相关方沟通的具体措施。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "partial",
+      "summary": "未明确提及信息披露质量。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "未明确提及税务透明度。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 18,
+    "qualitative_issues": [
+      {
+        "indicator_id": "E_L04",
+        "indicator_name": "生物多样性保护",
+        "issue": "缺少summary字段"
+      },
+      {
+        "indicator_id": "E_L05",
+        "indicator_name": "循环经济实践",
+        "issue": "缺少summary字段"
+      }
+    ],
+    "overall_quality_score": 0.812
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

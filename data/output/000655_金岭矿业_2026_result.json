@@ -1,0 +1,441 @@
+{
+  "company_name": "金岭矿业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 91897.39,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 100,444.99 95,536.50 91,897.39",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 33321.32,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一）吨二氧化碳当量 35,469.68 33,596.55 33,321.32",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 58576.07,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二）吨二氧化碳当量 64,975.31 61,939.95 58,576.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.518,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "单位产值温室气体排放强度 吨二氧化碳当量/万元 0.74 0.577 0.518",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 26383.03,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 28,902.83 27,560.74 26,383.03",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 12157144,
+      "unit": "吨",
+      "original_text": "总用水量 吨 12,311,204 12,151,936 12,157,144",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废水排放量 吨",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 2667,
+      "unit": "万元",
+      "original_text": "2025年，公司环保总投入 2,667 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1834,
+      "unit": "人",
+      "original_text": "员工总人数 人 2,233 2,146 1,834",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1357.51,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 1,357.51",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 150.9,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均时长 小时/人 150.90",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 5.63,
+      "unit": "%",
+      "original_text": "员工总流失率 % 7.83 7.40 5.63",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 166357.23,
+      "unit": "万元",
+      "original_text": "166,357.23 研发投入： 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 5.95,
+      "unit": "%",
+      "original_text": "研发投入占营业 收入比例 % 1.61 4.67 5.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 26808.6,
+      "unit": "万元",
+      "original_text": "26,808.60 安全生产总投入： 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会成员 9 人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事 3 人，占比为 33.33 %",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 5 13 14",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司将监事会职能交由董事会审计委员会全面承接",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司遵循'尽快碳达峰、积极碳减排、贡献碳中和'管理方针，制定《碳达峰工作方案》和《碳排放管理办法（试行）》，并设立矿业服务事业部负责碳排放管理。",
+      "original_text": "公司遵循'尽快碳达峰、积极碳减排、贡献碳中和'管理方针，制定《碳达峰工作方案》和《碳排放管理办法（试行）》，并设立矿业服务事业部，全面负责公司碳排放管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定《环境保护责任制》《环境保护管理规章制度》《固体废物管理》等制度，由环保管理部作为专职职能部门推进落实，各单位设立环境保护领导小组。",
+      "original_text": "公司恪守《中华人民共和国环境保护法》等法律法规，制定《环境保护责任制》《环境保护管理规章制度》《固体废物管...由下设的环保管理部作为专职职能部门推进落实，各单位均同步设立环境保护领导小组。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司优先采购绿色低碳产品，将产品碳足迹纳入合格供应商资质评价。",
+      "original_text": "金岭矿业将绿色采购理念融入供应链管理，优先采购绿色低碳产品，并根据需要将产品碳足迹等相关要求纳入合格供应商。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司践行生态保护责任，系统推进矿区覆土绿化、地质修复等工作，2025年对生物多样性影响最大的运营点恢复或重建的区域面积5.86公顷。",
+      "original_text": "公司践行生态保护责任，系统推进矿区覆土绿化、地质修复等工作，有效改善矿区生态环境。2025年，公司对生物多样性影响最大的运营点恢复或重建的区域面积 5.86 公顷。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司深化选矿固废资源化综合利用，尾矿充填将尾矿经浓缩压滤后储存于尾矿库，废石综合利用技术上取得突破，实现环境效益与经济效益双赢。",
+      "original_text": "公司紧扣绿色矿山建设要求，深化选矿固废资源化综合利用。尾矿充填方面，将选矿产生的尾矿经浓缩压滤后储存于尾矿...在废石综合利用技术上取得突破，成功变废为宝。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，制定员工招聘、考勤等制度，保障员工权益，禁止歧视和骚扰，提供公平薪酬和职业发展通道。",
+      "original_text": "公司遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规，制定《员工公开招聘办法》等制度。在招...公平性的薪酬福利体系...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，开展安全培训、应急演练，配备劳动防护用品，进行职业病危害因素检测，实现安全生产零事故。",
+      "original_text": "公司牢固树立'人民至上、生命至上'理念，成功实现安全生产'零事故'目标。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商管理办法》和《采购管理办法》，建立供应商全生命周期管理，拥有职业健康安全管理体系认证的供应商80个。",
+      "original_text": "为规范供应商全生命周期管理，强化供应链风险防控能力，公司制定了《供应商管理办法》和《采购管理办法》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司重视产品和服务质量，开展质量文化培训，进行第三方抽检，强化全流程质量与安全管控。",
+      "original_text": "公司高度重视质量教育工作，将质量培训纳入常态化推进范畴，积极开展多维度的质量教育培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建数据安全与隐私保护体系，遵守相关法律法规，开展数据安全培训，进行网络安全攻防演练，保障客户隐私和数据安全。",
+      "original_text": "公司持续构建数据安全与隐私保护体系，通过制度化的管理机制及标准化的技术防护，落实客户隐私保护与数据全生命周期管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，开展公益活动，如献血、环境清理等，支持社区发展，推动地方经济与就业。",
+      "original_text": "公司始终秉持社会责任与企业发展相融共生的理念，积极倡导志愿精神，通过支持员工志愿团队开展常态化、多元化的公益活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司禁止性别歧视，保障女性员工权益，成立女工委员会，提供产假等福利，尊重个体差异，营造平等包容的工作环境。",
+      "original_text": "公司坚决杜绝任何形式的性别歧视行为，保障女性员工享有与男性员工同等的工作机会与晋升发展空间。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了由董事会、董事会战略与ESG委员会、ESG推进工作组织构成的三级ESG治理架构。",
+      "original_text": "公司搭建了由董事会、董事会战略与ESG委员会、ESG推进工作组织构成的三级ESG治理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续完善企业治理，常态化开展反腐反贪工作，建立健全审计监察体系。设立举报电话和邮箱等多种举报方式。",
+      "original_text": "公司持续完善企业治理，常态化开展反腐反贪工作，建立健全审计监察体系，保障公司运营合法合规。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守商业道德与法律底线，践行反贪腐与反不正当竞争承诺，制定《合规管理办法》，将合规培训纳入年度计划。",
+      "original_text": "公司始终将诚信经营作为企业发展的根本准则，坚守商业道德与法律底线。我们坚决践行反贪腐与反不正当竞争的郑重承诺。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建法务、合规、内控、风险四位一体的全面风险管理体系，制定《全面风险管理办法》，遵循风险识别-评估-应对-监督改进流程。",
+      "original_text": "公司持续完善现代企业治理架构，构建法务、合规、内控、风险四位一体的全面风险管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，由董事会秘书统筹负责，通过业绩说明会、投资者热线、多元化沟通渠道维护股东关系。",
+      "original_text": "公司制定了《投资者关系管理制度》，由董事会秘书统筹负责投资者关系管理工作，通过定期召开业绩说明会、维护投资者热线、运",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司积极搭建常态化沟通机制，充分倾听并理解各方期望与诉求，通过问卷等形式识别重要议题。",
+      "original_text": "公司持续加强与各利益相关方的沟通协作，积极搭建常态化沟通机制，充分倾听并理解各方期望与诉求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理办法》，连续五年在深交所信息披露评价中获A级，确保信息真实、准确、完整、及时。",
+      "original_text": "凭借卓越的信息披露质量连续五年荣获深交所A级评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守企业所得税法等税务法律法规，坚持合规经营，确保税务透明。",
+      "original_text": "公司严格遵守《中华人民共和国企业所得税法》《中华人民共和国企业所得税法实施条例》等税务法律法规，坚持合规经营。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

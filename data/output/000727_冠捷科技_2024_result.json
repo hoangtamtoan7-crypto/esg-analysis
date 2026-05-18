@@ -1,0 +1,441 @@
+{
+  "company_name": "冠捷科技",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 178305,
+      "unit": "吨二氧化碳当量",
+      "original_text": "178,305吨 二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 121012,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二（基于地理位置）排放量7 121,012",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 220864,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗总量2 兆瓦时 220,864",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 2.22,
+      "unit": "%",
+      "original_text": "可再生能源使用比例上升2.22%",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1634811,
+      "unit": "吨",
+      "original_text": "取水总量9 吨 1,634,811",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1355871,
+      "unit": "吨",
+      "original_text": "排水总量10 吨 1,355,871",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 16357,
+      "unit": "人",
+      "original_text": "16,357",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 40.5,
+      "unit": "%",
+      "original_text": "女性员工雇佣比例 40.50",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 48.1,
+      "unit": "小时/人",
+      "original_text": "接受培训平均时长 小时 48.1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "可记录工伤率（百万工时）=工伤事件总次数*1,000,000/总工时。",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 400,
+      "unit": "万元",
+      "original_text": "投入公益捐赠金额400余万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "本公司共有董事9位",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 30,
+      "unit": "%",
+      "original_text": "独立董事占比为30%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 0,
+      "unit": "人",
+      "original_text": "董事名单中均为男性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "由3名监事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司设定了科学碳目标：到2030年运营层面碳排放较2020年降低42%，范围3售出产品使用碳排放较2020年降低42%，并制定了碳中和路线图。",
+      "original_text": "科学碳目标（范围1及2）到2030年，运营层面碳排放水平较2020年降低42%；科学碳目标（范围3）到2030年，范围3售出产品的使用碳排放水平较2020年降低42%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了环境管理体系，并通过ISO 14001认证，覆盖12个制造基地。",
+      "original_text": "本年度全球制造基地数量为12个。认证数量为12个制造基地持有认证的制造基地数量，认证覆盖比例为12个制造基地的认证覆盖比例。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发节能产品，设定目标到2025年自有品牌显示器和电视产品使用能耗比2020年降低25%，并扩大墨水屏等绿色产品组合。",
+      "original_text": "到2025年，自有品牌显示器和电视的产品使用能耗比2020年降低25%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司参照TNFD建议首次识别和评估自然相关风险，制定生物多样性保护政策，所有制造基地选址避免环境敏感区，并与The Explores合作鸟类保护项目。",
+      "original_text": "制定生物多样性保护政策，规范各制造基地和运营场所的生态保护要求",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司设定目标到2030年自有品牌产品塑料零部件使用可回收塑料或海洋塑料比例不低于50%，铝制零部件使用可回收铝件比率不低于25%，包装使用回收料或FSC认证料或生物基材料比例不低于90%。",
+      "original_text": "到2030年，自有品牌产品塑料材质零部件使用可回收塑料或海洋塑料的总比例不低于50%；到2030年，自有品牌产品铝制零部件使用可回收铝件的比率不低于25%；到2030年，自有品牌产品包装使用回收料或FSC认证料或生物基材料的总比例不低于90%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司承诺维护每位员工的人权及劳工权益，制定相关制度，覆盖全体员工及供应链工作者。",
+      "original_text": "维护每位员工的人权及劳工权益，以员工的健康、安全和福祉为优先考虑，倡导多元、平等与包容。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建全员参与的职业健康安全管理体系，设置安全委员会，开展培训、检测和体检。",
+      "original_text": "冠捷致力于为员工打造健康、安心的工作体验，持续构建全员参与的职业健康安全管理体系，降低职业健康安全风险，维护所有工作者的身心健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《TPV供应商行为准则》，涵盖劳工权益、职业健康安全、环境保护等，并对供应商进行可持续采购培训。",
+      "original_text": "冠捷制定《TPV供应商行为准则》形成可持续供应链的整体规范和要求，内容涵盖劳工权益、职业健康安全、环境保护及供应链管理表现。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格质量标准延伸至价值链，开展质量管理小组QCC活动、质量月活动等。",
+      "original_text": "冠捷亦将严格的质量标准和要求延伸至价值链合伙作伴。我们针对供应商制定《供...我们亦加强对员工的培训与赋能，开展质量管理小组QCC活动、'质量月'活动、'品质月'活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司强化信息安全管理，推动ISO 27001认证，开展资讯安全宣导培训，制定《TPV数据保护》政策。",
+      "original_text": "良好的信息安全与隐私保护是冠捷与商业伙伴、客户及员工之间相互信任和长远合作的基础。...对员工开展'资讯安全宣导'培训...制定《TPV供应商行为准则》...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益事业，组织志愿者服务、乡村振兴项目，海外基地参与当地环境保护公益活动。",
+      "original_text": "冠捷人积极投身公益事业，力所能及贡献自己...冠捷海外基地员工积极参与当地环境保护公益活动，与社区居民共同行动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导多元、平等与包容，考虑女性员工需求，制定产假及育儿假政策，组织女性员工健康检查。",
+      "original_text": "冠捷充分考虑女性员工及女性亲属的需求，制定人性化的产假及育儿假政策，组织女性员工专门健康检查，为女性员工提供畅通的职业发展道路和坚实的制度保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "冠捷科技建立了“董事会－风险管理与ESG委员会－ESG专案小组”的三级治理架构。",
+      "original_text": "冠捷科技已经建立了“董事会－风险管理与ESG委员会－ESG专案小组”的三级治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司坚持诚信经营，建立举报渠道，开展反贪腐培训，2023年1月集团内部审计部开展反贪腐培训。",
+      "original_text": "冠捷科技注重商业道德与合规管理，坚持诚信经营原则...2023年1月，集团内部审计部开展反贪腐培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信、廉洁、公平的价值理念，建立举报渠道，通过正式渠道提交的舞弊投诉事件处理率100%。",
+      "original_text": "“诚信、廉洁和公平”的价值理念...通过正式渠道提交的舞弊投诉事件处理率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了企业风险管理（ERM）体系，涵盖商业风险、运营风险、财务及报告风险、合规及监管风险共29个风险议题。",
+      "original_text": "明确定义为企业风险管理（ERM）体系和程序中识别和管控的关键业务风险，涵盖商业风险/战略风险、运营风险、财务及报告风险、合规及监管风险，共29个风险议题",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东大会、投资者会议、路演、热线电话、深交所互动易、公众号、公司官网、财务年报、年度ESG报告等方式与投资者沟通。",
+      "original_text": "股东大会（每年）• 投资者会议、路演（每年）• 热线电话（实时）• 深交所互动易（实时）• 公众号（不定期）• 中小股东交流（不定期）• 公司官网（实时）• 财务年报（每年）• 年度ESG报告（每年）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别了员工、客户、供应商、股东、社区等利益相关方，并通过多种渠道进行沟通。",
+      "original_text": "利益相关方沟通 18 绿色产品与包装 41...员工 • 客户或消费者 • 供应商或其他商业伙伴 • 股东或潜在投资者 • 社区与公众",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司致力于高水平信息披露，年度ESG报告经董事会审议批准，关键数据经鉴证。",
+      "original_text": "冠捷致力于通过高水平的信息披露...年度ESG报告所有信息均...年度ESG报告关键数据...年度董事会审",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

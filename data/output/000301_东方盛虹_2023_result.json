@@ -1,0 +1,441 @@
+{
+  "company_name": "东方盛虹",
+  "report_year": "2023",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 8002800,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 800.28万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3493600,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范畴一温室气体排放量 349.36万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 4509200,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范畴二温室气体排放量 450.92万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.25,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放密度 1.25万吨二氧化碳当量/亿元营收",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 91000,
+      "unit": "吨",
+      "original_text": "固体废弃物量 91.00千吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 584500,
+      "unit": "万元",
+      "original_text": "2022年，公司共计投入58.45亿元用于环境保护相关投资",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 114.64,
+      "unit": "吨",
+      "original_text": "二氧化硫 114.64吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 87,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 87小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 142500,
+      "unit": "万元",
+      "original_text": "研发投入金额(亿元) 14.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.51,
+      "unit": "%",
+      "original_text": "研发投资占营业收入比例(%) 2.51",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全环保投资约110亿元",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司董事会由7名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "其中独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "2022年公司共召开10次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 5,
+      "unit": "人",
+      "original_text": "公司监事会由5名监事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "原文提及'10次董事会审计'，但未明确审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司坚持以‘节约能源，持续提高能效；科学减排，实现绿色发展’为能源管理方针，助力实现‘2030碳达峰，2060碳中和’目标。",
+      "original_text": "为实现国家提出的‘2030碳达峰，2060碳中和’目标，公司坚持以‘节约能源，持续提高能效；科学减排，实现绿色发展’为能源管理方针",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司下属重要子公司取得环境管理体系认证。设立以主要负责人为组长的环境保护工作领导小组，对各项环境保护工作进行决策、监督和协调。",
+      "original_text": "公司下属重要子公司取得环境管理体系认证。设立以主要负责人（总经理）为首，各部门领导、专兼职安全环保工程师组成的环境保护工作领导小组",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司自主研发光伏级EVA树脂，填补国内空白；推进百万吨级EVA新能源材料、百万吨级丙烯腈等重大项目；布局PBAT、PBS等绿色可降解材料项目。",
+      "original_text": "公司自主研发的光伏级EVA封装胶膜专用树脂，首次突破国外技术垄断，实现国产化替代；布局建设PBAT、PBS等百万吨级绿色可降解材料项目",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "针对盛虹炼化一体化项目对水域生态环境和渔业资源的影响，加强生态修复手段的技术创新与成果集成，采取定期增殖放流等方式减轻项目运行对环境的影响。",
+      "original_text": "针对盛虹炼化一体化项目对水域生态环境和渔业资源的影响，加强生态修复手段的技术创新与成果集成，对码头区域采取定期增殖放流等方式减轻项目运行对环境的影响",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司率先投产自主研发的由废旧塑料瓶片到纺丝的熔体直纺生产线，实现废旧塑料的循环再利用；推进二氧化碳捕集利用-绿色甲醇-新能源材料项目，变废为宝。",
+      "original_text": "率先投产自主研发的由废旧塑料瓶片到纺丝的熔体直纺生产线，不仅实现了废旧塑料的循环再利用；斯尔邦石化正在推进建设全球首条‘二氧化碳捕集利用―绿色甲醇―新能源材料’产业链项目",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，严格遵守劳动法，建立和谐劳动关系，坚持以人为本，通过党群活动中心等增强员工归属感。",
+      "original_text": "公司保障员工合法权益，严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过职业健康安全管理体系认证，制定安全管理制度，开展职业健康培训，进行危害因素评价和体检，无重大安全事故。",
+      "original_text": "公司各下属企业通过职业健康安全管理体系认证，每三年进行一次职业危害因素评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商评估和准入制度，对供应商进行实时管理和综合评价，打造负责任供应链。",
+      "original_text": "公司致力于打造负责任的供应链，深化供应商合规管理，优化供应商管理制度及业务流程，防范供应链风险",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司每年按要求定期组织内外部审核，体系运行有效，提质增效成果显著，助力企业高质量发展。",
+      "original_text": "产品质量与安全 每年按要求定期组织内外部审核，体系运行有效，提质增效成果显著，助力企业高质量发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定信息安全管理制度，成立信息安全委员会，信息安全与隐私泄露事件数量为0起。",
+      "original_text": "信息安全与隐私泄露时间数量（起） 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司依托自有公益渠道，举办多元化慈善活动，深入扶贫济困、人才助学、弱势群体救助等领域，支持地方建设。",
+      "original_text": "公司努力以具有公信力的作为和形象推动慈善公益事业发展。我们依托自有公益渠道，举办多元化慈善活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "报告提及不同年龄员工分布（30岁以下11832人，50岁以上1537人），但未明确说明多元化政策。",
+      "original_text": "其中：30岁以下员工（人） 11,832 50岁以上员工（人） 1,537",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会战略委员会、社会责任管理委员会、各职能部门及业务板块社会责任工作组构成的治理架构，对应履行治理层-管理层-执行层职责。",
+      "original_text": "公司社会责任治理架构是由'董事会战略委员会-社会责任管理委员会-公司各总部职能部门及业务板块社会责任工作组'对应履行'治理层-管理层-执行层'",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定实施《反舞弊与举报制度》，开展廉洁合规主题活动，加强廉洁风险防控，完善追责问责机制。",
+      "original_text": "公司制定实施《反舞弊与举报制度》...加强廉洁风险防控，完善追责问责机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立并不断完善内部控制制度，将合规要求和制度执行力保障经营合规性，积极发挥内审监督作用。",
+      "original_text": "合规经营是保障企业发展的重要依托和抓手。公司建立并不断完善内部控制制度。将合规要求和制度执行力保障经营合规性。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续对各板块内控体系进行全面建设和完善优化，确保内控设计层面的充分有效，并开展内控自评和审计跟踪。",
+      "original_text": "根据《企业内部控制基本规范》及配套指引，持续对各板块内控体系进行全面建设和完善优化，确保内控设计层面的充分有效。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视与投资者的沟通及交流，设立董事会秘书办公室负责投资者关系日常管理，建立健全公开透明的投资者关系工作机制。",
+      "original_text": "公司重视与投资者的沟通及交流，董事会指定专门部门和工作人负责投资者关系管理工作...设立董事会秘书办公室，组织实施投资者关系的日常管理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司充分识别内外部利益相关方，建立利益相关方沟通机制，定期收集真实诉求，并通过重大议题调查问卷等方式回应期望。",
+      "original_text": "东方盛虹充分识别了组织的内部和外部利益相关方...并建立了利益相关方沟通机制，以定期收集利益相关方的真实诉求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露相关规定，规范信息披露工作，确保真实、准确、完整、及时、公平，2022年对外发布公告，获评优秀。",
+      "original_text": "严格遵守法律法规、规范性文件及《公司章程》的有关规定，规范信息披露工作...确保信息披露的真实、准确、完整、及时、公平",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

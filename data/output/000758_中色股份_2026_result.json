@@ -1,0 +1,441 @@
+{
+  "company_name": "中色股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 745300,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 万吨二氧化碳当量 79.20 72.26 74.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.78,
+      "unit": "吨二氧化碳当量/万元产值",
+      "original_text": "温室气体排放密度（可比价） 吨二氧化碳排放当量/万元产值 2.03 1.82 1.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 236838,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 236,838",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 41.44,
+      "unit": "%",
+      "original_text": "可再生能源消耗量占比 % 41.44",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 58963100,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 5,896.31",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 191.47,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 191.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 199.89,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 吨 199.89",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5080,
+      "unit": "人",
+      "original_text": "在职员工总数 人 5,080 4,911 5,211",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 14,
+      "unit": "%",
+      "original_text": "女性员工比例 % 14 - -",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 4.38,
+      "unit": "%",
+      "original_text": "员工流失率 % 4.45 4.01 4.38",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 6314.15,
+      "unit": "万元",
+      "original_text": "研发费用 万元 6,314.15 4,790.92 3,854.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.99,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 % 1.99 0.53 0.42",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 3800,
+      "unit": "万元",
+      "original_text": "安全生产投入约 亿元 0.38 0.27 0.33",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 290.83,
+      "unit": "万元",
+      "original_text": "对外捐赠总额 万元 290.83 312.68 251.5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事人数 人 7 7 7",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事占比 % 42.86",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 0,
+      "unit": "人",
+      "original_text": "女性 人 0 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 14,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 14",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司不再设置监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳中和路线图，目标2030年碳达峰、2060年碳中和，并设立气候变化管理机构。",
+      "original_text": "我们设置独立的生态环境保护管理组织机构...负责对公司生态环境保护工作进行统一监督和管理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司通过ISO 14001环境管理体系认证，并建立环境管理制度。",
+      "original_text": "通过ISO 14001环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司提及绿色设计理念，采用绿色环保技术和材料，但未明确具体产品。",
+      "original_text": "践行绿色设计理念，在设计阶段充分考虑项目全过程对资源和环境的影响，积极采用绿色环保技术和材料",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司参与生态修复、草原复垦、种植树木等生物多样性保护活动。",
+      "original_text": "鑫都矿业积极响应种植'十亿'棵树号召，恢复草原绿化",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进水资源循环利用，废水综合治理项目每年回收利用水资源约60万立方米，重复用水率达96.1%。",
+      "original_text": "每年可回收利用水资源约60万立方米，减排重金属176千克，重复用水率达96.1%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司尊重和保护员工基本权利，遵守劳动法，制定《招聘管理办法》，建立科学招聘流程，打造多元化员工招聘体系，优化员工结构。",
+      "original_text": "我们尊重和保护员工的基本权利，严格遵守《中华人民共和国劳动法》等国家法律法规，制定《招聘管理办法》，优化员工结构，筑牢多元化人才引育渠道。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO45001职业健康安全管理体系认证，建立职业健康与安全生产风险识别与评估机制，配备个人劳动保护用品，建立职业健康档案，定期组织体检。",
+      "original_text": "部及出资企业全部通过ISO45001职业健康安全管理体系认证。配备全面的个人劳动保护用品，为员工建立职业健康档案，定期组织全员体检，杜绝职业病。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司融入'负责任采购'理念，完善供应商全生命周期管理，推进绿色供应链，与供应商签订廉洁承诺书，限额以上项目100%公开采购。",
+      "original_text": "中色股份将'负责任采购'理念深度融入供应链管理体系...与供应商签订《廉洁采购承诺书》...限额以上项目100%公开采购",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司制定《WBS管理办法》等制度，开展质量月活动，通过技能比武、质量检查等强化质量管控，无客户投诉及因安全与质量问题召回产品的情况。",
+      "original_text": "我们始终将产品和服务安全与质量作为重要议题纳入我们的生产经营策略当中...无客户投诉及因安全与质量问题召回产品的情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守《数据安全法》《个人信息保护法》等法律法规，强化数据隐私保护能力，筑牢客户信息安全防线。",
+      "original_text": "中色股份严格遵守《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》等数据信息安全相关法律法规...强化数据隐私保护能力，筑牢客户信息安全防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司组织员工参与公益活动，积极参与当地社区建设，开展社区交流、慰问、参与社区公益和福利事业，推进本地采购和雇佣。",
+      "original_text": "我们坚守“奉献、友爱、互助、进步”的志愿服务精神，组织员工参与公益活动，积极参与当地社区建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司打造多元化员工招聘体系，设立巾帼创新工作室，汇聚女性技术骨干，开展女性健康关爱活动。",
+      "original_text": "巾帼创新工作室是公司首个以女性技术骨干为核心的创新平台...汇聚10名女性技术骨干。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会确立ESG发展方向，制定ESG策略，识别ESG风险，定期审查ESG工作开展情况。2025年8月将ESG相关职能纳入董事会战略与可持续发展委员会。建立'董事会–战略与可持续发展委员会–执行层'的气候变化管理结构。",
+      "original_text": "董事会ESG声明：中色股份董事会确立ESG发展方向，制定ESG策略，识别ESG风险，定期审查ESG工作开展情况，审批有关ESG报告信息披露资料。我们于2025年8月将ESG相关职能纳入董事会战略与可持续发展委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司深植廉洁基因，以'大监督'体系为支撑，制定并印发《本部工作人员干预和插手重大事项记录规定》等制度文件，开展廉洁文化建设与合规治理，反商业贿赂铁腕施治。",
+      "original_text": "中色股份深植廉洁基因，秉持清风正气的发展理念，以'大监督'体系为支撑，构筑崇廉尚洁的精神防线，从源头上杜绝合规风险。反商业贿赂及反腐败。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持依法治企，以健全治理架构、完善内控体系为抓手，从严规范公司治理流程，筑牢合规风控屏障。编制并发布以《合规管理办法》为基本制度，包含《风控合规手册》《内控手册》等配套文件。",
+      "original_text": "中色股份坚持依法治企，以健全治理架构、完善内控体系为抓手，从严规范公司治理流程，筑牢合规风控屏障。我们编制并发布以《合规管理办法》为基本制度，包含《风控合规手册》《内控手册》《内控评价管理办法》在内的配套文件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了覆盖全部业务单元的风险监测体系，严格执行重大风险事件、法律合规、诉讼案件、季度报告监测制度。按月度评估公司重大风险变化情况，及时发布提示函进行预警。",
+      "original_text": "我们建立了覆盖公司全部业务单元的风险监测体系，严格执行重大风险事件、法律合规、诉讼案件、季度报告监测制度。根据企业实际、行业特点和国内外形势，按月度评估公司重大风险变化情况，根据业务风险及时发布提示函进行预警。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，搭建系统化、标准化的投资者关系管理体系，设立证券事务部负责具体工作。通过线上线下多元沟通渠道，提升信息透明度与市场信任度。荣获'投资者关系管理优秀团队奖'。",
+      "original_text": "我们制定《投资者关系管理制度》，搭建系统化、标准化的投资者关系管理体系。我们设立证券事务部负责投资者关系管理具体工作。首次荣获第十六届天马奖之'投资者关系管理优秀团队奖'。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司不断拓展利益相关方沟通渠道和方式，多渠道收集利益相关方的要求与期望，积极回应利益相关方诉求，并就关键议题审视自身工作表现，不断提高ESG工作绩效。",
+      "original_text": "中色股份不断拓展利益相关方沟通渠道和方式，多渠道收集利益相关方的要求与期望，积极回应利益相关方诉求，并就关键议题审视自身工作表现，不断提高ESG工作绩效，实现与利益相关方共同发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司印发《信息披露管理制度》《财务报告管理制度》《信息披露流程说明》三项核心制度文件，从制度层面筑牢信息披露的合规根基。获深交所2024-2025年度信息披露工作评价A级。",
+      "original_text": "我们不断加强监管沟通与政策贯彻，印发《信息披露管理制度》《财务报告管理制度》《信息披露流程说明》三项核心制度文件。我们获得深交所主板上市公司2024-2025年度信息披露工作评价结果A级评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "英 力 特",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 2772521.75,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一...温室气体排放量 2,772,521.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 96282.04,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二 | 外购电力、热力 间接排放 | 96,282.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 951454.16,
+      "unit": "tce",
+      "original_text": "综合能源消费量 / tce 951454.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 2.4,
+      "unit": "%",
+      "original_text": "可再生能源消耗占比 2.4%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 12827600,
+      "unit": "吨",
+      "original_text": "公司2025年新鲜水用量为1282.76万吨，中水用量223.45万吨。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 753426.25,
+      "unit": "吨",
+      "original_text": "企业共排放废水753426.25吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 785433.34,
+      "unit": "吨",
+      "original_text": "一般工业固废（电石渣为核心） 781320 吨；危险废物 4113.34 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 2350,
+      "unit": "万元",
+      "original_text": "金（含技改）2,350万元，主要用于污水零排放技改项目",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1790,
+      "unit": "人",
+      "original_text": "员工总数（人） 1790",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 34.48,
+      "unit": "%",
+      "original_text": "女性员工占比34.48%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 3.91,
+      "unit": "%",
+      "original_text": "女性管理者比例（%） 3.91",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 400.52,
+      "unit": "万元",
+      "original_text": "员工培训总投入(万元) 205.73 174.62 400.52",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 22,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长22小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.34,
+      "unit": "%",
+      "original_text": "员工流失率 0.63% 0.55% 0.34%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 588.67,
+      "unit": "万元",
+      "original_text": "2025年研发投入共计588.67万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2041.54,
+      "unit": "万元",
+      "original_text": "安全生产投入（含技改）（万元） 3208.40 1509.82 2041.54",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司第十届董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.3,
+      "unit": "%",
+      "original_text": "独立董事占比 33.3%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "ESG委员会成员中，男性2名、女性1名",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "2025年，公司召开董事会10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "召开审计与风险委员会6期",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司锚定双碳目标，推进新能源项目布局，加快10MW自发自用分散式风电项目建设，完善污水零排、固废综合利用等循环经济项目，制定节能减碳规划行动，有效减少温室气体排放。",
+      "original_text": "聚焦双碳目标，推进新能源项目布局，加快10MW自发自用分散式风电项目建设落地，完善污水零排、固废综合利用等循环经济项目；制定节能减碳规划行动，有效减少温室气体排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司坚持降碳、减污、扩绿、增长协同推进，健全污染防治机制，全面开展废气、废水、固废等污染综合治理，严格控制污染物达标排放。",
+      "original_text": "英力特化工坚决落实日趋严格的生态环境保护要求，坚持降碳、减污、扩绿、增长协同推进，不断健全污染防治机制，全面开展废气、废水、固废等污染综合治理，严格控制污染物达标排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司利用低汞催化技术生产高性能树脂，减少汞污染；开展PVC产品全生命周期碳足迹管理。",
+      "original_text": "利用低汞催化技术生产高性能树脂，减少汞污染；PVC产品全生命周期碳足迹管理",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司组织员工开展植树绿化活动，在美化环境的同时，助力推进国家碳中和目标。坚持绿色发展、保护优先原则，将生态环境保护要求融入公司战略。",
+      "original_text": "英力特化工践行‘绿水青山就是金山银山’的绿色发展理念，组织员工开展植树绿化活动，在美化环境的同时，助力推进国家碳中和目标。坚持‘绿色发展、保护优先、依法合规、全程管理’的原则",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以污水零排放技改项目为核心，构建废水收集-深度处理-回收回用闭环，年回用废水105万立方米；自产废盐近100%资源化，年回收工业盐3320吨；电石渣综合利用率超过90%。",
+      "original_text": "污水零排放技改项目于年内全面投产运行，实现工业废水100%回收利用，年回用水量达105万吨；自产废盐近100%资源化，年回收工业盐3320吨；电石渣资源化利用，综合利用率超过90%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法保障员工权益，落实劳动合同法，提供薪酬福利，坚持男女同工同酬，推进性别平等，尊重员工多元化，提供民主沟通平台。",
+      "original_text": "公司严格贯彻落实《劳动合同法》...坚持男女员工同工同酬，推进性别平等...拥抱并接受员工的多元化",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建了完善的职业健康与安全管理体系，符合GB/T28001和ISO45001要求，职业健康体检率与培训覆盖率100%，未出现新增职业病案例。",
+      "original_text": "职业健康安全管理体系运行符合GB/T28001和ISO45001要求...员工职业健康体检率与职业健康培训完成率为100%...未出现新增职业病案例",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对电石、原盐等核心原料供应商开展ESG合规评估，重点核查环保排污许可证、安全生产许可证，并开展供应商培训。",
+      "original_text": "供应链尽职调查：对电石、原盐等核心原料供应商开展ESG合规评估，重点核查环保排污许可证、安全生产许可证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司重视质量工作，从制度修订、员工培训、反馈优化多方面入手，确保产品全生命周期安全合规，提供产品安全技术说明书。",
+      "original_text": "产品和服务安全与质量...确保产品全生命周期安全合规...编制并向客户提供PVC树脂产品安全技术说明书",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司重视数据安全与客户隐私保护，不断提升信息系统安全防御能力，筑牢数据安全防线。",
+      "original_text": "数据安全与客户隐私保护...不断提升信息系统的安全防御能力，筑牢数据安全防线",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社区公益，开展消防安全知识讲座、敬老院志愿服务、无偿献血等活动，支持乡村振兴。",
+      "original_text": "公司消防战斗员走进石嘴山市惠农区河滨街道红旗社区，开展消防安全知识讲座...志愿者前往惠农区敬老院开展志愿服务活动，并开展无偿献血活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司践行平等雇佣，抵制歧视，积极推进员工队伍多元化，坚持男女同工同酬，尊重员工多元化。",
+      "original_text": "公司践行平等雇佣，坚决抵制国籍、性别、年龄、种族、宗教、孕残等任何形式的歧视行为，积极推进员工队伍多元化",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了董事会决策、ESG委员会监督、领导小组统筹、部门执行的四级治理架构。董事会是ESG最高决策机构，ESG委员会负责统筹管理，证券与法律事务部归口管理。",
+      "original_text": "构建“董事会决策-ESG委员会监督-领导小组统筹-部门执行”的四级环境治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司审计与内控检查涵盖反腐败、商业道德管理。董事会下设审计与风险委员会，开展合规风险识别及应对。",
+      "original_text": "包括财务收支、经济活动、内部控制、风险管理、合规管理以及反腐败、商业道德管理等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信经营，制定合规审查实施办法，建立常态化合规风险管控机制，全年未发生重大合规风险事件。",
+      "original_text": "坚持诚信经营，加强合规风险管控，打造规范化、法治化的运营环境",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了完善的内控风险治理架构，董事会每年进行内控风险管理检讨，审计与风险委员会配备专业董事，开展包含ESG风险的综合风险评价。",
+      "original_text": "公司建立了完善的内控风险治理架构。董事会每年进行一次内控风险管理系统的检讨",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东会、公司公告、业绩说明会、路演、电子邮件、热线电话等渠道与投资者沟通，保障股东权益。",
+      "original_text": "股东与投资者...企业管治、风险管理、可持续经营、商业道德、收益回报、信息畅通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别政府及监管机构、股东与投资者等利益相关方，通过信息披露、工作汇报、监督检查、调研座谈等方式沟通。",
+      "original_text": "政府及监管机构...信息披露、公司官网、工作汇报、监督检查、调研与座谈、审批与审计",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司按时、完整披露所有法定信息，无信息遗漏。董事会办公室统筹信息披露工作，建立报告披露时间节点管控机制。",
+      "original_text": "正常运营，所有法定披露信息均按时、完整披露，无信息遗漏",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司坚持依法纳税，建立完善税务内控体系，2024年度纳税信用等级提升至A级，未发生税收违法事项。",
+      "original_text": "公司始终坚持依法纳税、诚信经营，严格遵守税收法律法规，建立完善的税务内控体系",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

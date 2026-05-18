@@ -1,0 +1,442 @@
+{
+  "company_name": "宁波银行",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 4806.61,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量¹ 吨二氧化碳当量 4,806.61",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 250.58,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量250.58吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 4163.31,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量4,163.31吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.07,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "温室气体排放量密度 吨二氧化碳当量/百万元营收 0.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 66168,
+      "unit": "吨",
+      "original_text": "水资源使用量 66,168 立方米",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 53011,
+      "unit": "吨",
+      "original_text": "生活废水排放量 吨 53,011",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 24884,
+      "unit": "人",
+      "original_text": "按性别划分 男性 人数 11,054 女性 人数 13,803",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 55.5,
+      "unit": "%",
+      "original_text": "女性 人数 13,803",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "董事会成员按性别划分-女性董事 3",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 5861,
+      "unit": "万元",
+      "original_text": "培训投入 万元 5,861.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 79.2,
+      "unit": "小时/人",
+      "original_text": "按性别划分 男性 小时 79.20 女性 小时 78.65",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "年研发投入持续",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "工伤事故 / / /",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 10688.1,
+      "unit": "万元",
+      "original_text": "全行公益慈善捐款金额 万元 5,553.46 8,136.54 10,688.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 14,
+      "unit": "人",
+      "original_text": "14 董事会成员人数",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "董事会成员按类型划分-独立董事 5",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "3 董事会成员按性别划分-女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "董事会会议召开次数6次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "我行取消监事会设置",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "宁波银行将应对气候变化、推进绿色发展纳入长期发展战略，设定高排放和低排放情景分析气候风险，并制定应对举措。",
+      "original_text": "宁波银行积极响应国家“双碳”战略，将应对气候变化、推进绿色发展纳入长期发展战略。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "宁波银行建立权责清晰的绿色金融及环境相关风险治理体系，强化董事会监督职责，并持续追踪能源消耗情况。",
+      "original_text": "建立权责清晰、分工明确的绿色金融及环境（气候）相关风险治理体系，强化董事会及专门委员会的统筹领导与监督职责。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "宁波银行推出碳减贷、绿色低碳贷款、绿专贷等绿色信贷产品，以及绿色租赁、绿色供应链金融等，支持绿色产业。",
+      "original_text": "全面推广“碳减贷”，为清洁能源、节能环保、碳减排技术领域项目提供优惠利率贷款；创新推出与“工业碳账户”等级挂钩的差异化定价产品。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "聚焦海洋生态系统保护修复及碳汇能力提升，推动蓝色金融，支持海洋碳汇增汇。",
+      "original_text": "我行紧紧围绕海洋强国与蓝色经济发展战略，将金融服务聚焦于海洋生态系统保护修复及碳汇能力提升。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "宁波银行推进水资源循环利用，建成空调冷凝水回收系统，实施垃圾分类与废弃物管理，推行无纸化办公和资源循环利用。",
+      "original_text": "宁波银行积极推进水资源的高效利用与循环利用，建成空调冷凝水回收系统，将回收水用于地下室保洁。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法保障员工权益，劳动合同签署率100%，提供多元化薪酬福利与长期激励，关注女性员工发展，消除性别刻板印象。",
+      "original_text": "劳动合同签署率保持100%。我行高度重视员工人权保护，倡导尊重、包容的职场文化，保障员工的隐私权、人格尊严与合法权益。同时，我行关注女性员工发展，努力消除性别刻板印象。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司关注员工身心健康，通过完善职工互助保障机制、丰富文体活动等方式营造健康工作环境，并设有职业健康管理机制。",
+      "original_text": "我行关注员工身心健康对组织活力的重要影响，通过完善职工互助保障机制、丰富文体活动等方式，持续营造积极、健康的工作环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司提及供应链风险排查、代码安全审计等，但未明确说明供应链ESG管理政策。",
+      "original_text": "供应链风险排查 代码安全审计",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司设有产品和服务安全与质量相关章节，并提及消费者权益保护培训覆盖22,507人。",
+      "original_text": "产品和服务安全与质量 全行消费者权益保护培训覆盖人数22,507人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立数据安全与隐私保护全生命周期管理体系，部署数据防泄漏系统，将安全需求融入研发全流程。",
+      "original_text": "宁波银行数据安全与隐私保护全生命周期管理。我行坚持“安全左移”和全生命周期管控理念，将风险防控全面融入运营的各个环节。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区公益，举办金融安全嘉年华、金融知识普及活动，并捐赠善款支持本地公益。",
+      "original_text": "宁波银行举办社区金融安全嘉年华；全行公益慈善捐款金额10,688.10万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导多元化、平等与包容，关注女性员工发展，支持员工平衡职业与家庭，设有女性员工关怀体系。",
+      "original_text": "持续推进多元化、平等与包容理念；支持女性员工在各层级岗位中平等参与、获得公正评价与发展机会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会下设战略与可持续发展委员会，负责可持续发展相关事项的审批与决策。董事会承担风险管理的最终责任，明确董事会对全行气候风险承担监督职责。",
+      "original_text": "董事会下设战略与可持续发展委员会；明确董事会对全行气候风险承担监督职责",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "组织全员签订反腐倡廉建设责任状，明确各层级廉洁责任；董事接受廉洁培训平均时数5小时，董事接受廉洁人数14人；持续完善'四全四防'管控机制。",
+      "original_text": "组织全员签订反腐倡廉建设责任状；董事接受廉洁培训的平均时数5小时；董事接受廉洁人数14人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "遵循《宁波银行合规风险管理办法》，构建董事会负最终责任、高级管理层统筹实施、合规管理部门牵头推动的合规管理架构。积极贯彻落实《金融机构合规管理办法》。",
+      "original_text": "遵循《宁波银行合规风险管理办法》，构建了董事会负最终责任、高级管理层统筹实施、合规管理部门牵头推动、各业务条线协同落实、内部审计独立监督的合规管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "以《全面风险管理实施细则》为制度基础，构建覆盖信用风险、市场风险、流动性风险、操作风险、国别风险及大额风险暴露等重点领域的全面风险管理体系。董事会承担风险管理的最终责任。",
+      "original_text": "以《全面风险管理实施细则》为制度基础，构建了覆盖信用风险、市场风险、流动性风险、操作风险、国别风险及大额风险暴露等重点领域的全面风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "依托《宁波银行投资者关系管理办法》，优化内部协同机制，明确各环节职责边界和披露要求。通过业绩说明会、专题交流等活动，解读经营成果与战略方向。",
+      "original_text": "依托《宁波银行投资者关系管理办法》，进一步优化内部协同机制，明确各环节职责边界和披露要求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "在日常经营服务的各个环节建立了与利益相关方常态化沟通机制，以多渠道、多元化的沟通交流方式，充分倾听利益相关方的期望与诉求。",
+      "original_text": "在日常经营服务的各个环节建立了与利益相关方常态化沟通机制，以多渠道、多元化的沟通交流方式，充分倾听利益相关方的期望与诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "信息披露工作连续17年获得深圳证券交易所'A'级评价。围绕可理解、可比较、可验证的披露方法，不断提升信息披露的规范性和透明度。",
+      "original_text": "信息披露工作连续17年获得深圳证券交易所'A'级评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "002142_宁波银行_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

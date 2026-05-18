@@ -1,0 +1,441 @@
+{
+  "company_name": "天府文旅",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 万吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 20607,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体 万吨二氧化碳当量 1.9371 2.0607",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 17814,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体 万吨二氧化碳当量 1.8972 1.7814",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.5,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 / 吨二氧化碳当量 万元营收 0.76 0.50",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "推动项目运营区域采用可再生能源，减少传统能源依赖。",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "水资源消耗总量较 年下降约",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 306,
+      "unit": "人",
+      "original_text": "劳动合同制员工 306 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 43.18,
+      "unit": "%",
+      "original_text": "女性员工占比 43.18%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 25,
+      "unit": "%",
+      "original_text": "女性高管占比 % 33.33 25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 5.09,
+      "unit": "万元",
+      "original_text": "员工培训投入 5.09 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 12,
+      "unit": "小时/人",
+      "original_text": "全体员工每年人均接受培训的平均小时数 12 小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 12,
+      "unit": "%",
+      "original_text": "员工流失率 % 5 12 12",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提及研发投入金额",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "未明确提及研发投入占营收比例",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 71,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 / 103 71",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "未明确提及工伤事故率",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 0.968,
+      "unit": "万元",
+      "original_text": "公益捐赠总金额 万元 3 0.6 0.968",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提及纳税总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会由 名董事构成，人数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "公司 名董事中独立董事 名",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "其中女性董事3名，占比达33.33%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "董事会会议次数 | 次 | 8 | 18",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司依据新《中华人民共和国公司法》取消了监事会并将监事会职能转移至审计委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "高管薪酬方案由薪酬与考核委员会拟定、董事会批准后实施",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "审计委员会会议 次",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司全面贯彻国家'双碳'战略，系统构建低碳运营体系，推动能源结构优化与碳足迹全流程管控。将应对气候变化纳入董事会战略委员会监督决策范畴，建立跨部门协同机制。",
+      "original_text": "天府文旅全面贯彻国家'双碳'战略，系统构建低碳运营体系，推动文旅场景能源结构优化与碳足迹全流程管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定并实施《公共区域场地维护和环境卫生管理制度》《垃圾清运和废弃物资管理规定》等制度，建立环境保护工作领导小组，形成'决策－执行－监督'闭环管理。",
+      "original_text": "公司通过完善实施《公共区域场地维护和环境卫生管理制度》《垃圾清运和废弃物资管理规定》等一系列环境管理制度，进一步夯实环保合规管理基础。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司践行低碳会展理念，秉承'能借不租、能租不买'原则，在场地选址优先交通便利场所，设计充分利用自然采光，优先选用高效节能产品，采用环保可回收材料。",
+      "original_text": "沐山时代始终践行低碳环保理念，秉承'能借不租、能租不买'的原则，切实开展低碳会展工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司构建覆盖非生物因子、自然资源及景观生态的综合监测体系，定期开展多维度生态环境评估，以生态提质丰富区域生物多样性。",
+      "original_text": "为保障生态系统稳定，公司构建覆盖非生物因子、自然资源及景观生态的综合监测体系，定期开展多维度生态环境评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动废水资源化利用，建设污水处理站实现中水回用；雨水收集用于绿化灌溉；优先采用环保可循环材料，强化水资源循环利用。",
+      "original_text": "环保可循环材料应用、强化水资源循环利用等举措，实现资源利用效率的持续提升与碳排放的有效削减。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，保障员工合法权益，依法签订劳动合同，提供多元化福利，包括健康体检、交通补贴等。",
+      "original_text": "公司严格保障员工合法权益与人权，依法与全体员工签订劳动合同，全面、清晰告知工作地点、岗位职责、薪酬福利等核心信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，落实安全生产责任制，开展安全培训、应急演练，员工体检覆盖率100%。",
+      "original_text": "公司严格落实集团职业健康工作部署，建立健全长效管理机制，全面开展员工健康与工作环境专项排查，全年员工职业健康体检覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "报告提及供应链安全议题，但未详细描述具体管理措施。",
+      "original_text": "供应链安全 第四十五条 供应链安全 管治",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建覆盖全业务板块的服务安全与质量治理架构，制定服务流程、质量标准与安全规范，报告期内未发生产品和服务相关的安全与质量重大违规事件。",
+      "original_text": "公司将产品和服务质量视为企业发展的生命线，构建了自上而下、覆盖全业务板块的服务安全与质量的治理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全相关法律法规，采取多重安全防护措施，报告期内未发生数据安全事故及客户隐私泄露事件。",
+      "original_text": "截至年末，公司未发生数据安全事故及客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，开展志愿服务、体育公益活动、环保宣传，助力乡村振兴，通过消费帮扶、就业帮扶、文旅赋能服务地方发展。",
+      "original_text": "公司积极履行社会责任...开展志愿服务、体育公益活动、环保宣...助力乡村振兴...以消费帮扶、就业帮扶、文旅赋能为抓手",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司保障女性员工权益，女性员工占比43.18%，女性董事占比有提及但未明确数值，歧视员工事件为零。",
+      "original_text": "多元化与平等 0 歧视员工、雇佣童工以及涉及侵犯原住民权利的事件为 达成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了董事会监督决策、管理小组统筹协调、工作小组执行落地的三级ESG治理架构，并将ESG事项纳入董事会战略委员会管理。",
+      "original_text": "公司建立了董事会监督决策、 管理小组统筹协调、 工作小组执行落地的三级 治理架构， 年，公司修订《战略委员会议事规则》，将 事项纳入董事会战略委员会管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司通过廉政建设、监督检查等举措强化廉洁风险管控，进行反腐败审计，反商业贿赂及反贪污政策和程序传达给董事会成员的比率为100%。",
+      "original_text": "公司通过廉政建设、监督检查等举措，强化廉洁风险管控，同时通过多层次、多形式的廉洁教育培训，加强全员合规意识，反商业贿赂及反贪污政策和程序传达给公司董事会成员的比率 达成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司遵循《企业内部控制基本规范》，构建了完善的内部审计体系与流程，建立‘三道防线’合规风险防控体系，并设立合规委员会。",
+      "original_text": "公司遵循《企业内部控制基本规范》及其配套指引，构建了完善的内部审计体系与流程，董事会负责建立并实施内控体系，公司建立“三道防线”合规风险防控体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司设立突发风险事件领导小组，由董事长担任组长，制定并实施《突发事件风险应急预案》，系统规范了突发风险应对流程。",
+      "original_text": "公司设立突发风险事件领导小组，组长由董事长担任，总经理、董事会秘书任副组长，成员由各相关部门的负责人及相关子公司的董事长或总经理担任。领导小组下设处置工作小组。公司制定并实施《突发事件风险应急预案》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司投资者关系管理由董事会领导、董事会秘书统筹分管，恪守合规性、投资者机会均等、诚实守信、双向互动的核心原则。",
+      "original_text": "公司投资者关系管理由董事会领导、董事会秘书统筹分管，恪守合规性、投资者机会均等、诚实守信、双向互动的核心原则",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别出各利益相关方关注的与经营相关的重要性议题，通过多种方式与政府、股东、员工等利益相关方保持良好沟通。",
+      "original_text": "天府文旅与各利益相关方保持良好沟通，积极了解并回应利益相关方诉求，听取对公司发展的建议。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露获得深交所A等级，信息披露质量持续稳定。董事会全程深度参与并监督ESG报告的编制工作。",
+      "original_text": "公司信息披露获得深交所 等级，信息披露质量持续稳定。公司董事会全程深度参与并监督 报告的编制工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵循税收法律法规，秉承‘依法诚信纳税、服务经营发展’的税务方针，通过‘事前制度防控、事中动态监控、事后闭环整改’构建全流程税务合规体系。",
+      "original_text": "公司严格遵循《中华人民共和国税收征收管理法》等相关法律法规，秉承“依法诚信纳税、服务经营发展”的税务方针，公司通过“事前制度防控、事中动态监控、事后闭环整改”构建全流程税务合规体系",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

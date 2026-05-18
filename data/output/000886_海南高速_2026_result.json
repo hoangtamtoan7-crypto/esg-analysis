@@ -1,0 +1,441 @@
+{
+  "company_name": "海南高速",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2133.16,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 2,133.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1076.62,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放（范围一） 吨二氧化碳当量 1,076.62",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1056.54,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放（范围二） 吨二氧化碳当量 1,056.54",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 3.25,
+      "unit": "吨二氧化碳当量/百万营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/百万营收 3.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 754.46,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 754.46",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 48951.8,
+      "unit": "吨",
+      "original_text": "新鲜水取水总量（市政购水） 吨 48,951.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 669.86,
+      "unit": "吨",
+      "original_text": "废弃物产生量 吨 669.86",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 136.13,
+      "unit": "万元",
+      "original_text": "全年环保投入136.13万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1340,
+      "unit": "人",
+      "original_text": "截至报告期末，在职员工总数 人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 35.37,
+      "unit": "%",
+      "original_text": "女性 人 474",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 9.86,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 9.86",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 113,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长 小时/人 113",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 202.8,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 202.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "工伤率 % 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 2.89,
+      "unit": "万元",
+      "original_text": "公益慈善投入 万元 2.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 7",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 43,
+      "unit": "%",
+      "original_text": "独立董事占比43%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "3名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 14,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 14",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": 113.55,
+      "unit": "万元",
+      "original_text": "董事及高级管理人员报酬（包含现任和离任） 万元 113.55",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司定期评估应对气候变化的管理绩效，持续优化气候治理能力。承诺将业务实践与国家'双碳'目标结合，推动绿色低碳转型。",
+      "original_text": "公司定期评估应对气候变化的管理绩效，持续优化气候治理能力。承诺将业务实践与国家'双碳'目标结合。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "子公司建设集团获ISO质量管理、环境管理及职业健康安全管理三大体系认证。公司按照《环境保护管理办法》要求落实环境管理。",
+      "original_text": "子公司建设集团获ISO质量管理、环境管理及职业健康安全管理三大体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司投资建设海底智算中心，PUE低至1.1，符合'双碳'目标。推进绿色养护、绿色材料应用，如温拌沥青技术。",
+      "original_text": "海底智算中心PUE低至1.1，符合'双碳'目标。推进绿色养护、绿色材料应用。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司制定《生物多样性保护制度》，将生物多样性保护要求贯穿交通建设运营、酒店文旅服务、海洋经济发展等关键环节，严格执行建设项目环境影响评价制度，推行绿色养护标准。",
+      "original_text": "公司立足业务场景与区域生态特点，制定《生物多样性保护制度》，将生物多样性保护要求贯穿交通建设运营、酒店文旅服务、海洋经济发展等关键环节。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司推进废弃物分类管理和回收利用，回收再利用废弃物（沥青混凝土及水泥混凝土）用于基础回填。但体系尚在健全中。",
+      "original_text": "回收再利用废弃物主要是将回收的沥青混凝土及水泥混凝土材料作为基底材料，用于基础回填。后续将持续健全相关体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司构建公平、安全、健康的工作环境，完善薪酬福利体系，保障员工结社自由，设立女职工委员会，坚持性别平等，劳动合同签订率100%，未发生歧视或骚扰事件。",
+      "original_text": "公司坚信员工是企业最宝贵的财富，致力于构建一个公平、安全、健康且充满尊重与包容的工作环境。通过完善的制度体系、公司设立女职工委员会，建立健全女职工权益保障体系；坚持性别平等原则，确保女性员工在职务晋升、职级评定、专业...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO45001职业健康安全管理体系认证，开展职业病危害识别与防控，定期健康检查，安全培训总时长12,339小时，人均9.28小时，安全生产投入202.8万元。",
+      "original_text": "公司始终将员工职业健康与安全放在首位，严格遵守《中华人民共和国职业病防治法》《工作场所职业卫生管理规定》等...公司定期为在岗员工与离职员工组织健康检查...安全培训总时长 小时 12,339",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定供应商管理办法，建立不良供应商名录，对严重违规行为零容忍，拥有职业健康安全管理体系认证的供应商6家，开展供应链金融平台建设。",
+      "original_text": "公司致力于搭建安全可持续的供应链体系，严格遵守《中华人民共和国公司法》《中华人民共和国招标投标法》等相关法律法规，结合业务实际需求，制定了《供应商管理办法》...拥有职业健康安全管理体系认证的供应商数目 6",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司遵循公路质量相关标准，隐患按期整改率100%，质量培训2,531人次，总时长5,496小时，开展业主满意度调查，提升物业服务质量。",
+      "original_text": "公司持续追踪道路养护质量的绩效指标，保障公路品质与运营安全各项关键工作的有效开展。质量培训人次 人次 2,531",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过ISO27001信息安全管理体系认证，未发生信息数据安全事件及泄露客户隐私事件，建立完善的信息安全管理制度，开展网络安全培训。",
+      "original_text": "服务管理体系、ISO27001信息安全管理体系认证，未发生信息数据安全事件及泄露客户隐私事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社会公益，报告期内社会公益投入2.89万元，参与献血公益行动、台风抢险等，履行社会责任。",
+      "original_text": "公司始终秉持高度的社会责任感，积极投身于多元化的社会公益实践，以实际行动回馈社会、服务大众。报告期内，公司社会公益投入2.89万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司禁止基于性别、年龄、种族等歧视，保障公平机会与平等待遇，设立女职工委员会，坚持性别平等，未发生歧视事件。",
+      "original_text": "确禁止基于性别、年龄、种族等一切歧视或骚扰行为，保障全体员工享有公平机会与平等待遇。报告期内，公司未发生任何...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了“董事会—ESG工作领导小组—四个专项行动小组—各执行单位”的ESG管理架构。董事会负责核定气候相关政策、策略与目标并监督风险和机遇。",
+      "original_text": "公司制定了ESG管理体系，构建了“董事会—ESG工作领导小组—四个专项行动小组—各执行单位”的ESG管理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司重视廉洁从业，开展廉洁风险点排查，制定防控措施，组织廉洁教育座谈会，观看反腐专题片。报告期内未发生因商业贿赂及贪污行为导致的案件。",
+      "original_text": "公司重视廉洁从业，严格遵守《中华人民共和国反垄断法》，开展廉洁风险点排查工作。报告期内，公司未发生因商业贿赂及贪污行为导致的案件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司构建了完善的合规管理制度体系，制定《合规管理办法》，形成多层级责任体系。开展合规培训，签署《合规承诺书》，将合规管理纳入经营业绩责任书。",
+      "original_text": "公司构建了完善的合规管理制度体系，在制度建设层面，制定出台《合规管理办法》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了系统化、标准化、流程化的风险管理体系，包括风险识别、评估、应对措施。董事会负责核定气候相关政策、策略与目标并监督风险和机遇。",
+      "original_text": "公司气候风险管理体系由董事会作为最高治理单位负责核定气候相关政策、策略与目标并监督风险和机遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司由证券事务部负责投资者关系管理，通过公司网站、业绩说明会、投资者咨询电话、一对一沟通、股东会等多种渠道与投资者沟通。",
+      "original_text": "公司高度重视投资者关系管理，由证券事务部负责投资者关系管理，建立投资者管理机制，通过公司网站、业绩说明会、投资者咨询电话、一对一沟通、股东会等多种渠道,不断强化与投资者的沟通交流。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立了常态化的沟通与交流机制，识别出九组核心利益相关方群体，通过多样化沟通机制回应其期待和要求。",
+      "original_text": "公司重视利益相关方诉求与期望，建立了常态化的沟通与交流机制。我们识别出与公司关系密切的九组核心利益相关方群体。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循相关法律法规要求，修订《信息披露事务管理制度》和《信息披露重大差错责任追究制度》，报告期内未发生因信息披露违规受处罚的情形。",
+      "original_text": "公司严格遵循《公司法》《证券法》《上市公司信息披露管理办法》、深交所《股票上市规则》等相关法律法规的要求。报告期内，公司共披露定期报告 份，临时报告 份，未发生因信息披露违规受处罚的情形。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司制定《税务管理办法》，严格规范税务管理流程，有效防范税务风险并定期披露相关税务信息。报告期内未发生任何税务违规事件。",
+      "original_text": "制定《税务管理办法》，严格规范税务管理流程，有效防范税务风险并定期披露相关税务信息。报告期内，公司未发生任何税务违规事件。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

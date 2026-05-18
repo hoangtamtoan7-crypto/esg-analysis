@@ -1,0 +1,441 @@
+{
+  "company_name": "永安林业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1256000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 1,256,000",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 352000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接（范围一）温室气体排放量 吨二氧化碳当量 352,000",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 904000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接（范围二）温室气体排放量 吨二氧化碳当量 904,000",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1890913,
+      "unit": "吨",
+      "original_text": "总耗水量 1,890,913",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 410,
+      "unit": "人",
+      "original_text": "按性别划分 女性75人 男性335人；按年龄划分 40岁以下78人 40岁-50岁293人 50岁及以上39人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工比例",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "管理人员中女性人数比例",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "员工培训投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 5.77,
+      "unit": "小时/人",
+      "original_text": "人均培训时长5.77小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "研发投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产费用",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公益活动",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "依法纳税",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "报告期末，公司共有董事6人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 50,
+      "unit": "%",
+      "original_text": "其中独立董事3人，占比50%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "其中女性董事1名，女性董事占比16.67%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会 召开次数 次（原文未给出具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "高级管理人员薪酬由基本年薪、绩效年薪、任期激励收入、专项奖励、中长期激励等部分构成（未给出总额）",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未提及",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳战略，制定气候变化治理目标，推进生产降碳与森林增汇，探索碳汇开发与CCER交易，构建降碳与增汇协同的双碳发展体系。",
+      "original_text": "永安林业积极响应国家“双碳”战略，践行气候行动，多措并举推进生产降碳与森林增汇。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001环境管理体系认证，建立环保法规动态跟踪机制，识别重要环境因素，实施三废排放全流程监测，确保环保合规。",
+      "original_text": "通过ISO 9001、ISO 14001、ISO 50001等多项体系认证，建立环保、能耗管控机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发无醛芯产品，环保等级达E0、F4星、ENF级，实现芯层甲醛零排放；联合科研机构降低甲醛添加，推动绿色产品研发。",
+      "original_text": "联合科研机构降低甲醛添加，开发无醛芯产品，环保等级达E0、F4星、ENF级，实现芯层甲醛的零排放。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过混交林种植、国家储备林项目等方式保护生物多样性，提及'守护生态环境'。",
+      "original_text": "永安林业深入践行生态文明思想，以守护本土生态系统完整性、维护区域生物多样性为目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实现生产废水100%循环回用、零排放；木片水洗废水沉淀滤渣后全部循环使用；一般废弃物送往能源工厂焚烧供热，实现资源化利用。",
+      "original_text": "攻克MDF行业木片水洗污水处理难题，实现生产废水100%循环回用、零排放；一般废弃物送往能源工厂作为燃料。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉持以人为本理念，尊重员工多元化价值与诉求，维护员工合法劳动与职业发展权益，完善员工激励机制，健全民主管理，依法签署劳动合同，未发生雇佣童工、强迫劳动、用工歧视事件。",
+      "original_text": "永安林业秉持以人为本的理念，尊重员工多元化价值与诉求，维护员工合法劳动与职业发展权益，完善员工激励机制，健全民主管理。报告期内，公司未发生雇佣童工、强迫劳动、用工歧视相关事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已建立职业健康安全管理体系，通过ISO 45001认证，制定相关制度，开展安全培训、隐患排查、应急演练，落实职业病防控，实现零生产安全事故、零死亡事故目标。",
+      "original_text": "公司旗下永安人造板厂、永林蓝豹家居、佳盛公司均已通过ISO 45001职业健康安全管理体系认证。公司不断健全安全与健康治理体系，压实全员安全责任，强化风险防控与保障措施，致力于实现零生产安全事故、零死亡事故的核心管控目标。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《采购管理办法》，对供应商进行综合评价，优先采购绿色产品，要求供应商签署廉洁协议，并实施数字化采购。",
+      "original_text": "永安林业完善供应链治理架构，构建供应商全生命周期管理体系...绿色采购...供应商廉洁协议签署率...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司扎实推进质量文化建设，提升员工质量意识，搭建外部学习交流渠道，优化客户服务管理，建立质量投诉处置流程，获得质量体系认证。",
+      "original_text": "永安林业扎实推进质量文化建设，致力于提升员工质量意识。报告期内，公司积极搭建外部学习交流渠道，选派质量管理人员参加行业专业培训。公司持续优化客户服务管理，搭建高效的客户需求响应、问题处置与售后保障流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格按照网络安全法、数据安全法等法律法规，建立信息安全管理体系，保护客户隐私。",
+      "original_text": "统一管控、权责清晰、流程规范的原则，严格按照《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规，建立信息安全管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司深化社区共建共享，支持军民双拥食堂建设，开展助农行动，组织员工参与志愿服务、森林防火宣传等公益活动，树立和谐共建、回馈社会的良好形象。",
+      "original_text": "深化社区共建共享，持续支持福建首家军民双拥食堂建设，助力营造尊崇军人、互助友爱的和谐社区氛围；积极开展助农行动，帮助农户拓展林产品销售渠道；弘扬志愿服务精神，组织员工参与'学雷锋志愿服务月'、森林防火宣传等公益活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重员工多元化价值，维护女性员工平等权益，在董事选任中综合考量性别、年龄、学历等因素，构建结构合理的董事会。女性董事1名，占比16.67%。",
+      "original_text": "永安林业高度重视董事会多元化建设工作。在董事选任中，公司综合考量性别、年龄、学历、专业背景等因素，致力于构建结构合理、专业互补、经验多元的董事会团队。截至报告期末，公司董事会共有董事6名，其中女性董事1名，女性董事占比16.67%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建以董事会为核心的'决策层-管理层-执行层'三层级ESG治理架构，明确各层级权责，推动ESG治理要求层层传导。",
+      "original_text": "公司构建完善的可持续发展治理体系，制定《社会责任制度》，建立以董事会为核心的'决策层-管理层-执行层'三层级治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司党委高度重视党风廉政建设和反腐败工作，制定《党风廉政建设和反腐败工作协调小组工作规则》等制度，开展廉政谈话，组织反腐倡廉学习。",
+      "original_text": "永安林业党委高度重视党风廉政建设和反腐败工作，将廉政建设融入公司经营管理、治理体系建设中，通过健全组织架构、完善制度...制定《党风廉政建设和反腐败工作协调小组工作规则》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守合规经营底线，建立合规管理'三道防线'，制定《合规管理办法》，开展合规培训，签署合规承诺书，覆盖全员。",
+      "original_text": "永安林业坚守合规经营底线，完善内控机制，强化风险与税务管控...建立合规管理'三道防线'，同时设立合规委员会统筹协调合规管理各项工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立完善的重大风险风控机制，制定《重大风险评估工作细则》等制度，规范风险识别、评估、应对、监测流程，按季度开展重大风险监测。",
+      "original_text": "永安林业根据相关法律法规，建立完善的重大风险风控机制，制定《重大风险评估工作细则》《重大风险及重大经营风险事件报告管理办法》，搭建风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，明确董事会秘书为负责人，通过业绩说明会、互动易平台等方式与投资者沟通，保障股东权益。",
+      "original_text": "制定《投资者关系管理制度》，明确董事会秘书为投资者关系管理工作负责人...召开业绩说明会，解答投资者疑问",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立规范化、常态化的利益相关方沟通回应机制，通过股东会、定期报告、业绩说明会、互动易平台等渠道回应各方诉求。",
+      "original_text": "永安林业高度重视与各利益相关方的良性沟通与协同发展，建立规范化、常态化的沟通回应机制，倾听各利益相关方的意见和建议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格依据法律法规制定《信息披露管理制度》，确保信息披露真实、准确、完整、及时，指定法定媒体和网站，未发生内幕信息泄露。",
+      "original_text": "永安林业高度重视信息披露管理工作，严格依据《中华人民共和国公司法》《上市公司信息披露管理办法》等法律法规及《公司章程》要求，制定《信息披露管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司依法纳税，规范完成税款缴纳工作，确保税务管理合法合规，有效防范税务风险。",
+      "original_text": "规范完成税款缴纳工作，确保公司税务管理工作合法合规，有效防范税务风险",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

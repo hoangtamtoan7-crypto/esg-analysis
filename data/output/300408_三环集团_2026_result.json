@@ -1,0 +1,442 @@
+{
+  "company_name": "三环集团",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 190128.03,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 190,128.03",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 29205.78,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 29,205.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 160922.25,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 160,922.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 应对气候变化、ESG数据表",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "公司核心能源类型包括电力、天然气等，主要应用于各生产环节。报告期内，公司通过优化能源利用效率、升级生产工艺等举措，实现单位营收的能源消耗量同比下降。",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "明确可再生能源应用和节能",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 5243900,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 524.39",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "确保所有生产废水在处理达标后方才排放",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废弃物类别及处置方式",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "加大环保投入",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "各类污染物（废水、废气、噪声）的环境监测结果均满足相关排放标准",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "各类污染物（废水、废气、噪声）的环境监测结果均满足相关排放标准",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "各类污染物（废水、废气、噪声）的环境监测结果均满足相关排放标准",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 17352,
+      "unit": "人",
+      "original_text": "员工总数 人 17,352",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 39.66,
+      "unit": "%",
+      "original_text": "截至报告期末，公司女性员工占比39.66%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 6.53,
+      "unit": "亿元",
+      "original_text": "研发投入金额 亿元 6.53",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1.58,
+      "unit": "亿元",
+      "original_text": "慈善捐赠资金总金额 亿元 1.58",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会由7名董事构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事3名，占董事会成员的42.86%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 0,
+      "unit": "人",
+      "original_text": "公司已于2025年11月提名一名女性独立董事，任期自公司在香港联合交易所有限公司主板挂牌上市之日起至该届董事会任期届满之日止，该议案尚需经股东大会审议",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 0,
+      "unit": "人",
+      "original_text": "2025年，公司依法依规取消监事会并将其职能职责转至董事会审计委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家‘双碳’目标，将应对气候变化融入ESG战略，遵循TCFD建议框架，系统识别气候相关风险与机遇，并制定管理策略。",
+      "original_text": "三环集团积极响应国家‘双碳’目标，将应对气候变化融入公司ESG战略，遵循气候相关财务信息披露工作组（TCFD）建议框架，系统识别与评估自身面临的气候相关风险与发展机遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司秉持‘遵守法规、防污减废、节能降耗、持续改进’的环境方针，建立环境管理体系，由综合管理部牵头，明确各部门职责，并通过‘识别-评价-控制’程序管理环境风险。",
+      "original_text": "三环集团秉持‘遵守法规、防污减废、节能降耗、持续改进’的环境方针，以绿色发展为核...建立权责明晰的环境管理架构，由综合管理部牵头统筹环境管理工作，明确各部门及各单位的环境管理职责。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司提及聚焦绿色产业需求，加快绿色产品研发投入，但未提供具体产品或服务细节。",
+      "original_text": "聚焦绿色产业需求，加快绿色产品研发投入",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "公司声明生产经营活动未对生态系统和生物多样性产生重大影响，且不位于自然保护区，该指标不适用。",
+      "original_text": "不适用，公司生产经营活动未对生态系统和生物多样性产生重大影响",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司对生产废液进行分类处理，通过废液回收利用及污水处理站处理后达标排放；对废弃物实施‘源头防控—过程管控—合规处置’的闭环管理，推动资源循环利用。",
+      "original_text": "对生产废液进行分类处理，通过废液回收利用及污水处理站处理后达标排放。...废弃物与化学品的管理遵循‘源头防控—过程管控—合规处置’的闭环原则。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵循劳动法律法规，与员工签订劳动合同，建立覆盖招聘、培训、薪酬福利等的人力资源管理制度，保障员工合法权益。",
+      "original_text": "公司遵循《中华人民共和国劳动法》等国家法律法规，坚持'倾心引才、精心用才、悉心育才、真心爱才、匠心成才'的人才理念，保障员工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO 45001:2018职业健康安全管理体系认证，开展安全教育培训222次，安全培训人次2.90万人次，安全教育培训覆盖率100%。",
+      "original_text": "公司已通过ISO 45001:2018职业健康安全管理体系认证。报告期内，公司开展安全教育培训/活动222次，员工接受安全培训人次达2.90万人次，安全教育培训覆盖率达100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司建立供应链风险管控机制，将供应商在环境、社会、市场、质量等多维度表现纳入评估，核查供应商ISO 14001及ISO 45001认证。",
+      "original_text": "公司建立供应链风险管控机制，将供应商在环境、社会、市场、质量等多维度表现纳入评估。同时核查供应商 ISO 14001 环境管理体系以及ISO 45001 职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司产品已通过ISO 9001:2015质量管理体系、IATF 16949:2016汽车行业质量管理体系认证，关键岗位质量培训覆盖率100%。",
+      "original_text": "目前，公司主要产品已通过ISO 9001:2015质量管理体系、IATF 16949:2016汽车行业质量管理体系认证。关键岗位质量培训覆盖率为100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《信息系统管理规定》等制度，通过内部与外部协同定期评估数据安全风险，报告期内未发生数据安全事件。",
+      "original_text": "公司严格遵循《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规，制定《信息系统管理规定》等制度。数据安全事件涉及的具体金额为0万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过三环慈善会开展公益慈善活动，聚焦扶贫济困、助学兴教等领域，2025年有捐赠活动。",
+      "original_text": "三环慈善会聚焦扶贫济困、助学兴教等重点领域，持续践行公益慈善事业。2025年，三环慈善会的捐赠...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司执行多元、平等和包容政策，女性员工占比39.66%，外国地区员工占比5.07%，未发生歧视事件。",
+      "original_text": "公司执行多元、平等和包容政策，在员工招聘、薪酬福利、培训与晋升等方面均践行平等。截至报告期末，公司女性员工占比39.66%，外国地区员工占比5.07%。2025年，公司未发生歧视事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立董事会负责的ESG治理架构，董事会下设ESG委员会，负责ESG战略制定与监督，管理层执行，各部门协同推进。",
+      "original_text": "为践行可持续发展理念，三环集团依据深交所《指引》等规范性文件要求，建立董事会...ESG架构...董事会...经营决策层...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定反腐败政策，并100%传达给董事会成员。建立反商业贿赂及反贪污机制，通过合规培训、举报渠道等措施防范腐败。",
+      "original_text": "反腐败政策传达给董事会成员的百分比 % 100；反商业贿赂及反贪污",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守法律法规，建立合规管理体系，包括三层级合规管理架构，制定《员工行为准则》等制度，确保商业道德与合规运营。",
+      "original_text": "公司构建了三层级合规管理架构。董事会负责统筹、决策合规战略；管理层负责制定制度...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立覆盖环境、气候、员工、质量、供应链等多维度的风险管理体系，通过风险识别、评估、应对和监控的闭环流程进行管理。",
+      "original_text": "公司每年定期开展覆盖公司的内部控制有效性自我评价以及第三方独立内控审计...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司由董事会办公室牵头投资者沟通，设置投资者管理关系专岗，及时回复投资者提问，确保股东权益。",
+      "original_text": "公司投资者沟通由董事会办公室牵头，负责设置投资者管理关系专岗，及时回复投资者提问...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司秉持开放透明的沟通理念，通过调研问卷、质量检讨会、信息共享等多种方式与利益相关方沟通，回应其关切。",
+      "original_text": "三环集团始终秉持开放透明的沟通理念，致力于构建与各利益相关方的良性互动机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露相关法规，确保信息披露的真实、准确、完整、及时、公平，并加强独立董事在信息披露中的监督作用。",
+      "original_text": "持续加强信息披露，确保公司治理的独立性与透明度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "经双重重要性评估，税务议题对本组织及利益相关方不具重大影响，故未披露。",
+      "original_text": "经双重重要性评估，税务议题对本组织及利益相关方不具重大影响，故未披露。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "300408_三环集团_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

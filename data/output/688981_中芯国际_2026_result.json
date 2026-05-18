@@ -1,0 +1,442 @@
+{
+  "company_name": "中芯国际",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 3463500,
+      "unit": "吨CO2当量",
+      "original_text": "温室气体排放总量（范围1+范围2） 吨CO2当量 2,601,939 3,009,944 3,463,500",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 961701,
+      "unit": "吨CO2当量",
+      "original_text": "直接排放总量（范围1） 吨CO2当量 843,517 823,765 961,701",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2501799,
+      "unit": "吨CO2当量",
+      "original_text": "间接排放总量（范围2） 吨CO2当量 1,764,422 2,186,179 2,501,799",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 689222.47,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗量 吨标煤 456,159.40 567,755.08 689,222.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 2.9,
+      "unit": "%",
+      "original_text": "可再生能源使用量142,123.9兆瓦时，占总能源使用量2.9%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 37218,
+      "unit": "千吨",
+      "original_text": "水资源消耗总量 千吨 26,932 31,946 37,218",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 31977300,
+      "unit": "吨",
+      "original_text": "废水排放总量 千吨 21,712.3 26,712.9 31,977.3",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 204414,
+      "unit": "吨",
+      "original_text": "危险废弃物产生总量 吨 67,529 94,876 128,960; 无害废弃物产生总量 吨 61,243 76,433 75,454",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 2238,
+      "unit": "万元",
+      "original_text": "2,238万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 19952,
+      "unit": "人",
+      "original_text": "员工数量 人 20,223 19,186 19,952",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 27.1,
+      "unit": "%",
+      "original_text": "按性别占比，为男性72.9%、女性27.1%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 11,
+      "unit": "%",
+      "original_text": "董事会中女性董事占比为11%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 45,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 31 41 45",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 9.6,
+      "unit": "%",
+      "original_text": "2025年员工整体主动流失率为9.6%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 77000,
+      "unit": "万美元",
+      "original_text": "研发总投入达7.7亿美元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 8.3,
+      "unit": "%",
+      "original_text": "研发投入占全年营业收入 % 11.2 9.5 8.3",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2635.8,
+      "unit": "万元",
+      "original_text": "2,635.8万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 245.9,
+      "unit": "万元",
+      "original_text": "报告期内，“芯肝宝贝计划”携手超过2,000名员工为项目捐款245.9万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，本公司董事会由 9 名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 44.44,
+      "unit": "%",
+      "original_text": "4 名独立非执行董事",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "董事会中女性董事占比为11%",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司设立气候相关指标和减排目标，涵盖碳排放强度、能源效率及资源循环利用，致力于通过工艺优化、高效设备应用、能源管理体系完善等路径降低单位产出能耗与碳排放。",
+      "original_text": "中芯国际设立了一系列气候相关指标和减排目标，涵盖碳排放强度、能源效率及资源循环利用等关键领域。公司致力于通过工艺优化、高效设备应用、能源管理体系完善等路径，持续降低单位产出的能耗与碳排放水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001环境管理体系认证，构建了完善的内控机制，并遵循ISO 14064等标准进行碳排放盘查。",
+      "original_text": "ISO 14001环境管理体系认证，构建了完善的内控机制。遵循ISO 14064等标准，每年系统开展碳排放盘查与核算工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推行绿色生产，为客户提供绿色产品，并建立绿色产业链。",
+      "original_text": "建立绿色产业链，推行绿色生产，并为客户提供绿色产品。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司遵守生态环境法律法规，关注生物多样性保护，开展环保公益活动。",
+      "original_text": "公司严格遵守生态环境相关法律法规，确保项目建设和运营活动依法合规，避免对自然栖息地造成不利影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司系统构建覆盖全流程的清洁生产与废弃物管理机制，通过规范分类、合规处置与资源回收相结合，提升废弃物管理水平，并实施废水回收再利用项目。",
+      "original_text": "中芯国际系统构建了覆盖全流程的清洁生产与废弃物管理机制，通过规范分类、合规处置与资源回收相结合的方式，持续提升废弃物管理水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司全面保障员工权益，遵守劳动法律法规，禁止童工和强制劳动，提供福利制度，包括病假、带薪休假、身心健康关怀等。",
+      "original_text": "中芯国际全面保障员工的各种权益。我们遵守经营所在地劳动者相关法律法规，如：... 禁止并防止雇佣童工或任何形式的强制劳动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已建立ISO 45001职业健康安全管理体系，开展安全培训、应急演练、隐患排查，提供职业健康体检，保障员工安全健康。",
+      "original_text": "公司严格遵守ISO 45001职业健康安全管理体系国际标准，构建并持续完善安全可靠的职业健康安全管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将ESG理念融入供应链管理，对供应商进行审核、评估和培训，包括安全、环保、质量等方面，推动供应链可持续发展。",
+      "original_text": "我们将ESG理念全面融入供应链管理全流程，携手各方合作伙伴共同推动产业高质量、可持续发展",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO 9001、IATF 16949等质量管理体系认证，实施全面质量管理，开展质量文化培训，确保产品安全可靠。",
+      "original_text": "我们通过不断完善质量管理体系与流程，致力于实现质量卓越的目标，为客户提供安全、可靠的高质量产品",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循ISO 27001信息安全管理体系，建立数据安全与隐私保护体系，开展信息安全培训，保障客户和员工数据安全。",
+      "original_text": "中芯国际将信息安全与客户隐私保护置于重要地位，严格遵循《中华人民共和国网络安全法》等相关国家法律法规要求",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益活动，如“芯肝宝贝计划”累计救助贫困患儿，员工参与公益奉献超2万小时，维护社区关系。",
+      "original_text": "中芯国际将公益慈善视为“芯”火相传的温暖使命，致力于构建员工、产业链与社...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司推行多元化招聘政策，打造性别平等的职场，董事会中女性董事占比11%，员工来自全球10多个国家及地区。",
+      "original_text": "推行多元化招聘政策，打造性别平等的职场... 我们的员工来自全球10多个国家及地区",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建了以董事会为最高决策机构的四级可持续发展治理体系，包括董事会、ESG指导委员会、ESG委员会及ESG工作办公室。董事会负责审批ESG策略、目标及年度报告。",
+      "original_text": "构建了以董事会为最高决策机构的四级可持续发展治理体系。该体系清晰划分了各层级的职责与协作机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司坚决贯彻反腐败理念，每年评估商业贿赂、职务侵占等风险并制定防控措施。设立道德合规办公室，提供匿名举报渠道。报告期内未发生任何商业贿赂或贪污舞弊事件。",
+      "original_text": "公司每年对商业贿赂、职务侵占等风险进行评估，并根据评估结果制定相应的防控措施和培训计划",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "搭建了覆盖反腐败、反不正当竞争、平等对待中小企业等领域的商业道德合规体系。制定《商业行为与道德规范》，要求全体员工签署。对供应商进行道德合规审计。",
+      "original_text": "搭建了覆盖反腐败、反不正当竞争、平等对待中小企业等领域的商业道德合规体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "建立了覆盖战略、财务、市场、运营与合规五大类别的公司级全面风险信息库，设立风险管理委员会和风险管理办公室，实施分级、闭环管控。",
+      "original_text": "公司已建立覆盖战略、财务、市场、运营与合规五大类别的公司级全面风险信息库",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "设立投资者关系部门并配备专职人员，以《投资者关系管理制度》为准则，通过信息披露、互动沟通及处理诉求等途径，为股东权利行使提供便利。",
+      "original_text": "已设立投资者关系部门并配备专职人员，负责开展投资者关系管理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "建立了系统化的沟通机制，主要利益相关方包括股东/投资人、员工、政府、客户、供应商、社会等。通过多种渠道沟通，并每年进行重要性议题评估。",
+      "original_text": "建立了系统化的沟通机制，股东/投资人、员工、政府、客户、供应商、社会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "上海证券交易所2024-2025年度上市公司信息披露工作评价A。公司持续完善信息披露机制，确保合规透明。",
+      "original_text": "上海证券交易所2024-2025年度上市公司信息披露工作评价A",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关措施或政策。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "688981_中芯国际_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "company_name": "分众传媒",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5084,
+      "unit": "人",
+      "original_text": "员工总数：5084 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 35.2,
+      "unit": "万元",
+      "original_text": "2025年，公司投入培训资金35.2万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 10.2,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长10.2小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 6.85,
+      "unit": "%",
+      "original_text": "员工主动流失率 % 6.95 6.85",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 5314.39,
+      "unit": "万元",
+      "original_text": "研发投入：5314.39 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 16.21,
+      "unit": "亿元",
+      "original_text": "纳税额：16.21 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会成员人数：7 人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事人数：3 人；董事会成员人数：7 人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "董事会召开次数：11 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "公司倡导绿色出行、低碳生活，鼓励员工使用公共交通，减少私家车使用；通过视频会议替代差旅，减少交通碳排放。但未明确提及碳中和路线图或具体气候目标。",
+      "original_text": "公司积极推动低碳交通方式的普及，努力培育绿色出行新风尚。针对员工通勤，公司鼓励优先选择地铁、公交等公共交通工具；针对公务出行，通过视频会议、电话会议等方式替代部分实地差旅，既提高了工作效率，又减少了交通碳排放。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了环境管理体系，确立了“守法合规、节约资源、全员参与、持续改进”的环境管理方针，明确了各部门职责，并定期回顾环保法规遵守情况。但未提及ISO 14001认证。",
+      "original_text": "公司将绿色发展理念融入日常管理，确立了“守法合规、节约资源、全员参与、持续改进”的环境管理方针。公司注重环境管理工作的闭环管理，会不定期对环保法规遵守情况进行回顾总结。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司在采购中关注产品环保属性，优先采购符合能效标准、节能特性的设备；在供应商合作中倡导环保法规遵守，鼓励减少污染排放。但未明确说明绿色产品或服务的具体比例或认证。",
+      "original_text": "在数字媒体终端设备的选择上，公司倾向于采购符合国家能效标准、具备节能特性的产品型号。在供应商合作方面，公司倡导供应商遵守环保法规，鼓励其在生产过程中减少污染排放、提高资源利用效率。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告未提及生物多样性保护相关措施或政策。",
+      "original_text": "",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行垃圾分类回收，对可回收物安排专人收集并交由专业机构处理；对电子设备配件进行再利用；办公废纸、废墨盒等分类投放，危险废物合规处置。",
+      "original_text": "公司积极响应国家和地方垃圾分类政策，在办公区域全面推行垃圾分类。对于可回收物，公司安排专人收集并交由专业回收机构处理。对于达到使用寿命或因故障无法修复的媒体终端设备，公司优先评估其电子配件的再利用价值。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司充分尊重并严格保障员工各项权益，遵守劳动法律法规，实现100%劳动合同签订率，保障女性员工权益，禁止强迫劳动。",
+      "original_text": "公司充分尊重并严格保障员工的各项权益，致力于为全体员工打造公平公正的职场氛围、安全的工作环境和多...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司提及职业健康安全相关指标403-9，并纳入员工福祉管理。",
+      "original_text": "增进员工福祉，构建共生职场 401-3，403-9，404-1，404-2，404-3，405-1， S4.1.7,S4.1.9,S4.1.11,S4.1.12,S4.3.1,S4.3.2, 第四十九条，第五十条",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司推进供应链数字化平台，监测供应商健康度、交付时效等指标，倡导供应商遵守环保法规。",
+      "original_text": "推进打造公司供应链数字化平台，搭建各采购项目风险驾驶舱，实时监测核心指标（如供应商健康度、交付时...）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "partial",
+      "summary": "公司提及研发项目注重内容准确性、响应速度和数据安全性，但未明确产品安全与质量管理体系。",
+      "original_text": "内容准确性、响应速度和数据安全性方面达到行业领先水平",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全相关法律法规，构建安全防护体系，报告期内未发生数据安全事件及客户隐私泄露事件。",
+      "original_text": "公司严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》...报告期内，公司未发生任何数据安全事件及客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过分众公益基金会开展多项公益活动，包括儿童救护、科学教育、济困助学、公益传播、乡村振兴等。",
+      "original_text": "投身社会公益，助力乡村振兴...在儿童救护、科学教育、济困助学、公益传播、乡村文化等多个领域深耕细作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持员工多样性政策，努力保障各民族及女性权益；招聘中广泛罗致不同学历、专业、性别、背景的人才。",
+      "original_text": "公司坚持员工多样性政策，努力保障各民族及女性权益；广泛罗致不同学历、专业、性别、背景的人才。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会、战略与可持续发展委员会、管理层及可持续发展工作小组构成的ESG治理架构，明确各层级职责。",
+      "original_text": "董事会下设战略与可持续发展委员会，负责审阅公司可持续发展、ESG事项相关报告，并向董事会汇报。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵守国家反腐败、反商业贿赂法律法规，建立舞弊风险评估机制，开展廉洁培训，2025年赴多地开展培训。",
+      "original_text": "公司严格遵守国家反腐败、反商业贿赂等方面的法律法规，全面落实《联合国反腐败公约》《反贿赂商业原则》。2025年，廉正部门赴杭州、郑州、上海等地开展廉洁培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信经营，恪守公平竞争，在商业活动中严守道德规范，维护健康有序的市场秩序。",
+      "original_text": "公司坚持诚信经营原则，恪守公平竞争的核心理念，在商业活动中严守道德规范，积极维护健康有序的市场秩序。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了以业务单位、内部审计部门、董事会审计委员会为主框架的‘三道防线’风险管理体系。",
+      "original_text": "公司持续巩固以各业务单位、内部审计部门、董事会审计委员会‘三道防线’为主框架的全面覆盖、多层次的内控体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立由董事会秘书牵头、证券事务部协调的投资者关系管理架构，修订相关制度，并设立官网专栏。",
+      "original_text": "建立由董事会秘书牵头负责、证券事务部协调执行的投资者关系管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司保持开放透明的沟通理念，通过股东会、业绩说明会、信息披露等多种方式与股东、投资者等利益相关方沟通。",
+      "original_text": "公司始终保持开放透明的沟通理念，致力于构建与各利益相关方的良性互动机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露工作被深圳证券交易所评定为A级，遵循真实、准确、完整、及时、公平原则。",
+      "original_text": "2024-2025年度，公司信息披露工作被深圳证券交易所评定为 A 级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守国家税收法律法规，构建全方位、多层次的税务管理体系，制定并落地《税务管理制度》。",
+      "original_text": "公司严格遵守国家税收法律法规，以‘合规为本，风险为基，发展为要’为核心遵循，构建全方位、多层次的税务管理体系",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "002027_分众传媒_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 19,
+    "quantitative_valid": 19,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 39,
+    "missing": 13,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 75.0
+  }
+}

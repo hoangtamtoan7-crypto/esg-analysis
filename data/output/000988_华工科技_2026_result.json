@@ -1,0 +1,441 @@
+{
+  "company_name": "华工科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 25855.6,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2024年度碳排放数据为25855.6 tCO2",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 971042,
+      "unit": "吨",
+      "original_text": "总耗水量 立方米 971042",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 626922.5,
+      "unit": "吨",
+      "original_text": "生活污水排放总量 吨 626922.5",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 1066.54,
+      "unit": "万元",
+      "original_text": "2025年，华工科技旗下企业在环保治理方面投入超过1066.54万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 9462,
+      "unit": "人",
+      "original_text": "员工总数 人 9462",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 25,
+      "unit": "%",
+      "original_text": "管理层女性员工比例 % 25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 15.5,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 15.5 小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 109156,
+      "unit": "万元",
+      "original_text": "产品研发投入 万元 80,232 99,270 109,156",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 7.56,
+      "unit": "%",
+      "original_text": "研发投入占营业额比例 % 7.56%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会由 9 名董事构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中 3 名为独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "2025年公司董事会、股东会召开情况如下：董事会会议12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "2025年，公司落实新《公司法》要求，取消监事会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "审计委员会会议5次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司以'双碳'目标为指引，聚焦绿色技术与智能制造，加大节能减排投入，从源头减少环境影响。制定了《碳排放管理制度》等文件，全力助推'双碳'目标实现。",
+      "original_text": "公司以'双碳'目标为指引，聚焦绿色技术与智能制造，加大节能减排投入，从源头减少环境影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持有ISO14001:2015环境管理体系认证，并通过年度监督审核。制定了《环境与职业健康安全管理手册》《环境因素识别、评价与控制程序》等文件，建立EHS管理手册。",
+      "original_text": "ISO14001:2015 环境管理体系 Intertek 2025/6/24 2028/7/8",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出激光清洗、氢能智造等绿色产品，以智能工厂解决方案赋能客户低碳转型。氢能全产业链激光+自动化工厂整体解决方案直接支撑双碳目标与绿氢产业高质量发展。",
+      "original_text": "华工激光推出的氢能全产业链激光+自动化工厂整体解决方案，直接支撑双碳目标与绿氢产业高质量发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "湖北图像开展PET膜品二次重复使用，年度回收利用PET膜品81吨，减少固废。",
+      "original_text": "湖北图像按照回收再利用、降本减废的原则，持续进行技术改造、工艺优化，开展剥离后的PET膜品的二次重复使用，年度回收利用PET膜品81吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，制定人力资源管理制度，坚持平等雇佣，禁止歧视、童工、强迫劳动，劳动合同签订率100%，社保缴纳率100%。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规，坚持平等雇佣准则，反对歧视，严禁使用童工、强迫劳动。报告期内，劳动合同签订率为100%，社会保险缴纳率为100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定《环境与职业健康安全管理手册》，通过ISO45001认证，开展安全培训、安全生产强化月活动，配备劳保用品，保障员工健康安全。",
+      "original_text": "公司制定《环境与职业健康安全管理手册》，明确环境管理方针，开展环保知识培训，持续举办安全生产强化月系列活动，督促员工领用、佩戴日常劳保用品。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定供应链招标投标管理办法，建立供应商准入和评估体系，对供应商进行分级管理，并开展质量辅导培训，助力中小企业发展。",
+      "original_text": "公司制定了《华工科技产业股份有限公司供应链招标投标管理办法》，建立供应商准入和评估体系，对供应商打分分级管理，并组织质量月会、现场稽核等活动对上游企业开展管理辅导。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司全面推广“大质量观”，通过ISO 9001、ISO 14001、TL9000、IATF16949等质量管理体系认证，拥有两个国家CNAS认证检测实验室，制定《质量管理手册》等规定，开展质量改善活动。",
+      "original_text": "公司认真贯彻并通过了ISO 9001、ISO 14001、TL9000（电信行业）、IATF16949（汽车行业）等国内外质量管理体系要求，拥有两个类别国家CNAS认证检测实验室。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建多层次信息安全架构，涵盖信息安全管理制度、系统权限管理制度、运维管理制度等，保障数据安全与客户隐私。",
+      "original_text": "公司构建了多层次、全方位的信息安全架构，涵盖信息安全管理制度、系统权限管理制度、运维管理制度等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展社区志愿者活动，赞助体育赛事如武汉城市足球超级联赛，并助力中小企业高质量发展。",
+      "original_text": "11月9日，2025武汉城市足球超级联赛城区组最后一场比赛在武汉体育中心举行，由华工科技赞助的东湖高新区代表队以8战8胜的优异成绩夺得首届汉超城区组冠军。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，反对歧视，提供残疾人就业安置及帮扶措施，华工高理被评选为全国残疾人比例就业基地。",
+      "original_text": "公司坚持平等雇佣准则，反对一切歧视，深化完善残疾人就业安置及帮扶措施，华工高理被评选为全国残疾人比例就业基地。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了‘决策层－管理层－执行层’三级ESG治理架构，董事会下设战略与ESG委员会，负责ESG相关事宜的决策和监督。",
+      "original_text": "通过构建‘决策层－管理层－执行层’三级ESG治理架构，明确各层级在ESG工作中的职责和角色。董事会作为决策和监察的核心，全面负责公司ESG相关事宜的决策和监督；在董事会指导下，法律合规部统筹协调各项ESG工作的实施推进；各部门及子公司则承担起具体ESG工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司通过多层次体系构建风险防控网络，签署高管合规承诺，制定相关制度，设立举报渠道，开展廉洁共建活动，要求供应商签署廉洁承诺。",
+      "original_text": "公司始终将反商业贿赂及反贪污工作视为企业合规经营的生命线，通过多层次体系构建风险防控网络。公司充分发挥‘关键少数’的引领作用，集团及各子公司经营班子每年签署高管合规承诺，开展合规宣誓，公开表明合规态度。公司通过《华工科技产业股份有限公司合规管理制度》《华工科技产业股份有限公司内部审计处罚管理办法》等制度，建立健全自律诚信体系，突出反商业贿赂及反贪污要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚实守信、平等协商、互利共赢的原则，恪守商业道德，禁止不正当竞争，通过常态化培训、发布警示案例等方式宣传贯彻反不正当竞争要求。",
+      "original_text": "公司坚持诚实守信、平等协商、互利共赢的原则，恪守商业道德，遵守相关的法律法规，依法开展市场竞争，将公平竞争理念置于企业经济利益之上，禁止不正当竞争等违背商业道德、扰乱市场竞争秩序的行为。公司通过常态化培训、发布警示案例等方式宣传贯彻反不正当竞争要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了设计科学、简洁适用、运行有效的内部控制体系，由审计委员会、内部审计部门共同组成风险内控管理组织体系，战略与ESG委员会对重大事项进行可行性研究并提出风险建议。",
+      "original_text": "公司高度重视内部控制建设和风险管理，报告期内，公司根据《企业内部控制基本规范》及其配套指引的规定，对内部控制体系进行适时的更新和完善，建立了一套设计科学、简洁适用、运行有效的内部控制体系，确保将风险管理流程贯穿于公司经营管理的各个环节，并由审计委员会、内部审计部门共同组成公司的风险内控管理组织体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，通过业绩说明会、股东会、现场调研、互动易等多种渠道与投资者沟通，连续10年获深交所信息披露考核A级评级。",
+      "original_text": "公司董事会高度重视投资者关系管理工作，依托业绩说明会、股东会、现场调研、互动易、投...与投资者建立了长期、稳定的良好互动关系。在深圳证券交易所上市公司2024-2025年度信息披露考核中获评A级（最高）评级，连续10年获此殊荣。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多种渠道和方式与股东、客户、员工、价值链伙伴等利益相关方保持常态化沟通，征集意见。",
+      "original_text": "公司以‘为社会提供满意产品，为员工营造创新空间，为股东创造丰厚回报’为经营宗旨，对股东与投资者、客户、员工、价值链伙伴等利益相关方负责，通过多种渠道和方式与利益相关方保持常态化沟通，征集利益相关方的意见。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司按要求披露定期报告及临时公告，内容真实、准确、完整，无重大差错，连续10年获深交所信息披露考核A级评级。",
+      "original_text": "公司按要求披露定期报告及临时公告，公告内容真实、准确、完整，无重大差错，未出现被监管机构、媒体质疑的情况。在深圳证券交易所上市公司2024-2025年度信息披露考核中获评A级（最高）评级，连续10年获此殊荣。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "深桑达Ａ",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 14.48,
+      "unit": "万吨标准煤",
+      "original_text": "能源消费总量 万吨标准煤 14.48",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 18360,
+      "unit": "人",
+      "original_text": "截至2025年底，公司员工人数18,360人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 18.4,
+      "unit": "%",
+      "original_text": "女性员工占比18.4%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 13.2,
+      "unit": "%",
+      "original_text": "在管理人员中，女性占比13.2%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 655.89,
+      "unit": "万元",
+      "original_text": "2025年，公司员工培训总投入达655.89万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 12,
+      "unit": "%",
+      "original_text": "员工总体流失率12%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 150000,
+      "unit": "万元",
+      "original_text": "2025年，公司为促进科技创新，研发投入共15亿元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "本届董事会成员共有9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 44.44,
+      "unit": "%",
+      "original_text": "独立董事4人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "其中女性董事2人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家碳达峰碳中和目标，将绿色低碳发展融入战略与运营全流程，识别气候风险与机遇，制定应对措施，并组织员工参与碳管理培训。",
+      "original_text": "深桑达积极响应国家“碳达峰、碳中和”目标，将绿色低碳发展作为时代命题与企业责任，以系统化思维推进气候变化应对工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司及11家下属公司通过ISO14001环境管理体系认证，制定多项环境管理制度，实施三级环境管理体系，并定期进行环境检查与培训。",
+      "original_text": "强化环境管理体系建设，自身及旗下11家下属公司通过了ISO14001环境管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司提供生物质蒸汽替代化石能源，开发绿色洁净室系统、智慧加药系统等绿色产品，并推动绿色采购。",
+      "original_text": "我们为下游企业供应生物质蒸汽，可直接替代天然气、煤炭，帮助客户降低综合用能成本20%-25%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司利用农业、林业废弃物作为生物质能原料，推动废弃物资源化利用；对炉渣、粉煤灰等一般固体废物遵循资源化原则，提升综合利用效率。",
+      "original_text": "生物质能来源于农业、林业废弃物，具有可再生、零碳循环的显著优势。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法与员工签订劳动合同，保障员工劳动权益，完善市场化薪酬激励机制，提供多元化福利，包括社会保险、住房公积金、团体补充医疗保险等。",
+      "original_text": "依法与员工签订劳动合同，杜...完善市场化薪酬激励机制、拓展多元化福利场景、强化福利落地效能，保障员工合法权益",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司高度重视员工职业健康安全，严格遵守国家法律法规，落实职业健康安全措施，开展职业病危害培训教育，每年组织全员健康体检，配备防护用品。截至报告期末，23家下属企业获得ISO45001认证。",
+      "original_text": "公司高度重视员工职业健康安全，严格遵守国家职业健康安全法律法规...每年组织全员健康体检，为员工配备完备的职业健康安全防护用品...截至报告期末，公司及旗下共23家下属企业已获得ISO45001职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将环境保护、安全生产、职业健康、劳工权益保护等ESG要素纳入供应商管理要求，推行绿色采购，优先选用环保节能物料，支持国产化替代，2025年国产化产品采购占比及对民营经济的带动率均超过80%。",
+      "original_text": "我们将环境保护、安全生产、职业健康、劳工权益保护等ESG要素纳入供应商管理要求...优先选用环保、节能、可回收的物料与服务...2025年公司国产化产品采购占比及对民营经济的带动率均超过80%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建三级质量管理组织体系，以'零缺陷、零投诉、零事故'为质量目标，将产品安全与合规管理融入业务治理体系，严格遵循国家法律法规及行业标准。",
+      "original_text": "公司构建'深桑达—下属企业—执行单元'三级质量管理组织体系...公司质量目标：零缺陷、零投诉、零事故。公司将产品安全与合规管理融入业务治理体系，以严格遵循国家法律法规及行业标准为基本遵循。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视信息安全与客户隐私保护，建立立体化信息安全管理架构，制定《信息与数据安全总纲》，实施网络隔离与访问控制策略，2025年通过ISO/IEC27001监督审核，未发生重大信息安全事件。",
+      "original_text": "公司高度重视信息安全与客户隐私保护...建立了立体化的信息安全管理架构...2025年，公司顺利通过了ISO/IEC27001信息安全管理体系的监督审核...2025年，公司重大信息安全事件，未有客户及员工的隐私数据受到影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司在海外运营中主动履行社会责任，积极回馈当地社区，注重与项目所在地社区保持良好沟通，参与当地文化、公益活动，切实提升居民收入与生活水平。",
+      "original_text": "在海外运营中，公司主动履行社会责任，积极回馈当地社区...注重与项目所在地社区保持良好沟通，积极参与当地文化、公益活动...切实提升了居民收入与生活水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司以开放包容的文化吸纳多元人才，女性员工占比18.4%，女性管理人员占比13.2%，女性董事2人。在海外推行属地化人才战略，海外团队属地员工占比超过20%。",
+      "original_text": "选育用留机制，以开放包容的文化吸纳多元人才...女性员工占比18.4%；在管理人员中，女性占比13.2%...本届董事会成员共有9人，其中女性董事2人...海外团队规模已超500人，其中属地员工占比超过20%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "深桑达建立了由董事会负责、管理层领导、主要部门牵头、跨部门配合、上下级联动的ESG管理体系。董事会是最高决策机构，审计与风险管理委员会承接监督职权。",
+      "original_text": "深桑达建立了由董事会负责、管理层领导、主要部门牵头、跨部门配合、上下级联动的ESG管理体系。董事会是公司可持续发展工作的最高决策机构...审计与风险管理委员会承接监督职权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定并执行《合规管理制度》《纠正“四风”问题常态化监督机制实施细则》《领导人员问责暂行规定》等制度，2025年各级纪检机构处置问题线索23件，查办案件，开展廉洁培训。",
+      "original_text": "公司制定并执行《合规管理制度》《纠正“四风”问题常态化监督机制实施细则》《领导人员问责暂行规定》...2025年，各级纪检机构处置问题线索23件，查办案件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉持依法合规运营理念，构建了以风险管理为统领、法治合规为价值导向、内控执行为抓手的“五位一体”大风控体系，开展合规培训44次，覆盖人数若干。",
+      "original_text": "公司已建立起以“风险管理为统领，法治、合规为价值导向，内控为抓手，违规追责为闭环”的“五位一体”大风控体系...2025年全系统共组织开展44次合规培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了全面风险管理体系，遵循“三道防线”框架，出台《全面风险管理制度》及配套文件，编制风险分级分类描述表共五大类179项具体风险分类及风险描述。",
+      "original_text": "公司全面风险管理工作遵循“三道防线”基本框架...出台了《全面风险管理制度》及配套体系文件...共五大类179项具体风险分类及风险描述",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过股东会、信息披露、深交所互动易平台、调研交流活动等渠道与投资者沟通，保障中小股东合法权益。",
+      "original_text": "公司非常重视与投资者和潜在投资者之间的信息沟通，制定《投资者关系管理制度》...平等地对待每一位股东，尤为注重保障中小股东的合法权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别各类利益相关方，通过股东会、信息披露、互动易平台、调研交流、座谈会议、合规培训等多种沟通形式，建立常态机制。",
+      "original_text": "深桑达基于自身实际情况，识别各类利益相关方，并保持开放心态，通过多种沟通形式，倾听利益相关方的声音...逐步建立起与利益相关方交流的常态机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露规定，制定《信息披露事务管理制度》，秉承公开、公正、公平原则，确保真实、准确、及时、完整，荣获深交所2024-2025年度信息披露评价。",
+      "original_text": "公司严格遵守《上市公司信息披露管理办法》...制定《信息披露事务管理制度》...做到信息披露工作的真实、准确、及时、完整...公司荣获深交所2024-2025年度信息披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法足额纳税，但未详细披露税务透明度相关具体措施或政策。",
+      "original_text": "依法足额纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

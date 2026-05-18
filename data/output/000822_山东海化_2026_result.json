@@ -1,0 +1,441 @@
+{
+  "company_name": "山东海化",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 3769878.48,
+      "unit": "吨二氧化碳当量",
+      "original_text": "2025年公司碳排放总量为3,769,878.48吨CO2",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 740040.33,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放（范畴一）总量 740,040.33 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 3029838.15,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放（范畴二）总量 3,029,838.15 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1113811.67,
+      "unit": "吨标煤",
+      "original_text": "综合能耗总量 吨标煤 2025年 1,113,811.67",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 17277900,
+      "unit": "吨",
+      "original_text": "水资源消耗总量为1,727.79万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1246875.65,
+      "unit": "吨",
+      "original_text": "一般固体废物产生总量 吨 2025年 1,246,875.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 3153.39,
+      "unit": "万元",
+      "original_text": "2025年 环保总投入 3,153.39 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 44.17,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 44.17 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 3.0,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 3.00 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 22.45,
+      "unit": "吨",
+      "original_text": "烟尘/颗粒物排放量 22.45 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 418,
+      "unit": "万元",
+      "original_text": "员工培训投入 418 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 24.9,
+      "unit": "万元",
+      "original_text": "公益慈善项目投入24.9万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 15800,
+      "unit": "万元",
+      "original_text": "2025年公司共缴纳税款1.58亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 16,
+      "unit": "小时/人",
+      "original_text": "人均培训时长16小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "本届董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33.33 33.33 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会会议举行次数 次数 9 13 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司将应对气候变化融入战略、治理、风险管理和日常运营，参考TCFD建议，制定针对性管理策略，推进碳减排与气候减缓行动。",
+      "original_text": "山东海化将应对气候变化全面融入公司战略、治理、风险管理和日常运营。积极开展气候风险识别与评估，高度重视气候变化对企业战略与经营带来的现实及潜在影响，主动推进碳减排与气候减缓行动，持续完善气候相关信息披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司以HSE管理体系为核心，系统推进环境管理工作，6家单位通过环境管理体系认证，纯碱厂等通过能源管理体系认证。",
+      "original_text": "公司遵循《中华人民共和国环境保护法》等法律法规，以HSE管理体系为核心，系统推进环境管理工作。2025年，6家通过环境管理体系认证（纯碱厂、溴素厂、羊口盐场、氯碱树脂公司、小苏打厂、氯化钙厂）。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司提及创新拓展低碳产品与服务品类，打造一体化绿色低碳产业链，但未明确具体绿色产品认证或服务细节。",
+      "original_text": "持续开展技术创新与产品研发，打造一体化绿色低碳产业链。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司高度重视生态保护，关注运营对自然资源与生物多样性的潜在影响，并开展相关培训。",
+      "original_text": "公司高度重视生态保护，坚持在业务活动中严格落实环评及相关法规要求，持续关注运营对自然资源与生物多样性的潜在影响，积极采取防控与保护措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司构建生态工业体系，推进废砂电石渣综合利用、氢气回收再利用等循环经济项目。",
+      "original_text": "废砂电石渣综合利用项目：将电石渣替代部分石灰乳用于生产，实现纯碱生产由'以灰定产'向'以气定产'的工艺转变，同步实现两类固废资源化利用。对氯碱树脂公司生产过程中产生的富余氢气进行回收再利用，年外送量达4,323.88万m³(N）。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司通过员工座谈会、职工代表大会、总经理信箱及监督建议热线等渠道广泛听取员工意见，保障员工权益。",
+      "original_text": "依托员工座谈会、职工代表大会、总经理信箱及监督建议热线等渠道，广泛听取员工意见",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立了职业健康安全管理体系，覆盖危害识别、风险评估、事故调查、职业健康服务等，职业健康体检覆盖率100%。",
+      "original_text": "职业健康安全管理体系覆盖的工人；职业健康体检覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司使用环境评价维度和社会评价维度筛选新供应商，并对供应链的负面环境影响和采取的行动进行管理。",
+      "original_text": "使用环境评价维度筛选的新供应商；使用社会评价维度筛选的新供应商；供应链对社会的负面影响以及采取的行动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司产品出厂合格率100%，报告期内未发生涉及产品和服务信息与标识的违规事件。",
+      "original_text": "产品出厂合格率100%；报告期内，未发生涉及产品和服务信息与标识的违规事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守网络安全法，建立安全防控体系，2025年信息数据泄露事故0起，组织开展信息安全培训1次，参与培训员工200人次。",
+      "original_text": "2025年信息数据泄露事故0起；组织开展信息安全培训1次，参与培训员工200人次",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司投身社会贡献，员工参与志愿服务人数700人次，组织无涉及侵犯原住民权利的事件，对当地社区无实际或潜在重大负面影响。",
+      "original_text": "员工参与志愿服务人数700人次；组织无涉及侵犯原住民权利的事件；对当地社区无实际或潜在重大负面影响的运营点",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司在人才引进中充分考虑性别、民族、地域的多元化。",
+      "original_text": "在人才引进方面，公司充分考虑性别、民族、地域的多元化，坚持'外部引进'与'内部培育'双轮驱动。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会战略委员会作为公司ESG治理的治理机构，负责识别ESG相关风险和机遇，指导制定ESG制度、战略与目标，监督检查ESG工作实施，审阅ESG报告。",
+      "original_text": "董事会战略委员会作为公司ESG治理的治理机构，负责识别公司ESG（环境、社会和公司治理）相关风险和机遇，开展研究、分析和风险评估，指导公司制定ESG相关制度、战略与目标；监督检查公司ESG工作的实施，评估ESG绩效；审阅ESG报告及其他与ESG相关的重大事项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司系统识别廉洁等关键领域的潜在风险，并强化应对机制。报告期内公司及董事、高管均保持良好合规记录，未发生内幕交易等违规行为。",
+      "original_text": "系统识别廉洁、信息安全、采购、销售、对外投资及担保等关键领域的潜在风险，并强化应对机制。报告期内，公司及董事、高管均保持良好合规记录，未发生内幕交易",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守反不正当竞争法和反垄断法，恪守公平竞争与诚信经营原则，2025年未发生任何因不正当竞争引发的诉讼或重大行政处罚。",
+      "original_text": "公司严格遵守《中华人民共和国反不正当竞争法》《中华人民共和国反垄断法》等相关法律法规，恪守公平竞争与诚信经营原则，坚决杜绝商业贿赂、不公平定价、侵犯商业秘密等一切不正当竞争行为。2025年，公司未发生任何因不正当竞争引发的诉讼或重大行政处罚。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司通过完善治理体系、优化风险管控，识别ESG相关风险和机遇，开展研究、分析和风险评估。风险识别与管理被列为高双重重要性议题。",
+      "original_text": "通过完善治理体系、优化风险管控、深化实践行动，积极与内外部利益相关方协同，共同推动高质量与可持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过投资者热线、邮件、互动易平台、业绩说明会及机构调研接待等多种方式与市场保持透明互动。2025年投资者回复率100%，未发生投资者投诉。",
+      "original_text": "公司制定《投资者关系管理制度》等规范文件，积极构建多元化、常态化的沟通渠道，通过投资者热线、邮件、互动易平台、业绩说明会及机构调研接待等多种方式，与市场保持密切、透明的互动。报告期内，公司未发生投资者投诉事项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立常态化、多元化的沟通机制，通过业绩说明会、投资者调研、互动易平台、员工座谈会、职工代表大会、总经理信箱及监督建议热线等渠道，实现与利益相关方的双向沟通。",
+      "original_text": "山东海化积极履行上市公司责任，秉持利益相关方参与原则，建立常态化、多元化的沟通机制，及时回应各方关切，并将相关意见纳入公司ESG管理与实践。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露管理办法，制定《信息披露管理制度》，确保信息真实、准确、完整、及时、公平。2025年披露定期报告4份、临时公告47份，未发生信息更正事项。",
+      "original_text": "公司严格遵守《上市公司信息披露管理办法》等法律法规，制定发布《信息披露管理制度》，确保所有披露信息真实、准确、完整、及时、公平。报告期内，公司共披露定期报告4份、临时公告47份，未发生信息更正事项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守国家税收法规，依法履行纳税义务。2025年共缴纳税款1.58亿元，主要单位纳税信用等级为A级，全年未发生重大税务争议诉讼。",
+      "original_text": "严格遵守国家税收法规，依法履行纳税义务。2025年公司共缴纳税款1.58亿元，其中对地方税收贡献1.44亿元，主要单位纳税信用等级为A级。全年未发生重大税务争议诉讼",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

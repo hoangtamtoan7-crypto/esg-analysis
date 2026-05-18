@@ -1,0 +1,441 @@
+{
+  "company_name": "海南海药",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 3.72,
+      "unit": "万吨二氧化碳当量",
+      "original_text": "二氧化碳排放量 万吨二氧化碳当量 3.72",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "一般固体废弃物2吨，危险废物816吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 742.81,
+      "unit": "万元",
+      "original_text": "累计投入环境保护和职业健康专项资金742.81万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1738,
+      "unit": "人",
+      "original_text": "海南海药现有职工1738人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司第十一届董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "包含3名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "9次董事会审议47项议案",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "10次专门委员会会议",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司高度重视气候变化，参照TCFD框架识别风险，制定碳中和路线图，推动绿色低碳转型。",
+      "original_text": "海南海药高度重视气候变化所衍生的各类风险，将其视为企业可持续发展进程中的关键考量因素。公司系统全面开展气候风险的识别、筛选以及评估工作，精准定位可能影响公司运营的潜在风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了三级环境管理组织架构，制定多项环境管理制度，并通过ISO 14001认证。",
+      "original_text": "公司以“海药统筹、子公司落实、全员参与”为原则，构建了权责清晰、运行高效的三级环境管理组织架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推进绿色包装、绿色运输，但未明确提及绿色产品认证或具体绿色产品。",
+      "original_text": "推进绿色低碳运输，减少燃料消耗，提高物流效率，助力实现降碳。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司坚守药用生物资源保护底线，将生物多样性保护融入全产业链发展，加强厂区绿化建设。",
+      "original_text": "海南海药坚守药用生物资源保护底线，将生物多样性保护融入全产业链发展，持续加大绿色生产与生态保护投入。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进废弃物资源化利用，回收有机溶剂，建立废旧包装耗材回收机制。",
+      "original_text": "充分利用厂区多套浓缩釜、精馏塔、无机膜等回收设备回收有机溶剂，在提升溶剂回收利用率的同时，减少废弃物产生。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持'以人为本'，关注员工权益，通过职工代表大会等健全民主沟通机制，开展员工关怀活动。",
+      "original_text": "员工权益. 职工代表大会 员工关怀 健全民主沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司以'安全第一，健康为本'为宗旨，开展安全培训、应急演练，投入职业健康专项资金，建立员工健康档案。",
+      "original_text": "公司以'安全第一，健康为本'为宗旨，通过一系列务实行动，将职业健康管理要求转化为员工可感知的安全保障",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商管理制度，对供应商资质进行严格确认、评估、审核、批准及全周期管理，确保供应商质量管理体系符合GMP法规要求，并实施供货质量跟踪机制。",
+      "original_text": "公司已建立完善的供应商管理制度，通过规范供应商评估与批准管理程序，明确评估流程及批准依据。采用风险管理方法，对供应商资质进行严格确认、评估、审核、批准及全周期管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立覆盖全生命周期的质量风险防控体系，通过GMP认证，开展质量培训，确保药品安全。",
+      "original_text": "公司产品全生命周期内与药品质量相关的风险管理活动，覆盖从研发、生产、销售到退市的各个环节",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循《个人信息保护法》《数据安全法》，确立'合法、正当、必要和诚信'原则，保护客户隐私。",
+      "original_text": "海南海药将保障客户个人信息安全与隐私权视为企业基本责任与核心承诺。公司的管理严格遵循《中华人民共和国个人信息保护法》《中华人民共和国数据安全法》等相关法律法规",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司助力乡村振兴，开展公益活动，如'助学帮教·关爱健康'主题党日活动。",
+      "original_text": "公司始终将助力乡村振兴作为践行社会责任的使命之一",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司开展女性健康讲座，表彰三八红旗手等，但未明确提及多元化与包容政策。",
+      "original_text": "组织《关爱女性健康知识讲座》",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司以'规范透明'为基石，完善由董事会牵头的ESG治理架构，通过跨部门协作机制落实ESG目标。董事会下设战略委员会、审计委员会、提名委员会、薪酬与考核委员会。",
+      "original_text": "完善由董事会牵头的ESG治理架构，通过跨部门协作机制落实ESG目标",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "聚焦医药行业廉洁风险点，从专项治理、全流程防控、制度约束、责任传导四方面发力：开展采购反腐、违规吃喝专项治理，健全基层监督，建立廉洁风险动态台账。",
+      "original_text": "聚焦医药行业廉洁风险点，从专项治理、全流程防控、制度约束、责任传导四方面发力：开展采购反腐、违规吃喝专项治理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格依据《公司法》《证券法》等法律法规，建立内控与合规管理体系，开展销售系统合规化行动，在销售协议中增加反垄断反不正当竞争条款。",
+      "original_text": "严格依据《中华人民共和国公司法》《中华人民共和国证券法》等法律法规，建立适配的内控与合规管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司以全面风险管理体系为核心，从内控自评价、制度完善、风险管控、培训宣贯等多方面推进内控管理工作，建立'制度评估—缺陷整改—持续优化'的全流程闭环机制。",
+      "original_text": "以全面风险管理体系为核心，从内控自评价、制度完善、风险管控、培训宣贯等多方面推进内控管理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司新增制订《市值管理制度》《信息披露暂缓与豁免业务管理制度》，通过官网投资者教育专栏、深交所'互动易'平台及投资者电话专线等多元化沟通渠道，搭建双向互动平台。",
+      "original_text": "新增制订《市值管理制度》《信息披露暂缓与豁免业务管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司始终将利益相关方沟通视为ESG治理的重要基石，重视与重要利益相关方建立常态化、透明化的沟通机制，识别股东、政府、媒体等利益相关方并回应其关注。",
+      "original_text": "始终将利益相关方沟通视为公司ESG治理的重要基石，公司重视与重要利益相关方建立常态化、透明化的沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司建立规范的信息披露管理机制，新增制订《市值管理制度》《信息披露暂缓与豁免业务管理制度》，通过跨部门协同审核、定期组织董监高培训等措施，确保信息披露真实、准确、及时、完整。",
+      "original_text": "建立规范的信息披露管理机制，本报告期公司新增制订《市值管理制度》《信息披露暂缓与豁免业务管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.75
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "company_name": "北京文化",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 56,
+      "unit": "%",
+      "original_text": "公司女性员工占比 56%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "女性高管在公司董事及高管中占比 40%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会由 9 名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事 3 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "召集了 6 次会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消了监事会设置",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "审计委员会召开了 7 次会议",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "公司坚持绿色发展理念，践行绿色低碳理念，但未明确提及具体的气候变化应对策略或目标。",
+      "original_text": "公司始终坚持绿色发展理念，生态环保意识，以实际行动践行绿色低碳理念。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "partial",
+      "summary": "公司高度重视ESG体系建设，但未提及具体环境管理体系认证或标准。",
+      "original_text": "公司高度重视 ESG 体系建设，统筹推进环境、社会与公司治理。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "no",
+      "summary": "未提及绿色产品与服务相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "未提及生物多样性保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "倡议推动水循环利用和落实垃圾分类，但未系统描述循环经济实践。",
+      "original_text": "倡议大家从自身做起，强化节水意识、落实垃圾分类、注重用水细节、践行节水行动、推动水循环利用。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格执行劳动合同法，依法缴纳社保及公积金，切实维护员工合法权益。",
+      "original_text": "公司严格执行《中华人民共和国劳动合同法》《中华人民共和国社会保险法》等有关法律法规，依法履行劳动合同，依法足额缴纳社会保险及住房公积金，切实维护员工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司每年为全体员工安排年度体检，并统一购买补充医疗保险，构建完善的健康保障体系。",
+      "original_text": "每年为全体员工安排专业全面的年度体检，让员工及时掌握个人健康状况，同时，统一为员工购买补充医疗保险，构建完善的健康保障体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司注重妇女权益保护，为女性员工提供充分就业机会和职业发展空间，女性员工占比56%，女性高管占比40%。",
+      "original_text": "公司特别注重妇女权益保护，为女性员工提供充分的就业机会和职业发展空间，公司女性员工占比 56%，女性高管在公司董事及高管中占比 40%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了股东会、董事会及其下属各专门委员会（战略发展、审计、薪酬等）的治理架构。",
+      "original_text": "公司建立了股东会、董事会及其下属各专门委员会（战略发展董事会是股东会的常设经营决策机构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司深入贯彻党纪教育，完善内控与合规体系，规范权力运行流程，不断强化党的建设。",
+      "original_text": "深入贯彻党纪教育，完善内控与合规体系，规范权力运行流程，不断强化党的建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司完善内控与合规体系，规范权力运行流程。",
+      "original_text": "完善内控与合规体系，规范权力运行流程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司高度重视内部控制体系建设与全面风险管理工作，将风险识别、评估、应对与管控贯穿于经营管理全过程，建立了风险与内控管理组织体系。",
+      "original_text": "公司高度重视内部控制体系建设与全面风险管理工作，将风险识别、评估、应对与管控贯穿于经营管理全的风险与内控管理组织体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，实时关注股价及市场走势。",
+      "original_text": "公司高度重视投资者关系管理，实时关注股价及市场走势",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "公司提及股东会、董事会等治理结构，但未明确描述与其他利益相关方的沟通机制。",
+      "original_text": "股东会是公司最高的权力机构",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格落实信息披露工作，真实、准确、完整、及时、公平地披露信息，报告期内共披露公告95份，信息披露工作均达到监管要求。",
+      "original_text": "严格落实信息披露工作，履行信息披露义务，真实、准确、完整、及时、公平地通过深圳证券交易所网站及《证券时报》等法定信息披露媒体披露有关信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 9,
+    "quantitative_valid": 9,
+    "quantitative_issues": [],
+    "qualitative_count": 16,
+    "qualitative_valid": 16,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.712
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 25,
+    "missing": 27,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q01",
+        "name": "员工总数",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q04",
+        "name": "员工培训投入",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q05",
+        "name": "员工培训时长",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q06",
+        "name": "员工流失率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q07",
+        "name": "研发投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q08",
+        "name": "研发投入占营收比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q09",
+        "name": "安全生产投入",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q10",
+        "name": "工伤事故率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q11",
+        "name": "社会公益捐赠",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q12",
+        "name": "纳税总额",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_L03",
+        "name": "供应链ESG管理",
+        "type": "qualitative"
+      },
+      {
+        "id": "S_L04",
+        "name": "产品安全与质量",
+        "type": "qualitative"
+      },
+      {
+        "id": "S_L05",
+        "name": "数据安全与隐私保护",
+        "type": "qualitative"
+      },
+      {
+        "id": "S_L06",
+        "name": "社区关系与参与",
+        "type": "qualitative"
+      }
+    ],
+    "completeness": 48.1
+  }
+}

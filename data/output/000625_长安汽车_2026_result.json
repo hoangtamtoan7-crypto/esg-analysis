@@ -1,0 +1,442 @@
+{
+  "company_name": "长安汽车",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 942742,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放 吨二氧化碳当量 923,890 894,544 942,742",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 190728,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一 吨二氧化碳当量 201,437 151,868 190,728",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 752014,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二 吨二氧化碳当量 722,453 742,676 752,014",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 11.63,
+      "unit": "%",
+      "original_text": "绿电使用占比 % / 1.63 11.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 / / �,���,���",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 186.0,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 186.0 186.0 186.0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 3.0,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 吨 3.0 3.0 3.0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 12.0,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 吨 12.0 12.0 12.0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 22481,
+      "unit": "人",
+      "original_text": "员工总人数 人 22,481",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.5,
+      "unit": "%",
+      "original_text": "员工流失率 % / / 2.5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 16523000000,
+      "unit": "元",
+      "original_text": "研发投入金额 元 16,523,000,000.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 4.19%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 3615.72,
+      "unit": "万元",
+      "original_text": "安全生产费用投入 万元 3,615.72",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 9 9 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "当年董事会召开次数 次 / / 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳中和路线图，目标2029年碳达峰、2050年碳中和，并将碳排放强度降幅作为约束性指标。",
+      "original_text": "2025年，为全力推动实现“2029年碳达峰，2050年碳中和”目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001:2015环境管理体系认证，并建立三级能源管理体系。",
+      "original_text": "将IATF �����汽车行业质量管理体系和ISO �����环境管理体系认证（����年实施）作为硬性准入标准",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司加速新能源产品布局，2025年累计推出8款全新新能源产品，推动产品绿色低碳转型。",
+      "original_text": "坚定推动产品绿色低碳转型，2025年累计推出8款全新新能源产品",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司积极践行生态保护责任，开展生物多样性保护活动，如种植垂丝海棠、协助沐浴护理等，并计划以重庆两江工厂为试点开展首次生物多样性评估。",
+      "original_text": "公司积极践行生态保护责任，通过在运营地及价值链开展系统性环保实践，积极守护区域生物多样性",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进再生材料研发与产业化应用，建立动力电池回收、报废车利用及绿色包装闭环体系。",
+      "original_text": "公司通过技术创新与供应链协同推动生产者责任延伸，重点聚焦动力电池回收、报废车利用及绿色包装，建立“设计-生产-回收-再生”闭环体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司发布《人权政策声明》，承诺禁止歧视、禁止人口贩卖和强迫劳动、保护员工隐私、反骚扰、禁止童工、保障结社自由和表达自由。",
+      "original_text": "长安汽车《人权政策声明》承诺禁止歧视、禁止人口贩卖和强迫劳动、保护员工隐私、反骚扰、禁止童工、结社自由和表达自由。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司秉持‘安全第一，预防为主’，建立职业健康安全管理体系，组织员工参与应急管理普法、职业健康宣传周、安全生产月、消防宣传等活动，开展应急救护员培训，职业健康体检覆盖率、公司级安全培训总学时、应急演练次数均有提及但数值未明确。",
+      "original_text": "公司始终秉持‘安全第一，预防为主’，将保障员工职业健康与安全...职业健康安全管理体系...组织员工参与全国第六届应急管理普法...利用职业健康宣传周、安全生产月、消防宣...依托‘安全长安’微信公众号平台开展常...与应急响应的多层次安全环保人才培养体系...公司职业健康体检覆盖率 公司级安全培训总学时 公司累计组织开展各类应急演练",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应链ESG评估体系，将劳工权益、环境保护、商业道德等纳入供应商准入和考核，对供应商进行绿色采购能力评价。",
+      "original_text": "建立供应链ESG评估体系，将劳工权益、环境保护、商业道德等纳入供应商准入和考核。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立以CCMG委员会为核心的产品安全与质量治理体系，通过系统化测试和验证保障产品安全，推进海外工厂质量管理体系建设。",
+      "original_text": "建立以CCMG委员会为核心的产品安全与质量治理体系，通过系统化测试和验证保障产品安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守个人信息保护法律法规，采取技术与组织措施保障员工个人隐私与信息安全。",
+      "original_text": "公司严格遵守业务所在地的个人信息保护相关法律法规，并按照内控要求处理员工个人信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展社会共建和各类公益活动，在抗灾救灾、教育支持、社区关怀等领域投入，并驰援泰国洪灾。",
+      "original_text": "与社会共建和各类公益活动，在抗灾救灾、教育支持、社区关怀等领域；驰援泰国洪灾，向泰国红十字会捐赠",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司致力于打造平等、包容的职场环境，反对基于年龄、性别、种族等任何形式的歧视，并重视女性员工的健康福祉。",
+      "original_text": "公司坚决反对基于年龄、性别、种族、民族、宗教、教育背景、婚姻状况、生育状况、身体残疾、性取向、国籍、政治见解、工会成员身份或社会背景的任何形式的歧视，致力于打造平等、包容的职场环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会、高级管理层到各业务单元的多层次ESG治理架构，董事会下设战略、投资与可持续发展委员会，负责监督可持续发展事宜。",
+      "original_text": "战略、投资与可持续发展委员会（治理层）核心职责：负责监督公司可持续发展事宜，审议可持续发展战略、人员任...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司对供应商开展反腐败、合规培训，培训覆盖率达100%。",
+      "original_text": "100% 供应商反腐败、合规培训覆盖率",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立了供应商退出机制，对出现重大商业道德或合规违规行为的供应商启动退出程序。",
+      "original_text": "退出触发情形主要包括连续考核不达标且改进无效，出现重大质量、交付或安全问题，发生严重商业道德或合规违规行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了科学、严密的全面风险管理（ERM）体系，形成覆盖治理层、运营层、业务层的三层风控治理架构。",
+      "original_text": "构建了科学、严密的全面风险管理（ERM）体系，确立了由董事会统筹、高级管理层主导的风险管理架构，形成覆盖“治理层、运营层、业务层”的三层风控治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司尊重并平等对待全体股东，保障股东知情权、参与权、表决权与收益权，重视中小股东意见。",
+      "original_text": "公司尊重并平等对待全体股东，保障股东依法享有知情权、参与权、表决权与收益权，重视中小股东意见，在重大事项决策中充分考虑其合法权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过利益相关方沟通机制，包括员工、股东、经销商、供应商等，并设有申诉渠道。",
+      "original_text": "利益相关⽅沟通 括员⼯、股东、经销商、供应 估得到的初步结果，各相关 获确认。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司按照中国汽车工业协会《中国汽车行业ESG信息披露指南》编制报告，强调可读性和可理解性。",
+      "original_text": "中国汽⻋⼯业协会《中国汽⻋⾏业ESG信息披露指南》 可读性：报告具有可理解性，便于可持续信息使⽤者理解和使⽤。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "000625_长安汽车_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

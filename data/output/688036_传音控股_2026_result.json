@@ -1,0 +1,442 @@
+{
+  "company_name": "传音控股",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1529955.56,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 1,529,955.56",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 255.73,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 255.73",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 31802.78,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 31,802.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2332.56,
+      "unit": "吨二氧化碳当量/亿元营收",
+      "original_text": "温室气体排放密度 2,332.56 吨二氧化碳当量/亿元营收",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 7508.59,
+      "unit": "吨-标准煤",
+      "original_text": "总能耗消耗量 吨-标准煤 7,508.59",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 197602.6,
+      "unit": "吨",
+      "original_text": "取水量 吨 197,602.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 172864.6,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 172,864.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 17132,
+      "unit": "人",
+      "original_text": "球的员工总数达 人，包括研发、生产、销售、行政等人员， 17,132",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1796.86,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 1,796.86",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 11.35,
+      "unit": "小时/人",
+      "original_text": "人均培训小时数 小时 11.35",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 34.51,
+      "unit": "%",
+      "original_text": "员工流失率 % 34.51",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 465.39,
+      "unit": "万元",
+      "original_text": "公益慈善投入资金金额 万元 465.39",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，传音控股共有9名董事会成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名，独立董事在董事会占比为1/3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "非独立董事6名（女性董事1名）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司不再设置监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，持续完善环境管理体系，深化绿色运营实践，将环境责任融入产品全生命周期。",
+      "original_text": "积极响应国家'双碳'战略，持续完善环境管理体系，深化绿色运营实践，将环境责任融入产品全生命周期",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定并实施《环境管理程序》，对废水、废气、噪声及废弃物的污染防治和处理进行统一管理，明确相关要求。",
+      "original_text": "制定并实施《环境管理程序》，对废水、废气、噪声及废弃物的污染防治和处理进行统一管理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "采用免喷涂美学材料减少VOCs，研发咖啡渣环保皮、椰子生态皮等手机后盖，开发低碳产品线。",
+      "original_text": "采用免喷涂美学材料作为手机外壳，有效控制挥发性有机物（VOCs）产生；已实现咖啡渣环保皮、椰子生态皮等手机后盖",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "报告提及生态系统和生物多样性保护议题，但未提供具体措施或政策。",
+      "original_text": "环境合规、生态系统和生物多样性保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "促进废弃物向再生资源的有效转化，支持公司绿色低碳转型与可持续发展目标的实现。",
+      "original_text": "促进废弃物向再生资源的有效转化，支持公司绿色低碳转型与可持续发展目标的实现",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司恪守国家相关法律，提供安全、健康且平等的职场环境，建立公平公正的薪酬福利制度，畅通员工发展渠道。",
+      "original_text": "供一个安全、健康且平等的职场环境。我们恪守国家相关法律",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司重视职业健康安全，定期进行安全检查、职业危害因素监测和健康风险识别评估，实施安全教育，2025年未发生职业健康安全重大事故。",
+      "original_text": "公司重视员工的职业健康安全，定期进行工作场所的安全检查、职业危害因素监测和健康风险识别评估，实施安全教育",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商评审表-QSA》，检查供应商在环境、职业健康安全的合规性，保障供应链绿色采购及劳工人身安全，并开展供应商培训。",
+      "original_text": "制定了《供应商评审表- QSA》，检查供应商在环境、职业健康安全的合规性，保障供应链绿色采购及劳工人身",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司持续完善产品质量管理体系，强化风险防控，开展超过80场质量管理及产品检验培训，覆盖研发、来料、制造等领域。",
+      "original_text": "我们持续完善产品质量管理体系，强化风险防控与隐私保护",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司持续完善信息安全与隐私保护战略，建立认证认可、制度管理、安全审计到方案部署的规范体系，通过持续培训提升员工安全意识，报告期内未发生数据安全及泄露重大事件。",
+      "original_text": "公司持续完善信息安全与隐私保护战略，建立从认证认可、制度管理、安全审计到方案部署的规范体系，通过持续培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极响应国家号召，推动乡村振兴和公益慈善事业，通过消费帮扶、教育支持等方式回馈社会，与联合国难民署合作支持难民教育。",
+      "original_text": "公司积极响应国家号召，推动乡村振兴和公益慈善事业。我们通过消费帮",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "多元化理念已纳入新员工入职培训体系，并通过专项课程培养，公司关注员工多元化与包容。",
+      "original_text": "多元化理念已纳入新员工入职培训体系，并通过专项课程培",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已由董事会牵头，建立ESG治理架构，负责重大事宜的集体决策、风险管理，并设立战略与可持续发展（ESG）委员会。",
+      "original_text": "公司已由董事会牵头，建立ESG治理架构，负责本议题重大事宜的集体决策，开展本议题下的风险管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司重视商业道德建设，厚植廉洁文化，将诚信、公正作为核心原则；开展反商业贿赂及反腐败培训，覆盖非独立董事及高管。",
+      "original_text": "接受反商业贿赂及反腐败培训的非独立董事及高管",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守《反垄断法》《反不正当竞争法》等商业道德相关法律法规，建立举报机制，持续强化依法合规经营与商业道德建设。",
+      "original_text": "公司严格遵守《中华人民共和国反垄断法》《中华人民共和国反不正当竞争法》及《关于禁止商业贿赂行为的暂行规定》等商业道德相关法律法规",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立以董事会、审计委员会、内控为主框架的全面覆盖和多层次的内控建设和风险管理体系，采用“三道防线”风险管理及内部控制系统。",
+      "original_text": "公司建立以董事会、审计委员会、内控为主框架的全面覆盖和多层次的内控建设和风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视保障中小股东权益，通过公平的信息披露和透明的决策机制，共享企业发展成果。",
+      "original_text": "我们重视保障中小股东权益，通过公平的信息披露和透明的决策机制，共享企业发展成果",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过双重重要性分析及利益相关方沟通，形成本年度双重重要性议题矩阵，并定期与利益相关方交流。",
+      "original_text": "传音综合上述双重重要性分析及利益相关方沟通，形成公司本年度双重重要性议题矩阵",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照法律法规和《信息披露制度》履行信息披露义务，做到真实、完整地披露信息，不存在虚假记载、误导性陈述和重大遗漏。",
+      "original_text": "公司严格按照有关法律法规、规范性文件和公司《信息披露制度》等规定，履行信息披露义务；做到真实、完整地披露信息，不存在虚假记载、误导性陈述和重大遗漏",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司遵循实质优先原则，不采用缺乏商业实质的税务安排，不利用保密性司法辖区或所谓“避税天堂”进行税务规避。",
+      "original_text": "实质优先原则，不采用缺乏商业实质的税务安排，不利用保密性司法辖区或所谓“避税天堂”进行税务规避",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "688036_传音控股_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "顺鑫农业",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 61687.99,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 61,687.99 68,111.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 22639.55,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放 吨二氧化碳当量 22,639.55 27,312.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 39048.44,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放 吨二氧化碳当量 39,048.44 40,798.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.091,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元 0.091 0.121",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 7619.03,
+      "unit": "吨",
+      "original_text": "废弃物排放总量 吨 8,002.24 7,619.03",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "税金及附加中环境保护税 万元。",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "氮氧化物 mg/m³ 39",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工流失率 2.48%",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "研发投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会现任董事9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33,
+      "unit": "%",
+      "original_text": "设立3名独立董事，占董事会成员总数的33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "公司监事会由3名成员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 4,
+      "unit": "次",
+      "original_text": "2023年，共召开董事会审计委员会4次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应碳达峰、碳中和号召，制定能源管理规定和节能工作检查办法，设立能源管理领导小组，明确能源管理职责，制定年度能源管理目标、计划及措施。",
+      "original_text": "公司积极响应党中央提出的“碳达峰、碳中和”号召，把“生态优先、绿色发展”摆在重要位置，根据环境相关法律法规制定《能源管理规定》《节能工作检查办法》，结合公司实际岗位特点建立能源管理体系，并已通过ISO 50001:2018能源管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司引入ISO 14001环境管理体系，牛栏山酒厂与鹏程食品均取得ISO 14001环境管理体系认证。",
+      "original_text": "公司引入ISO 14001环境管理体系，加强环境管理的系统性和规范性。牛栏山酒厂与鹏程食品均取得ISO 14001环境管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司研发清洁标签肉制品，通过减盐减磷配方和新型滚揉技术开发低盐低磷肉制品；牛栏山酒厂推出纯粮固态升级产品金标陈酿。",
+      "original_text": "本研究以清洁标签理念肉制品研发为目标，通过计算机模拟技术分析天然香辛料主要赋味组分与猪肉肌原纤维蛋白的结合特征，优化天然香辛料的配方与配比；通过有效的减盐配方和减磷配方与新型滚揉技术相结合的方式，通过不同影响因素优化得出的最佳加工工艺制作低盐、低磷的肉制品",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司利用生产养殖产生的动物粪便二次循环使用在农田灌溉；牛栏山酒厂利用水循环措施节约水资源，将洗瓶废水收集后经技术处理达到重复利用标准，每年可节约近25万吨新鲜水；冷却水回收降温重复利用，每年可节约近20万吨水。",
+      "original_text": "公司利用生产养殖产生的动物粪便二次循环使用在农田灌溉，帮助公司实现资源多次利用。牛栏山酒厂利用水循环措施节约水资源的使用，在灌装冲瓶环节引进节水技术，将洗瓶废水收集后经技术处理达到重复利用标准，每年可节约近25万吨新鲜水的提取。在酿酒环节将冷却水回收降温进行重复利用，每年可节约近20万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《总部人力资源管理制度》《员工招聘管理办法》等，依法订立劳动合同，遵守多元化及反歧视用工原则，保护女职工合法权益。",
+      "original_text": "制定《总部人力资源管理制度》《员工招聘管理办法》等管理制度，并依法订立、变更、续签和解除劳动合同，遵守多元化及反歧视的用工原则，坚决不因性别、身高、相貌、地域、民族等因素对员工产生任何不公正对待。同时，充分保护女职工的合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司每年组织健康体检，加强职业病防治宣传，制定职业健康管理制度，发放防护用品，实行轮岗，并通过职业健康安全管理体系认证。",
+      "original_text": "公司始终将员工职业健康安全置于首要位置，每年组织全面的健康体检，加强职业病防治宣传，提高职业健康管理水平，为员工创造安全、健康的工作环境。牛栏山酒厂、鹏程食品职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过供应商年会、质量审核、培训等方式维护合作关系，对供应商资质进行审核评估，对不合格供应商取消资格。",
+      "original_text": "顺鑫农业始终致力于与供应商建立并维护紧密的合作关系...对供应商资质进行审核和评估",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严守《食品安全法》《产品质量法》，建立《食品质量安全管理体系》，通过ISO 9001认证，建立食品安全追溯体系，保障食品全链条质量安全。",
+      "original_text": "鹏程食品严守《食品安全法》《产品质量法》等国家和地方食品质量安全相关法律法规，建立《食品质量安全管理体系》，通过ISO 9001国际质量管理体系认证。公司制定《产品追溯管理制度》，实现食品质量安全顺向可追踪、逆向可溯源。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视网络安全管理与客户隐私保护，执行《网络安全管理制度》《信息系统数据安全管理制度》，按照信息安全等级保护二级标准进行安全风险识别和评估。",
+      "original_text": "顺鑫农业高度重视网络安全管理与客户隐私保护，严格执行《网络安全管理制度》《信息系统数据安全管理制度》，设立信息化与网络安全...按照信息安全等级保护二级标准，对信息系统安全风险进行识别、评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与公益活动，如社区志愿活动、献血活动，开展产业合作和技术培训助力帮扶地区经济成长。",
+      "original_text": "顺鑫农业在追求经济效益的同时始终秉持着责任与担当...积极参与了多项公益活动...开展产业合作、技术培训等项目",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉持多元化和平等机会，遵守反歧视原则，保护女职工权益，提供公平职业发展机会。",
+      "original_text": "顺鑫农业秉持“以人为本”的核心理念，致力于为员工创造一个充满多元化和平等机会的工作环境。遵守多元化及反歧视的用工原则，坚决不因性别、身高、相貌、地域、民族等因素对员工产生任何不公正对待。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司在董事会下设立战略与投资委员会、提名委员会、审计委员会、薪酬与考核委员会，其中提名委员会、审计委员会、薪酬与考核委员会中独立董事人数均占三分之二。",
+      "original_text": "公司在董事会下设立战略与投资委员会、提名委员会、审计委员会、薪酬与考核委员会，其中提名委员会、审计委员会、薪酬与考核委员会中独立董事人数均占三分之二",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵守反腐败法、反垄断法，遵循诚信合法经营原则，通过培训提高反不正当竞争及反垄断意识，并建立举报人保护机制。",
+      "original_text": "顺鑫农业严格遵守《中华人民共和国反腐败法》《中华人民共和国反垄断法》的规定，遵循诚信、合法经营的原则，切实履行公平交易、廉洁合规的工作要求，通过培训等方式提高企业及员工反不正当竞争及反垄断意识",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《董事、监事及高级管理人员薪酬管理制度》等制度，规范职业行为，防止损害公司及股东利益的行为发生。",
+      "original_text": "制定《董事、监事及高级管理人员薪酬管理制度》等管理制度，规范公司高、中级管理层及所有员工的职业行为，防止损害公司及股东利益的行为发生",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司已建立完整且运行有效的内部控制体系，从公司层面到各业务流程层面均建立了系统的内部控制及必要的内部监督机制。",
+      "original_text": "公司已建立起一套完整且运行有效的内部控制体系，从公司层面到各业务流程层面均建立了系统的内部控制及必要的内部监督机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，积极参与投资者教育活动，组织机构投资者及券商到公司调研，加强投资者沟通。",
+      "original_text": "顺鑫农业制定《投资者关系管理制度》，进一步提升投资者的风险意识和投资能力，确保投资者合法权益得到充分保障",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司重视与政府、股东、员工、客户、合作伙伴和公众等利益相关方的沟通，通过建立有效的沟通机制，帮助其深入了解公司的社会责任实践与成效。",
+      "original_text": "顺鑫农业重视与政府、股东、员工、客户、合作伙伴和公众等利益相关方的沟通，通过建立有效的沟通机制，帮助其深入了解公司的社会责任实践与成效",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露事务管理制度》《内幕信息知情人登记管理制度》，规范信息披露行为，维护信息披露的公平性。",
+      "original_text": "顺鑫农业制定《信息披露事务管理制度》《内幕信息知情人登记管理制度》，进一步加强公司的信息披露事务管理工作，规范公司及其他信息披露义务人的信息披露行为以及对内幕信息管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

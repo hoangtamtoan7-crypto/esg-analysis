@@ -1,0 +1,441 @@
+{
+  "company_name": "深圳机场",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 15.73,
+      "unit": "万吨二氧化碳当量",
+      "original_text": "温室气体排放总量（万吨二氧化碳当量） 15.73 16.49",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 0.4,
+      "unit": "万吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围一）（万吨二氧化碳当量）2 0.40 0.37",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 15.34,
+      "unit": "万吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围二）（万吨二氧化碳当量）3 15.34 16.11",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 25.59,
+      "unit": "吨二氧化碳当量/万人次",
+      "original_text": "温室气体排放强度（吨二氧化碳当量/万人次） 25.59 24.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 23655.59,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗量（吨标准煤）4 22,121.36 23,655.59",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 40.88,
+      "unit": "%",
+      "original_text": "清洁能源使用比例（%）5 40.88 92.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1341918,
+      "unit": "吨",
+      "original_text": "总用水量（吨） 1,341,918 1,480,262",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1006094,
+      "unit": "吨",
+      "original_text": "废水排放总量（吨） 1,006,094 1,093,935.4",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4964,
+      "unit": "人",
+      "original_text": "员工总数（人） 4,964 5,203",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 22.08,
+      "unit": "%",
+      "original_text": "中高层管理人员中女性占比（%） - 22.08",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 391.76,
+      "unit": "万元",
+      "original_text": "员工培训总投入（万元） 433.94 391.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 106.98,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长（小时） 105.73 106.98",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1197201,
+      "unit": "万元",
+      "original_text": "研发投入金额（万元）1 197 201",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.1,
+      "unit": "%",
+      "original_text": "研发投入金额及占主营业务收入比例（%）1 3.1 3.0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 10216.13,
+      "unit": "万元",
+      "original_text": "安全生产投入（万元） 10,216.13 10,145.54",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会由九名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事在董事会占比",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事占比",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司董事会设置审计与风险管理委员会，行使《公司法》规定的监事会的职权",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "审计与风险管理委员会会议",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司发布《积极应对气候变化,助力实现“双碳”目标》专项方案，建立由生态文明建设工作领导小组、职能部门和生产单位组成的三级管理架构，识别气候相关风险和机遇，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司发布《积极应对气候变化,助力实现“双碳”目标》专项方案，建立由生态文明建设工作领导小组、职能部门和生产单位组成的三级管理架构，识别气候相关风险和机遇，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立ISO 14001:2015环境管理体系并通过再认证，同时获得碳管理体系认证，能源管理体系通过监督审核。",
+      "original_text": "ISO 14001:2015环境管理体系通过再认证，GB/T 23331-2020、ISO 50001:2018、RB/T 107-2013能源管理体系认证通过监督审核；获得碳管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司为旅客提供低碳乘机体验，提升航空器滑行运行效率，优化跑滑路线，积极推广绿色航班服务。",
+      "original_text": "为旅客提供更加便捷、高效、低碳的乘机体验；提升航空器滑行运行效率，持续优化航空器跑滑路线，积极推广绿色航班服务",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "开展生物多样性风险评估，依托野生动物智能管理系统和鸟击防范创新工作室，开展机场生态防鸟技术研究。",
+      "original_text": "开展生物多样性风险评估，依托野生动物智能管理系统和鸟击防范创新工作室，开展机场生态防鸟技术研究",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司坚持集约高效、绿色循环发展，统筹推进能源、水资源及废弃物全流程精细化管理，实施节能改造与清洁能源替代，深化节水增效与循环利用。",
+      "original_text": "深圳机场坚持集约高效、绿色循环发展，统筹推进能源、水资源及废弃物全流程精细化管理。大力实施节能改造与清洁能源替代，深化节水增效与循环利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，保障员工合法权益，禁止就业歧视，杜绝强制劳工和童工，依法缴纳五险一金，推行企业年金和补充医疗保险，落实带薪年假。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国职业病防治法》等法律法规，将保障员工职业健康作为生产运营的首要前提。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定职业健康管理制度，定期组织健康检查，关注员工心理健康，开展心理关爱行动，提供免费心理咨询热线。",
+      "original_text": "组织制订4项职业健康管理制度，明确职业病防治管理责任，通过定期组织健康检查，加强员工职业健康管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司每年定期开展供应商综合评级，评价内容包括质量、安全、环保、诚信、廉洁等，并将ESG要求融入采购流程。",
+      "original_text": "公司每年定期开展公司供应商综合评级工作，对供应商的质量、安全、生态文明、诚信、廉洁、及时性、配合度及服务等方面进行评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司健全服务质量管理制度，强化服务监督，制定服务质量管理手册，开展旅客满意度调查，持续优化服务流程。",
+      "original_text": "公司不断健全服务质量管理制度，强化服务监督与提升举措，持续完善服务质量管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守网络安全法，将客户信息保护贯穿服务全流程，禁止员工泄露旅客信息，2025年未发生客户隐私信息泄露情况。",
+      "original_text": "公司严格遵循《中华人民共和国网络安全法》等法律法规，将客户信息保护贯穿于航空服务全流程。2025年，公司未发生客户隐私信息泄露情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身乡村振兴、支持公益事业，开展民航知识科普、公益培训等活动，向西藏机场集团捐赠设备。",
+      "original_text": "深圳机场高度关注民生与社会需求，勇担国企责任，积极投身乡村振兴、支持公益事业发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉持多元化和平等雇佣原则，禁止就业歧视，遵循同工同酬，关注员工身心健康与工作生活平衡。",
+      "original_text": "坚定不移地秉持多元化和平等雇佣原则，在聘用员工时禁止就业歧视；遵循同工同酬原则。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "深圳机场逐步建立起由董事会、战略与可持续发展委员会、ESG工作小组、各部门及子公司构成的可持续发展管理架构。董事会是ESG管理体系的最高决策机构，战略与可持续发展委员会负责制定ESG管理目标、方针政策和实施路径，ESG工作小组为日常办事机构。",
+      "original_text": "深圳机场逐步建立起由董事会、战略与可持续发展委员会、ESG工作小组、各部门及子公司构成的可持续发展管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展反贪污反腐败培训，2025年培训次数65次，接受培训董事9人（占比100%），接受培训员工5098人（占比98%），总时长20392小时。公司自觉接受各方监督，发现不合规行为可向纪检监察部门举报。",
+      "original_text": "接受反贪污反腐败培训的董事人数（人）9 9；接受反贪污反腐败培训的董事占比（%）100 100",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司积极完善合规管理体系，构建‘基本制度+配套文件’的制度架构，修订《合规管理办法》，印发《合规委员会议事规则》《合规手册》等配套文件。2025年顺利通过GB/T 35770-2022与ISO 37301:2021合规管理体系认证审核。",
+      "original_text": "2025年，公司顺利通过GB/T 35770-2022国家标准与ISO 37301:2021国际标准的合规管理体系认证审核",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建全面风险管理体系，建立风险识别、评估、应对、监测全过程闭环管理机制，对各类风险实施分层分类、精准管控。将可持续发展相关风险与机遇纳入全面风险管理，重点识别噪声、污染物排放等风险。",
+      "original_text": "公司构建全面风险管理体系，建立风险识别、评估、应对、监测全过程风险闭环管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，高度重视投资者回报，通过法定信息披露、参加机构投资者策略会、回复深交所互动易平台提问、举办业绩说明会等方式与投资者沟通。2025年开展投资者交流活动，与机构分析师及中小股东进行交流。",
+      "original_text": "公司遵守《公司法》等有关法律法规和《公司章程》，制定《投资者关系管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "深圳机场通过常态化沟通机制，积极听取利益相关方意见、期望与诉求，并通过更多渠道、更多方式与利益相关方构建沟通。利益相关方包括股东、政府、员工、客户等，沟通方式包括股东会、业绩说明会、职工代表会议等。",
+      "original_text": "深圳机场通过常态化沟通机制，积极听取利益相关方意见、期望与诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司建立《信息披露事务管理制度》，通过‘定期报告的编制与披露流程’等内控流程规范信息披露行为。2025年共发布信息披露文件108份，连续17年获评深交所信息披露‘A级’，2025年度信息披露评价为‘A级’。",
+      "original_text": "2025年，公司共发布信息披露文件108份；信息披露连续17年获评深交所信息披露‘A级’",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

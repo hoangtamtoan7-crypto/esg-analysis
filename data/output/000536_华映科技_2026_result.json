@@ -1,0 +1,441 @@
+{
+  "company_name": "华映科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 5.05,
+      "unit": "吨",
+      "original_text": "气 Nox ... 排放总量 5.05吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 5.62,
+      "unit": "吨",
+      "original_text": "气 SO2 ... 排放总量 5.62吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "共召开董事会10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "子公司华佳彩导入屋顶分布式光伏发电项目，2025年累计光伏发电电量21,954,039兆瓦时，折合减少使用标煤7,903.45吨，减少排放二氧化碳20,707.05吨、二氧化硫0.47吨、氮氧化物0.28吨、烟尘0.09吨。",
+      "original_text": "子公司华佳彩导入屋顶分布式光伏发电项目，2025年累计光伏发电电量21,954,039兆瓦时，折合减少使用标煤7,903.45吨，减少排放二氧化碳20,707.05吨、二氧化硫0.47吨、氮氧化物0.28吨、烟尘0.09吨。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司全面推行ISO14001环境管理体系及ISO45001安全认证体系。",
+      "original_text": "公司全面推行ISO14001环境管理体系及ISO45001",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "废弃物处理通过有相关资质的第三方进行回收处置。",
+      "original_text": "废弃物处理：通过有相关资质的第三方进行回收处置。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守法律法规，保障员工权益，提供五险一金、带薪休假等法定福利，提供宿舍、伙食津贴及夜班津贴，坚持公平就业原则。",
+      "original_text": "公司严格遵循《劳动法》、《劳动合同法》等国家及地方法律法规，为员工提供包括五险一金、带薪休假等法定福利保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司全面推行ISO45001职业健康安全管理体系认证，进行年度内外部审核，开展安全知识培训、安全月活动，实现0职业病目标。",
+      "original_text": "公司全面推行ISO14001环境管理体系及ISO45001职业健康安全管理体系认证，进行年度内外部审核。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司有供应链管理流程，定期对供应商品质、交付、成本等进行评价，督促供应商优化。",
+      "original_text": "供应链管理流程，定期对供应商品质、交付、成本等进行评价，督促供应商优化。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司始终把产品质量和客户需求放在第一位，不断夯实内部能力，提升产品质量。",
+      "original_text": "公司始终把产品的质量和客户的需求放在第一位，不断夯实内部能力，提升产品质量。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "报告未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极践行社会责任，热心参与各类社会公益活动，推动公司与社会的和谐共处。",
+      "original_text": "公司立足自身实际状况，积极践行社会责任，竭力为社会公益贡献力量，热心参与各类社会公益活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司坚持公平就业原则，推进员工多元化，但未提供具体数据或政策细节。",
+      "original_text": "公司坚持公平就业原则，推进员工多元化。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会下设提名委员会、审计委员会、战略委员会、薪酬与考核委员会四个专门委员会及独立董事专门会议，各委员会严格依据规章制度运作。",
+      "original_text": "公司董事会下设提名委员会、审计委员会、战略委员会、薪酬与考核委员会四个专门委员会及独立董事专门会议，并制定各委员会工作细则，各委员会严格依据规章制度设定的职权范围运作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "partial",
+      "summary": "公司制定了《公司章程》、《股东会议事规则》、《董事会议事规则》等制度，保障依法合规运作。",
+      "original_text": "公司制定了《公司章程》、《股东会议事规则》、《董事会议事规则》、《董事薪酬管理制度》等制度以保障公司依法合规运作",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "partial",
+      "summary": "公司健全风险分级管控和隐患排查治理，持续开展安全隐患排查治理。",
+      "original_text": "健全风险分级管控和隐患排查治理，持续开展安全隐患排查治理",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《信息披露事务管理制度》、《投资者关系管理制度》，通过信息披露媒体与投资者沟通，并制定股东回报规划。",
+      "original_text": "公司制定《信息披露事务管理制度》、《投资者关系管理制度》，通过信息披露媒体《中国证券报》、《证券时报》、《证券日报》、《上海证券报》和巨潮资讯网与投资者沟通，并制定《公司未来三年（2024-2026年）股东回报规划》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "公司保护股东、债权人和员工的合法权益，与债权人签订合同履行债务。",
+      "original_text": "公司坚定不移地保护股东、债权人和员工的合法权益，严格按照与债权人签订的合同履行债务",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司根据相关法律法规制定《信息披露事务管理制度》，通过指定媒体进行信息披露。",
+      "original_text": "根据《深圳证券交易所股票上市规则》和《上市公司信息披露管理办法》等相关法律法规、规章制度的规定，公司制定《信息披露事务管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.721
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

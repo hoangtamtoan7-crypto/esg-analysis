@@ -1,0 +1,441 @@
+{
+  "company_name": "东北证券",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 6722.26,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1和范围2）为6,722.26吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 137.67,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1温室气体排放量为137.67吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 6584.59,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2温室气体排放量为6,584.59吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.87,
+      "unit": "吨二氧化碳当量/人",
+      "original_text": "人均温室气体排放量（范围1和范围2）为1.87吨二氧化碳当量/人",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1852.81,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗量为1,852.81吨标准煤",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 67574.69,
+      "unit": "吨",
+      "original_text": "耗水量 立方米 118,401.51 134,674.01 67,574.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 260.93,
+      "unit": "吨",
+      "original_text": "无害废弃物总量 吨 —— 169.07 257.51; 有害废弃物总量 吨 —— 2.87 3.42",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 3604,
+      "unit": "人",
+      "original_text": "全职劳动合同制员工人数 人 3,755 3,656 3,604",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 48.45,
+      "unit": "%",
+      "original_text": "截至2025年末，女性员工占比为48.45%，同比增长0.23%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 248.42,
+      "unit": "万元",
+      "original_text": "员工培训总支出 万元 502.69 318.36 248.42",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 57.89,
+      "unit": "小时/人",
+      "original_text": "2025年，员工接受培训平均小时数为57.89小时，同比增长18.53%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 11.07,
+      "unit": "%",
+      "original_text": "截至2025年末员工流失率为11.07%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 99.58,
+      "unit": "万元",
+      "original_text": "公司公益捐赠金额共计99.58万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 14,
+      "unit": "人",
+      "original_text": "董事会人数 ：14人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 35.71,
+      "unit": "%",
+      "original_text": "董事会独立董事占比 ：35.71%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事人数 ：1人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "董事会会议次数：10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司深入贯彻国家“双碳”战略部署，将气候相关议题纳入可持续发展管理体系，积极应对气候变化带来的挑战和机遇。",
+      "original_text": "东北证券深入贯彻国家“双碳”战略部署，主动顺应全球气候治理趋势，将气候相关议题纳入公司可持续发展管理体系，积极应对气候变化带来的挑战和机遇",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司搭建并高效运营气候变化管理组织体系，制定《公司员工低碳办公行为准则》等内部管理制度。",
+      "original_text": "公司搭建并高效运营气候变化管理组织体系；制定《公司员工低碳办公行为准则》等内部管理制度",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司深耕绿色投资、绿色融资、绿色研究等工作，自有资金绿色债券投资总额13.21亿元，同比增长49.77%。",
+      "original_text": "公司自有资金绿色债券投资总额达到13.21亿元，同比增长49.77%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司运营活动对生态系统和生物多样性的直接影响较小，办公场所未处于生态保护红线区域。",
+      "original_text": "公司作为金融机构，办公场所未处于生态保护红线及其他生态敏感区域，运营活动对生态系统和生物多样性的直接影响较小。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司作为金融机构，办公运营产生的废弃物委托具备资质的第三方单位进行分类回收与合规处置。",
+      "original_text": "公司作为金融机构，办公运营所产生的废弃物主要包括办公耗材及生活垃圾等，均委托具备资质的第三方单位进行分类回收与合规处置，整体环境影响较小",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司持续完善人才引进、培养与激励机制，强化关怀保障与职业发展支持，按时足额支付员工工资，未出现拖欠工资情况，并建立健康福利保障体系。",
+      "original_text": "2025年，公司持续按时足额支付员工工资，未出现拖欠工资情况，确保员工基本生活保障与劳动价值得到充分体现。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司开展员工健康与安全保障重点实践，包括消防设施检查、安全培训课程等，并建立职业健康安全管理体系。",
+      "original_text": "东北证券2025年员工健康与安全保障重点实践：开展专项检查，核查消防设施，培训课程，强化员工安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司要求供应商遵守反腐败、数据安全与隐私保护政策，并定期检验供应商遵守情况。2025年经全面核查，供应商均较好遵守相关政策。",
+      "original_text": "经全面核查，公司合作的供应商均较好遵守反腐败、数据安全与隐私保护政策。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持'以客户为中心'的服务理念，客户服务中心远程柜台中心客户满意度为99.13%，95360咨询服务客户满意度为97.09%。",
+      "original_text": "公司客户服务中心远程柜台中心客户满意度为99.13%，95360咨询服务客户满意度为97.09%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建了数据安全与客户隐私保护治理架构，发布《个人信息保护管理办法》，开展常态化培训，培训覆盖率达100%，数据安全相关负面事件0起。",
+      "original_text": "数据安全与客户隐私保护相关培训覆盖率100%；数据安全相关负面事件0起。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司投身乡村振兴与社会贡献，2025年乡村振兴总投入135.96万元，公益捐赠99.58万元，员工志愿服务总时长1,664小时。",
+      "original_text": "公司乡村振兴总投入135.96万元，覆盖和龙、汪清、大安、靖宇、镇赉、安图、龙井等多个县市。公司公益捐赠金额共计99.58万元，员工志愿服务总时长1,664小时。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司女性员工占比48.45%，在招聘中严格禁止性别、年龄、民族等不合理限制，杜绝歧视。员工歧视、雇佣童工或违反劳动法律法规的事件0起。",
+      "original_text": "女性员工占比不低于45% 48.45% 已达成；员工歧视、雇佣童工或违反劳动法律法规的事件0起。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了“董事会 – 经理层 – 执行层”的三级组织框架，构建由“董事会战略与ESG管理委员会 – ESG管理委员会 – ESG工作小组”组成的ESG治理架构，并在董事会层级设置ESG顾问。",
+      "original_text": "公司搭建“董事会 – 经理层 – 执行层”的三级组织框架，构建由“董事会战略与ESG管理委员会 – ESG管理委员会 – ESG工作小组”组成的ESG治理架构，并在董事会层级设置ESG顾问。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建由“董事会 – 经理层 – 合规管理部门”组成的商业道德治理架构，明确董事会负责廉洁从业管理目标制定，审计委员会负责监督，经理层组织相关工作。2025年完善廉洁从业管理体系，形成全方位内控机制。",
+      "original_text": "公司构建由“董事会 – 经理层 – 合规管理部门”组成的商业道德治理架构，明确由董事会负责廉洁从业、反洗钱和诚信管理等商业道德重点领域管理目标及总体要求的制定；由董事会审计委员会负责对董事、高级管理人员履行商业道德管理职责的情况进行监督；由经理层负责组织商业道德管理相关工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司扎实推进商业道德管理工作，构建“董事会 – 经理层 – 合规总监及合规管理部门 – 各单位合规专员”四层级合规管理组织架构，合规总监直接向董事会负责。",
+      "original_text": "公司构建权责清晰的“董事会 – 经理层 – 合规总监及合规管理部门 – 各单位合规专员”四层级合规管理组织架构，合规总监直接向董事会负责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了由“董事会 – 经理层 – 风险管理部门 – 各业务单位”组成的ESG风险管理架构，确保风险可测、可控、可承受。董事会承担最终责任，经理层建立管理体系，风险管理总部履行具体职能。",
+      "original_text": "公司已构建由“董事会 – 经理层 – 风险管理部门 – 各业务单位”组成的ESG风险管理架构，确保风险可测、可控、可承受。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定了《公司投资者关系管理制度》《公司投资者关系信息发布与管理工作指引》等规章制度，形成了涵盖股东会、业绩说明会、投资者调研、券商策略会和辖区投资者集体接待日等沟通渠道。",
+      "original_text": "公司高度重视投资者关系管理工作，制定了《公司投资者关系管理制度》《公司投资者关系信息发布与管理工作指引》等规章制度，为投关工作有序推进提供坚实制度保障，并形成了涵盖股东会、业绩说明会、投资者调研、参与券商策略会和辖区投资者集体接待日活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司积极回应利益相关方关切，通过股东会、业绩说明会、投资者调研、债券持有人会议、政府会议、监管机构调研、供应商准入审核等多种方式与股东、债权人、政府、监管机构、供应商等利益相关方沟通。",
+      "original_text": "公司积极回应利益相关方关切，通过股东会、业绩说明会、投资者调研、债券持有人会议、政府会议、监管机构调研、供应商准入审核等多种方式与股东、债权人、政府、监管机构、供应商等利益相关方沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循《上市公司信息披露管理办法》等监管规定，制定《公司信息披露管理制度》《公司内幕信息知情人登记管理制度》等内部制度，确保信息披露规范有序。荣获中上协“2025年上市公司董事会办公室最佳实践”等多项荣誉。",
+      "original_text": "公司严格遵循《上市公司信息披露管理办法》《深圳证券交易所股票上市规则》等监管规定，立足合规运营与投资者保护双重目标，建立健全信息披露管理制度体系，制定《公司信息披露管理制度》《公司内幕信息知情人登记管理制度》《公司年报信息披露重大差错责任追究制度》等内部管理制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

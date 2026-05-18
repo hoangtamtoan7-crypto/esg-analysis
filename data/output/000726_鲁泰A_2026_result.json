@@ -1,0 +1,441 @@
+{
+  "company_name": "鲁  泰Ａ",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 290494,
+      "unit": "吨二氧化碳当量",
+      "original_text": "合计（吨二氧化碳当量） 304,592 303,725 290,494",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 14201,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一排放（吨二氧化碳当量） 12,636 12,781 14,201",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 276293,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二排放（吨二氧化碳当量） 291,956 290,944 276,293",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 49.2,
+      "unit": "吨二氧化碳当量/百万营收",
+      "original_text": "温室气体排放密度（吨二氧化碳当量/百万营收） 51.1 49.9 49.2",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 2610000,
+      "unit": "吨",
+      "original_text": "工业废水排放量（万立方米） 311 291 261",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 12156,
+      "unit": "吨",
+      "original_text": "危险废弃物处理量41 吨 非危险废弃物处理量12115 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 1.65,
+      "unit": "吨",
+      "original_text": "外排废气中氮氧化物量(吨) 4.5 1.65 63.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0,
+      "unit": "吨",
+      "original_text": "外排废气中二氧化硫量(吨) 0.5 0 100%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 23593,
+      "unit": "人",
+      "original_text": "在职员工数量（人） 22,850 23,988 23,593",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 58,
+      "unit": "%",
+      "original_text": "女性员工占比（%） 59 57 58",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 56,
+      "unit": "小时/人",
+      "original_text": "员工培训平均时长（小时） 56 56 56",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 13,
+      "unit": "%",
+      "original_text": "员工流失率（%） 13 20 20",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 8600,
+      "unit": "万元",
+      "original_text": "捐款8600余万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "公司董事会由12名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "其中3名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "2025年，公司共召开12次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "2025年，委员会共召开6次会议",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极应对气候变化，设立节能降耗目标及碳减排目标，推动碳排放强度和总量逐步下降。响应国家2030碳达峰和2060碳中和战略目标，积极开展气候行动。",
+      "original_text": "响应国家2030碳达峰和2060碳中和战略目标，积极开展气候行动。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司通过ISO14001环境管理体系认证，并建立能源管理体系。",
+      "original_text": "ISO14001环境管理体系、OEKO-TEX100标准认证。成立能源管理中心，采用自动化、信息化技术，科学进行能源管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发绿色低碳产品，如碳捕集纤维面料，使用天然、再生材质和新型生态环保染助剂，创新绿色低碳染整技术。",
+      "original_text": "开发了碳捕集纤维面料。使用天然、再生材质和新型生态环保染助剂，创新绿色低碳染整技术。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司在新项目开展前委托环评机构进行环境影响评估，包括对当地生物多样性影响评估。",
+      "original_text": "在新项目开展前，公司委托环评机构开展环境影响评估，包括对当地生物多样性影响评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司开展中水回用项目，回收工业废气中的CO2生产绿色甲醇和乙二醇，推动资源循环利用。",
+      "original_text": "通过回收工业废气中的CO2，进行液化提纯，加入H2反应得到绿色甲醇，再经过反应制成绿色乙二醇。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司承诺杜绝强迫劳动，保障员工自由；提供非薪酬福利如体检、班车、宿舍等；开展女员工专项培训；设立孕婴室、女性专项健康体检等。",
+      "original_text": "公司承诺杜绝任何形式的强迫劳动或强制性劳动；我们为本集团员工提供了广泛的非薪酬福利；为满足特殊条件的员工设立了专项福利，比如孕婴室、女性专项健康体查、困难员工慰问金等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO45001认证，建立职业健康安全管理制度，开展安全培训、应急演练，配备劳动防护用品，定期体检，建立职业健康档案。",
+      "original_text": "通过ISO45001职业健康安全管理体系认证；从标准规范、安全培训、劳动保护用品发放、现场监督检查、应急演练等方面进行风险预防与控制；定期对员工进行职业卫生教育培训，为员工建立职业健康监护档案。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司在招标条件中明确供应商的健康、安全与环境管理要求，对供应商开展年度调查、监督审核，并协助提升质量管理水平。",
+      "original_text": "在招标条件中明确供应商的健康、安全与环境管理要求；对供应商开展年度基本情况调查、定期监督审核，实时掌控其质量和CSR管理情况；通过提供技术指导和培训协助供应商提升质量管理水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO9001质量管理体系认证，坚持使用安全健康的助剂、染化料，组织品质管理培训，提高全员质量意识和能力。",
+      "original_text": "通过ISO9001质量管理体系认证；坚持使用安全、健康的助剂、染化料；组织品质管理相关人员进行专业培训，不断提高全员质量意识和能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司未发生数据泄露事件，无相关法律诉讼；定期开展信息安全培训，从五个维度持续开展信息安全管理工作。",
+      "original_text": "本报告期内，集团没有发生数据泄露事件，未涉及任何针对本集团或其员工有关信息与数据安全的法律诉讼；从计算机安全、网络安全、数据安全、硬件设备安全、运行环境安全五个维度持续开展信息安全管理工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司捐款8600余万元用于济困、支教、赈灾、敬老、社区支持等公益活动，被评为中华慈善事业突出贡献单位。",
+      "original_text": "捐款8600余万元、投资上亿元用于“济困、支教、赈灾、敬老、社区支持”等社会公益活动。公司被评为“中华慈善事业突出贡献单位”。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司不以性别、年龄、国籍等歧视员工，招聘不区分性别，晋升公平竞争，保障女员工职业发展，提供孕婴室等福利。",
+      "original_text": "不以员工的性别、年龄、国籍、民族、宗教信仰、肤色、语言、户籍所在地等与工作无关的个人特征作为评判员工薪酬和职级的依据；招聘时不刻意区分性别、种族、国籍等；保障女员工职业发展，为女性员工提供更广阔的发展空间。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司持续完善由股东会、董事会、高级管理层共同构成的基础治理结构，董事会下设战略委员会、审计委员会、提名委员会、薪酬委员会，并设有ESG督导组，负责制订集团ESG目标、战略、工作计划等，供董事会审批。",
+      "original_text": "公司持续完善由股东会、董事会、高级管理层共同构成的基础治理结构...董事会下设战略委员会、审计委员会、提名委员会、薪酬委员会...ESG督导组...制订集团ESG目标、战略、工作计划等，供董事会审批",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵守反腐败、反贿赂相关法律法规，不断完善反腐倡廉监督机制，建立《道德规范控制程序》，倡导诚实守信、公平竞争、反贪污、反腐败、公开透明的经营理念。2025年未发现腐败、舞弊等情况。",
+      "original_text": "公司严格遵守运营地所在国反腐败、反贿赂的相关法律法规，不断完善反腐倡廉监督机制...建立《道德规范控制程序》...均未发现腐败、舞弊等情况",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信守法、合规经营，持续完善合规管理体系，强化内部审计效力，依据公司流程文件建立《自评控制矩阵》，确定评价工作的有效性。",
+      "original_text": "公司坚持诚信守法、合规经营...持续完善合规管理体系，强化内部审计效力...建立《自评控制矩阵》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立“三道防线”风险管理架构，按照信息收集、风险评估分析、管理策略制定、风险应对、监视改进的流程管理各项风险。2025年识别出291个风险点，并制定具体控制措施。",
+      "original_text": "建立“三道防线”风险管理架构...按照信息收集、风险评估分析、管理策略制定、风险应对、监视改进的流程...2025年，公司共计识别出291个风险点",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立健全信息披露机制，连续八年在深交所主板上市公司信息披露考评中评为A等级。",
+      "original_text": "公司建立健全信息披露机制...连续八年在深交所主板上市公司信息披露考评中评为A等级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与内外部利益相关者保持良好的沟通，建立常态化的沟通机制，定期进行ESG议题重要性评估，识别出22项利益相关方关注的议题。",
+      "original_text": "高度重视与内外部利益相关者保持良好的沟通，建立常态化的沟通机制...定期进行ESG议题重要性评估...识别出22项利益相关方关注的议题",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司定期发布报告、主动披露ESG相关信息，提升公司透明度。连续八年在深交所主板上市公司信息披露考评中评为A等级。",
+      "original_text": "定期发布报告、主动披露ESG相关信息，提升公司透明度...连续八年在深交所主板上市公司信息披露考评中评为A等级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

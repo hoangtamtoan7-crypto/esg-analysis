@@ -1,0 +1,441 @@
+{
+  "company_name": "中鼎股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 253977,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "中鼎股份及其下属多家生产制造型子公司直接和能源间接温室气体排放总量为253,977tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 17729,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放17,729tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 236248,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "能源间接温室气体排放236,248tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 8.68,
+      "unit": "%",
+      "original_text": "可再生能源占能源消耗总量的百分比 % 8.68",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1752228.07,
+      "unit": "吨",
+      "original_text": "总计用水量 立方米 1,752,228.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 649424.07,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 649,424.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 11966.35,
+      "unit": "吨",
+      "original_text": "一般废弃物产生总量 7,155吨；有害/危险废弃物产生总量 4,811.35吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 950.03,
+      "unit": "万元",
+      "original_text": "环保投入费用 万元人民币 950.03",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 22717,
+      "unit": "人",
+      "original_text": "女性员工占比37.32%（8478人/22,717人）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 37.32,
+      "unit": "%",
+      "original_text": "女性员工占比37.32%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 12.66,
+      "unit": "%",
+      "original_text": "担任经理级及以上职务的女性比例 % 12.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 40.15,
+      "unit": "小时/人",
+      "original_text": "人均培训课时 小时 40.15",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 10.26,
+      "unit": "%",
+      "original_text": "员工流失率 % 10.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 4776,
+      "unit": "万元",
+      "original_text": "员工职业健康及安全生产投入 万元人民币 4,776",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "董事会8人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "独立董事人数 人 3，董事会人数 人 8，比例3/8=37.5%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事人数 人 2",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'3060'双碳目标，深度融入'十五五'绿色转型，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "中鼎积极响应国家'3060'双碳目标，深度融入'十五五'绿色",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司根据ISO14001建立并实施环境管理体系，结合产品全生命周期开展环境因素辨识与评价，针对重要环境因素制定了科学有效的管控措施。",
+      "original_text": "中鼎根据ISO14001建立并实施环境管理体系，结合产品全生命周期开展环",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司在产品设计中引入生态设计理念，采用绿色环保材料，优化工艺减少物料损耗和能耗，推动绿色制造。",
+      "original_text": "公司在产品设计中引入生态设计的理念。在原材料使用方面，产品设计采用绿色环保材料",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "通过推进固体废物源头减量、资源化利用及无害化处置，通过回收利用减少一般废弃物共计7155吨，利用率100%。",
+      "original_text": "通过回收利用，减少一般废弃物共计7155吨，利用率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法与员工签订劳动合同，劳动合同签订率100%，保障员工合法权益，禁止强迫劳动，尊重员工就业自由，杜绝现代奴役。",
+      "original_text": "公司依法与员工在平等自愿、协商一致、诚实信用的基础上订立劳动合同，劳动合同签订率均为100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO45001职业健康安全管理体系认证，成立CSR委员会统筹管理，设有安全科等，员工职业健康安全培训覆盖率100%，健康驿站服务员工1528人次。",
+      "original_text": "公司通过并保持ISO45001职业健康安全管理体系认证，员工职业健康安全培训覆盖率 % 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行评估和筛选，涵盖环境、健康与安全、道德等维度，组织供应商专项培训，传递管理要求。",
+      "original_text": "公司对供应商进行评估和筛选，公司建立质量、环保、职业健康...2025年组织邀请供应商参加环境、物料有害物质管理、职业健康等专项培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司注重产品质量，将产品品质视为企业生命线，开展客户满意度调查，持续提供优质产品和服务。",
+      "original_text": "中鼎人将产品的品质看成企业发展的生命线。人人参与质量、人人关注",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守个人信息保护法，建立信息安全管理制度，员工信息安全培训覆盖率100%，本年度信息安全事件数为0。",
+      "original_text": "员工信息安全培训覆盖率 % 100，本年度信息安全事件数为0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展无偿献血、关爱母亲河、社区环境治理、捐资助学、慈善捐赠等公益活动。",
+      "original_text": "无偿献血、关爱母亲河、社区环境治理、'810'抗...捐资助学，助力教育事业发展。...慈善捐赠，支援灾区灾后重建。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司注重多元化和就业机会平等，各国员工权益受保护，提供包容尊重的工作环境，女性员工占比37.32%。",
+      "original_text": "公司认为多元化和就业机会平等同样重要。中鼎作为国际型企业，各国员工权益都能...受到相应地区法律法规的保护",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立CSR管理委员会，董事长为负责人，副总经理及各分公司总经理以上核心领导层为成员，决策CSR整体战略。下设专职人员团队，定期召开决策会议，讨论议题并汇报进度。",
+      "original_text": "董事长作为CSR管理委员会负责人，副总经理及各分公司总经理以上公司核心领导层作为委员会成员，决策公司CSR整体战略。CSR管理委员会定期召开决策会议，讨论相关议题并汇报工作进度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《反舞弊管理规定》《信访工作管理办法》《中鼎干部职工十条禁令》等7项廉洁反腐制度，形成“制度约束+审计稽查+信访监督”三位一体监管机制。2025年组织1959人参加诚信廉洁自检，全年开展商业道德专题培训1.2万人次。",
+      "original_text": "制定《反舞弊管理规定》《信访工作管理办法》《中鼎干部职工十条禁令》等7项廉洁反腐制度，形成“制度约束+审计稽查+信访监督”三位一体监管机制。2025年组织含班组级以上管理人员开展诚信廉洁自检，共计1959人参加。全年组织开展商业道德专题培训共计1.2万人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定合规经营管理规定，遵守反垄断法律法规，恪守公平竞争原则。与供应商签订《供应商可持续发展行为准则》《阳光承诺书》等，规范道德规范。通过海关AEO高级认证，强化贸易合规。",
+      "original_text": "公司坚定不移地维护公平竞争市场秩序，制定了比较完善的合规经营管理规定。遵守反垄断相关法律法规，市场经营恪守公平竞争原则。中鼎通过与供应商签订《供应商可持续发展行为准则》、《环境保护协议》、《不使用禁用物质协议书》、《守法合规及贸易安全》、《阳光承诺书》的方式，规范约束供应商重视道德规范等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立内部控制体系，制定《内部控制管理手册》，定期进行内控审核和风险评估。通过双重预防体系进行安全风险分级管控和隐患排查治理。对海外知识产权风险进行防控。",
+      "original_text": "公司根据《企业内部控制基本规范》及其配套指引的规定和要求，建立了适合公司经营管理的内部控制体系，制定了《内部控制管理手册》及各项管理制度。公司积极开展安全风险分级管控和隐患排查治理，构建双重预防体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，注重与投资者沟通交流，通过股东大会、投资者交流会、债券持有人会议等渠道与股东沟通。",
+      "original_text": "公司注重与投资者沟通交流，制定了《投资者关系管理制度》，根据监管部门的规定，通过股东大会、投资者交流会、债券持有人会议等渠道与股东沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别利益相关方，设置多方沟通渠道，包括股东大会、债券持有人会议、客户满意度调查、员工信访接待、意见箱、专项采访、公益活动等，围绕可持续发展议题进行沟通。",
+      "original_text": "中鼎设置多方位沟通交流渠道，与各利益相关方围绕可持续发展等方面问题进行沟通。主要沟通渠道包括股东大会、董事会、投资者交流会、债券持有人会议、客户满意度调查、员工信访接待、意见箱、专项采访、公益活动等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守相关法律法规，依法履行信息披露义务，指定《证券时报》《中国证券报》《上海证券报》和巨潮资讯网为指定信息披露媒体，按照《信息披露管理制度》真实、准确、完整、及时地披露信息。",
+      "original_text": "公司严格遵守了《中华人民共和国公司法》《中华人民共和国证券法》《深圳证券交易所股票上市规则》等相关法律法规的规定，依法履行了相关信息披露义务。指定《证券时报》《中国证券报》《上海证券报》和巨潮资讯网作为公司指定信息披露媒体。公司严格按照相关法律法规及公司制定的《信息披露管理制度》的要求，真实、准确、完整、及时地披露有关信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及税务治理、管控及风险管理参考年度报告，但未提供具体税务透明度措施或政策。",
+      "original_text": "207-2 税务治理、管控及风险管理 参考公司2025年年度报告中，207-3 利益相关方的参与以及涉税问题管理",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

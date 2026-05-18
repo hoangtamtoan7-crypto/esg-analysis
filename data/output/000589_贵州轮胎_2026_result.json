@@ -1,0 +1,441 @@
+{
+  "company_name": "贵州轮胎",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 38243743.18,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1+2+3温室气体排放量（吨二氧化碳当量）(基于位置） 38,944,078.00 37,650,074.00 38,243,743.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 109133.01,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1温室气体排放量（吨二氧化碳当量） 392,074.00 414,200.00 109,133.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 436061.52,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2温室气体排放量（吨二氧化碳当量）（基于位置） 329,862.00 392,967.00 436,061.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 62.59,
+      "unit": "吨二氧化碳当量/吨产品",
+      "original_text": "范围1+2+3产品碳排放强度（吨二氧化碳当量/吨产品）(基于位置） 67.89 61.54 62.59",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 257311.71,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量(吨标准煤) 130,923.43 246,105.25 257,311.71",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 39.22,
+      "unit": "%",
+      "original_text": "将绿色能源使用比例提升至 39.22%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1623220,
+      "unit": "吨",
+      "original_text": "取水总量（立方米） 1,608,992 1,831,676 1,623,220",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 9634.78,
+      "unit": "吨",
+      "original_text": "废水排放总量（立方米） 48,530.85 6,305.64 9,634.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 38269.24,
+      "unit": "吨",
+      "original_text": "2025年固体废物产生量为 38,269.24吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 2460.45,
+      "unit": "万元",
+      "original_text": "2025年环保资金总额达2,460.45万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 189.95,
+      "unit": "吨",
+      "original_text": "NO 排放总量（吨） 117.74 173.82 189.95",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 180.12,
+      "unit": "吨",
+      "original_text": "SO 排放总量（吨） 247.33 180.52 180.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 9.5,
+      "unit": "吨",
+      "original_text": "国内工厂颗粒物排放量（吨） 14.46 10.21 9.50",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 6854,
+      "unit": "人",
+      "original_text": "员工总人数（人） 6854",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 9.78,
+      "unit": "%",
+      "original_text": "女性员工人数占比（%） 9.00% 9.33% 9.78%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 14.29,
+      "unit": "%",
+      "original_text": "高管中女性比例为14.29%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 260.78,
+      "unit": "万元",
+      "original_text": "员工培训投入（万元） / 310.95 260.78",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 30.91,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时数（小时/年/人） 24.00 20.44 30.91",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 13.15,
+      "unit": "%",
+      "original_text": "国内外员工总流失率（%） 17.60% 14.75% 13.15%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 38365.94,
+      "unit": "万元",
+      "original_text": "2025 年研发投入金额达 38,365.94万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.52,
+      "unit": "%",
+      "original_text": "研发投入占主营收入比例（%） 3.37% 3.65% 3.52%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2051.3,
+      "unit": "万元",
+      "original_text": "2025 年安全投入资金 2,051.30万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "可记录工伤事故事件次数（次） 31 23 19，但未给出员工总数，无法计算千分率",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 500,
+      "unit": "万元",
+      "original_text": "贵州轮胎向贵州省慈善总会捐赠500万元（分五年投入）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会共由9名董事构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳中和战略、目标和实施路线，包括短期目标2030年前碳达峰，范围1+2碳排放峰值不超过54万吨二氧化碳当量；中期快速减碳期；长期2050年实现净零排放。已加入科学碳目标倡议（SBTi）。",
+      "original_text": "公司基于自身业务特点与未来发展规划，制定了碳中和战略、目标和实施路线，致力于成为行业绿色...短期目标：2030年前实现碳达峰，范围1+2碳排放峰值不超过54万吨二氧化碳当量；...并承诺加入科学碳目标倡议（SBTi）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依据ISO 14001国际标准建立并实施了完善的环境管理体系，已通过ISO 14001认证。同时建立了能源管理体系和碳管理体系，获得相关认证证书。",
+      "original_text": "公司依据ISO 14001国际标准，建立并实施了完善的环境管理体系...ISO 14001 环境管理...能源管理体系认证证书 碳管理体系认证证书",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司致力于研发安全环保的汽车轮胎，推广生物基、可循环、低碳等绿色材料。截至2025年底，累计已有7个规格产品获得中国绿色产品认证与低碳产品认证证书。",
+      "original_text": "公司始终坚持绿色发展战略，致力于研发安全环保的汽车轮胎...截至2025年底，公司累计已有7个规格产品获得中国绿色产品认证与低碳产品认证证书",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司制定生物多样性保护政策，坚持零毁林原则，对员工进行生物多样性保护宣导。",
+      "original_text": "制定《生物多样性保护政策》，坚持零毁林原则",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动循环材料使用，提升再生胶和再生钢帘线在轮胎配方中的应用比重，2025年轮胎废料回收再生料比例达到7.43%。可回收废物回收率达100%。",
+      "original_text": "通过提升再生胶和再生钢帘线在轮胎配方中的应用比重...2025年公司轮胎废料回收再生料比例达到7.43%...可回收废物的回收率达100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司始终将员工权益保障放在首位，为员工创造安全、健康、公平的工作环境，禁止歧视和骚扰，提供集体合同保障，设立工会组织。",
+      "original_text": "终将员工权益保障放在首位，为员工创造安全、健康、公平的工作环境",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司遵循ISO 45001:2018建立职业健康安全管理体系，开展风险评估，安全培训人均31.8学时，2025年无因公死亡事故。",
+      "original_text": "遵循国际标准ISO 45001:2018，建立了职业健康安全管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司系统推进供应商全生命周期管理，建立严格的准入、审核与淘汰机制，实施分级评估与动态管控，推动供应链ESG绩效提升。",
+      "original_text": "公司系统推进供应商全生命周期管理。通过建立严格的准入、审核与淘汰机制，实施分级评估与动态管控，从源头夯实质量",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司遵循ISO 9001、IATF 16949等标准，构建全生命周期质量管控体系，产品召回制度完善，2025年无产品引发消费者安全事故。",
+      "original_text": "保障消费者在轮胎使用过程的安全，每年由产品引发消费者安全事故0起",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司开展信息安全风险评估，员工培训覆盖率95%，重大数据安全事故为0。",
+      "original_text": "每年信息安全泄露事故为0，重大数据安全事故为0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司将慈善公益与乡村振兴深植于发展战略，开展慈善公益活动。",
+      "original_text": "公司将慈善公益与乡村振兴深植于发展战略之中",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司禁止歧视，提供公平发展机会，女性高管比例14.29%，接受多元化培训的员工覆盖率100%。",
+      "original_text": "接受职业技能、多元化倡导、反歧视和骚扰培训的员工覆盖率（%） 100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了党委发挥领导作用、董事会履行决策职责、经理层负责落实、合规委员会统筹协调、合规管理部牵头执行、业务及职能部门承担主体责任的全链条合规治理格局。董事会下设战略与ESG委员会，总经理担任ESG工作组组长。",
+      "original_text": "公司构建了 “党委发挥领导作用、董事会履行决策职责、经理层负责落实、合规委员会统筹协调、合规管理部牵头执行、业务及职能部门承担主体责任” 的全链条合规治理格局。董事会制定了《董事会战略与ESG 委员会工作细则》，总经理担任ESG工作组组长。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立了反腐败治理架构，成立反腐败工作领导小组，由纪委统筹推进。制定《反腐败反贿赂的管理办法》，要求与合作伙伴签订廉洁管理协议。获得ISO 37001反商业贿赂管理体系认证。2023-2025年员工反腐败培训覆盖率100%，中层及以上贿赂风险岗位人员廉洁自律承诺签约率100%。",
+      "original_text": "公司建立了权责统一、覆盖所有部门和场所的反腐败治理架构，成立了由高层领导的反腐败工作领导小组，并由公司纪委作为专业合规职能部门统筹推进具体工作。2024年公司获得了ISO 37001反商业贿赂管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司遵守商业道德，坚持诚信敬业，杜绝舞弊、腐败与不正当竞争。建立合规管理体系，按照ISO 37301:2021和GB/T 35770-2022标准建设。制定《员工违纪违规处理实施细则》，对违规违纪员工实施问责处理。开展反腐败意识培训，编印廉洁刊物。",
+      "original_text": "公司依据国际标准，建立和实施ISO 37001反商业贿赂管理体系，积极开展腐败风险识别与评价，制定风险控制措施、实施监督和奖惩机制，系统化推进商业道德体系建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了合规与风险管理体系，覆盖安全环保、知识产权、海外业务等高风险领域。建立风险台账，实行分级预警与动态降级管理。针对气候变化风险，依据TCFD框架进行碳风险和机遇识别与评价。",
+      "original_text": "公司筑牢合规 “第二道防线”，推进监督前置，实现全流程风险把控。针对安全环保高风险，结合ESG环境（E）目标，升级环保合规监测系统。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视投资者关系管理，获得中国上市公司协会颁发的“上市公司投资者关系管理最佳实践（2024）”荣誉。通过财务报告发布、股东沟通会、内部会议等方式与股东和投资方沟通。",
+      "original_text": "上市公司投资者关系管理最佳实践（2024）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司构建了多元化的利益相关方沟通机制，包括定期信息披露、申诉与举报机制等。识别了股东和投资方、员工、供应商与承包商等主要利益相关方，并通过多种方式回应其关注。",
+      "original_text": "公司已构建多元化的利益相关方沟通机制，并通过收集和回应性：贵州轮胎与利益相关方沟通渠道是多样化的，包括定期信息披露、申诉与举报机制等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司按照深交所指引、GRI标准、TCFD框架等编制ESG报告，并在交易所网站和巨潮资讯网披露。报告内容涵盖ESG治理、商业道德、合规管理等方面，并设有前瞻性陈述说明。",
+      "original_text": "交易所网站(www.szse.cn)或巨潮资讯网(www.cninfo.com.en)下载报告电子文本",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.942
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "闽东电力",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1446,
+      "unit": "人",
+      "original_text": "截至2025年底，公司共有员工1446人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21.23,
+      "unit": "%",
+      "original_text": "女性员工307人，占总人数的21.23%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 65,
+      "unit": "万元",
+      "original_text": "全年累计投入帮扶及公益资金约65万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会现有董事9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3人，董事会现有董事9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 16,
+      "unit": "次",
+      "original_text": "2025 年度，公司共召开董事会16 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'2030年实现碳达峰、2060年实现碳中和'目标，明确将水电、海上风电、光伏三大清洁能源作为核心发展方向，构建多能互补、协同发展的绿色能源体系。",
+      "original_text": "公司积极响应国家'2030年实现碳达峰、2060年实现碳中和'以及'深化电力体制改革，构建以新能源为主体的新型电力系统'政策部署，持续在宁德区域布局发展清洁能源，全面推动新能源项目建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司严格执行环境保护、水土保持等相关法规，建立生态环保管控体系，强化生态责任落实，对下属水电站、风电场、光伏项目开展环保检查，确保生态泄流达标。",
+      "original_text": "公司严格执行环境保护、水土保持、加强设备运维管控，严防环境污染隐患，持续提升自然资源利用效益，确保清洁能源开发全过程经得起生态检验。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司主营业务为水力、风力、光伏发电等清洁能源，2025年清洁能源发电量14.28亿千瓦时，相当于减少能源消耗43.18万吨标准煤，减排二氧化碳117.5万吨。",
+      "original_text": "2025年度，公司清洁能源发电量为14.28亿千瓦时，相当于：减少能源消耗43.18万吨标准煤，减排二氧化碳117.5万吨。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司加强水电站生态下泄流量管理，维护流域水生态平衡，保障鱼类等水生生物生存环境；在生态修复方面，积极参与受损生态环境恢复。",
+      "original_text": "加强水电站生态下泄流量的实时监测与动态调控，确保下泄流量达标，维护流域水生态平衡，保障鱼类等水生生物的生存环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司对水电站、风电场废油进行重新过滤和检测，合格的予以再利用，不合格的按危险废弃物规范处置；废电池采用报废资产拍卖方式处理。",
+      "original_text": "公司所属水电站、风电场废油均进行重新过滤和检测，指标合格的予以再利用，不合格的废油按危险废弃物进行规范处置；废电池均采用报废资产拍卖的方式。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司全面实行全员劳动合同制度，签订率100%，依法缴纳社保及公积金，设立企业年金和补充医疗保险，保障员工休息休假权利。",
+      "original_text": "公司全面实行全员劳动合同制度，依法与所有员工签订劳动合同，签订率为100%。依法为全体员工足额缴纳养老、医疗、工伤、失业、生育等社会保险及住房公积金，并设立企业年金、补充医疗保险等福利项目。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司贯彻安全第一方针，开展安全培训、隐患排查、应急演练，为员工购买团体人身险，开展职业健康检查。",
+      "original_text": "公司始终坚持'安全第一、预防为主、综合治理'的方针。为员工购买团体人身险，开展职业健康知识讲座，对接触职业病危害因素的作业人员定期开展职业健康检查。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司选择拥有共同理念的供应商，对供货商资质、质量保证能力等进行核查，督促落实农民工工资支付。",
+      "original_text": "选择拥有共同理念，并在质量、价格等各方面有最强竞争力的供应商。对供货商资质、质量保证能力、工艺...督促落实农民工工资支付。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "partial",
+      "summary": "公司加强质量管理，保障电力供应，但具体措施描述较少。",
+      "original_text": "保障工程质量 加强质量管理 保障电力供应",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益慈善、社区共建、乡村振兴等活动，累计投入帮扶及公益资金约65万元。",
+      "original_text": "开展公益活动 社区 落实公益慈善...全年累计投入帮扶及公益资金约65万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司特别关注女性员工身心健康，但未提及其他多元化指标。",
+      "original_text": "特别关注女性员工身心健康",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会负责年度社会责任战略方向的决策，总经理作为首要责任人，在董事会领导和监督下负责社会责任重大事项的决策与审议。",
+      "original_text": "公司积极搭建社会责任管理组织体系，公司董事会负责年度社会责任战略方向的决策工作，总经理作为首要责任人，在董事会领导和监督下负责社会责任重大事项的决策与审议工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "开展工程招标采购专项整治与常态化'回头看'检查，编制廉政风险防控手册，组织法规培训与案例警示教育。",
+      "original_text": "开展工程招标采购专项整治与常态化'回头看'检查，编制工程招标采购廉政风险防控手册，组织法规培训与案例警示教育",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立以《公司章程》为基础的内控制度体系，形成权责分明、有效制衡的法人治理结构，强化依法合规经营。",
+      "original_text": "建立以《公司章程》为基础的内控制度体系，形成以股东会为最高权力机构、董事会为决策机构、经理层为执行机构、董事会审计委员会行使监督职权的权责分明、各司其职、互相协调、有效制衡的法人治理结构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续推进内控体系建设，识别风险点152项，制定针对性措施，开展内控体系督导检查，提升内控运行有效性。",
+      "original_text": "启动水电分公司内控体系建设，系统识别各类风险点152项，提炼制定针对性措施；常态化开展内控体系执行情况检查，全面排查内控薄弱环节与缺陷问题",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过举办业绩说明会、参加投资者见面会、电话、网络、邮件和互动易平台等渠道，及时了解利益相关方的期望与诉求并作出积极回应。",
+      "original_text": "公司积极主动与监管机构沟通，把握最新监管动态，建立利益相关方常态化沟通机制，通过举办业绩说明会、参加投资者见面会、电话、网络、邮件和互动易平台等渠道，及时了解利益相关方的期望与诉求并作出积极回应",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司重视与利益相关方的沟通交流，通过搭建沟通机制、拓宽沟通渠道，积极传播公司的社会责任理念与实践，了解利益相关方的需求并主动给予回应。",
+      "original_text": "公司重视与利益相关方的沟通交流，通过搭建沟通机制、拓宽沟通渠道，积极传播公司的社会责任理念与实践，了解利益相关方的需求，并主动给予回应，满足利益相关方的期望",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照法律法规要求，真实、准确、完整、及时、公平地披露信息，2025全年披露定期公告、临时报告共计若干份。",
+      "original_text": "公司始终坚持真实、准确、完整、及时、公平的信息披露原则，2025 全年披露定期公告、临时报告共计...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.75
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

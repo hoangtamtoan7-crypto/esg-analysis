@@ -1,0 +1,441 @@
+{
+  "company_name": "泰达股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 8052419.87,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "吨 2024年 8,052,419.87",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1903100,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 万吨二氧化碳当量 187.62 190.31 257.54",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 20700,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 万吨二氧化碳当量 2.11 2.07 1.62",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2.3e-05,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "2025年度，本公司单位资产碳排放强度为0.000023万吨二氧化碳当量/万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 63825.01,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗总量 2025年 63,825.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 86.6,
+      "unit": "%",
+      "original_text": "可再生能源使用量占比 2025年 86.6%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 10493325.6,
+      "unit": "吨",
+      "original_text": "总耗水量 2025年 10,493,325.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 673481.24,
+      "unit": "吨",
+      "original_text": "废水排放总量 2025年 673,481.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 172.36,
+      "unit": "万吨",
+      "original_text": "废弃物产生总量 万吨 99.73 120.85 172.36",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 93409,
+      "unit": "万元",
+      "original_text": "环保总投入 万元 73,031 80,862 93,409",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 2115.14,
+      "unit": "吨",
+      "original_text": "氮氧化物(NOx)排放量 2023年 2,115.14",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 654.0,
+      "unit": "吨",
+      "original_text": "硫氧化物（SO ）排放量 吨 526.07 482.51 654.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 74.87,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 2023年 69.61 吨 2024年 74.87",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1925,
+      "unit": "人",
+      "original_text": "公司员工总数 1,925 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 20.47,
+      "unit": "%",
+      "original_text": "女性员工比例 20.47%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 16.67,
+      "unit": "%",
+      "original_text": "担任高级管理职位的女性比例 % / 22.22 16.67",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 69.28,
+      "unit": "万元",
+      "original_text": "累计支出培训费用69.28万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 103.07,
+      "unit": "小时/人",
+      "original_text": "员工全年人均培训时长 小时 106.53 102.15 103.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 4.72,
+      "unit": "%",
+      "original_text": "员工年度流失率* % 0.81 4.76 4.72",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 3497.82,
+      "unit": "万元",
+      "original_text": "研发投入 万元 3,538.50 3,681.82 3,497.82",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.2,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 % 0.17 0.19 0.20",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1745.92,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 / 1,484.69 1,745.92",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 2,
+      "unit": "万元",
+      "original_text": "公益总投入 万元 / 9 2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "纳税总额：",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "董事会中独立董事占比 % 37.5 37.5 37.5",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 16,
+      "unit": "次",
+      "original_text": "董事会会议次数 次 16 18 15",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定《泰达股份碳达峰行动方案》《应对气候变化管理政策》，并设定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "泰达股份通过《泰达股份碳达峰行动方案》《应对气候变化管理政策》及一系列...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001认证，并建立环境管理体系，严格执行环境影响评价制度。",
+      "original_text": "通过ISO 14001认证及绿色工厂建设",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发低克重、长寿命过滤材料，开展生物基可降解材料研发，提供碳资产管理服务。",
+      "original_text": "泰达股份新材料项目公司开发低克重、长寿命过滤材料，开展生物基可降解材料研发等新领域。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司注重对开发区域内原有自然植被、栖息环境的保护，系统修复因项目开发而受到影响的生态环境。",
+      "original_text": "注重对开发区域内原有自然植被、栖息环境的保护，尽可能利用原生态环境，系统修复因项目开发而受到影响的生态环境",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以循环经济为核心，业务涵盖固废循环、材料循环、绿色服务，布局废旧电池回收，探索飞灰资源化利用。",
+      "original_text": "泰达股份正形成以循环经济为核心，业务涵盖固废循环、材料循环、绿色服务的产业格局。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工基本权益，包括雇佣合规、薪酬福利、自由结社和集体谈判的权利，并建立员工意见反馈与沟通渠道。",
+      "original_text": "基本权益保障...雇佣合规...自由结社和集体谈判的权利...员工意见反馈与沟通渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司全面贯彻安全第一方针，设立安全管理委员会，通过ISO 45001认证，开展专项安全培训，覆盖供应商和承包商。",
+      "original_text": "泰达股份将职业健康与安全视为公司稳健运营的基石...通过ISO 45001职业健康安全管理体系认证...专项安全培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商行为准则》，将环境、社会、治理因素纳入供应商全生命周期管理，进行环境、质量、安全评估，并提供培训。",
+      "original_text": "制定《供应商行为准则》...将可持续发展因素全面纳入供应商全生命周期考量...供应商环境评估比例 供应商质量评估比例 供应商安全评估比例",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以客户为中心，保障产品质量，相关岗位质量培训覆盖率100%，未发生因健康安全理由须召回产品的情况。",
+      "original_text": "产品安全与质量...相关岗位质量培训覆盖率为100%...没有发生因健康与安全理由须召回产品的情况",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全法，建立数据安全管理体系，开展信息安全培训，报告期内未发生重大数据安全及隐私泄露事件。",
+      "original_text": "高度重视数据安全与隐私保护...未发生重大数据安全及隐私泄露事件...信息安全培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司加强社区沟通，提供本地就业岗位，支持乡村振兴，开展公益活动、慈善捐赠和志愿者服务。",
+      "original_text": "社区沟通 社区参与 公益慈善捐赠...支持乡村振兴...志愿者服务",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司关注女性员工福利保障，提供平等机会，按性别和年龄划分员工总数，女性员工培训覆盖率100%。",
+      "original_text": "员工平等与多元化...女性员工培训覆盖率 % 100 100 100...按性别划分员工总数",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会为公司ESG管理运行及信息公开披露的最高决策机构和责任机构，构建董事会、董事会战略委员会、ESG工作组三级治理架构。",
+      "original_text": "董事会为公司ESG管理运行及信息公开披露的最高决策机构和责任机构，构建董事会、董事会战略委员会、ESG工作组三级治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定了经由党委会、经理办公会、董事会决议通过的《反腐败政策》，组织全员签订《廉洁承诺书》，董事反腐败培训覆盖率100%。",
+      "original_text": "公司制定了经由党委会、经理办公会、董事会决议通过的《反腐败政策》...组织全员签订《廉洁承诺书》...董事反腐败培训覆盖率 % 100 100 100",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定了集团范围内的商业道德管理行为准则，将商业道德和反腐败要求纳入供应商合同，并开展相关培训。",
+      "original_text": "公司制定了集团范围内的商业道德管理行为准则，将商业道德和反腐败要求纳入供应商合同",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司坚持合规经营与风险防控双轮驱动，构建全流程、可量化的风险管理机制，董事会及其专门委员会对合规相关风险与机遇进行统筹监督。",
+      "original_text": "泰达股份坚持合规经营与风险防控双轮驱动...董事会及其专门委员会对合规相关风险与机遇进行统筹监督",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司设立投资者关系管理岗位，通过股东会、业绩说明会、投资者热线等方式与投资者沟通，保障股东合法权益。",
+      "original_text": "公司设立投资者关系管理岗位...通过股东会、业绩说明会、投资者热线等方式与投资者沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别政府、股东、客户、员工等利益相关方，通过信息披露、政府会议、业绩说明会、社区开放日等渠道进行沟通。",
+      "original_text": "利益相关方 期望与诉求 我们的回应 沟通渠道...政府及监管机构...股东及投资者...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循信息披露相关法律法规，修订完善《信息披露管理制度》等制度，确保投资者及时、准确、完整获取信息。",
+      "original_text": "严格遵循《中华人民共和国证券法》《上市公司信息披露管理办法》...修订完善《信息披露管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守税收法律法规，在《内部控制手册》中明确税务管理要求，设立专门税务管理人员，负责税务筹划、申报、缴纳及风险管理。",
+      "original_text": "在税务风险管理方面，泰达股份严格遵守税收法律法规，并在《内部控制手册》...设立专门的税务管理人员，负责税务筹划、申报、缴纳及税务风险管理等工作。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.933
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

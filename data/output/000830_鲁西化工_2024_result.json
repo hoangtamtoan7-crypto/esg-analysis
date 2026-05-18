@@ -1,0 +1,373 @@
+{
+  "company_name": "鲁西化工",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 3480000,
+      "unit": "吨标准煤",
+      "original_text": "从2021年的421万吨标准煤下降到2023年的348万吨标准煤",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 25600,
+      "unit": "万元",
+      "original_text": "2023年各单位共计提取安全生产费用2.52亿元，全年累计使用2.56亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司设立了双碳领导小组，由总经理担任最高领导人，董事会成员负责重要工作。制定了碳排放强度下降目标：2025年万元产值碳排放强度较2020年下降18%，2030年下降32%。",
+      "original_text": "公司设立了双碳领导小组，'双碳'小组的最高领导人由总经理担任，董事会成员负责重要工作。力争2025年万元产值（可比价）碳排放强度较2020年下降18%，2030年万元产值（可比价）碳排放强度较2020年下降32%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司各单位均建立并通过了环境管理体系认证，各法人单位近年来未出现环保行政处罚问题。",
+      "original_text": "公司各单位均建立并通过了环境管理体系认证，各法人单位近年来均未出现环保行政处罚问题。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "报告提及绿色低碳产品，但未提供具体描述。",
+      "original_text": "绿色低碳产品",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "报告包含生物多样性实践章节。",
+      "original_text": "生物多样性实践 67",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "报告提及循环经济相关实践，如废水零排放项目、固废治理等。",
+      "original_text": "案例：鲁西化工废水零排放项目 固废治理",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司重视员工权益，包括企业用工规范、员工民主管理、员工薪酬福利保障制度、避免雇佣童工或强制劳动、工作时间和休息休假等。",
+      "original_text": "企业用工规范 员工多元化与平等 避免雇佣童工或强制劳动 员工保障 工作时间和休息休假 员工民主管理 员工薪酬与福利",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司健康安全环保部负责职业健康安全管理，开展职业健康体检覆盖率达100%，严格落实安全生产主体责任，加大安全生产培训力度。",
+      "original_text": "公司健康安全环保部与总工办联合负责识别公司生产 间职业健康体检，确保覆盖率达100%。 严格落实安全生产主体责任",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司市场部与质检中心负责管理供应链与产品质量风险，实施绿色采购与供应链管理。",
+      "original_text": "公司市场部与质检中心负责管理供应链与产品质量风险 绿色采购与供应链管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "2023年获全国质量奖项，未触发任何一起因产品质量不达标而召回的案件。",
+      "original_text": "2023 年获全国质量 2023年未触发任何一起因产品质量不达标而召回的案件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司重视信息与数据安全，每周开展数据及网络安全知识培训，2023年未发生过因泄漏客户隐私导致的事件。",
+      "original_text": "公司重视信息与数据安全，每周开展数据及网络安全知识培训。 2023年未发生过因泄漏客户隐私导致",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展社会公益活动参与、乡村振兴、员工捐献血液等活动，共有一千余名员工参与无偿献血。",
+      "original_text": "社会公益活动参与 乡村振兴 员工捐献血液，通过宣传号召，共有一千余名员工参与无偿献血30余",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导员工多元化与平等，开展员工心里健康关爱活动，重阳节老年员工慰问与退休员工欢送仪式。",
+      "original_text": "员工多元化与平等 开展员工心里健康关爱活动 案例：重阳节老年员工慰问与退休员工欢送仪式",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立了双碳领导小组，总经理担任最高领导人，董事会成员负责重要工作。",
+      "original_text": "公司设立了双碳领导小组，“双碳”小组的最高领导人由总经理担任，董事会成员负责重要工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司有反贿赂与反腐败内部控制标准，以及经济领域十大禁令。",
+      "original_text": "公司内部控制标准第三十一篇反贿赂与反腐败。公司经济领域十大禁令。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司有商业道德与反腐败管理，包括保密管理办法、反贿赂与反腐败标准、经济领域十大禁令等。",
+      "original_text": "商业道德与反腐败管理，保密管理办法，公司内部控制标准第三十一篇反贿赂与反腐败，公司经济领域十大禁令。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司法律合规部负责梳理评估经营合规风险事件，财务部负责风险识别与管控，持续发挥合规管理三道防线作用。",
+      "original_text": "公司法律合规部负责梳理评估经营合规风险事件，公司财务部负责公司风险识别与管控，持续发挥合规管理“三道防线”的作用。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立了投资者关系管理战略和部门目标，保障股东知情权和参与决定权。",
+      "original_text": "建立投资者关系管理战略，建立投资者关系管理部门目标，股东知情权和参与决定权。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "报告中有利益相关方沟通情况章节，包括股东沟通情况。",
+      "original_text": "利益相关方沟通情况 12，2023 年股东沟通情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司聘请会计师事务所进行内控审计，出具标准无保留意见的内控审计报告。",
+      "original_text": "会计师事务所进行内控审计，出具标准无保留意见的内控审计报告。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 9,
+    "quantitative_valid": 9,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.712
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 29,
+    "missing": 23,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q01",
+        "name": "员工总数",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q02",
+        "name": "女性员工比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q03",
+        "name": "女性高管比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q04",
+        "name": "员工培训投入",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q05",
+        "name": "员工培训时长",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q06",
+        "name": "员工流失率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q07",
+        "name": "研发投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q08",
+        "name": "研发投入占营收比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q10",
+        "name": "工伤事故率",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q11",
+        "name": "社会公益捐赠",
+        "type": "quantitative"
+      },
+      {
+        "id": "S_Q12",
+        "name": "纳税总额",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 55.8
+  }
+}

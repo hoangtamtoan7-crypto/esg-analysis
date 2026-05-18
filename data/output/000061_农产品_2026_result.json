@@ -1,0 +1,441 @@
+{
+  "company_name": "农 产 品",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工占比",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性董事占比",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "员工流失率情况 女性员工流失率 男性员工流失率",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "纳税总额 亿元",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "董事会成员 人",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事占比",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事 人",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 14,
+      "unit": "次",
+      "original_text": "召开董事会会议14次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司探索建立气候变化治理机制，通过能效提升、清洁能源替代、绿色运营等积极行动应对气候变化风险与机遇，助力'双碳'目标实现。",
+      "original_text": "深农探索建立气候变化治理机制，通过能效提升、清洁能源替代、绿色运营等积极行动，应对气候变化风险与机遇，助",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，在'数字菜篮子'与ERP系统建设中逐步嵌入能源、水耗、废弃物等环境数据采集模块，并开展环境风险识别与评估。",
+      "original_text": "在'数字菜篮子'与ERP系统建设中，逐步嵌入能源、水耗、废弃物等环境数据采集模块。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推广生态农业模式，推动绿色、有机、名特优新和地理标志农产品供给，推广可循环标准转运箱，提供绿色流通服务。",
+      "original_text": "我们推广生态农业模式，守护农田生物多样性，推动农产品消费实施方案部署，着力提升绿色、有机、名特优新和地理标志农产品供给水平",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司围绕严守交易底线、促进农业多样性、倡导可持续消费等方面助力保护生物多样性，在市场端避开生态敏感区、严禁野生动植物交易。",
+      "original_text": "作为农产品流通的核心枢纽，我们围绕严守交易底线、促进农业多样性、倡导可持续消费等方面，助力保护生物多样性",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推广可循环标准转运箱、标准转运框，替代传统高耗材包装；将果蔬垃圾等有机废弃物转化为有机肥或堆肥，实现资源化利用。",
+      "original_text": "推广使用环保、可重复使用的标准转运箱、标准转运框，替代传统高耗材、高排放的白色泡沫箱",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，保障员工权益，包括平等雇佣、禁止歧视、禁止强迫劳动和童工，确保薪酬及时全额发放，建立员工诉求响应机制，实施员工持股计划，召开职工代表大会。",
+      "original_text": "遵守《公司法》《劳动法》《劳动合同法》等规定，坚持'平等、公平、公正、公开'雇佣原则，杜绝性别、年龄、种族、地区等因素的歧视行为，禁止强迫劳动及雇佣童工。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司高度重视安全生产与职业健康管理，通过体系化风险预防、隐患治理和健康关怀，开展安全培训、应急演练，发现并整改安全隐患，组织员工健康体检和心理健康教育。",
+      "original_text": "深农高度重视安全生产与职业健康管理，通过体系化的风险预防、精准化的隐患治理与人性化的健康关怀，为每一位员工创造安全、健康、安心的工作场所。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司关注供应链脆弱性，通过数字化减少信息不对称，构建低碳供应链，但未明确提及对供应商的ESG评估或要求。",
+      "original_text": "供应链脆弱性 比较重要 传统流通链条冗长，导致成本高、损耗大，且供应链稳定性容易受到影响。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全链条食品安全风险管控，推广'三轮'质量标准体系，开展食品安全检测和宣教活动，确保食品质量安全。",
+      "original_text": "在严守食品安全底线的基础上，强化从源头到终端的鲜度管理与营养品质管控，让消费者吃得安全、吃得新鲜、吃得健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司提及数据安全与客户隐私保护，但具体措施描述有限。",
+      "original_text": "数据安全与客户隐私保护 第四十八条 P44-P45",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过深化社区沟通、稳就业促增收、支持公益事业、志愿服务等方式积极融入社区发展。",
+      "original_text": "通过深化社区沟通、稳就业促增收、支持公益事业等方式，积极融入社区发展，与各方携手共创共享社会价值。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣原则，杜绝歧视，提供公平包容的工作环境，并披露员工性别、年龄、学历结构。",
+      "original_text": "坚持'平等、公平、公正、公开'雇佣原则，杜绝性别、年龄、种族、地区等因素的歧视行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立社会责任工作领导小组及办公室，各部门、各企业设置社会责任联络员，明确不同层级岗位职责。",
+      "original_text": "在社会责任工作领导小组下设社会责任领导小组办公室，在各部门、各企业设置社会责任联络员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司深入推进‘廉洁深农’建设，制定党风廉政建设和反腐败工作要点，组织签订责任书，开展违规吃喝等专项问题整治。",
+      "original_text": "深入推进‘廉洁深农’建设，维护公平竞争；制定《公司党委2025年党风廉政建设和反腐败工作要点》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉持公平公正、诚实信用原则，严守商业道德规范，坚决抵制不正当竞争行为，建立商户信用评价体系。",
+      "original_text": "秉持公平公正、诚实信用原则，严守商业道德规范，坚决抵制不正当竞争行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立由党委、董事会领导的风险管理工作机制，设立内部控制及风险管理建设领导小组，制定风险管理政策，开展风险识别、评估、监测与报告。",
+      "original_text": "构建由公司党委、董事会领导，各部门、各企业及全体员工共同参与、分工负责的风险管理工作机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司以保障全体股东权益为核心，构建透明互信的投资者关系生态，提供网络投票平台，单独统计中小投资者表决结果。",
+      "original_text": "以保障全体股东权益为核心，持续优化股权结构，构建透明互信、良性互动的投资者关系生态",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司重视与政府部门、客户、合作伙伴等利益相关方保持常态化交流，畅通沟通、投诉、监督等渠道。",
+      "original_text": "重视与政府部门、客户、合作伙伴等各利益相关方保持常态化交流，畅通沟通、投诉、监督等渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司全年对外发布重大事项、定期报告、临时公告等共计144份，保持良好以上的信息披露考核结果，自愿披露社会责任报告等。",
+      "original_text": "全年对外发布公司重大事项、定期报告、临时公告等共计144份，保持良好以上的信息披露考核结果",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及纳税总额，但未明确描述税务透明度政策或措施。",
+      "original_text": "纳税总额 亿元",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.702
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

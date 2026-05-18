@@ -1,0 +1,441 @@
+{
+  "company_name": "太阳能",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 73973.42,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 73,973.42 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 11793.07,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 11,793.07 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 62180.35,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 62,180.35 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.15,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "万元营收温室气体排放量 0.15 吨二氧化碳当量/万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1137484,
+      "unit": "吨",
+      "original_text": "总用水量 1,137,484.00 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 695.75,
+      "unit": "吨",
+      "original_text": "无害废弃物排放量 吨 653.77 有害废弃物排放量 吨 41.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1687,
+      "unit": "人",
+      "original_text": "员工总数 人 1,687",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工人数 人 447",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 130.76,
+      "unit": "万元",
+      "original_text": "2025年 公司员工教育总结投入 130.76 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "总时长为 15,499.75 小时",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 9936.58,
+      "unit": "万元",
+      "original_text": "2025年，公司研发投入达9,936.58 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 8623.57,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 8,623.57",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 227.99,
+      "unit": "万元",
+      "original_text": "社会公益总投入 万元 227.99",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "依法纳税",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事3名，符合相关监管要求",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "共召开股东会2次，董事会12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "正式撤销监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司以'双碳'目标为引领，致力于通过提供清洁电力、推动自身运营减排及促进全产业链绿色发展，成为生态文明建设的重要参与者。已制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司以'双碳'目标为引领，致力于通过提供清洁电力、推动自身运营减排及促进全产业链绿色发展，成为生态文明建设的重要参与者。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已获得ISO14001:2015环境管理体系认证，认证范围覆盖光伏组件制造、光伏电站运营等。建立了覆盖项目全生命周期的系统化、制度化环境合规管理体系。",
+      "original_text": "已获得ISO14001:2015环境管理体系认证，认证范围覆盖光伏组件制造、光伏电站运营等。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司核心产品为光伏组件和清洁电力，通过碳足迹认证和绿色供应链管理，提供绿色能源产品。镇江公司荣获'光伏行业绿色供应链践行者'。",
+      "original_text": "镇江公司荣获'光伏行业绿色供应链践行者'",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司积极绘制全国主要生态类型的'光伏+'融合模式版图，致力于在北方沙化区、东部河网区、中西部丘陵区等不同生态环境中实现绿色电力生产与生态功能提升协同发展。",
+      "original_text": "积极绘制全国主要生态类型的'光伏+'融合模式版图，致力于在北方沙化区、东部河网区、中西部丘陵区等不同生态环境中实现绿色电力生产与生态功能提升协同发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司围绕固废'减量化、资源化、无害化'核心导向，推进废弃物管理。在湖北监利成功落地组件回收示范线，实现光伏全生命周期绿色闭环。工业固废资源化利用率提升至92%。",
+      "original_text": "工业固废资源化利用率提升至 92%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司建立了完善的雇佣、薪酬、培训与职业健康安全体系，保障员工权益，构建和谐劳动关系。",
+      "original_text": "公司建立了完善的雇佣、薪酬、培训与职业健康安全体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建了系统化、标准化、信息化的职业健康安全管理体系，通过ISO 45001认证，开展安全培训与应急演练。",
+      "original_text": "公司秉持'安全第一、预防为主、综合治理'的方针，构建了系统化、标准化、信息化的职业健康安全管理体系。报告期内，镇江公司获得ISO 45001职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司秉持负责任采购理念，将ESG标准融入供应链管理全流程，关注供应商ESG表现。",
+      "original_text": "公司秉持负责任采购的理念，将环境、社会和治理标准融入供应链管理全流程，致力于构建安全、高效、绿色、协同的供应链生态。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立了覆盖研发、生产、建设、运维全流程的精细化质量管理体系，确保产品和服务质量。",
+      "original_text": "公司视质量为生命线，建立了覆盖研发、生产、建设、运维全流程的精细化质量管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全管理体系，制定数据分类分级、访问控制、加密传输等制度，对员工进行定期培训。",
+      "original_text": "公司建立了系统的信息安全管理体系，制定并严格执行数据分类分级、访问控制、加密传输与存储等一系列管理制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过志愿服务、公益捐赠、社区共建等方式参与社区发展，践行乡村振兴。",
+      "original_text": "公司始终将志愿服务视为培育奉献精神、践行社会责任、深化社区连接的重要载体。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，对员工一视同仁，禁止歧视；在新疆吸纳少数民族员工；关注女职工健康，举办中医健康讲座；开展劳动模范评选，激励员工创先争优。",
+      "original_text": "公司坚持平等雇佣的准则，对员工一视同仁，严禁雇佣童工及任何形式的强迫劳动。在新疆地区，累计吸纳员工116人，其中包含少数民族员工13人。公司举办中医健康讲座，关注女职工身心健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会负责、管理层组织落实、职能部门协同推进、业务单元具体执行的ESG治理架构。董事会为ESG决策与监督机构，审议战略目标与重大政策。下设战略、审计与风险控制、提名、薪酬与考核专门委员会。",
+      "original_text": "公司建立了由董事会负责、管理层组织落实、职能部门协同推进、业务单元具体执行的ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司始终将反商业贿赂与反腐败作为合规经营与廉洁建设的核心要务，制定了明确的禁止性规定，纪委及审计部门聚焦重点领域开展廉洁风险排查与审计监督，通过常态化警示教育、典型案例通报等形式强化廉洁意识。",
+      "original_text": "中节能太阳能始终将反商业贿赂与反腐败作为公司合规经营与廉洁建设的核心要务",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵循法律法规，坚守公平竞争与合规经营准则，通过健全制度体系、嵌入业务流程、强化内控监督与常态化风险排查，系统防范商业贿赂、不正当竞争、垄断行为及商业秘密侵权等合规风险。",
+      "original_text": "坚守公平竞争与合规经营准则。通过健全制度体系、嵌入业务流程、强化内控监督与常态化风险排查",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司深化全面风险管理体系建设，从流程、工具、机制等多维度提升管理规范性；按年度组织覆盖全系统的重大风险辨识，综合运用定性与定量分析工具，对战略、市场、财务、运营等领域面临的主要风险进行系统扫描。",
+      "original_text": "深化全面风险管理体系建设，从流程、工具、机制等多维度提升管理规范性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司修订完善投资者关系管理制度，通过信息披露、股东会、业绩说明会、互动易平台、机构调研等多种渠道保持透明沟通。2025年，公司董事会及董事会办公室均荣获中国上市公司协会'最佳实践'。",
+      "original_text": "公司修订完善投资者关系管理制度，通过信息披露、股东会、业绩说明会、互动易平台、机构调研等多种渠道保持透明沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视利益相关方参与，持续拓宽沟通渠道、完善沟通机制，积极回应各方诉求，致力于构建和谐共赢的关系。通过政策分析、行业调研、同业对标、利益相关方调研等方式识别重要性议题。",
+      "original_text": "公司高度重视利益相关方参与，持续拓宽沟通渠道、完善沟通机制，积极回应各方诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司坚定贯彻'真实、准确、完整、及时、公平'的信息披露原则，已连续多年获得深圳证券交易所信息披露工作评价最高'A'级。",
+      "original_text": "获得深圳证券交易所信息披露工作评价最高'A'级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司组织开展税收风险自查，制定一企一策、一税一策的税务管理策略，但未明确提及税务透明度政策或公开披露税务信息。",
+      "original_text": "组织开展税收风险自查，制定一企一策、一税一策",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

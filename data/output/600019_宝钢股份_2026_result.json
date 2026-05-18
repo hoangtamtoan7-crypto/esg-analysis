@@ -1,0 +1,442 @@
+{
+  "company_name": "宝钢股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 9955600,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（类别1+类别2） 万吨二氧化碳当量 10,781.1 10,621.7 9,955.6",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 105685000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（类别 1） 万吨二氧化碳当量 10,568.5",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2125000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（类别 2） 万吨二氧化碳当量 212.5",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.96,
+      "unit": "吨二氧化碳当量/吨粗钢",
+      "original_text": "温室气体排放强度（类别1+类别2） 吨二氧化碳当量/吨粗钢 2.040 1.996 1.960",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 132760000,
+      "unit": "吨",
+      "original_text": "年度总用水量 百万立方米 132.76",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 32000000,
+      "unit": "吨",
+      "original_text": "废水排放总量 百万立方米 32",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 31991760,
+      "unit": "吨",
+      "original_text": "②一般废弃物产生及处置总量（⑧+⑨+⑩） 吨 31,991,760",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 18148,
+      "unit": "吨",
+      "original_text": "氮氧化物（有组织）排放总量 18,148 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 6035,
+      "unit": "吨",
+      "original_text": "硫氧化物（有组织）排放总量 6,035 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 3741,
+      "unit": "吨",
+      "original_text": "颗粒物（有组织）排放总量 3,741 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 46135,
+      "unit": "人",
+      "original_text": "员工总数 人 43,126 46,048 46,135",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 11.79,
+      "unit": "%",
+      "original_text": "女性员工 % 11.82 11.79",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 8.37,
+      "unit": "%",
+      "original_text": "管理人员中女性人数比例 % 8.36 8.37",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 131,
+      "unit": "小时/人",
+      "original_text": "员工培训平均小时数 小时 129 127 131",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1.25,
+      "unit": "%",
+      "original_text": "员工辞职人数占员工总数比例 % 1.49 1.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 389600,
+      "unit": "万元",
+      "original_text": "研发费用 亿元 34.19 37.79 38.96",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 6.29,
+      "unit": "%",
+      "original_text": "研发投入比例 % 5.68 7.77 6.29",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 53600,
+      "unit": "万元",
+      "original_text": "安全生产总投入 亿元 5.22 4.42 5.36",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.01,
+      "unit": "‰",
+      "original_text": "员工工伤事故伤害频率 百万工时伤害数 0.02 0.02 0.01",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 8145.59,
+      "unit": "万元",
+      "original_text": "报告期内，宝钢股份社会捐赠总金额为8,145.59万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "独立董事比例达到40%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事占比提升至20%",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司构建了涵盖适应与减缓的协同应对体系，制定了分阶段减碳目标，包括极致能效、绿色能源、低碳冶金路径，并评估碳配额与实际排放差距，设定减排目标。",
+      "original_text": "宝钢股份构建了涵盖“适应”与“减缓”的协同应对体系。我们评估极致能效、绿色能源、低碳冶金的减碳潜力，制定了分阶段的减碳目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了完善的环境管理体系，包括环境合规管理、三废排放制度与全流程排放管控网络，并通过ISO 14001认证（提及）。",
+      "original_text": "宝钢股份始终以建设与自然和谐共生的“绿色钢厂”为目标，持续完善三废排放制度与全流程排放管控网络",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发场景化绿色材料，如低碳排放汽车板、取向硅钢等，并推进产品碳足迹认证、EPD声明和BeyondECO®品牌授权。",
+      "original_text": "开发场景化绿色材料，精准匹配能源、强度、低碳排放的要求；产品碳足迹减碳认证、低碳排放钢等级认证，以及SCS翠鸟认证、EPD和BeyondECO®品牌授权",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司关注生态系统和生物多样性保护，开展蓝碳潜力研究，优化深海排放，并评估对长江江豚等物种的影响。",
+      "original_text": "蓝碳潜力研究，持续优化深海排放；青山基地长江大保护，梅山基地流域生态敏感区管理与水生物种保护，开展长江江豚影响评价",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司深化固废全生命周期管理，推进废水零排放和资源化利用，如结晶盐综合利用，并采用大废钢比技术减少碳排放。",
+      "original_text": "宝钢股份将固体废物与危险废物的全生命周期管理作为关键环节；东山基地具备全流程钢铁废水零排放的能力，结晶盐作为副产品综合利用；大废钢比超低碳钢冶炼技术",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《劳动用工风险防范管理标准》《员工申诉及抱怨管理办法》等制度，明确禁止歧视，保障员工合法权益，杜绝童工和强迫劳动。",
+      "original_text": "宝钢股份制定《劳动用工风险防范管理标准》《员工申诉及抱怨管理办法》等内部管理制度，明确禁止因性别、种族...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO 45001认证，覆盖率达100%。设立安全生产委员会，开展安全培训、应急演练等。",
+      "original_text": "宝钢股份定期开展职业健康安全管理体系认证...ISO 45001:2018 职业健康安全管理体系认证覆盖率达 100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过多元化渠道向供应商传递低碳采购理念，开展供应链ESG培训，将ESG要素纳入内审范围。",
+      "original_text": "公司高度重视与供应商的沟通交流，通过多元化渠道向供应商传递最新低碳采购理念及管理要求，持续开展供应链 ESG 培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司依托质量管理标准，开展质量培训，实现全年质量安全零事故，未发生产品召回及质量安全负面事件。",
+      "original_text": "依托全流程精细化管控，实现全年质量安全零事故...2025 年，公司未发生产品召回及产品质量安全负面事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过ISO/IEC 27001认证，制定信息安全管理制度，开展全员信息安全培训，培训覆盖率达99%，人均培训时长0.5-1.5小时。",
+      "original_text": "公司总部及宝山基地、东山基地、梅山基地及青山基地的信息安全管理体系均通过 ISO/IEC 27001 认证...数据安全/客户隐私保护相关培训覆盖率 % / 99 99",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司鼓励员工参与公益志愿服务，增进企地关系，开展社区安全防线建设等。",
+      "original_text": "宝钢股份致力于与社区共创美好生活，鼓励员工广泛参与公益志愿服务...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，禁止歧视，提供平等工作机会，女性员工比例11.79%，董事会成员多元化。",
+      "original_text": "宝钢股份充分尊重和保障员工权益...明确禁止因性别、种族...女性员工 % 11.82 11.79",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司成立了以董事会为领导主体，战略、风险及ESG委员会为管理核心，ESG工作小组为执行落地主力的自上而下多层次管理架构。",
+      "original_text": "宝钢股份成立了以董事会为领导主体，战略、风险及ESG委员会为管理核心，ESG工作小组为执行落地主力的自上而下多层次管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司系统开展以反腐败法律法规、反贿赂管理制度及典型案例为核心的分层分类廉洁教育，持续深化全员合规意识。",
+      "original_text": "系统开展以反腐败法律法规、反贿赂管理制度及典型案例为核心的分层分类廉洁教育，持续深化全员合规意识",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司明确反对腐败、贿赂、垄断及不正当竞争等任何违反商业道德与合规要求的行为，并开展商业道德培训。",
+      "original_text": "明确反对腐败、贿赂、垄断及不正当竞争等任何违反商业道德与合规要求的行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司系统构建全面风险管理制度体系，制定并实施《全面风险管理办法》及《重点风险管理办法》等核心规范性文件。",
+      "original_text": "系统构建全面风险管理制度体系，制定并实施《全面风险管理办法》及《重点风险管理办法》等核心规范性文件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过投资人路演、上证E互动、全景投资者关系平台等渠道与投资者沟通，并披露分红政策。",
+      "original_text": "投资人路演35场；日常回复上证E互动及全景投资者关系平台的投资者...2025年度每股现金分红0.30元...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多种方式与利益相关方沟通，识别期望与诉求，并作为可持续发展规划的依据。",
+      "original_text": "通过与各方的深入互动，我们充分了解利益相关方对本集团可持续发展的期望与诉求，并将这些期望作为我们...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司积极落实外部验证流程，确保信息披露的真实性、准确性与透明性。",
+      "original_text": "积极落实外部验证流程，确保信息披露的真实性、准确性与透明性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司遵循国际税改框架，忠实履行纳税义务，加强涉税信息披露与交流，并制定税务战略。",
+      "original_text": "忠实履行国内法与国际法项下的申报及纳税义务...加强涉税信息的披露与交流",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "600019_宝钢股份_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

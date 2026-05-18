@@ -1,0 +1,441 @@
+{
+  "company_name": "酒鬼酒",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 同比下降",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.1599,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元营收 0.1599",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗总量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "清洁能源使用占比",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 618469,
+      "unit": "吨",
+      "original_text": "报告期内，公司总用水量为618,469吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废水排放总量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废弃物处理",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 374.62,
+      "unit": "万元",
+      "original_text": "环保投入总额 374.62万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 2.46,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 2.46",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.27,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量 0.27吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.13,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 0.13吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1937,
+      "unit": "人",
+      "original_text": "员工总数 人 1,937",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 137.53,
+      "unit": "万元",
+      "original_text": "员工培训投入137.53万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 171.22,
+      "unit": "小时/人",
+      "original_text": "每名员工接受的平均培训时长 171.22小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1987.75,
+      "unit": "万元",
+      "original_text": "研发投入1,987.75万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 14.57,
+      "unit": "万元",
+      "original_text": "安全教育培训总投入14.57万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 490.85,
+      "unit": "万元",
+      "original_text": "截至报告期末，公司共对外捐赠490.85万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司共有9名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事数量 名 3 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "召开董事会6次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已建立三级气候治理架构，制定应对气候变化策略，识别气候风险与机遇，并设定目标。",
+      "original_text": "酒鬼酒构建了由董事会、ESG工作小组、各子公司及业务部门组成的三级气候治理架构。董事会作为决策层，负责制定气候变化相关应对策略。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001环境管理体系认证，并获得国家级绿色工厂称号。",
+      "original_text": "报告期内，公司已通过ISO 14001环境管理体系认证，获得'国家级绿色工厂'荣誉称号。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推行绿色环保型产品，通过减少污染物产生、能效提升及包装材料循环利用等措施降低产品全生命周期环境影响。",
+      "original_text": "公司把握绿色消费趋势，推行绿色环保型产品，赢得消费者青睐，从而抢占市场份额。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过建立云雾糯高粱种植基地，维护农田生物多样性；严守生态保护红线，执行建设项目环境影响评价制度，优化厂区布局避让环境敏感目标。",
+      "original_text": "公司在湘西地区建立云雾糯高粱种植基地，委派专家团队指导地农业生态系统的可持续利用，间接维护农田生物多样性。严守生态保护红线，严格执行建设项目环境影响评价制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司建立内部资源循环体系，投资废弃物转化技术，优化生产流程以持续降本增效。废弃物分类回收利用，酒糟等生产副产物由公司统一资源化利用。",
+      "original_text": "建立内部资源循环体系，投资废弃物转化技术，并优化生产流程以持续降本增效。可回收废弃物包括酒糟、废纸箱等，酒糟等生产副产物由公司统一资源化利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，依法与全员签订劳动合同，劳动合同签订率100%，社会保险覆盖率100%。制定《员工手册》，保障员工合法权益，营造平等包容职场环境，禁止歧视和骚扰。",
+      "original_text": "劳动合同签订率100%，社会保险覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO 45001职业健康安全管理体系认证，制定《职业健康管理制度》等制度，员工职业健康体检率100%，安全教育培训覆盖率100%。",
+      "original_text": "已通过ISO 45001职业健康安全管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商质量安全管理规定》等制度，与供应商签署《环境和职业健康安全相关方告知书》，强化供应商全生命周期管理，供应商月度绩效考核执行率100%。",
+      "original_text": "供应商月度绩效考核执行率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司制定《QHES管理手册》《产业链质量安全风险控制大纲》等制度，建立覆盖全链条的质量与食品安全管理体系，开展质量培训717次，覆盖39,368人次。",
+      "original_text": "开展质量培训717次，覆盖员工39,368人次",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守《数据安全法》等法规，制定《数据安全管理细则》，2025年数据安全投入27万元，开展数据安全培训2次，培训1,500人。",
+      "original_text": "数据安全投入27万元，开展数据安全培训2次，培训人员1,500人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益捐赠、爱心护考、高粱种植基地建设等，间接带动当地社区2,292人就业。",
+      "original_text": "截至报告期末，公司共对外捐赠490.85万元。2025年，公司产业链间接带动当地社区2,292人实现就业。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，抵制就业歧视，保障女性员工权益，女性员工产假返岗率100%，营造包容无骚扰的职场环境。",
+      "original_text": "女性员工享受产假返岗率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了由董事会、ESG工作小组、各子公司及业务部门组成的三级气候治理架构。董事会作为决策层，负责制定气候相关战略；ESG工作小组协调各部门开展可持续发展工作；各子公司及业务部门负责具体执行。",
+      "original_text": "酒鬼酒构建了由董事会、ESG工作小组、各子公司及业务部门组成的三级气候治理架构。董事会作为决策层，负责制定气候相关战略；ESG工作小组协调各部门开展可持续发展工作；各子公司及业务部门负责具体执行。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵守相关法律法规，坚决杜绝商业贿赂及不正当竞争行为。发布《廉洁风险关键控制点及控制措施》，明确8个领域的廉洁风险点及管控措施。组织高层管理人员签订《廉洁从业承诺书》，将廉洁自律指标纳入履职考核。",
+      "original_text": "公司始终坚守商业道德底线，严格遵守《中华人民共和国刑法》《关于禁止商业贿赂行为的暂行规定》等相关法律法规，坚决杜绝商业贿赂及不正当竞争行为。公司发布《廉洁风险关键控制点及控制措施》通知，明确采购、产权转让、工程项目管理与招投标、品牌推广、市场活动等8个领域的廉洁风险点、关键控制点及管控措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守商业道德底线，建立营销合规管理体系，开展负责任营销培训，积极维护公平市场环境，抵制垄断和不正当竞争。",
+      "original_text": "公司始终坚守商业道德底线，严格遵守相关法律法规，坚决杜绝商业贿赂及不正当竞争行为。公司将负责任营销纳入企业可持续发展战略，建立了完善的营销合规管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面的风险识别与评估机制，制定《重大经营风险报告管理办法》，每年定期开展系统性风险评估，识别出2025年度五项经营风险并制定防控措施。建立气候风险管理体系，识别气候相关风险与机遇。",
+      "original_text": "公司制定《重大经营风险报告管理办法》，建立覆盖首报、续报、终报的全流程信息报送机制。公司每年定期开展系统性风险评估，从发生概率与影响程度双维度识别重大风险。经过系统梳理，公司识别出2025年度五项经营风险，并逐一制定了具体的防控目标与管控措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，构建以'4R'管理为核心的投资者关系管理体系，通过分析师会议、业绩说明会、投资者接待日、深交所互动易平台等加强与投资者沟通。",
+      "original_text": "公司高度重视投资者关系管理，制定《投资者关系管理制度》，构建起以'4R'管理为核心的投资者关系管理体系，全方位加强与证券分析师、投资者、财经媒体的联系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司秉持利益相关方共赢发展理念，充分尊重并积极响应政府、股东、客户、供应商及员工等各方合理诉求，通过多种方式与利益相关方沟通。",
+      "original_text": "公司始终秉持利益相关方共赢发展理念，充分尊重并积极响应政府、股东、客户、供应商及员工等各方合理诉求，以开放的态度与各方沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循信息披露监管要求，制定《信息披露管理制度》，明确信息披露的责任主体、流程标准与审核要求。报告期内对外披露公告59份，其中定期报告4份，未发生信息披露违规情形。",
+      "original_text": "酒鬼酒严格遵循《上市公司信息披露管理办法》《上市公司治理准则》等监管要求，制定《信息披露管理制度》等制度，明确信息披露的责任主体、流程标准与审核要求。报告期内，公司对外披露公告59份，其中定期报告4份，未发生信息披露违规情形。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司将税务合规作为经营管理的重要底线，严格遵循相关税收法律法规，履行纳税义务。",
+      "original_text": "公司将税务合规作为经营管理的重要底线，严格遵循《中华人民共和国税收征收管理法》《中华人民共和国企业所得税法》等法律法规。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "中电港",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1191,
+      "unit": "人",
+      "original_text": "员工总人数 人 1245 1147 1191",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 41.56,
+      "unit": "%",
+      "original_text": "女性员工占比 % 40.56 41.41 41.56",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 35.4,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 30.50 34.60 35.4",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 9.75,
+      "unit": "%",
+      "original_text": "员工总流失率 % 20.82 16.64 9.75",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 9229.5,
+      "unit": "万元",
+      "original_text": "研发总投入 万元 8754.85 7992.60 9229.50",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.14,
+      "unit": "%",
+      "original_text": "研发投入占营收比率 % 0.25 0.16 0.14",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 14,
+      "unit": "万元",
+      "original_text": "安全生产总投入 万元 520 999 14",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "董事会人数 人 9 9 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事人数 人 3 3 4",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "召开董事会次数 次 7 6 5",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家‘3060’双碳目标，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。将应对气候变化理念贯穿业务发展，建设ESG管理体系，识别气候风险与机遇。",
+      "original_text": "中电港深刻意识到气候变化的紧迫性和重要性，深入分析气候变化为自身发展带来的风险，积极响应国家‘3060’‘双碳’目标，致力于采取切实措施，在增强自身气候适应力的同时，为应对气候变化作出积极贡献。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司参考ISO14001环境管理体系标准，构建完善的环境管理体系，董事会监督指导环保目标制定和实施，由副总经理统筹，行政中心具体负责。制定《员工手册》《物品管理细则》等制度，将能源、废弃物、废水、气候变化等管理融入日常。",
+      "original_text": "我们基于ESG治理架构，参考ISO14001环境管理体系标准，着力构建完善的环境管理体系，公司董事会监督指导包括环境保护在内的可持续发展管理目标的制定和实施，由分管综合服务的副总经理负责环境保护的统筹管理，由行政中心具体负责公司环境保护管理工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司通过技术方案和产品创新助力绿色低碳发展，如飞腾派开源硬件平台，结合AI算力，提升能效。推动绿色仓储建设，使用新能源车辆，优化仓储建筑节能。",
+      "original_text": "中电港持续通过技术方案和产品创新助力绿色低碳发展，飞腾派开源硬件平台，基于国产芯片算力模组，结合AI算力...部门自用车辆均采用新能源车辆，推进物流商绿色低碳运输，优先使用新能源车进行派送。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施闭环管理，构建源头减量、过程管控、末端利用和全链条无害化管理的废物综合治理体系。对废弃物分类回收，如废纸、托盘、护角等循环利用，有害废弃物合规处置。2025年消耗A4纸同比减少8.36%。",
+      "original_text": "我们按照减量化、资源化、无害化的原则加强废弃物管理...对于办公中可能涉及有害废弃物的电池、电子设备，我们优先...消耗A4纸同比减少8.36%。...对原厂到货过程中的护角及纸箱等废弃物，进行循环利用用于货物运输，通过对托盘...全年可节省约60000元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持公平公正原则，落实国家劳动法规，保障员工权益，包括平等就业、禁止童工和强迫劳动，依法缴纳社保，提供多元化福利。",
+      "original_text": "中电港坚持公平公正的核心原则，严格落实国家劳动法规及相关政策要求，从招聘、薪酬、晋升等方面保障员工权益，杜绝童工和强迫劳动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，参照ISO 45001标准，开展安全培训、隐患排查、应急演练，实现员工职业健康体检覆盖率100%。",
+      "original_text": "中电港秉持安全发展理念，完善职业健康安全管理体系建设，推动安全生产主体责任落实，设定零事故目标，员工职业健康体检覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立覆盖供应商全生命周期的风险管理体系，将ESG因素融入供应商准入、审核、评估等环节，管控供应链ESG风险。",
+      "original_text": "中电港建立覆盖供应商全生命周期的风险管理体系，加强供应商准入审核及基础调查，通过跨部门协同对供应商的劳工权益、职业健康安全及商业道德等方面进行管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司重视产品安全与质量，从源头授权合作到智能仓储管理，再到专业技术团队赋能，全力守护产品质量。报告期内未发生重大质量责任事故。",
+      "original_text": "中电港将质量管理意识深植于每个运营环节，从源头授权合作到智能仓储管理，再到专业技术团队赋能，全力守护产品质量。报告期内未发生产品或服务相关的安全与质量重大责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全管理架构，制定安全制度，通过等保三级认证，开展信息安全培训与演练，强化数据安全与隐私保护。",
+      "original_text": "公司高度重视信息安全保障工作，建立覆盖决策、管理、执行、监督的信息安全管理架构，通过等保测评，开展信息安全及舆情管理合规培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司投身公益慈善，助力乡村振兴，开展社区活动，如联合消防演练等，积极履行社会责任。",
+      "original_text": "中电港投身公益慈善，助力乡村振兴，开展社区活动，如亿安仓与虎门赤岗社区开展联合消防演练。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司提供平等就业机会，尊重员工差异，保障女性员工权益，开展女性员工专属关爱活动，营造包容氛围。",
+      "original_text": "中电港秉持以人为本的发展理念，通过开展女性员工专属关爱、困难员工精准帮扶、多彩员工文体活动等暖心举措，营造平等、包容、有温度的氛围。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立由董事会、管理层及各职能部门构成的‘决策层—管理层—执行层’ESG三级治理架构，董事会负责ESG战略、目标及行动计划审批，董事会办公室牵头协调，各职能部门及所属企业具体执行。",
+      "original_text": "中电港建立健全可持续发展管理架构，建立由董事会、管理层以及各职能部门共同构成的‘决策层—管理层—执行层’ESG三级治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司通过《员工手册》明确禁止贿赂、贪污行为，建立廉洁风险防控机制，要求供应商签署《廉洁合作协议》，保持投诉举报渠道畅通，开展合规领导力培训，强化‘一岗双责’。",
+      "original_text": "通过《员工手册》明确禁止任何形式的贿赂、贪污行为，并清晰规定惩处措施和处理流程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立‘董事会监督指导、合规委员会统筹协调、合规中心牵头推进’的合规管理架构，制定《合规管理制度》《合规管理手册》等，开展贸易合规培训，覆盖关键岗位员工94人次。",
+      "original_text": "公司建立‘董事会监督指导、合规委员会统筹协调、合规中心牵头推进’的合规管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面有效的风险管理与内部控制体系，制定《全面风险管理办法》，构建风险管理‘三道防线’，将ESG风险纳入风险评估与内部控制流程，定期开展全面风险评估。",
+      "original_text": "公司构建‘三层合规管理架构’，由董事会作为合规管理决策机构，合规委员会...制定《全面风险管理办法》，稳步推进全面风险管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，建立召开业绩说明会、券商策略会、路演、来访接待等机制，积极开展投资者沟通活动，保障投资者知情权。",
+      "original_text": "公司制定《投资者关系管理制度》，建立‘召开业绩说明会、券商策略会、路演、来访接待以及日常维护’的投资者关系管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司打造多层次的沟通渠道，通过股东会、业绩说明会、客户满意度调查、供应商大会、员工满意度调查、社区活动等方式与利益相关方保持紧密沟通。",
+      "original_text": "中电港深知与利益相关方建立紧密、透明的沟通机制至关重要。为更好地回应各方期待，公司致力于打造多层次的沟通渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理办法》《内幕信息知情人登记管理制度》，确保信息真实、准确、完整、及时披露，防范内幕交易，维护市场公平秩序。",
+      "original_text": "公司制定《信息披露管理办法》《内幕信息知情人登记管理制度》等相关制度...加强信息披露质量，确保信息真实、准确、完整、及时披露，保障投资者知情权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及税务合规作为关键ESG相关风险纳入风险评估与内部控制流程，但未详细说明税务透明度政策或实践。",
+      "original_text": "税务合规等关键ESG相关风险纳入风险评估与内部控制流程",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

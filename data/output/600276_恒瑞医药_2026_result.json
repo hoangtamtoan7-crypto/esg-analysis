@@ -1,0 +1,442 @@
+{
+  "company_name": "恒瑞医药",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 208280.09,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 208,280.09",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 4898.0,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1温室气体排放 吨二氧化碳当量 4,898.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 203382.08,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2温室气体排放 吨二氧化碳当量 203,382.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 9.13,
+      "unit": "吨二氧化碳当量/百万营收",
+      "original_text": "温室气体排放密度 吨二氧化碳当量/百万营收 9.13",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 79734,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗量 吨标准煤 56,635 72,888 79,734",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 5441013,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 3,859,973 4,777,352 5,441,013",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 3849800,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨 / 384.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 30359.14,
+      "unit": "吨",
+      "original_text": "有害废弃物总量 吨 18,493.75 21,749.47 29,173.25；无害废弃物总量 吨 437.34 673.94 1,165.89",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 1.94,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 2.09 1.76 1.94",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.16,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量 吨 0.12 0.08 0.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 20602,
+      "unit": "人",
+      "original_text": "员工总人数15 人 20,602",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 46,
+      "unit": "%",
+      "original_text": "女性员工比例 % 46",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 29,
+      "unit": "%",
+      "original_text": "女性高管比例 % 29",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 73.81,
+      "unit": "小时/人",
+      "original_text": "人均受训时数73.81小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 872400,
+      "unit": "万元",
+      "original_text": "研发投入达87.24亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 27.58,
+      "unit": "%",
+      "original_text": "占销售收入比重为27.58%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "全年轻伤事故率 ≤ 5‰",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "董事会女性比例 % 18",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "10次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "消监事会与监事，由董事会审计委员会行使相关职权。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳战略，将气候风险与机遇管理纳入战略与决策流程，落实气候行动承诺，并设定了气候目标。",
+      "original_text": "恒瑞医药积极响应国家“双碳”战略，赋能美丽中国建设。我们将气候风险与机遇管理纳入公司战略与决策流程，落实气候行动承诺。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续推进环境管理体系标准化与系统化建设，100%通过ISO14001认证，并制定多项环境管理制度。",
+      "original_text": "100%通过ISO14001认证；公司持续推进环境管理体系的标准化与系统化建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司高度关注包装材料的环保属性，将提升包装绿色化水平纳入产品全生命周期管理体系。",
+      "original_text": "恒瑞医药高度关注包装材料的环保属性，将提升包装绿色化水平全面纳入产品全生命周期管理体系。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格遵守生态保护相关法规，所有项目运营地点不涉及生物多样性敏感区域及生态红线。日常运营中注重厂区生态维护与修复，推广透水铺装等生态工法。",
+      "original_text": "恒瑞医药所有项目运营地点不涉及生物多样性敏感区域及生态红线。在日常运营中，恒瑞医药注重厂区生态维护与修复，通过推广透水铺装等生态工法，增强雨水渗透与蓄滞能力，保护土壤结构及自然水循环功能。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司持续推进废弃物循环管理，通过采用环保替代原料、优化生产流程提升资源效率，并实施节水技术改造和水循环利用。",
+      "original_text": "我们持续推进废弃物循环管理，通过采用更环保的替代原料，优化生产流程提升资源效率，持续降低生产活动对环境的潜在影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，制定《招聘录用管理办法》《员工手册》等，保障员工合法权益，建立党群组织，维护员工权益。",
+      "original_text": "《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规，制定《招聘录用管理办法》《员工手册》等",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO 45001职业健康安全管理体系认证，持续完善安全管理体系，开展健康安全培训，覆盖100%员工，特种作业持证上岗率100%。",
+      "original_text": "公司已通过ISO 45001职业健康安全管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商准入、审计、培训机制，将商业道德、生产质量、安全环保等ESG维度纳入供应商审计，对151家供应商开展专业资质审计。",
+      "original_text": "将商业道德、生产质量、安全环保等ESG维度纳入供应商审计",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全生命周期质量管理体系，通过ISO 9001等认证，实施产品测试与质量管控，报告期内未发生产品召回事件。",
+      "original_text": "恒瑞医药将产品质量与安全视为企业生命线",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《个人数据隐私保护政策》《数据安全管理制度》等，部署终端安全平台，强化权限管控，开展信息安全意识培训。",
+      "original_text": "《个人数据隐私保护政策》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极推动社区建设，在教育、医疗、特殊关怀、救灾援助等领域开展公益投入，结合志愿服务和慈善捐赠。",
+      "original_text": "恒瑞医药积极推动社区建设，持续加大在教育、医疗、特殊关怀、救灾援助等领域的公益投入",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司制定《恒瑞医药员工多元化政策》，禁止歧视，推动多元包容，女性员工比例46%，开展多元化培训，13,800名员工参与。",
+      "original_text": "《恒瑞医药员工多元化政策》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "恒瑞医药已建立权责清晰、协同高效的ESG管治体系，董事会为最高责任及决策机构，下设战略委员会、审计委员会、薪酬与考核委员会、提名委员会，负责监督ESG相关风险与机遇的识别与管理。",
+      "original_text": "恒瑞医药立足公司发展战略与经营实际，已建立权责清晰、协同高效的ESG管治体系，明确董事会层级在ESG事宜及相关风险和机遇管理方面的监督职责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《反贿赂与反腐败政策》等制度，由战略委员会负责审核监督反腐败工作，将商业道德与合规纳入高管绩效评估和供应商筛选，建立举报及投诉机制，开展覆盖全体员工的商业道德培训。",
+      "original_text": "恒瑞医药持续完善反贪腐制度体系，制定并发布《恒瑞医药反贿赂与反腐败政策》《学术活动合规指引》等行为规范制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立以战略委员会为最高领导机构的商业道德管治架构，制定《合规管理实施办法》，获得ISO 37301合规管理体系认证，将商业道德与合规要求融入新员工培训，并建立四道防线风险管理体系。",
+      "original_text": "恒瑞医药建立了以董事会的战略委员会为最高领导机构的商业道德管治架构，各级职责分工明确，推动合规要求融入公司运营的各个环节。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立“四道防线”风险管理体系，包括业务部门、风险与合规职能、内部审计以及董事会监督，将可持续发展相关风险与机遇全面纳入风险管理流程，通过双重重要性分析识别关键风险。",
+      "original_text": "公司建立“四道防线”风险管理体系，通过业务部门、风险与合规职能、内部审计以及董事会监督等多层级治理机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过业绩交流会、分析师会议、现场参观、上证e互动平台、电话和邮件等多种渠道加强与股东和投资者的沟通，报告期内累计开展投资者交流活动100余次。",
+      "original_text": "恒瑞医药高度重视投资者关系管理，通过业绩交流会、分析师会议、现场参观、上证e互动平台、电话和邮件等多种渠道，我们持续加强与股东和投资者的沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立多元化、常态化的沟通机制，充分了解并积极回应来自利益相关方的关切与期望，并据此优化和调整ESG管理实践。",
+      "original_text": "恒瑞医药高度重视与各利益相关方的持续沟通与良性互动，并将利益相关方意见视为完善公司治理与ESG管理的重要基础。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露工作荣获上海证券交易所信息披露“A级”（最高级）评价，持续优化信息披露流程，提升信息披露质量和透明度。",
+      "original_text": "报告期内，公司信息披露工作荣获上海证券交易所信息披露“A级”（最高级）评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600276_恒瑞医药_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

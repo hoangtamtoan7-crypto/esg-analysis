@@ -1,0 +1,441 @@
+{
+  "company_name": "众合科技",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 27085.83,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 / / 27,085.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 0,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体 排放量（范围一） 吨二氧化碳当量 / / 0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 27085.83,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体 排放量（范围二） 吨二氧化碳当量 / / 27,085.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.12,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元 / / 0.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "未明确给出综合能源消耗数值",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "未明确给出可再生能源使用比例",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 14960,
+      "unit": "吨",
+      "original_text": "总用水量 吨 / 29,139 14,960",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 280000,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 280,000",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "一般废弃物产生量 吨 388.21 278.91 338.51，但未给出总量",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确给出环保投入金额",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确给出氮氧化物排放",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确给出硫氧化物排放",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确给出颗粒物排放",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1814,
+      "unit": "人",
+      "original_text": "员工总人数 人 1,614 1,824 1,814",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工 人，占比 ；",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 130.02,
+      "unit": "万元",
+      "original_text": "员工培训投入 万 元 130.02 114.42 105.48",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 7.27,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长 小时/人 7.27 17.27 21.01",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 17.52,
+      "unit": "%",
+      "original_text": "员工总流失率 % 17.52 14.43 19.83",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 22607.8,
+      "unit": "万元",
+      "original_text": "研发投入 万元 16,985.69 19,557.59 22,607.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 7.64,
+      "unit": "%",
+      "original_text": "研发投入占 主营业务收入比例 % 5.84 7.64",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 112.5,
+      "unit": "万元",
+      "original_text": "公益总投入 万元 112.50 145.30 217.60",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 10,
+      "unit": "人",
+      "original_text": "董事会成员 名，参加总人数 人 10 10 10",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事 名，非独立董事 名；提名委员会、审计委员会、薪酬及考核委员会独立董事占比三分之二",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事 名，男性董事 名",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会会议 次，通过董事会决议 项",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "监事会成员 名，职工监事 名；监事会 参加总人数 人 3 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "董事平均薪酬 万元人民币 23.8 89.04 36.71",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开审计委员会会议 次",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极探索气候变化带来的机遇和挑战，高度重视碳达峰、碳中和工作，在双碳政策指引下，摸查温室气体排放情况，探索碳中和路线图，以轨道交通CCER项目开发为切入点，实现自身运营碳中和、供应链碳中和、100%绿色电力。",
+      "original_text": "公司积极探索气候变化可能给公司带来的机遇和挑战，高度重视碳达峰、碳中和工作，在“双碳”政策的指引下，摸查自身的温室气体排放情况，努力探索公司实现碳中和的路线图",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，并通过ISO 14001认证（绿色低碳工厂众合科技环境管理体系认证）。",
+      "original_text": "绿色低碳工厂 众合科技环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司致力于绿色智慧交通产业，加强绿色低碳技术研发，开发循环低碳创新产品，如自动售检票系统实现手机二维码过闸降低车站能耗，用数智化手段带领轨道交通领域节能降碳。",
+      "original_text": "致力于国家重点发展的绿色智慧交通产业，加强绿色低碳技术研发，贯彻落实“30·60”战略；公司的自动售检票及清分业务实现了手机二维码过闸的技术创新，降低车站能耗",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告未提及生物多样性保护相关措施。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进无废工厂建设，采用金刚线切割工艺减少污水和废砂浆，已通过浙江省生态环境厅无废工厂评审。同时，水系清洁时将水用于绿化灌溉，实现水资源循环利用。",
+      "original_text": "个将固体废物环境影响降至最低的“无废工厂”。目前已通过浙江省生态环境厅“无废工厂”评；在水系清洁时，将水系内存水用于绿化灌溉",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司规范劳动合同管理，签订率100%，保障员工权益。",
+      "original_text": "规范新签及续签劳动合同管理程序，劳动合同签订率 100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001:2018认证，制定职业卫生制度，开展安全培训、演练。",
+      "original_text": "四川智控、天津智控、深圳众源已通过 ISO 45001:2018 职业健康安全管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商评估考核机制，关注供应商产品质量、交付、服务水平、价格，实行优胜劣汰机制，优化供应链结构。",
+      "original_text": "供应链管理 建立供应商评估考核机制；主要关注其产品质量、交付情况、服务水平、价格方面的表现，实行优胜劣汰机制，优化供应链结构。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全生命周期质量管理体系，未发生因健康安全原因的产品召回。",
+      "original_text": "产品合格率 ，未发生因健康与安全原因须撤回和召回的质量事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定信息安全管理规范，开展信息安全培训，保障数据安全。",
+      "original_text": "制定《信息安全管理规范》《信息安全事件管理》等规定，开展信息安全培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司建立共富工坊，依托当地特色茶产业，建立共富工坊联盟，提高村民收入，带动当地农户发家致富。",
+      "original_text": "建立共富工坊。并依托当地特色产业，以茶业为支柱，建立共富工坊联盟，倡议有社会责任感的企业家们，携手奉献爱心认养古茶树，拉升整个南本南信古茶树的价格，提高村民收入，带动当地农户发家致富。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "董事会考虑多元化包括性别，但未提供具体数据。",
+      "original_text": "在规划董事会成员构成时，公司充分考虑董事会成员多元化，包括但不限于性别",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了包括股东大会、董事会、监事会的公司治理架构，并设有ESG治理体系，董事会下设审计委员会、薪酬与考核委员会、投资发展战略委员会和提名委员会。",
+      "original_text": "公司构建了包括股东大会、董事会、监事会的公司治理架构；ESG治理体系；董事会下设审计委员会、薪酬与考核委员会、投资发展战略委员会和提名委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵守相关法律法规，对腐败与贿赂行为持零容忍态度，创新监督机制，完善举报投诉渠道，鼓励员工及利益相关方举报不正当行为。",
+      "original_text": "公司严格遵守《中华人民共和国监察法》《中华人民共和国反不正当竞争法》等法律法规，恪守商业道德，对腐败与贿赂行为持'零容忍'态度，创新监督机制，完善举报投诉渠道，鼓励员工及利益相关方举报不正当行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司依照《合规义务识别与评价管理规范》规范获取和识别有关法律法规，确保经营合法合规。与供应商签署廉洁采购协议，加大对自身采购人员廉洁培训。",
+      "original_text": "公司依照《合规义务识别与评价管理规范》规范公司获取和识别有关法律法规，确保公司经营合法合规；与供应商签署廉洁采购协议，加大对自身采购人员廉洁培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了由董事会、风控合规部、公司各部门构成的风险管理组织体系，通过编制《内部控制评价管理制度》《风险与机会管理规范》等加强内部控制体系建设，每年开展内部控制自我评价工作。",
+      "original_text": "公司建立了由董事会、风控合规部、公司各部门构成的风险管理组织体系；通过编制《内部控制评价管理制度》《风险与机会管理规范》《合同管理制度》，加强内部控制体系建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过召开业绩说明会、接待投资者实地调研、投资者热线、公司网站投资者关系专栏等方式维护投资者关系，并荣获中国上市公司投资者关系新媒体奖。",
+      "original_text": "公司始终把投资者关系管理工作放在重要位置，通过召开业绩说明会、接待投资者实地调研、投资者热线、公司网站投资者关系专栏；荣获'中国上市公司投资者关系新媒体奖'",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司重视与利益相关方的沟通和交流，通过问卷调研等方式了解其需求与期望，并将相关议题纳入运营和决策过程。",
+      "original_text": "众合科技重视与利益相关方的沟通和交流，为了及时准确了解利益相关方的需求与期望，公司与政府及监察机构等利益相关方沟通，将关注的议题纳入公司的运营和决策过程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司建立了《信息披露管理制度》，指定董事会秘书负责信息披露工作，确保信息披露的及时性、公平性、真实、准确、完整，防范内幕交易。",
+      "original_text": "公司建立了《信息披露管理制度》等相关制度，指定董事会秘书负责信息披露工作，依法履行信息披露义务，确保公司信息披露的及时性和公平性，真实、准确、完整地披露信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税作为治理议题，但未详细说明税务透明度相关措施。",
+      "original_text": "治理议题：□股东权益保护 □治理结构 □依法纳税 □风险管理",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

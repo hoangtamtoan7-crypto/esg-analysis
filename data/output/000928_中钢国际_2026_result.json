@@ -1,0 +1,441 @@
+{
+  "company_name": "中钢国际",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 325.69,
+      "unit": "吨标准煤",
+      "original_text": "能源总消耗量 吨标准煤 / 669.02 325.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 35117,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 / 55,258 35,117",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1834,
+      "unit": "人",
+      "original_text": "员工总数 人 1,834",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 34.4,
+      "unit": "%",
+      "original_text": "女性员工比例 % 33.4 34.2 34.4",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 23.4,
+      "unit": "%",
+      "original_text": "女性管理者比例 % 20.5 20.8 23.4",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 547.5,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 547.5 350.26 220",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "员工培训时长 小时 102,801 138,195 123,682",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 5.2,
+      "unit": "%",
+      "original_text": "员工流失率 % 4.85 4.7 5.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 37700,
+      "unit": "万元",
+      "original_text": "研发投入金额 亿元 3.77",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.69,
+      "unit": "%",
+      "original_text": "研发投入比例2.69%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 7203.28,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 8,749 8,044.41 7,203.28",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "工伤率 % 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 47.57,
+      "unit": "万元",
+      "original_text": "社会贡献投入资金金额 万元 47.57",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 4.28,
+      "unit": "亿元",
+      "original_text": "纳税总额 亿元 4.43 7.25 4.28",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会董事 7 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 57,
+      "unit": "%",
+      "original_text": "独立董事占比 57%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "召开董事会 8 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司高度重视气候变化，成立低碳高质量发展领导小组，制定碳达峰碳中和战略与目标，明确九大重点任务，推进低碳冶金技术研发与应用。",
+      "original_text": "公司高度重视气候变化对业务的影响，将气候变化应对嵌入决策、经营管理全流程...明确碳达峰碳中和战略与目标、重点任务。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司构建权责明确的环境治理架构，制定《能源环保管理办法》等制度，通过ISO 14001认证，环保培训覆盖率100%。",
+      "original_text": "公司构建权责明确、层层落实的环境治理架构...制定《能源环保管理办法》《能源环保责任制》...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦低碳冶金工程技术，提供绿色矿山、带式焙烧机球团、直接还原铁等绿色技术，承建多个绿色低碳示范项目。",
+      "original_text": "以低碳冶金工程技术服务为核心，构建覆盖绿色原料、低碳炼铁、氢冶金、节能轧制、环保治理、碳资产管理的全链绿色产业矩阵。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司开展生物多样性保护宣教，联合社区进行生态修复，在项目中实施土壤回填、景观绿化等措施。",
+      "original_text": "积极开展生物多样性保护宣教，联合项目驻地周边社区...将施工扰动土壤优先用于场地回填、景观绿化与生态修复。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司采用3R原则实施废弃物最小化，推进水资源循环利用，如废水梯级利用、雨水收集等。",
+      "original_text": "采用'3R原则'（减少、再利用、回收）实施废弃物最小化策略...构建分级处理体系，实现废水梯级利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法保障员工合法权益，按时足额支付工资，提供富有竞争力的薪酬，建立完善的薪酬福利体系和激励机制，设立职工代表大会，提供申诉渠道，保障员工权益。",
+      "original_text": "依法保障员工合法权益，完善职业发展、健康安全与关怀体系；充分尊重并保障员工合法权益，按时足额支付工资，为员工提供富有竞争力的薪酬；建立完善的薪酬福利体系和激励机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，持续改善工作环境，完善应急医疗保障体系，定期组织员工体检，开展安全培训，安全生产投入7,203.28万元，未发生安全生产责任事故。",
+      "original_text": "建立职业健康安全管理体系，持续改善工作环境，完善应急医疗保障体系，定期组织员工体检；安全生产投入7,203.28万元，未发生安全生产责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司致力于构建安全、稳定、负责任的供应链，将ESG标准纳入供应商选择与管理流程，推动供应商管理，平等对待中小企业，为供应商提供环保合规培训与技术支持。",
+      "original_text": "中钢国际依法诚信经营，致力于构建安全、稳定、负责任的供应链，将ESG标准纳入供应商选择与管理流程，推动供应商管理；平等对待中小企业；为供应商提供环保合规培训与技术支持。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司系统识别、评估工程质量相关风险，通过动态管控机制保障风险识别准确与完整，贯彻科学高效的质量安全管理制度，竣工项目质量验收合格率100%。",
+      "original_text": "公司系统识别、评估工程质量相关风险、机遇及影响，通过动态管控机制保障风险识别的准确与完整；贯彻科学高效的质量安全管理制度；竣工项目质量验收合格率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建全链条数据安全体系，严格保障客户隐私，部署前沿网络安全设备，研发一体化数据安全与AI应用平台，健全数据备份机制，数据安全事件数为0。",
+      "original_text": "构建全链条数据安全体系，严格保障客户隐私；部署前沿网络安全设备，筑牢外部威胁防御屏障；研发一体化数据安全与AI应用平台；数据安全事件数 个 0。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极回馈社会，持续开展乡村振兴帮扶，支持教育、救灾等公益事业，投身社区志愿服务，带动当地就业，提供物资捐助，帮扶农业发展。",
+      "original_text": "中钢国际积极回馈社会，持续开展乡村振兴帮扶，支持教育、救灾等公益事业，投身社区志愿服务；带动当地就业，提供物资捐助，帮扶农业发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司明确制定《多元化、平等与包容性政策》，禁止因种族、性别、年龄、残疾等因素对员工产生歧视，定期组织多元化和包容性培训，营造包容、公平的工作环境。",
+      "original_text": "明确制定《多元化、平等与包容性政策》，禁止因种族、性别、年龄、残疾等因素对员工产生歧视，积极促进；定期组织多元化和包容性培训，帮助员工了解和尊重不同文化背景等方面的差异，营造包容、公平的工作环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建董事会决策－战略与ESG委员会统筹—ESG专项组执行三级治理架构，明确各部门职责分工，形成横向联动、纵向贯通的工作格局。",
+      "original_text": "构建 '董事会决策－战略与ESG委员会统筹—ESG专项组执行' 三级治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "健全反商业贿赂及反贪污内控制度，以《廉洁风险辨识与防控的工作方案》为核心，明确禁止行为与责任边界，配套动态风险辨识机制，定期开展风险评估与专项检查。",
+      "original_text": "健全反商业贿赂及反贪污内控制度，以《廉洁风险辨识与防控的工作方案》为核心",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "持续深化法务、合规、内控、风险融合共建体系，构建覆盖法律合规框架、制度管理阶梯、四位一体融合共建与内控机制，依法合规开展信息披露。",
+      "original_text": "持续深化 '法务、合规、内控、风险' 融合共建体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会下设审计与风险管理委员会，指导风险管理体系、内部控制体系、合规管理体系，统筹全面风险管理与内控体系建设，组织制定并实施年度风险工作计划与报告。",
+      "original_text": "董事会下设审计与风险管理委员会，指导公司风险管理体系、内部控制体系、合规管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "采取 '请进来' 和 '走出去' 相结合的方式，持续提升投资者价值传导生态，举办业绩说明会，与机构分析师面对面交流。",
+      "original_text": "采取 '请进来' 和 '走出去' 相结合的方式，持续提升投资者价值传导生态",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "通过健全、高效的信息沟通机制，保障与各利益相关方之间的信息传递畅通、高效，依托定期会议、电子邮件、内部管理系统等多元渠道系统收集利益相关方信息。",
+      "original_text": "通过健全、高效的信息沟通机制，保障与各利益相关方之间的信息传递畅通、高效",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "制定《信息披露工作制度》《年报信息披露重大差错责任追究制度》，规范信息披露行为，确保信息披露真实、准确、完整、及时、公平，信息披露合规率100%。",
+      "original_text": "制定《信息披露工作制度》《年报信息披露重大差错责任追究制度》，规范公司信息披露行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "高度重视税务合规工作，构建系统化税务管理体系，推动税务管理前置，主动识别并防控境内外涉税风险，定期进行税务审查。",
+      "original_text": "高度重视税务合规工作，构建系统化税务管理体系，推动税务管理前置，主动识别并防控境内外涉税风险",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

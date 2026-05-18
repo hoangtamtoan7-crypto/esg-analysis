@@ -1,0 +1,442 @@
+{
+  "company_name": "工商银行",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1300000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "碳排放总量 万吨CO2 130",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接碳排放（范围1） 万吨CO2 8.0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接碳排放（范围2） 万吨CO2 122",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 13000000,
+      "unit": "吨",
+      "original_text": "水 万吨 1300",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 419252,
+      "unit": "人",
+      "original_text": "员工总数 人 41岁至50岁 注：1. 每股社会贡献值=基本每股收益+（纳税额+职工费用+利息支出+公益投入额）/期末总股本。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 52.04,
+      "unit": "%",
+      "original_text": "女性 52.04%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 9.3,
+      "unit": "天/人",
+      "original_text": "人均培训9.3天",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 14000,
+      "unit": "万元",
+      "original_text": "对外捐赠超1.4亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 13,
+      "unit": "人",
+      "original_text": "本行董事会 执行董事 名 非执行董事 名 独立非执行董事 名 刘 珺先生 董 阳先生 赫伯特·沃特先生 数在董事会成员总",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事 名",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "报告期内，本行共计召开10次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "本行持续深化双碳管理工作，双轨推进资产端与运营端的全面绿色低碳转型，积极开展气候风险与机遇分析，将强化绿色低碳领域金融支持作为应对气候风险的重要举措，布局碳金融、转型金融、气候投融资、生物多样性金融、绿色消费服务等关键领域。",
+      "original_text": "本行持续深化“双碳”管理工作，双轨推进资产端与运营端的全面绿色低碳转型。报告期内，本行积极开展气候风险与机遇分析，将强化绿色低碳领域金融支持作为应对气候风险的重要举措，精准把握低碳转型带来的发展机遇，聚焦市场中持续增长的绿色金融需求，拓展绿色领域综合金融服务，布局碳金融、转型金融、气候投融资、生物多样性金融、绿色消费服务等关键领域",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "本行将气候风险管理纳入全面风险管理体系，持续完善气候风险管理体系建设、强化三道防线责任、推进气候风险管理，并将绿色低碳要求嵌入尽职调查、项目评估、评级授信、审查审批、合同签订等全流程。",
+      "original_text": "本行将气候风险管理纳入全面风险管理体系，持续完善气候风险管理体系建设、强化三道防线责任、推进气候风险管理，构筑风险管理防线，不断提升气候韧性，为可持续发展提供坚实保障。并将绿色低碳要求嵌入尽职调查、项目评估、评级授信、审查审批、合同签订",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "本行建立了完整的绿色金融产品体系，推出“工银绿色银行+”品牌，绿色投融资规模保持市场领先。重点支持清洁能源、节能改造等低碳转型项目，创新开展碳排放权、排污权、水权抵质押贷款等产品服务，积极拓展林业碳汇、海洋碳汇等生态产品服务。",
+      "original_text": "建立了完整的绿色金融产品体系，推出“工银绿色银行+”品牌，绿色投融资规模保持市场领先。重点支持清洁能源、节能改造等低碳转型项目。聚焦各类环境权益的价值释放，创新开展碳排放权、排污权、水权抵质押贷款等各类产品服务。积极拓展林业碳汇、海洋碳汇等生态产品服务",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "本行高度关注境内能源领域投融资的环境和社会风险，积极支持风电、光伏发电等清洁能源项目合作，推动环境、气候与生物多样性风险纳入授信风险评估流程。",
+      "original_text": "本行高度关注境内能源领域投融资的环境和社会风险，积极支持风电、光伏发电。推动环境、气候与生物多样性风险等纳入授信风险评估流程",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "本行践行绿色采购，废弃设备100%委托资质企业处理，推广无纸化会议，建设绿色低碳网点。",
+      "original_text": "所有废弃设备均100%委托具备资质的企业处理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "本行持续完善薪酬福利体系，关注员工职业健康与安全，构建全方位、多层次、可持续的员工权益保护机制。",
+      "original_text": "完善具有市场竞争力的薪酬福利体系，并切实关注员工职业健康与安全，着力构建全方位、多层次、可持续",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "本行通过加强资源保障，提前做好对极端天气的应对与防范，切实保障员工、客户的生命财产安全。",
+      "original_text": "通过加强资源保障，提前做好对极端天气的应对与防范，切实保障员工、客户的生命财产安全",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "披露了供应链管理政策，包括识别供应链每个环节的环境及社会风险，并采取管理有关影响的行动。",
+      "original_text": "一般披露：管理供应链的环境及社会风险政策。B5.3 描述有关识别供应链每个环节的环境及社会风险及采取管理有关影响的行动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "披露了产品和服务安全与质量的相关信息，包括已售或已运送产品总数中因安全与健康理由而须回收的百分比等。",
+      "original_text": "产品和服务安全与质量 100-108、136；B6.1 已售或已运送产品总数中因安全与健康理由而须回收的百分比",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "本行构建完善的隐私与数据安全保护制度体系，开展数据安全专项培训，覆盖总行及全集团员工。",
+      "original_text": "构建完善的隐私与数据安全保护制度体系，系...全年积极开展数据安全专项培训工作，覆盖总行及",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "本行通过举办经济论坛、参与进博会、开展金融知识教育宣传活动等方式，促进当地社会经济发展。",
+      "original_text": "促进当地社会经济发展...举办'中国日'经济论坛活动...举办'投资南非'战略对话会",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "本行倡导'和而不同'的董事会文化，构建涵盖性别、专业背景等多元化的董事会，对全体员工一视同仁。",
+      "original_text": "董事会多元化 本行始终倡导并培育'和而不同'的优秀董事会文化，通过构建涵盖性别、专业背景、...对全体员工一视同仁、平等对待。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "本行建立了完善的可持续发展治理架构，董事会积极履行战略决策职能，深化ESG治理，持续完善ESG管治架构。董事会下设战略委员会、社会责任与消费者权益保护委员会、风险管理与内部控制委员会、绿色金融(ESG与可持续金融)委员会等。",
+      "original_text": "本行建立了完善的可持续发展治理架构，董事会积极履行战略决策职能，深化ESG治理，持续完善ESG管治架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "本行构建了制裁合规管理框架（SCP），以管理层承诺、风险评估、内部控制、独立测试和人员培训作为五大支柱，杜绝发生重大制裁风险事件，夯实制裁合规管理基础。",
+      "original_text": "本行构建了制裁合规管理框架（SCP），以管理层承诺、风险评估、内部控制、独立测试和人员培训作为SCP框架五大支柱，坚持应急管理和SCP建设并重，杜绝发生重大制裁风险事件，夯实制裁合规管理基础。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "本行高度重视全员的职业素质及商业道德，持续完善相关制度。加强合规文化建设，组织开展商业道德与行为规范专题学习，并将其纳入新入职员工培训。",
+      "original_text": "本行高度重视全员的职业素质及商业道德，持续完善相关制度。加强合规文化建设，组织开展商业道德与行为规范专题学习，并将其纳入新入职员工培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "本行持续强化全面风险管理体系，完善内控合规机制。董事会下设风险管理委员会，对包括气候风险在内的风险管理具有丰富经验。本行已建立完善的ESG风险管理体系，全面管控投融资活动中的ESG风险。",
+      "original_text": "本行持续强化全面风险管理体系，完善内控合规机制。董事会下设风险管理委员会，对包括气候风险在内的风险管理具有丰富经验。本行已建立完善的ESG风险管理体系，全面管控投融资活动中的ESG风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "本行持续加强上市公司透明度建设，切实维护全体股东尤其是中小投资者权利，增进与股东之间的有效沟通和交流。通过业绩说明会、专题投资者关系活动、路演与反向路演等方式与投资者沟通。",
+      "original_text": "本行持续加强上市公司透明度建设，切实维护全体股东尤其是中小投资者权利，增进与股东之间的有效沟通和交流。通过业绩说明会、专题投资者关系活动、路演与反向路演等方式与投资者沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "本行建立了完善的利益相关方沟通机制，确保与各关键利益方常态化交流。通过股东会、业绩说明会、官方网站、上证e互动平台等多种渠道与利益相关方沟通。",
+      "original_text": "本行建立了完善的利益相关方沟通机制，确保与各关键利益方常态化交流。通过股东会、业绩说明会、官方网站、上证e互动平台等多种渠道与利益相关方沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "本行秉持真实、准确、完整、可比、及时和公平的原则，认真落实信息披露要求。构建以年度可持续发展报告、半年度ESG专题报告和常态化信息披露为支柱的ESG信息披露体系。在上海证券交易所信息披露评价中获A级。",
+      "original_text": "本行秉持真实、准确、完整、可比、及时和公平的原则，认真落实信息披露要求。构建以年度可持续发展报告、半年度ESG专题报告和常态化信息披露为支柱的ESG信息披露体系。在上海证券交易所信息披露评价中获A级。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601398_工商银行_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

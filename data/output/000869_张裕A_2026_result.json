@@ -1,0 +1,441 @@
+{
+  "company_name": "张  裕Ａ",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 7692.05,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 7,692.05",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1496.34,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一直接温室气体排放量 吨二氧化碳当量 1,496.34",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 6195.71,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二间接温室气体排放量 吨二氧化碳当量 6,195.71",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 103.76,
+      "unit": "千克二氧化碳当量/吨酒销售量",
+      "original_text": "温室气体排放强度 千克二氧化碳当量/吨酒销售量 103.76",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2600.38,
+      "unit": "万千瓦时",
+      "original_text": "综合能源消耗量 万千瓦时 2,600.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "来自可再生能源的电力占比（未提供具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 247500,
+      "unit": "吨",
+      "original_text": "总取水量 万立方米 24.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确给出废水排放量数值",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确给出废弃物产生总量数值",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "报告期内，本公司在环境保护方面投入（未给出具体金额）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2011,
+      "unit": "人",
+      "original_text": "截至2025年末，本公司中国境内共有2,011名员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 10,
+      "unit": "%",
+      "original_text": "女性成员占比10%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1000,
+      "unit": "万元",
+      "original_text": "本年度，公司安全生产费用投入达 1,000 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 70.0083,
+      "unit": "万元",
+      "original_text": "费用合计 700,083 元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 14,
+      "unit": "人",
+      "original_text": "截至报告期末，张裕共有董事会成员 14人（含独立董事 5人）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 35.7,
+      "unit": "%",
+      "original_text": "独立董事 5人，董事会成员14人，比例约为35.7%",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事会成员 2人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司已于 2025 年取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和，并实施产品碳足迹和碳核查认证项目。",
+      "original_text": "制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和；实施产品碳足迹和碳核查认证项目",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，通过ISO 14001:2015认证，并制定《张裕公司能源管理体系手册》等制度。",
+      "original_text": "通过了ISO 14001:2015认证；建立健全各项能源管理制度，包括《张裕公司能源管理体系手册》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推行绿色产品设计和绿色工艺设计，考虑全链条环境影响，包括包装优化、运输方式改进等。",
+      "original_text": "本公司积极推行绿色产品设计和绿色工艺设计。在原料获得、工艺处理、包装、运输、销售、回收等各个环节考虑环境影响，全链条节能降耗。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告明确说明不涉及生物多样性议题。",
+      "original_text": "生态系统和生物多样性 不涉及（注释1）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施多项节水循环措施，如酒精罐区冲洗水回用、灌装车间节水改造、水肥一体化滴灌系统等。",
+      "original_text": "酒精罐区冲洗水回用：将喷淋水收集沉淀后再次使用，每天可节水400~500吨；灌装车间节水改造：每天可回收纯水240~300吨；水肥一体化滴灌系统",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司建立健全劳动合同管理办法，100%与员工签订劳动合同，禁止强迫劳动，为员工缴纳足额社保，保障员工权益。",
+      "original_text": "建立健全《劳动合同管理办法》《员工考勤条例》《员工手册》...100%与员工签订劳动合同。本公司严格规定工作时数，并制定合理的加班及调休管理制度，禁止一切行为的强迫员工劳动行为。本公司为员工缴纳足额的...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，开展危害因素检测、职业健康体检，配发劳动防护用品，组织安全培训，2023-2025年未发生死亡、重伤等生产安全责任事故。",
+      "original_text": "公司每年定期进行危害因素检测，为相关员工提供岗前、岗中、离岗职业健康体检...2023年至2025年内，公司及下属各生产经营单位未发生死亡、重伤、职工群体健康等生产安全责任事故",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司推行供应链本地化，与供应商签订《供应商社会责任协议》，涵盖劳工标准、健康安全、环境保护、商业道德等方面。",
+      "original_text": "推行供应链本地化并支持当地经济发展...与符合标准的供应商签订《供应商社会责任协议》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司实行质量'三标'战略，通过国际标准认证，产品质量安全责任到人，历年来国家抽检100%合格。",
+      "original_text": "本公司实行质量'三标'战略...历年来在国家、省、市产品质量抽检中100%合格",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司开展信息安全培训，所有员工重新签订保密协议，实现100%签署，2025年未发生信息安全违规事件。",
+      "original_text": "2025年，公司所有员工重新签订保密协议，已实现100%签署...2025年，本公司于信息安全与隐私保护方面未发生违规事件或风险事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展社区公益活动，如爱心帮扶活动，支持乡村振兴，积极履行社会责任。",
+      "original_text": "积极开展社区公益活动，为社会的和谐发展作出自己的努力。我们开展爱心帮扶活动，如爱心...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司致力于公平、平等、多元化和反歧视的工作氛围，与女性员工签订《女职工特殊权益保护专项集体合同》。",
+      "original_text": "本公司致力于打造公平、平等、多元化和反歧视的工作氛围，不会因为员工的性别、民族、宗教、年龄、学历...与全体女性员工签订《女职工特殊权益保护专项集体合同》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立健全ESG管治体系，由董事会作为最高决策机构，董事会办公室、党群部、人力资源部、质量管理部等参与。",
+      "original_text": "公司建立健全ESG管治体系，由董事会作为最高决策机构，董事会办公室、党群部、人力资源部、质量管理部等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司依据相关法律法规及《2025年全面从严治党、党风廉政建设和反腐败工作要点》，在组织架构、管理制度、供应商合作等方面进行反贪反腐，与供应商100%签署廉洁条款，并组织廉洁专题培训。",
+      "original_text": "在供应商合作方面，我们修订了供应商廉洁条款，并与供应商100%签署，加强对供应商商业道德的监管。同时，我们积极组织廉洁专题会议等商业道德类培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司遵循商业道德，依据《关于禁止商业贿赂行为的暂行规定》等法律法规，通过多渠道公开举报政策和举报方式，开展商业道德培训。",
+      "original_text": "1.3.1 遵循商业道德 《关于禁止商业贿赂行为的暂行规定》等有关法律法规及《2025 年全面从严治党、党风廉政建设和反腐败工作要点》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了完善的风险管理流程，包括风险识别、评估、应对和监测，覆盖气候、水资源、安全生产、产品质量、供应链等多个领域。",
+      "original_text": "公司将安全风险管理融入日常运营与各个生产环节，形成了一套完善的风险管理流程。风险识别、风险评估、应对措施、风险监测",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司注重投资者关系管理，遵循相关法律法规，通过股东大会、股东微信群聊等方式与投资者沟通，确保中小股东公平获取信息。",
+      "original_text": "本公司注重持续提升投资者关系管理工作。我们严格遵守《中华人民共和国公司法》《中华人民共和国证券法》《上市公司投资者关系管理手册》等有关法律法规",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司积极开拓各种渠道与利益相关方沟通，包括政府、股东、员工、客户等，通过OA系统、工会组织、股东大会等方式回应诉求。",
+      "original_text": "本公司积极开拓各种渠道，与利益相关者保持沟通，增进其对本公司的发展和运营方针的了解",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格履行信息披露义务，秉持真实、准确、完整、及时、公平的原则，在指定媒体披露公告，并持续提升信息披露质量。",
+      "original_text": "严格履行上市公司信息披露义务。董事会办公室负责公司信息披露工作，秉持真实、准确、完整、及时、公平的原则",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司在烟台市税务局指导下建立健全税收内控制度，重点关注关联交易等高风险业务，开展全流程税务风险管理，并依法披露税务信息。",
+      "original_text": "公司在烟台市税务局指导下，建立健全税收内控制度，重点关注关联交易等高风险业务，开展全流程税务风险管理控制体系",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

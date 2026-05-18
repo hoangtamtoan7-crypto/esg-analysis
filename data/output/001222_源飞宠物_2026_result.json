@@ -1,0 +1,441 @@
+{
+  "company_name": "源飞宠物",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 83495.43,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 83,495.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 75075.79,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 75,075.79",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 8419.64,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 8,419.64",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 48.16,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/百万元营收 48.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 377839,
+      "unit": "吨",
+      "original_text": "新鲜水取水量 吨 377,839",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 397393,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 397,393",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 4951.42,
+      "unit": "吨",
+      "original_text": "无害废弃物产生量 吨 4,951.17; 危险废弃物产生量 吨 0.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 25.76,
+      "unit": "万元",
+      "original_text": "环保投入总金额 25.76 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4523,
+      "unit": "人",
+      "original_text": "员工总人数 4,523⼈，98.43%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 50.23,
+      "unit": "%",
+      "original_text": "管理人员中女性人数比例 50.23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 6.29,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长 小时/人 6.29",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2471.79,
+      "unit": "万元",
+      "original_text": "研发投入 2,471.79 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.43,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 1.43 %",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 30.25,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 30.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 38.54,
+      "unit": "万元",
+      "original_text": "公益总投入 38.54 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 3885.79,
+      "unit": "万元",
+      "original_text": "纳税总额 3,885.79 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事人数为3名，占董事会成员比例为42.86%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消公司监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳战略，构建系统化、规范化的碳排放管理体系，制定《节能减碳管理制度》，成立节能减碳小组，推动低碳运营与绿色创新。",
+      "original_text": "源飞宠物积极响应国家“双碳”战略部署，将应对气候变化作为企业可持续发展的核心议题之一，主动构建系统化、规范化的碳排放管理体系，以实际行动践行绿色发展责任。公司制定《节能减碳管理制度》等相关制度，成立节能减碳小组。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001环境管理体系认证，并制定《新项目环境影响管理程序》，实施全过程污染控制，通过清洁生产审核。",
+      "original_text": "公司已通过ISO 14001环境管理体系认证。公司制定并实施《新项目环境影响管理程序》。已于2024年顺利通过清洁生产审核。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司构建覆盖产品全生命周期的绿色管理体系，将绿色理念融入设计、选材、生产各环节，优化产品结构与包装设计，减少资源消耗。",
+      "original_text": "公司致力于构建覆盖产品全生命周期的绿色管理体系，将绿色理念系统融入设计、选材、生产各环节。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司对所有新建、扩建、改建及技术改造类工程项目依法开展环境影响评价，最大限度降低对运营周边生态系统及生物多样性的潜在干扰。截至报告期末，所有运营场所均未位于自然保护区、生态敏感区等生物多样性重点保护区域。",
+      "original_text": "源飞宠物严格遵循《中华人民共和国环境影响评价法》及相关环保法规要求，对所有新建、扩建、改建及技术改造类工程项目均依法开展环境影响评价...截至报告期末，公司所有运营场所及业务活动均未位于或邻近自然保护区、生态敏感区等生物多样性重点保护区域。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司建立中水回用系统，废水经生化处理后回用；推广重复使用周转包装；废弃物分类管理，危险废物合规处置。",
+      "original_text": "建立中水回用系统，废水站出口废水经生化处理后回用。推广重复使用周转包装。全面实施废弃物分类管理、合规贮存与依法处置。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《招聘管理制度》《员工手册》，反对强迫劳动和雇佣童工，保障女性员工权益，提供产假、哺乳假等，建立工会和民主管理渠道。",
+      "original_text": "公司高度重视女性权益保护，全力打造性别平等的职场环境，保障女性员工产假、哺乳假、育儿假等权利，建立公平透明的岗位竞聘机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司依据ISO45001建立职业健康安全管理体系，制定相关制度，开展安全培训、消防演练、职业健康体检等，目标0伤害0事故。",
+      "original_text": "源飞宠物依据 ISO45001 职业健康安全管理体系，在《员工手册》中明确职业健康安全管理制度、工伤管理制度、安全生产制度、劳保用品管理制度等相关制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司持续优化供应商ESG管理体系，要求供应商签署反贿赂承诺书，推动绿色供应链，建立降碳黑名单制度，平等对待中小企业。",
+      "original_text": "公司持续优化供应商ESG管理体系，将可持续发展理念贯穿于供应链全流程管理，并通过对供应商的持续赋能实现互利共赢。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO9001、ISO22000等认证，建立质量与食品安全管理体系，制定召回程序，开展质量文化培训，报告期内无食品安全/质量事件。",
+      "original_text": "公司已成功通过ISO 9001质量管理体系认证、ISO 22000食品安全管理体系认证、FSMA认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守相关法律法规，制定《信息安全预案》，开展信息安全培训，采取加密、访问控制等措施保护数据安全，员工签署保密协议。",
+      "original_text": "公司高度重视数据安全与客户隐私保护工作，严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司设立‘幸福树’慈善基金帮扶困难员工，参与公益助学活动，在柬埔寨和孟加拉雇佣当地员工并进行跨文化培训。",
+      "original_text": "公司积极参与中国狮子联会鳌水服务队组织的‘学子心·狮爱情’公益助学励志营。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视女性权益，管理人员中女性占比50.23%，管理层中有少数民族员工27人，提供平等就业机会。",
+      "original_text": "公司高度重视女性权益保护，全力打造性别平等的职场环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建了‘决策层、管理层、执行层’三级治理架构，董事会下设战略与ESG委员会，制定ESG管理制度。",
+      "original_text": "源飞宠物将ESG治理融入经营管理决策体系，制定《ESG管理制度》《社会责任管理手册》《社会责任中长期目标》等制度，构建起‘决策层、管理层、执行层’三级治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "制定《廉洁反腐管理制度》，设立反腐工作组，构建多元监督体系，覆盖采购、销售、资金管理等环节。",
+      "original_text": "公司制定《廉洁反腐管理制度》，明确制度适用范围覆盖全体员工及与公司有业务往来的供应商、经销商、合作伙伴等相关方",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "秉持守法合规、诚实守信、公平竞争原则，积极践行责任营销，规范市场推广、销售活动及合作竞争中的行为。",
+      "original_text": "公司秉持守法合规、诚实守信、公平竞争的基本原则，积极践行责任营销，规范市场推广、销售活动及合作竞争中的行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "建立风险分类分级管理体系，成立风险管理委员会，制定《风险控制管理制度》，覆盖全流程风险管理闭环。",
+      "original_text": "公司持续提升和完善风险管理体系，制定《风险控制管理制度》，强化内部控制和监督机制，保障风险管理体系在全公司业务领域和全球业务区域的有效承接和运行",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "依据《投资者关系管理办法》开展投资者关系管理工作，董事会秘书统筹负责，通过股东会、现场调研、互动易等渠道沟通。",
+      "original_text": "公司依据《投资者关系管理办法》开展投资者关系管理工作，董事会秘书统筹负责公司投资者关系管理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "建立信息沟通机制，通过访谈、座谈、问卷调查等多元化方式主动听取利益相关方的反馈意见与诉求。",
+      "original_text": "公司建立信息沟通机制，通过访谈、座谈、问卷调查等多元化方式主动听取利益相关方的反馈意见与诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "制定《信息披露管理制度》《内幕信息知情人登记备案管理制度》，确保信息披露真实、准确、完整，报告期内未发生违规行为。",
+      "original_text": "制定《信息披露管理制度》《内幕信息知情人登记备案管理制度》等规章制度，明确信息披露责任主体，规范信息披露行为，做好内幕信息保密工作，确保信息披露内容的真实、准确、完整",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "遵循国家税收法律法规，制定《税务管理规范》，配备专职税务管理人员，建立常态化税务风险排查与动态管控机制，报告期内未发生重大税务违规行为。",
+      "original_text": "公司严格遵循国家现行税收相关法律法规及政策要求，制定并持续完善《税务管理规范》等专项管理制度，明确税务事项的真实性、准确性和及时性，有效防范税务合规风险。报告期内，公司未发生任何重大税务违规行为",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

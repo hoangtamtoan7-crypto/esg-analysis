@@ -1,0 +1,441 @@
+{
+  "company_name": "紫光股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 49069.82,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量49,069.82吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1213.2,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一排放量 吨二氧化碳 1,213.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 47856.62,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二排放量 吨二氧化碳 47,856.62",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.51,
+      "unit": "吨二氧化碳/百万营收",
+      "original_text": "温室气体排放强度 吨二氧化碳/ 百万营收 0.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 13704.49,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗量13,704.49吨标煤",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 663186.6,
+      "unit": "吨",
+      "original_text": "取水量663,186.60吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 557345.06,
+      "unit": "吨",
+      "original_text": "排水量 吨 557,345.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1613.86,
+      "unit": "吨",
+      "original_text": "废弃物总量1,613.86吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.02,
+      "unit": "吨",
+      "original_text": "颗粒物（PM） 吨 0.02",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 16253,
+      "unit": "人",
+      "original_text": "员工总数 人 16,253",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 25.72,
+      "unit": "%",
+      "original_text": "女性员工比例为25.72%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 701,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 701",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "总时长466,390小时",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 495267.48,
+      "unit": "万元",
+      "original_text": "研发投入495,267.48万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 234.86,
+      "unit": "万元",
+      "original_text": "对外捐赠金额234.86万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会现有董事 9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 44.44,
+      "unit": "%",
+      "original_text": "独立董事 4名，占比 44.44%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事 1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "主动识别气候相关风险、机遇及其对公司的影响，积极应对气候变化。在推进自身节能减排同时，发挥技术优势，提供绿色产品与服务，助力行业合作伙伴降低环境影响，构建绿色低碳行业发展体系。",
+      "original_text": "主动识别气候相关风险、机遇及其对公司的影响，积极应对气候变化。在推进自身节能减排同时，发挥技术优势，提供绿色产品与服务，助力行业合作伙伴降低环境影响，构建绿色低碳行业发展体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "持续完善环境管理体系，保障污染物与废弃物合规排放，建设环境友好型企业。公司未发生重大环境违规事件，污染与废弃物100%合规排放与处置。",
+      "original_text": "持续完善环境管理体系，保障污染物与废弃物合规排放，建设环境友好型企业。公司未发生重大环境违规事件，污染与废弃物100%合规排放与处置。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "将低碳理念融入ICT产品全生命周期管理，通过优化产品设计和运行能效，降低产品环境影响。积极推进中国节能认证、生态产品认证及政府绿色采购相关标准符合性，完善产品能效与碳相关信息管理和披露能力。",
+      "original_text": "将低碳理念融入ICT产品全生命周期管理，通过优化产品设计和运行能效，降低产品环境影响。积极推进中国节能认证、生态产品认证及政府绿色采购相关标准符合性，完善产品能效与碳相关信息管理和披露能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "重视生物多样性保护工作，将AI技术与生物多样性保护相结合，打造多元化生物多样性公益项目，助力维护良好自然生态。联合中国绿化基金会发起“让AI有爱——ICT技术助力生物多样性保护”项目。",
+      "original_text": "重视生物多样性保护工作，将AI技术与生物多样性保护相结合，打造多元化生物多样性公益项目，助力维护良好自然生态。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "积极探索资源高效利用与循环利用模式并推进自身能源结构转型；同时，为客户提供绿色解决方案，助力社会实现高效绿色发展转型。推动废弃物循环利用，降低环境影响。",
+      "original_text": "积极探索资源高效利用与循环利用模式并推进自身能源结构转型；同时，为客户提供绿色解决方案，助力社会实现高效绿色发展转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "保障员工合法权益，持续完善员工福利体系建设，推进多元化与平等工作。劳动合同签订率100%，五险一金覆盖率100%。",
+      "original_text": "保障员工合法权益，持续完善员工福利体系建设，推进多元化与平等工作。劳动合同签订率100%，五险一金覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "无重大安全生产事故，持续提升安全风险识别与隐患整改工作。重大生产事故0起，安全隐患整改率100%，安全培训覆盖率100%，员工职业健康体检覆盖率100%。",
+      "original_text": "无重大安全生产事故，持续提升安全风险识别与隐患整改工作。重大生产事故0起，安全隐患整改率100%，安全培训覆盖率100%，员工职业健康体检覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "通过强化供应商审查与风险控制，系统保障产品交付、质量合规与系统安全。供应商总数量699家，获得ISO 28000供应链安全管理体系认证。",
+      "original_text": "通过强化供应商审查与风险控制，能够系统保障产品交付、质量合规与系统安全。供应商总数量699家。新华三及紫光计算机均获得ISO 28000供应链安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "建立覆盖产品全生命周期的质量与安全管理组织和运行机制，落实全流程质量管理。",
+      "original_text": "建立覆盖产品全生命周期的质量与安全管理组织和运行机制，落实全流程质量管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "完善数据管理规范与流程，提升全员数据安全意识与风险应对能力。开展数据安全培训16场，覆盖17,696人次，未发生数据安全或客户隐私泄露事件。",
+      "original_text": "完善数据管理规范与流程，提升全员数据安全意识与风险应对能力。开展数据安全培训16场，覆盖17,696人次，未发生数据安全或客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "通过资源支持、技能共享、协同治理等方式积极参与社区共建，开展多样化社会公益活动，鼓励员工组建志愿者团队支援欠发达地区。",
+      "original_text": "通过资源支持、技能共享、协同治理等方式，积极参与社区共建。开展多样化社会公益活动，鼓励员工组建志愿者团队支援欠发达地区。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "重视多元化与平等，女性员工占比25.72%，保障女性员工平等发展及合法权益，工会设女工委员提供专项关爱。",
+      "original_text": "重视多元化与平等，女性员工占比25.72%。保障女性员工平等发展及合法权益，工会设女工委员提供专项关爱。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会下设可持续发展委员会，负责决策气候相关战略方向、管理重点气候议题及相关研究与审议等工作。公司搭建了“决策-管理-执行”三层ESG治理架构。",
+      "original_text": "董事会下设可持续发展专业委员会，负责决策气候相关战略方向、管理重点气候议题及相关研究与审议等工作。公司搭建了“决策-管理-执行”三层ESG治理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展反腐败培训19场，覆盖14,850人次。报告期内发生重大贪污腐败事件1个。",
+      "original_text": "开展反腐败培训19场，反腐败培训覆盖14,850人次。发生重大贪污腐败事件的数量1个。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司不断完善商业道德治理架构，董事会负责督促管理层健全预防舞弊机制。遵循商业道德准则，推动公平竞争，未因不正当竞争行为导致诉讼或重大行政处罚。",
+      "original_text": "紫光股份不断完善商业道德治理架构，董事会负责督促管理层健全预防舞弊机制。遵循商业道德准则，推动公平竞争，未因不正当竞争行为导致诉讼或重大行政处罚。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了清晰的合规经营与风险管理治理架构，董事会作为最高决策机构，审计委员会向董事会汇报合规管理与风险管理工作的意见与建议。建立系统的内控机制与常态化风险评估流程。",
+      "original_text": "紫光股份建立了清晰的合规经营与风险管理治理架构。董事会作为最高决策机构。审计委员会向董事会汇报合规管理与风险管理工作的意见与建议。建立系统的内控机制与常态化风险评估流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "partial",
+      "summary": "股东会采用现场会议与网络投票相结合的方式召开，为中小股东提供便利的参会方式，充分保障中小投资者的合法权益。",
+      "original_text": "股东会采用现场会议与网络投票相结合的方式召开，为中小股东提供便利的参会方式，充分保障中小投资者的合法权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过内部访谈、线上调研问卷、专家评估等多种方式与利益相关方沟通，识别可持续发展议题。报告期内对内外部利益相关方开展问卷调研。",
+      "original_text": "通过内部访谈、线上调研问卷、专家评估等多种方式，结合公司自身情况、行业发展趋势、国内外权威研究等，对议题的影响重要性与财务重要性进行评估与排序。报告期内，公司对内外部利益相关方开展问卷调研。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守《上市公司信息披露管理办法》，保证报告真实、准确、完整。报告经董事会审议通过。",
+      "original_text": "为保障信息披露质量与透明度，紫光股份严格遵守《上市公司信息披露管理办法》。审核，保证报告真实、准确、完整。本报告于2026年4月14日经董事会审议通过。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

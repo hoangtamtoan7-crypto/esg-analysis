@@ -1,0 +1,442 @@
+{
+  "company_name": "贵州茅台",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 272020,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一、二） 吨二氧化碳当量 290,347 272,020",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 270273,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体直接排放量（范围一） 吨二氧化碳当量 244,895 287,811 270,273",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1747,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体直接排放量（范围二） 吨二氧化碳当量 2,536 1,747",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2.57,
+      "unit": "吨二氧化碳当量/百万元工业产值",
+      "original_text": "温室气体排放强度（范围一、二） 吨二氧化碳当量/百万元工业产值 2.91 2.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 200612,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗量 吨标煤 155,444 186,013 200,612",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 7442400,
+      "unit": "吨",
+      "original_text": "水资源消耗总量 万立方米 867.66 813.89 744.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 2613400,
+      "unit": "吨",
+      "original_text": "污水排放量 万吨 215.17 218.92 261.34",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 507479.66,
+      "unit": "吨",
+      "original_text": "固体废弃物 吨 / 517,347.48 507,479.66",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 15800,
+      "unit": "万元",
+      "original_text": "2025年，公司投入1.58亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 11237,
+      "unit": "人",
+      "original_text": "员工总人数 11,237",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 24.06,
+      "unit": "%",
+      "original_text": "所有管理层中的女性员工占比 24.06%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 18.49,
+      "unit": "小时/人",
+      "original_text": "训与发展时长为18.49小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.42,
+      "unit": "%",
+      "original_text": "员工总离职率 0.42%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 80300,
+      "unit": "万元",
+      "original_text": "研发投入8.03亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1.17,
+      "unit": "亿元",
+      "original_text": "全年累计投入安全生产费用1.17亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 1.45,
+      "unit": "‰",
+      "original_text": "员工百万工时事故率（LTIFR） / / 2.05 1.45",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1.21,
+      "unit": "亿元",
+      "original_text": "全年累计捐赠1.21亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "截至报告期末，董事会由7名成员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "2025年独立董事占比达42.86%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 16,
+      "unit": "次",
+      "original_text": "2025年，公司共召开16次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "2025年11月，公司修订《公司章程》，撤销监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公司董事会成员薪酬明细 （单位：万元） 郭田勇 独立董事 20 / 盛雷鸣 独立董事 20 / 王 鑫 独立董事 20 /",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定《贵州茅台碳达峰碳中和行动方案》，明确实施路径与阶段性目标，开展气候情景分析，评估气候韧性，围绕能源结构优化、能效提升、循环减污等方面开展工作。",
+      "original_text": "制定碳达峰碳中和行动方案，明确碳中和实施路径与阶段目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司处于环境管理体系GB/T 24001-2016/ISO 14001:2015，已建立环境管理体系。",
+      "original_text": "公司处于环境管理体系GB/T 24001-2016/ISO 14001:2015",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司以绿色产品、绿色工厂为抓手，拓展绿色消费市场份额，通过领先的气候行动与低碳实践提升品牌价值可持续性。",
+      "original_text": "以绿色产品、绿色工厂为抓手，拓展绿色消费市场份额，并通过领先的气候行动与低碳实践，提升品牌价值的可持续性",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司持续开展微生物、水生物、植物植被的科学研究，构建涵盖生物多样性、完整性和稳定性的保护体系，并披露生物多样性影响管理。",
+      "original_text": "持续开展微生物、水生物、植物植被的科学研究，构建涵盖生物多样性、完整性和稳定性的保护体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司构建酿酒废物资源化-尾水湿地净化-复合岸线治理体系，将酒糟转化为有机肥、生物质沼气和饲料，推进包材减量化、轻量化、减废。",
+      "original_text": "构建酿酒废物资源化-尾水湿地净化-复合岸线治理体系，将酒糟转化为有机肥、生物质沼气和饲料",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，制定《员工权益保护政策》，涵盖反歧视及骚扰、职业健康与安全、隐私保护等内容，为员工缴纳五险一金及企业年金，保障女员工权益。",
+      "original_text": "我们向全体员工宣贯《员工权益保护政策》，涵盖反歧视及骚扰、职业健康与安全、隐私保护等内容。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司依据ISO 45001建立职业健康安全管理体系，已通过认证。设立员工大健康管理领导小组，开展培训、心理健康服务，年度目标均达成。",
+      "original_text": "公司根据ISO 45001标准建立了职业健康安全管理体系，每年底已通过ISO 45001职业健康与安全认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《供应商行为准则》，涵盖员工权益、职业健康安全、环境保护等要求，开展ESG培训，投入约2亿元用于供应链优化与风险管理。",
+      "original_text": "公司制定并公开发布《贵州茅台酒股份有限公司供应商行为准则》，对供应商在员工权益、职业健康与安全、环境保护...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO 9001质量管理体系认证，构建矩阵式质量管控，产品合格率长期100%，2025年未发生质量安全事故。",
+      "original_text": "顺利通过ISO 9001质量管理体系...产品出厂合格率长期稳定100%，2025年未发生质量和食品安全重大责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《数据安全与个人信息保护管理规定》，实现网络安全零事故、用户隐私零泄露，未发生数据安全事件。",
+      "original_text": "全年实现网络安全“零事故”与用户隐私“零泄露”。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司以“中国茅台·国之栋梁”公益品牌为引领，构建多元公益矩阵，全年累计捐赠1.21亿元。",
+      "original_text": "以“中国茅台・国之栋梁”公益品牌为引领，构建生态环保、行业支持、民生教育、文化传承等多元公益矩阵，全年累计捐赠1.21亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司女性员工人数11,237人，所有管理层中女性员工占比24.06%，董事会中有女性董事3名，职工董事1名。",
+      "original_text": "女性员工人数 人 10,945 11,221 11,237 所有管理层中的女性员工占比 % / / 24.06 女性董事3名，职工董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建三级ESG治理架构，涵盖决策、管理与执行层级。董事会作为ESG事宜决策机构，战略委员会负责具体ESG议题的决策、指导与监督。",
+      "original_text": "公司构建三级ESG治理架构，涵盖“决策、管理与执行”层级，为ESG工作的推进提供组织保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司实行反商业贿赂和反腐败零容忍政策，强化对商业伙伴的合规管理与监督。每年聘请第三方对所有业务开展反腐败与商业道德审计。",
+      "original_text": "反商业贿赂和反腐败 实行“零容忍”政策，强化对商业伙伴的合规管理与监督。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司持续完善商业道德治理架构，保障商业道德管理体系有效运行。董事会风险与合规管理委员会负责统筹、指导与监督商业道德与合规工作。",
+      "original_text": "公司持续完善商业道德治理架构，保障商业道德管理体系有效运行。董事会风险与合规管理委员会负责统筹、指导与监督商业道德与合规工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建权责清晰、协调制衡的治理架构，持续完善风险管理制度框架，涵盖战略管理、公司治理、生产管理、ESG管理等23个领域，共梳理制度527项。",
+      "original_text": "公司定期梳理价值链，持续优化风险管理制度框架。2025年，进一步完善涵盖战略管理、公司治理、生产管理、ESG管理等23个领域的制度地图，共梳理和整合制度527项。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格遵守证监会《上市公司股东会规则》以及《公司章程》《公司股东会议事规则》，保障股东享有平等地位并有效行使其知情权、参与权、质询权、表决权等股东权利。",
+      "original_text": "严格遵守证监会《上市公司股东会规则》以及《公司章程》《公司股东会议事规则》...保障股东享有平等地位并有效行使其知情权、参与权、质询权、表决权等股东权利。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司充分考虑各利益相关方期望，通过定向访谈、专题研讨等途径收集董事、高管、员工、供应商等相关方的反馈意见。",
+      "original_text": "公司充分考虑各利益相关方期望...收集董事、高管、员工、供应商等相关方的反馈意见，开展评估与交流。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露获得A级（优秀）评价。",
+      "original_text": "信息披露A级（优秀）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600519_贵州茅台_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

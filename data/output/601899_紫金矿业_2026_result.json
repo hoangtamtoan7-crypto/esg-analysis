@@ -1,0 +1,442 @@
+{
+  "company_name": "紫金矿业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 7690000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "GHG排放总量（SCOPE1+2） 百万tCO2e 7.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3400000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "全球范畴一排放总量 tCO2e 3,400,000",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 4290000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二GHG排放(SCOPE2) 百万tCO2e 4.29",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.61,
+      "unit": "吨二氧化碳当量/万元工业增加值",
+      "original_text": "万元工业增加值GHG排放量为1.61tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 21515.03,
+      "unit": "兆瓦时",
+      "original_text": "直接能源 GWH 10,766.82 148.21 10,915.03; 间接能源 GWH 10,748.35 504.20 11,252.55",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 28.62,
+      "unit": "%",
+      "original_text": "可再生能源使用占比达28.62%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 138980000,
+      "unit": "吨",
+      "original_text": "我们的总取水量为138.98百万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 51530000,
+      "unit": "吨",
+      "original_text": "总排水量 百万吨 51.53 0.00 51.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1029030000,
+      "unit": "吨",
+      "original_text": "产生约1,029.03百万吨一般废弃物（含藏格）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 17.67,
+      "unit": "亿元",
+      "original_text": "环保投入17.67亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 1361.92,
+      "unit": "吨",
+      "original_text": "硫氧化物 公吨(t) 1,361.92",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 66708,
+      "unit": "人",
+      "original_text": "公司员工总数达66,708人（其中，藏格矿业1,638人）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 14.27,
+      "unit": "%",
+      "original_text": "女性员工占比达14.27%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 13.87,
+      "unit": "%",
+      "original_text": "女性占比 % 13.87",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 7.76,
+      "unit": "%",
+      "original_text": "中国员工流失 % 7.62 9.35 7.76 9.33 9.96 9.75 8.24",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 15.4,
+      "unit": "亿元",
+      "original_text": "研发投入 亿元 15.30 0.10 15.40",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 346500,
+      "unit": "万元",
+      "original_text": "安全投资共34.65亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 10.45,
+      "unit": "亿元",
+      "original_text": "社区投入10.45亿元人民币",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 14,
+      "unit": "人",
+      "original_text": "董事会由14名董事组成，包括执行董事7名（含职工董事1名）、非执行董事1名、独立非执行董事6名（含首席独立董事1名）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 50,
+      "unit": "%",
+      "original_text": "设置6名独立董事和1名非执行董事席位，占董事会席位比例50%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事 2",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及董事会会议次数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 0,
+      "unit": "人",
+      "original_text": "报告期内，我们根据股东会决议取消了监事会，由董事会审计与监督委员会承担原监事会的法定监督职能",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确披露高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，承诺2029年碳达峰、2050年碳中和，并采取清洁能源替代、工艺技术革新、资源循环利用、碳管理机制等措施。",
+      "original_text": "承诺2029年碳达峰、2050年碳中和，明确企业使命为“为人类美好生活提供低碳矿物原料”",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了环境管理体系，设有环保总监和总部环保与生态部，环境绩效纳入高管考核，并通过内部评估与第三方服务相结合的方式持续改进。",
+      "original_text": "公司董事会负责制定环境战略，并任命执行董事、副总裁具体指导环保议题的管理。环保总监作为专项负责人统筹体系落地",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司积极应对客户对低碳产品和服务的需求增加，拓展铜、碳酸锂等与低碳产业直接相关的金属产能。",
+      "original_text": "客户对低碳产品的服务和需求增加，公司除稳步提升现有金属产品产能外，还将投资生产新能源产业相关产品。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司设有生物多样性保护议题，并在报告中提及相关管理措施，如生态修复、植被恢复等。",
+      "original_text": "生物多样性保护 P83-87",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行废弃物管理与循环经济，实施废水100%回用、废石充填、资源综合利用等措施。",
+      "original_text": "废弃物管理与循环经济 98",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严禁童工、强迫劳动与奴役劳工，保障员工基本权益；反对歧视、霸凌、骚扰与恐吓；尊重员工自由结社与集体谈判权利，保障薪酬福利、休息休假与社会保险。",
+      "original_text": "严禁童工、强迫劳动与奴役劳工，保障员工基本权益；反对歧视、霸凌、骚扰与恐吓；尊重员工自由结社与集体谈判权利，保障薪酬福利、休息休假与社会保险。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "推行职业健康安全管理体系，强化安全培训与风险防控，防范职业病与安全事故；具备应急处置能力。通过ISO 45001认证。",
+      "original_text": "推行职业健康安全管理体系，强化安全培训与风险防控，防范职业病与安全事故；具备应急处置能力。通过ISO 45001职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "建立了供应商准入流程，包括材料初审、现场考察与评分、集中会审等环节，评估供应商的ESG表现，包括环境、社会、治理等方面。",
+      "original_text": "供应商准入申请...现场考察与评分...集中会审...审批与准入。供应商ESG评价体系涵盖环境、社会、治理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司因安全与健康理由被投诉数量为0，召回产品数量为0，表明产品安全与质量管控有效。",
+      "original_text": "因安全与健康理由而召回的产品数量 个 0 0 0 0 0 0；因安全与健康理由而被投诉数量 件 0 0 0 0 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "开展了全员数据安全常识培训和新员工信息安全意识培训，通过网络安全宣传提升员工意识。",
+      "original_text": "为提升员工的数据安全与信息保护意识，报告期内我们开展了全员数据安全常识培训和新员工信息安全意识培训。同时通过网络安全宣传...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过社区调查、教育支持、医疗义诊、产业扶持等多种方式参与社区发展，建立常态化沟通与申诉机制。",
+      "original_text": "在非洲刚果（金）子公司卡瑞鲁通过社区调查...支持社区小学建设...哥伦比亚大陆黄金联合政府、教育机构等组建教育联盟...塞紫金与塞紫铜联合发起教育计划...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导性别平等，女性员工占比14.27%，女性管理者占比18.8%，员工来自全球超70个国家和地区，推动本地化雇佣。",
+      "original_text": "截至报告期末，我们的员工来自全球超70个国家和地区，多元化、本地化人才为紫金矿业的发展提供了源源不断的创造力。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "搭建了“董事会战略与可持续发展（ESG）委员会－ESG管理委员会－ESG工作组”的三级治理架构，将ESG议题纳入公司治理体系。",
+      "original_text": "搭建“董事会战略与可持续发展（ESG）委员会－ESG管理委员会－ESG工作组”的三级治理架构，将ESG议题纳入公司治理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定了《企业行为准则》《商业道德政策》等，每年开展反腐败审查，覆盖采购、销售等高风险领域，并建立举报机制。",
+      "original_text": "公司的《企业行为准则》《商业道德政策》《负责任供应链政策》《人权政策》等均阐述了紫金矿业在合规与商业道德方面的立场...每年均会依据反腐败审查计划对各子公司开展巡察、审计、内控、专项检查等工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "建立了事前预防、事中审查及事后优化的决策执行程序，系统化管理商业道德风险，并覆盖供应商和承包商。",
+      "original_text": "我们的合规与商业道德管理遵循事前预防、事中审查及事后优化的决策执行程序，系统化地管理商业道德风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "建立了风控、内控、审计、监察、合规组成的“五位一体”管理体系，并制定了《风险管理制度》，将反腐败列为风险识别的核心。",
+      "original_text": "监督层面建立了风控、内控、审计、监察、合规组成的“五位一体”管理体系...《风险管理制度》，将反腐败列为风险识别的核心",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "由董事会领导的治理架构统筹管理，董事会办公室为职能部门，负责组织投资者交流、信息披露等，保障投资者权益。",
+      "original_text": "紫金矿业的投资者关系与股东权益治理，由董事会领导的治理架构统筹管理，董事会办公室为投资者关系管理的职能部门",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "通过重要性评估、利益相关方参与、申诉机制等程序，了解重大议题和风险领域，并针对优先级别风险采取管理措施。",
+      "original_text": "我们的重要性评估、利益相关方参与、申诉机制、风险清单和尽职调查等程序都帮助我们了解公司的重大议题和风险领域",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "建立健全信息披露制度，确保及时、准确、完整地披露财务状况、经营成果及重大事项，并参照IFRS S1标准发布ESG报告。",
+      "original_text": "公司通过建立健全信息披露制度，确保及时、准确、完整地披露财务状况、经营成果及重大事项等信息...发布首份参照IFRS S1标准的ESG报告",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司税务策略需经区域及公司总部税务主管审核，必要时向子公司董事会报告，确保全球范围内合法、诚实纳税。",
+      "original_text": "需经区域及公司总部税务主管审核，必要时向子公司董事会报告并提调整公司税务策略，确保全球范围内合法、诚实纳税",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "601899_紫金矿业_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

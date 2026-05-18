@@ -1,0 +1,441 @@
+{
+  "company_name": "粤桂股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 156228.46,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 118,449.38 158,090.97 156,228.46",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 6955.84,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量 吨二氧化碳当量 6,919.39 8,154.60 6,955.84",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 149271.62,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放量（范围二） tCO2e 149,936.37 149,271.62",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.51,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元营收 0.35 0.57 0.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 128167.47,
+      "unit": "吨标准煤",
+      "original_text": "128,167.47吨标准煤",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 66,
+      "unit": "%",
+      "original_text": "清洁能源比重达66%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 51728700,
+      "unit": "吨",
+      "original_text": "总耗水量 5,172.87万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 12943400,
+      "unit": "吨",
+      "original_text": "废水排放量 1,294.34万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1585154.33,
+      "unit": "吨",
+      "original_text": "一般废弃物产生量 1,585,154.33吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 7433.65,
+      "unit": "万元",
+      "original_text": "环境保护 环境合规 万元 5,622.96 5,565.54 7,433.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 308.28,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOX）排放量 308.28",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 61.43,
+      "unit": "吨",
+      "original_text": "硫化物（SOX）排放量 61.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 13.078,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放量 13.078",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 3152,
+      "unit": "人",
+      "original_text": "员工总人数 人 3,029 2,922 3,152",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 21.26,
+      "unit": "%",
+      "original_text": "女性员工占比提升至21.26%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 1.12,
+      "unit": "%",
+      "original_text": "管理岗位女性占比达1.12%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 398.44,
+      "unit": "万元",
+      "original_text": "员工培训投入398.44万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 7607.27,
+      "unit": "万元",
+      "original_text": "研发投入 万元 7,661.85 8,064.67 7,607.27",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.49,
+      "unit": "%",
+      "original_text": "研发费用占营收比例为2.49%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 4652.86,
+      "unit": "万元",
+      "original_text": "公司全年累计投入安全费用4,652.86万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 10.0,
+      "unit": "万元",
+      "original_text": "公益捐赠 万元 20.00 3,116.00 10.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会由9名成员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比为三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "其中女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 13,
+      "unit": "次",
+      "original_text": "董事会 13 62 100% 33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": 1046.94,
+      "unit": "万元",
+      "original_text": "2025年度，董事、高管等薪酬（包含现任和离任的董事、高管和监事）：1,046.94万元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'目标，建立碳减排激励机制，将核心指标纳入管理层和员工业绩考核。2025年通过使用节能设备、生物质能发电等措施降碳成效达到预期标准。",
+      "original_text": "公司积极推进碳达峰碳中和，有计划地开展应对气候风险的治理行动...建立了定量管理指标体系与定性的相关治理制度，包括气候风险管理体系，温室气体排放量等",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司主要子公司已通过ISO 14001环境管理体系认证，并主动开展清洁生产审核。制定多项环境管理制度，对大气、水、噪声、固体废弃物等排放物进行严格管控。",
+      "original_text": "截至报告期末，公司主要子公司已通过ISO 14001环境管理体系认证。同时，公司主动开展并通过了清洁生产审核",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发尾矿基胶凝材料等绿色低碳建材产品，可作为42.5水泥替代品，成本低30%-40%。同时推广蔗渣发电、滤泥制肥等技术，实现废弃物资源化利用。",
+      "original_text": "以尾矿为主要原料，成功研发出尾矿基胶凝材料、路面基层材料、高性能混凝土掺合料等绿色低碳建材产品",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司坚持'边开采、边治理、边绿化'原则，推进矿山生态修复。2025年矿山生态修复面积取得成效，矿区已计划筹备矿山公园建设项目。",
+      "original_text": "云硫矿业坚持'边开采、边治理、边绿化'原则，坚持通过生态环境保护和矿山生态恢复治理，推动矿容矿貌持续改善",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过蔗渣发电、滤泥制肥、尾矿资源化利用等实现循环经济。贵糖集团升级废水深度处理系统，中水回用率提升至20%。云硫矿业利用矿山酸性废水110万立方米。",
+      "original_text": "制糖过程中的废弃物处理技术蕴含商机，公司将蔗渣发电、滤泥制肥等技术大力推广后，不仅可以实现内部废弃物的高效利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工劳动保护、职业培训、休息休假等基本权益，依法签订劳动合同，劳动合同签订率100%，无劳工歧视事件。",
+      "original_text": "保障员工劳动保护、职业培训、休息休假等基本权益，为员工...劳工歧视事件0次",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立安全健康防护体系，开展职业健康专项培训18场，安全培训员工覆盖率100%，安全培训总时长15,300小时。",
+      "original_text": "建立'安全健康防护体系'，为矿山板块员工配备智能安全监测设备，开展职业健康专项培训18场；安全培训员工覆盖率100% 安全培训总时长15,300小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《采购管理制度》，明确部门职责分工，为供应链安全管理提供坚实基础。拥有职业健康安全管理体系认证的供应商数目13个。",
+      "original_text": "公司设立了以ESG领导小组为决策层的供应链安全治理架构...制定《采购管理制度》...拥有职业健康安全管理体系认证的供应商数目 个 13",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格遵守产品质量法、食品安全法等法律法规，编制了《质量食品安全管理手册》等制度，开展质量培训52次，参与人次2,378。",
+      "original_text": "公司严格遵守《中华人民共和国产品质量法》《中华人民共和国食品安全法》...编制了《质量食品安全管理手册》...共开展了52次质量培训，参与人次2,378",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视数据信息安全保护，制定《用户个人信息保护的管理规定》，报告期内未发生侵犯客户隐私或泄露客户资料事件。数据安全培训覆盖率100%。",
+      "original_text": "公司高度重视数据信息安全保护...制定了《用户个人信息保护的管理规定》...报告期内，公司未发生任何侵犯客户隐私、泄露或丢失客户资料的事件。数据安全/客户隐私保护相关培训覆盖率 100.00%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，参与社区公益投入，支持乡村振兴，贵糖集团帮扶投入98,200元。",
+      "original_text": "回馈社会是企业矢志不渝的初心使命...积极履行社会责任。贵糖集团帮扶投入 元 / 98,200.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司鼓励董事会成员多元化构成，建立女性员工职业发展支持机制，开展女性技能提升专班，覆盖女性员工405人次。",
+      "original_text": "建立女性员工职业发展支持机制，在管理岗位选拔中明确性别均衡考量，开展'女性技能提升专班'...技能专班覆盖女性员工405人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了‘决策－管理－执行’的三级ESG治理架构，董事会下设战略发展与投资决策委员会、提名委员会、审计委员会、薪酬与考核委员会，明确各方职责。",
+      "original_text": "公司制定《战略发展与投资决策委员会工作细则》，形成董事会及战略发展与投资决策委员会—ESG工作小组—经营层的‘决策－管理－执行’的三级ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立健全廉政风险防控体系，全面识别和评估各业务领域的潜在风险，并制定针对性应对举措，持续强化反腐败风险防控。",
+      "original_text": "公司建立健全廉政风险防控体系，全面识别和评估各业务领域的潜在风险，并制定针对性应对举措，持续强化反腐败风险防控",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司系统性推进合规体系建设，将合规要求深度嵌入全业务链条，完善‘事前预防、事中控制、事后改进’的闭环管理机制，并取得合规管理体系双标认证。",
+      "original_text": "系统性推进合规体系建设。将合规要求深度嵌入全业务链条，完善‘事前预防、事中控制、事后改进’的闭环管理机制，显著提升企业风险抵御能力。公司本部取得合规管理体系GB/T 35770-2022与ISO 37301:2021双标认证",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了‘风险、合规、内控、法务和信息披露’五位一体的‘大风控体系’，并建立了风险识别、评估、应对的闭环管理机制。",
+      "original_text": "公司构建了风险、合规、内控、法务和信息披露‘五位一体’的‘大风控体系’，强化了融合统一、协调运转的‘免疫系统’",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，通过完善信息披露制度、健全舆情监测和优化投资者沟通机制等多维举措，保障投资者权益。",
+      "original_text": "粤桂股份高度重视各利益相关方权益保护，通过完善信息披露制度、健全舆情监测和优化投资者沟通机制等多维举措",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立了与政府、投资者、员工、客户、社区等利益相关方的常态化沟通机制，包括业绩说明会、投资者交流会、员工意见调查等。",
+      "original_text": "公司高度重视与投资者、员工、客户、社区等利益相关方的常态化沟通，积极构建有效的沟通机制。公司持续拓宽沟通边界，采用高效、开放、多元的形式",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司不断完善信息披露制度，确保信息披露的真实、准确、完整、及时、公平，并承诺报告不存在虚假信息。",
+      "original_text": "本报告于2026年3月27日经过董事会审议通过后与年度报告同期发布，我们承诺本报告不存在任何虚假信息、误导性信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司规范税务管理流程，有效防范税务风险并定期披露相关税务信息，报告期内未发生重大税务违规行为。",
+      "original_text": "规范税务管理流程，有效防范税务风险并定期披露相关税务信息。报告期内，公司未发生任何重大税务违规行为",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.942
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

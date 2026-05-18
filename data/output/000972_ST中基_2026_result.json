@@ -1,0 +1,441 @@
+{
+  "company_name": "*ST中基",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 3920.78,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 34,214.87 46,768.64 3920.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3918.95,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接（范围1）温室气体排放 吨二氧化碳当量 34,195.67 46,743.65 3,918.95",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1.83,
+      "unit": "吨二氧化碳当量",
+      "original_text": "能源间接（范围2）温室气体排放 吨二氧化碳当量 19.21 24.98 1.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.43,
+      "unit": "吨二氧化碳当量/百万元",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/百万元 0.30 0.27 0.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5382.01,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 59,666.71 80,188.35 5,382.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 307300,
+      "unit": "吨",
+      "original_text": "废水排放量 万吨 324.11 310.13 30.73",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 4.13,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOX） 吨 4.13",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 373,
+      "unit": "人",
+      "original_text": "员工总人数 人 373",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "管理人员中女性人数比例 % 40",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 5.52,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长 小时/人 5.52",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 42.19,
+      "unit": "%",
+      "original_text": "员工总流失率 % 42.19",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "报告期内，中基健康及其下属分子公司安全生产投入共 元，共签订安全生产目标责任书 份。",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "报告期内，公司董事会成员共 名，其中独立董事 名，外部董事 名，女性董事 名；",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事占比超过三分之一",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "报告期内，公司董事会成员共 名，其中独立董事 名，外部董事 名，女性董事 名；",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "公司召开董事会会议 次，通过董事会决议 个，平均出席率 。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "报告期内，独立董事专门会议召开 次、审计委员会召开 次会议；提名委员会召开 次会议；战略与",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司成立应对气候变化工作小组，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司成立应对气候变化工作小组，统筹重点任务推进与跨部门协同...制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立《环境保护管理制度》，成立环境保护治理领导小组，推行环境责任制，将环保成效纳入绩效考核。",
+      "original_text": "公司依据《环境保护法》等法律法规，建立健全《环境保护管理制度》。成立环境保护治理领导小组...推行环境责任制，将环保成效全面纳入绩效考核体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司研发并规模化生产低碳、有机及高值化产品，满足全球绿色消费升级需求。",
+      "original_text": "研发并规模化生产低碳、有机及高值化产品，满足全球绿色消费升级需求",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司生产经营活动严格执行生态保护红线、环境质量底线、资源利用上线和环境准入负面清单要求，减少对生态环境扰动，积极开展生态修复。",
+      "original_text": "生产经营活动严格执行生态保护红线、环境质量底线、资源利用上线和环境准入负面清单要求，减少对生态环境扰动，积极开展生态修复",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司坚持源头减量、循环利用原则，推进废水深度净化回用，食品残渣等有机固废售卖给有资质单位进行资源化处理。",
+      "original_text": "公司坚持'源头减量、循环利用'原则，优先推进废水深度净化回用...对于食品残渣等有机类固体废物，售卖给有资质单位进行资源化处理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉持以人为本理念，完善招聘、培训、发展等制度体系，营造公平公正包容的用工环境，通过多元化培训和成长通道支持员工能力提升与职业发展。",
+      "original_text": "中基健康始终将员工视为企业最重要的资源和核心竞争力，高度重视员工合法权益保护与职业发展。公司持续完善招聘管理和培训发展等制度体系，营造公平、公正、包容的用工环境，通过多元化培训和成长通道支持员工能力提升与职业发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司持续完善职业健康安全管理体系，系统识别和管控职业健康风险，组织应急演练与健康培训，落实全员体检与工伤保险全覆盖。",
+      "original_text": "公司持续完善职业健康安全管理体系，系统识别和管控职业健康风险，切实保障员工职业健康安全。针对存在较高职业健康风险的岗位，公司重视员工职业健康保障，通过系统开展职业健康相关培训，公司持续提升员工对职业病危害的认知和防护能力，为保障员工职业健康与安全，公司在报告期内组织全体员工进行体检。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立系统化的供应链管理实践，包括供应商考核、培训、应急响应机制，并注重与供应商建立长期战略合作关系。",
+      "original_text": "中基健康始终将可持续供应链管理视为价值链风险管控的核心策略。通过系统化的供应链管理实践，我们致力于有效管理供应链风险。公司注重与供应商建立长期战略合作关系，定期组织供应商培训和交流活动，分享质量标准、安全要求和行业最佳实践。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全链条质量管控体系，严格执行国家及国际标准，通过识别、评估、监测、管理四个环节形成动态闭环管理机制，确保产品安全可靠。",
+      "original_text": "公司建立了产品安全与质量风险机遇管理体系，通过识别、评估、监测、管理四个环节，形成动态闭环管理机制。该体系确保产品质量安全可控、全程可追溯。公司严格执行食品安全管理体系要求，对生产全过程实施标准化管理和质量控制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建全方位数据安全管理体系，制定相关制度，开展专项培训，实施数据分级分类，报告期内未发生重大数据安全事件。",
+      "original_text": "公司构建“合规为基、技术为盾、管理为纲”的全方位数据安全管理体系，制定《信息化管理办法》《保密管理办法》等制度。公司组织开展信息安全与隐私保护专项培训，报告期内未发生信息数据安全事件及泄露客户隐私事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社会公益活动，组织员工参与社区建设、志愿服务和社会公益活动，以实际行动回馈社会。",
+      "original_text": "中基健康始终将履行社会责任视为企业可持续发展的关键要素，积极投身各类社会公益活动。通过有序组织员工参与社区建设、志愿服务和社会公益活动，以实际行动回馈社会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司设立女职工委员会，保障女职工权益，少数民族员工28人，管理层中少数民族1人。",
+      "original_text": "设立女职工委...少数民族员工数 人 28 管理层中少数民族员工数 人 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立董事会战略与ESG委员会，下设ESG领导小组与ESG工作小组，形成“决策－管理－执行”三层管理架构，并将ESG治理纳入绩效考核。",
+      "original_text": "公司设立董事会战略与ESG委员会，下设ESG领导小组与ESG工作小组，形成了“决策－管理－执行”的三层管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立了健全的廉政治理框架，纪委作为监督机构，下设纪检监察部门，开展廉政风险排查，共识别廉政风险162项，制定防控措施158条。",
+      "original_text": "公司建立了健全的廉政治理框架，公司纪委作为党风廉政建设和反腐败工作的监督机构，下设纪检监察部门",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信经营与公平竞争，建立反垄断合规管理体系，制定《反垄断合规管理办法》等制度，设立反垄断与反不正当竞争工作领导小组。",
+      "original_text": "中基健康坚持诚信经营与公平竞争理念，持续推进商业道德与合规文化建设，完善制度规范与监督机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，制定《全面风险管理制度》《内部控制管理制度》等，实行“三道防线”分级管理，定期开展风险评估。",
+      "original_text": "中基健康将全面风险管理和内部控制放在公司经营的重要位置，遵循全面、审慎、独立、有效、适时的原则，建立全面风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司修订《投资者关系管理制度》，通过多渠道信息披露与投资者交流活动，保障股东合法权益，提升公司透明度。",
+      "original_text": "公司进一步完善投资者关系管理体系，修订《投资者关系管理制度》，明确投资者关系管理的目标、职责和流程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司完成利益相关方识别，确定6类关键利益相关方，搭建多元化沟通渠道，包括财务报告、股东会、公司公告等。",
+      "original_text": "公司完成利益相关方识别，确定6类关键利益相关方，搭建多元化沟通渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》《内幕信息知情人登记及管理制度》，通过多种渠道确保信息披露的及时性、准确性和完整性，并开展自愿性信息披露。",
+      "original_text": "中基健康严格遵守信息披露相关法律法规和监管要求，持续提升信息披露的质量和效率",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司推进税收筹划的深度和精细化管理，规避税务风险，重点关注涉税风险，对投资、采购、销售等业务关注定价及税负承担条款。",
+      "original_text": "公司与相关部门协同配合，推进税收筹划的深度和精细化管理，规避税务风险，重点关注涉税风险",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

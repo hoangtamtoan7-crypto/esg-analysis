@@ -1,0 +1,441 @@
+{
+  "company_name": "美利云",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 151.2,
+      "unit": "吨",
+      "original_text": "总耗水量（吨） 151.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 990,
+      "unit": "人",
+      "original_text": "员工总数（人） 990",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 26.43,
+      "unit": "小时/人",
+      "original_text": "员工培训平均时长（小时） 26.43",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 7,
+      "unit": "%",
+      "original_text": "员工离职率（%） 7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1431,
+      "unit": "万元",
+      "original_text": "研发投入（万元） 1,431",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 105,
+      "unit": "万元",
+      "original_text": "2024年公司安全生产投入资金超105万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会规模（人） 7",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事人数（人） 3",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "董事会会议次数（次） 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极落实国家双碳战略，将减缓气候变化作为重要责任，制定应对气候变化相关管理制度，将双碳工作纳入公司发展战略。",
+      "original_text": "美利云积极落实国家“双碳”战略，将减缓气候变化带来的影响作为自身重要责任，高度重视应对气候变化相关事宜，制定应对气候变化相关管理制度，明确可持续管理架构，将“双碳”工作纳入公司发展战略，融入生产经营",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司以保护环境、绿色节能、低碳排放为环境管理方针，制定《环保管理制度》，子公司取得ISO14001环境管理体系认证。",
+      "original_text": "美利云子公司取得ISO14001环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司以绿色低碳数据中心为根基，发展清洁能源产业，投资建成50MWp光伏电站，实现云、光、纸三大产业联动。",
+      "original_text": "公司以绿色低碳数据中心为根基，以能源板块为重要支撑，致力于为核心业务...公司在2018年投资2.09亿元建成50MWp光伏电站，实现云、光、纸三大产业的有机联动与多元化发展",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司坚守绿水青山就是金山银山的生态理念，将保护生物多样性作为公司发展的重要内容，通过植树造林、沙漠治理等措施改善生态环境。",
+      "original_text": "美利云坚守“绿水青山就是金山银山”的生态理念，积极履行企业社会责任，将保护生物多样性作为公司发展的重要内容...通过植树造林、沙漠治理等措施，为改善生态环境做出了积极贡献",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过技术改造、工艺设备升级及材料迭代，提高材料循环使用率，推动可回收材料的使用并持续加大使用比例。",
+      "original_text": "通过技术改造、工艺设备升级及材料迭代，提高生产过程中材料循环使用率；推动可回收材料的使用并持续加大使用比例",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司致力于创造一个无歧视的工作环境，确保所有员工在招聘、培训、晋升和薪酬等方面享有平等的权利和机会。建立完善的投诉和举报机制，鼓励员工举报任何强迫劳动行为。",
+      "original_text": "公司致力于创造一个无歧视的工作环境，确保所有员工在招聘、培训、晋升和薪酬等方面享有平等的权利和机会。建立完善的投诉和举报机制，鼓励员工举报任何强迫劳动行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过完善的安全管理体系、先进的健康保障措施以及持续的培训与文化建设，为员工创造安全、健康、和谐的工作环境。子公司星河科技于2023年通过职业健康安全管理体系认证。",
+      "original_text": "美利云将保障员工健康与安全生产视为企业生存的生命线，通过完善的安全管理体系、先进的健康保障措施以及持续的培训与文化建设，为员工创造一个安全、健康、和谐的工作环境。子公司星河科技于2023年通过职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司致力于打造诚信合规、公开透明、绿色健康的可持续供应链，制定《采购管理办法》等制度文件，对供应商竞争手段、反腐败、安全与环保等多方面进行评估。",
+      "original_text": "公司致力于打造诚信合规、公开透明、绿色健康的可持续供应链，制定《采购管理办法》《采购决策委员会议事规则》等制度文件，对供应商竞争手段、反腐败和反商业贿赂规定、履约诚信、安全与环保问题等多方面进行评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司深入贯彻全面质量管理理念，持续优化内部质量管理体系，制定严格的质量标准和流程，确保产品质量稳定可靠。已取得ISO9001:2015认证。",
+      "original_text": "公司始终将产品质量置于首位，全力营造卓越的质量文化氛围。公司深入贯彻全面质量管理理念，持续优化内部质量管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守《民法典》《个人信息保护法》《网络安全法》等法律法规，构建全面的数据安全及客户隐私保护管理体系，报告期内未发生数据安全或客户隐私泄露事件。",
+      "original_text": "公司始终将维护数据安全和客户隐私置于至关重要的地位，严格遵守《民法典》《个人信息保护法》《网络安全法》等相关法律法规，构建全面的数据安全及客户隐私保护管理体系。报告期内，公司未发生数据安全或客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社会公益事业，助力乡村振兴，开展定点帮扶等活动，以实际行动回馈社会。",
+      "original_text": "公司积极参与各项公益事业，开展乡村振兴、定点帮扶等社会活动，以实际行动回馈社会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司致力于创造一个无歧视的工作环境，确保所有员工在招聘、培训、晋升和薪酬等方面享有平等的权利和机会。",
+      "original_text": "公司致力于创造一个无歧视的工作环境，确保所有员工在招聘、培训、晋升和薪酬等方面享有平等的权利和机会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立由董事会、战略与ESG管理委员会、ESG执行机构组成的三层ESG治理架构，并制定相关制度规范各层级权责。",
+      "original_text": "公司建立由董事会、战略与ESG管理委员会、ESG执行机构组成的三层ESG治理架构，建立健全《战略与ESG管理委员会议事规则》《ESG管理制度》《ESG信息披露工作流程指导手册》等制度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司高度重视反腐败工作，签订《党风廉政建设目标责任书》，开展廉政警示教育、反腐倡廉宣教月活动，组织签订廉洁从业承诺书，开展反腐廉洁相关培训。",
+      "original_text": "美利云高度重视反腐败工作，将全面从严治党要求贯穿于企业治理的全过程。党委书记、支部书记带头落实全面从严治党总要求，签订《党风廉政建设目标责任书》...开展反腐廉洁相关培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司遵守商业道德，强化合规管理，制定《合规管理办法》等制度，设立首席合规官，构建合规管理体系，开展合规培训，覆盖100%重点领域。",
+      "original_text": "公司遵守商业道德...制定《合规管理办法》《规章制度管理办法》等内部制度，设立首席合规官...合规管理目标：重大合规事件发生率控制在0.05‰以内，建立覆盖100%重点领域的合规审查清单",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，制定《全面风险管理办法》等文件，构建风险管理三道防线，运用风险清单和动态预警系统，定期开展风险评估和应对。",
+      "original_text": "公司依据《企业国有资产监督管理暂行条例》《中央企业全面风险管理指引》等制度要求，制定《全面风险管理办法》《全面风险管理指引》等内部文件...构建风险管理三道防线",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《接待和推广工作制度》《投资者关系管理制度》等，保护投资者权益，确保信息披露真实、准确、完整、及时、公平。",
+      "original_text": "公司遵守《公司法》《证券法》...制定《接待和推广工作制度》《投资者关系管理制度》等法律、法规和规范性文件要求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立利益相关方信息沟通机制，通过多元化沟通渠道（如调研、会议、走访等）深入了解各方期望与诉求，确保信息畅通。",
+      "original_text": "公司建立利益相关方信息沟通机制，通过多元化的沟通渠道，深入了解各方期望与诉求，确保与利益相关方保持信息畅通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司承诺报告披露信息真实、准确、完整，已获董事会确认审议通过，不存在虚假记载、误导性陈述。",
+      "original_text": "公司承诺本报告披露之信息和数据均已得到董事会确认并审议通过，不存在任何虚假记载、误导性陈述",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.769
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

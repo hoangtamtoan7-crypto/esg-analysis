@@ -1,0 +1,442 @@
+{
+  "company_name": "温氏股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围 范围 范围 ） 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 152402,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接排放（范围1）（吨二氧化碳当量） 152,402",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1296366,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接排放（范围2）（吨二氧化碳当量） 1,296,366",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "排放强度 吨二氧化碳当量 百万元营收",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 31318800,
+      "unit": "吨",
+      "original_text": "总耗水量（万吨） 3,131.88",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 15760000,
+      "unit": "吨",
+      "original_text": "排水总量（万吨） 1,576",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1192355,
+      "unit": "吨",
+      "original_text": "无害废弃物（吨） 1,192,225",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "环保投入 开展员工环境培训 循环用水",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 50205,
+      "unit": "人",
+      "original_text": "普通员工（人） 50,205",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 29.26,
+      "unit": "%",
+      "original_text": "全体女性员工比例（%） 29.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 12.66,
+      "unit": "%",
+      "original_text": "管理层女性员工比例（%） 12.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 2800,
+      "unit": "万元",
+      "original_text": "全年培训投入（万元） 2,800 2,800 2,800",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 7.4,
+      "unit": "%",
+      "original_text": "员工离职率（ ） 10.01 8.74 7.40",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 81500,
+      "unit": "万元",
+      "original_text": "研发投入总金额（亿元） 6.41 7.21 8.15",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 8296.88,
+      "unit": "万元",
+      "original_text": "安全生产方面总投入（万元） 6,070.36 8,439.48 8,296.88",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "温氏股份捐赠总额 其中：慈善会捐赠总额 教育事业捐赠总额 其他捐赠总额（如工程建设、科学、文化、卫生和体育公益事业等）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "独立董事4人，非独立董事8人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事4人，非独立董事8人，独立董事比例约为33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性1人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "报告期内，公司共召开 次董事会会议",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "报告期内，公司董事、高级管理人员薪酬情况详见公司《 年年度报告》",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，系统性应对气候变化，通过节能技术改造、清洁能源替代、循环经济等手段开展气候应对行动，并制定碳中和路线图。",
+      "original_text": "温氏股份深刻认识到气候变化对生态环境与社会经济发展的深远影响，积极响应国家'碳达峰、碳中和'战略，系统性应对气候变化带来的风险和机遇",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，制定多项内部管理文件，规范废气排放、环境监测及风险防控，并委托第三方定期监测环境指标，确保排放达标。",
+      "original_text": "严格落实环保与碳减排主体责任，健全全流程合规管控体系，加大绿色低碳技术投入与清洁能源应用，强化粪污治理、臭气控制、排放监测及碳数据管理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司积极推进低碳产品认证与碳标签体系建设，提升全产业链绿色低碳水平，并推广绿色生态养殖模式。",
+      "original_text": "主动对标权威绿色低碳标准，积极推进低碳产品认证与碳标签体系建设，持续提升全产业链绿色低碳水平",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司遵守生物多样性保护相关法律法规，系统推进环境风险识别、隐患排查及生态保护工作，并关注生物多样性及土地利用议题。",
+      "original_text": "遵守国家关于生物多样性保护、农田灌溉水质等政策要求，系统推进环境风险识别、隐患排查及生态保护工作",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司深入推广'三改两分再利用'工艺，推进畜禽粪污资源化利用，构建种养结合、农牧循环模式，并开发废水养藻高值转化技术。",
+      "original_text": "公司深入推广'三改两分再利用'工艺，通过高效清洗、废水深度处理和回收利用、家庭农场舍外发酵床技术等措施，推进养殖场、家庭农场的废水排放减量化和无害化",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵循国家劳动法律法规，构建涵盖劳动权益保障、薪酬福利激励、职业成长赋能、健康安全管理及人文关怀的全面员工关爱体系。依法与员工签订书面劳动合同，足额缴纳社保及住房公积金，提供补充商业保险、年度体检等福利。",
+      "original_text": "公司遵循国家劳动法律法规，构建涵盖劳动权益保障、薪酬福利激励、职业成长赋能、健康安全管理及人文关怀的全面员工关爱体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司持续推动所有分子公司职业健康安全管理体系的认证与应用，修订发布《安全生产管理规定》《自然灾害突发应急预案》等制度，组织安全培训及应急演练数百场次，特种作业持证上岗率、安全教育培训率、职业健康体检率、安全检查覆盖率和隐患整改率达100%。",
+      "original_text": "公司持续推动所有分子公司职业健康安全管理体系的认证与应用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司高度重视供应链风险管理，通过多元化供应商策略、完善的风险管理机制以及实时监控体系，确保供应链的稳定、高效与可持续发展。在采购过程中严格审查供应商资质，并开展原料质量评估，从源头控制原料质量和采购风险。",
+      "original_text": "公司高度重视供应链风险管理，通过多元化供应商策略、完善的风险管理机制以及实时监控体系，确保供应链的稳定、高效与可持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以科技创新为驱动，构建从农场到餐桌的全产业链质量管控体系，通过严格的标准化管理、先进的检测技术和完善的质量追溯系统，确保产品安全。公司建立和完善了“两查四检”食品安全管控体系，落实《食品安全突发事件应急预案》。",
+      "original_text": "公司以科技创新为驱动，构建从农场到餐桌的全产业链质量管控体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司设立信息安全委员会统筹推进信息安全管理体系建设，发布《员工信息安全行为管理办法》及《数据安全风险排查与防护指南》，规范全员信息安全行为，统一数据安全风险排查与防护标准。报告期内未发生重大信息安全事件。",
+      "original_text": "公司设立信息安全委员会统筹推进信息安全管理体系建设，发布《员工信息安全行为管理办法》及《数据安全风险排查与防护指南》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过北英慈善基金会、温氏志愿者服务队等平台参与社区公益，包括捐资助学、乡村振兴、医疗帮扶等。报告期内广东省社会组织总会高度认可北英基金会的公益工作。",
+      "original_text": "北英慈善基金会、温氏志愿者服务队",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司严格落实劳动权益保护相关要求，在招聘、晋升、培训等环节禁止性别、年龄、种族、宗教、性取向、残疾等因素的歧视行为，落实同工同酬。通过职工代表大会签订《女职工权益保护专项合同》，推动性别平等落地。",
+      "original_text": "在招聘、晋升、培训等环节禁止性别、年龄、种族、宗教、性取向、残疾等因素的歧视行为，落实同工同酬。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会层面设立战略与ESG委员会，构建起“董事会—管理层—执行层”三级联动的ESG治理架构。",
+      "original_text": "会层面正式设立“战略与ESG委员会”，明确董事会对ESG战略的监督职责，构建起“董事会—管理层—执行层”三级联动的ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司执行《商业行为准则》，全面覆盖反腐败廉洁、公平交易经营、利益冲突申报、礼品招待规范等核心维度，构建四级监察管理体系。",
+      "original_text": "行《商业行为准则》，准则全面覆盖反腐败廉洁、公平交易经营、利益冲突申报、礼品招待规范等核心维度，明确全员从业行为红线与合规管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司持续保持合规经营，未发生任何涉嫌垄断或不正当竞争的重大事件，并定期开展反垄断合规培训。",
+      "original_text": "报告期内，公司持续保持合规经营的良好态势，未发生任何涉嫌垄断或不正当竞争的重大事件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了“董事会—风险管理委员会及审计委员会—管理层”三道防线风险管理体系，覆盖战略投资、法律合规等六大板块风险。",
+      "original_text": "风险管理委员会及审计委员会构成第二道防线，负责统筹协调与监督指导；董事会作为第三道防线，提供战略决策与最终监督。该体系全面覆盖战略投资、法律合规等六大板块主要风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过定期信息披露、股东会、投资者路演、电话会议、券商策略会、现场调研、业绩说明会、投资者热线电话等方式与投资者沟通。",
+      "original_text": "定时披露经营信息 • 召开股东会 • 投资者路演 • 电话会议 • 券商策略会 • 现场调研 • 业绩说明会 • 投资者热线电话",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司利益相关方涵盖政府、消费者、合作伙伴、股东、员工、社区等，通过多种渠道保持常态化沟通。",
+      "original_text": "公司的利益相关方涵盖政府与监管机构、消费者、合作伙伴、股东与投资者、员工及社区等多个群体。公司通过建立常态化的沟通渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司通过巨潮资讯网和公司网站披露报告，确保信息披露的透明度。",
+      "original_text": "信息披露网站巨潮资讯网（ ）或公司网站（ ）查阅和下载",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未在报告中找到关于税务透明度的具体描述。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "300498_温氏股份_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

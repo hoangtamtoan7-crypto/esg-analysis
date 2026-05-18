@@ -1,0 +1,441 @@
+{
+  "company_name": "新 和 成",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2881462.23,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一、范围二） 2,881,462.23 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 897516.3,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 897,516.30 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1983945.93,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 1,983,945.93 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2.47,
+      "unit": "吨二氧化碳当量/吨产量",
+      "original_text": "温室气体排放强度（范围一、范围二） 2.47 吨二氧化碳当量/吨 产量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 2.46,
+      "unit": "%",
+      "original_text": "清洁能源使用占比 2.46 %",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 16353000,
+      "unit": "吨",
+      "original_text": "总取水量 16,353,000 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 9465965.8,
+      "unit": "吨",
+      "original_text": "工业废水排放量 9,465,965.80 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 334.27,
+      "unit": "吨",
+      "original_text": "氮氧化物(NO) 排放量 334.27 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 66.54,
+      "unit": "吨",
+      "original_text": "二氧化硫 (SO X ) 排放量 66.54 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 30.11,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 30.11 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 11508,
+      "unit": "人",
+      "original_text": "男性员工 9,208 人，女性员工 2,300 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 19.99,
+      "unit": "%",
+      "original_text": "女性员工 2,300 人，总员工 11,508 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 25.0,
+      "unit": "%",
+      "original_text": "高级管理层中女性占比 25.00 %",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 512,
+      "unit": "万元",
+      "original_text": "年度培训支出金额 512 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 45.01,
+      "unit": "小时/人",
+      "original_text": "员工人均受训时长 45.01 小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 4.29,
+      "unit": "%",
+      "original_text": "员工流失率 4.29 %",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 109900,
+      "unit": "万元",
+      "original_text": "研发经费（科技创新相关资金）10.99 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.94,
+      "unit": "%",
+      "original_text": "占主营业务收入4.94%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 123,
+      "unit": "万元",
+      "original_text": "投入123万元为高危领域员工购买安全生产责任险",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 493,
+      "unit": "万元",
+      "original_text": "公益慈善投入金额 493 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "公司目前共有11名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "4名为独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 0,
+      "unit": "人",
+      "original_text": "女性董事占比 0 %",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司依据TCFD框架识别气候风险与机遇，制定碳管理手册等制度，目标2030年单位营收温室气体排放较2023年降低25%，2060年实现运营碳中和。",
+      "original_text": "我们依据TCFD框架，系统识别气候相关风险与机遇，稳步推进气候行动...到2060年，实现运营碳中和（范围1+范围2）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "所有子公司均通过ISO14001环境管理体系认证，获得认证工厂占比100%。",
+      "original_text": "报告期内，新和成所有子公司均通过ISO14001环境管理体系认证。获得ISO14001 环境管理体系认证工厂占比 100 %",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推动绿色低碳产品创新，开发零碳产品，实施产品碳足迹核算。目标到2030年绿色低碳类产品销售占比15%以上。",
+      "original_text": "推动绿色低碳产品创新，开发零碳产品；实施产品碳足迹核算，提升绿色竞争力。到2030年，绿色低碳类产品销售占比为15%以上",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "报告提及生物多样性作为ESG议题之一，但未提供具体措施或目标。",
+      "original_text": "践行国家战略 生物多样性 | 循环经济 客户关系管理 | 环境管理 创新与研发 化学品安全 应对气候变化",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司深度践行循环经济发展模式，推进脚料回收、固废综合利用，全年累计减少危险废物产生量4,425吨，节约蒸汽消耗5.3万吨，削减外排废水4.3万吨。",
+      "original_text": "深度践行循环经济发展模式，致力于实现资源的高效与循环利用...全年累计减少危险废物产生量4,425吨，节约蒸汽消耗5.3万吨，削减外排废水4.3万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司建立健全员工关怀机制，提供身心健康咨询、法律援助等，依法保障员工权益，劳动合同签订率100%。",
+      "original_text": "新和成建立健全员工关怀机制，提供身心健康咨询、法律援助、子女入学保障、就医绿色通道等专业化服务",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司遵循职业健康安全法规，建立HSE管理体系，ISO45001认证覆盖率100%，开展职业健康与安全培训193次。",
+      "original_text": "各子公司均已成功获得 ISO45001职业健康安全管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司致力于构建负责任供应链，对供应商进行准入审核、ESG评估，并要求签署《环境与职业健康安全协议》。",
+      "original_text": "新和成致力于构建负责任、可持续的供应链体系，通过严格的供应商准入、审核和风险管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持客户导向的质量理念，构建质量保障体系，未发生重大产品与质量事故，实施年度质量控制与产品安全培训。",
+      "original_text": "新和成将产品质量与安全视为企业可持续发展的基石，坚持'客户导向'的质量理念",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司系统构建信息安全防护体系，开展信息安全培训73次，覆盖100%员工，侵犯客户隐私事件数量为0。",
+      "original_text": "公司始终将信息安全与客户隐私保护置于战略核心，系统构建起覆盖'人员、流程、技术、生态'的全方位防护体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过环保开放日、公益慈善活动等参与社区建设，2025年公益慈善投入493万元，乡村振兴投入60万元。",
+      "original_text": "公司通过定期开展环保公开日，邀请周边居民进入厂区",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重员工多样性，提供女性员工关爱措施，如瑜伽课程、女性专项体检、产假等，女性员工占比约20%。",
+      "original_text": "常态化开设瑜伽课程、定期组织女性专项体检，举办亲子互动、健康关怀等活动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会是ESG最高决策机构，下设战略委员会和ESG管理委员会，再设两个工作小组。",
+      "original_text": "董事会是公司ESG工作的最高决策机构...下设董事会战略委员会...ESG管理委员会下设两个ESG工作小组",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵循商业道德准则，对一切腐败和贪污零容忍，每年商业道德与反贪腐培训覆盖率达100%。",
+      "original_text": "新和成将商业道德视为企业合规经营的基石...对一切腐败和贪污...每年商业道德与反贪腐培训覆盖率达100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司已建立结构完整、权责明确的商业道德治理架构，董事会全面承担领导监督责任。",
+      "original_text": "公司已建立结构完整、权责明确的商业道德治理架构，公司董事会全面承担商业道德建设工作的领导、监督",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司完善《内部控制制度》，构建全域风险清单，对关联交易、对外担保等高风险领域进行专项控制。",
+      "original_text": "公司进一步完善《内部控制制度》...构建起风险识别、评估与应对...对关联交易、对外担保、募集资金使用、重大投资、信息披露等高风险管理领域",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格遵循相关指引，以透明化沟通、专业化服务、全周期管理为核心，全年累计多维度推进投资者关系管理。",
+      "original_text": "公司严格遵循《上市公司投资者关系管理指引》...以透明化沟通、专业化服务、全周期管理为核心...全年累计多维度、高频次推进投资者关系管理工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立多元畅通的沟通渠道，识别员工、客户、股东、政府、供应商、社区等利益相关方，并定期沟通。",
+      "original_text": "新和成关注利益相关方对公司的意见与建议，通过建立多元畅通的沟通渠道与各相关方的定期沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司第17次荣获深交所信息披露考核A级评价，确保报告内容符合企业会计准则及监管披露要求。",
+      "original_text": "公司第17次荣获深交所信息披露考核A级评价...确保报告内容符合企业会计准则及监管披露要求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.913
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

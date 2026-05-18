@@ -1,0 +1,441 @@
+{
+  "company_name": "中国稀土",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量为 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放量（范围一）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放量（范围二）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "万元产值二氧化碳排放量（可比价）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 8984.47,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 8,984.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "公司用水总量为",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "公司废水排放总量为",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 6092.25,
+      "unit": "吨",
+      "original_text": "一般废弃物排放总量 吨 6,092.25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 4310.97,
+      "unit": "万元",
+      "original_text": "环保投入 4,310.97 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 243,
+      "unit": "人",
+      "original_text": "公司在职员工总人数 243",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 26,
+      "unit": "%",
+      "original_text": "员工流失率 26%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4000.05,
+      "unit": "万元",
+      "original_text": "研发投入 4,000.05 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 971.14,
+      "unit": "万元",
+      "original_text": "安全生产投入 971.14 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司董事会有 7 名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 43,
+      "unit": "%",
+      "original_text": "独立董事占比 43 %",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事 1 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "董事会召开 10 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司共有监事 其中职工监事",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司遵循《联合国气候变化框架公约》及《巴黎协定》，制定《碳达峰碳中和行动方案》，推进双碳工作。",
+      "original_text": "格遵循《联合国气候变化框架公约》及《巴黎协定》的目标和原则，坚定地致力于应对气候变化，积极推动低碳环保的发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司及所属企业通过ISO14001:2015环境管理体系认证，制定《环境保护管理制度》等制度。",
+      "original_text": "与广州建丰均通过 IS014001:2015 环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推动绿色低碳发展，研发氟碳铈镧矿联动循环分离技术，实现高效绿色低碳综合利用。",
+      "original_text": "氟碳铈镧矿联动循环分离技术科技成果顺利通过鉴定，实现了高效、绿色低碳和综合利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司重视生态修复与生物多样性保护，开展植树造林、水土保持等生态修复工作，绿化面积约117,500m2。",
+      "original_text": "中稀湖南通过采购草籽和树苗，对采场已采区及周边区域进行绿化，绿化总面积约117,500m2。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推广循环经济模式，减少资源消耗和废弃物产生，推进高盐废水技术产业化，实现资源循环利用。",
+      "original_text": "通过推广循环经济模式，将最大限度地减少资源消耗和废弃物产生；持续推动绿色技术的发展和应用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵循《中华人民共和国劳动法》，与全体员工订立劳动合同，禁止雇佣童工和强迫劳工，杜绝歧视。",
+      "original_text": "商一致的原则与全体员工订立劳动合同，坚决禁止雇佣童工和任何形式的强迫劳工，杜绝基于性别、民族、职业、歧视",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立HSE目标管理体系，制定安全环保责任书，开展安全教育培训和应急演练，保障员工健康安全。",
+      "original_text": "公司定期开展员工安全生产教育培训，持续增强全员的安全意识和专业技能，营造安全稳定的工作环境，致力于保障员工的生命健康与安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商管理制度，对供应商进行质量、价格、服务等定期评估，并强调合规管理、环境保护、员工权益等。",
+      "original_text": "公司及所属企业均建立相应的供应商管理制度，以制度化、规范化形式明确供应商的评估维度和具体要求，保证供应链的可持续性和透明度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过质量管理体系认证，制定质量环境管理手册，开展质量内审和第三方抽检，产品合格率100%。",
+      "original_text": "公司年度质量内审 聘请第三方抽检次数 产品合格率为 100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《保密工作制度》，建立信息安全管理体系，保障客户隐私和商业信息安全。",
+      "original_text": "中国稀土及其所属企业严格遵守国家和监管机构对客户隐私的法律和制度要求，高度重视客户隐私保护，不断完善公司的信息安全管理体系；同时，制定《保密工作制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，投身公益事业，开展志愿者活动，助力乡村振兴。2023年公司及所属企业开展志愿者活动，有志愿者活动总时长和参与人次。",
+      "original_text": "中国稀土积极履行国有企业责任担当，积极投身公益事业，以实际行动回馈社会。公司公益总投入，开展志愿者活动，志愿者活动总时长，志愿者活动参与人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，无歧视，打造多元化人才队伍。招聘退役军人、残疾员工、少数民族员工。女性管理人员和女性技术人员有具体比例。",
+      "original_text": "公司始终坚持公平合法、平等自愿、协商一致的原则，无歧视。积极打造平等、多元化的人才队伍。中稀湖南在岗职工招聘退役军人5人，岗位外包退役军人4人，残疾员工1人，少数民族员工36人。公司管理人员中女性人数比例为，技术人员中女性占比为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司重视建立健全ESG治理体系和工作机制，积极促进ESG理念融入公司长期发展战略。",
+      "original_text": "公司重视建立健全 ESG 治理体系和工作机制，积极促进 ESG 理念有机融入公司长期发展战略",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司深化‘不敢腐、不能腐、不想腐’一体推进，召开党风廉政建设和反腐败工作会议，组织签署廉洁承诺书，推进廉洁风险防控。",
+      "original_text": "全面从严治党，保持反腐败政治定力，深化 '不敢腐、不能腐、不想腐' 一体推进",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司开展反垄断与公平竞争培训、反贪污培训，制定商业道德相关制度，保障招标过程中的公平竞争。",
+      "original_text": "开展反垄断与公平竞争培训 参与人数 开展反贪污培训 参加反贪污培训的董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司设立专门风险管理岗位，每年进行风险评估，制定风险管理解决方案，并定期跟踪重大风险。",
+      "original_text": "中国稀土一贯重视风险管理工作，设立了专门的风险管理职责岗位负责风险管理相关工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定了《投资者关系管理制度》，通过投资者热线、互动平台等方式与投资者沟通，保障投资者知情权。",
+      "original_text": "制定了《投资者关系管理制度》，通交流，提高信息透明度，切实保障投资者知情权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立与政府、股东、员工、供应商、客户等利益相关方的沟通机制，并通过问卷调研识别ESG实质性议题。",
+      "original_text": "公司通过搭建良好的内、外部沟通平台，建立与政府或监管机构、股东及投资者、员工、供应商、客户、行业协会或科研机构、公益组织或社区组织、媒体等利益相关方畅通、透明的沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定了《信息披露事务管理制度》《年报信息披露重大差错责任追究制度》，实行严格的信息披露管理。",
+      "original_text": "为加强公司信息披露管理，规范公司的信息披露行为，提高公司的信息披露的质量和透明度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司遵循‘依法合规，应纳尽纳，应享尽享’原则，建立税务管理内控流程，确保税务核算准确合规。",
+      "original_text": "据 '依法合规，应纳尽纳，应享尽享' 原则，建立企业税务管理内控流程",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

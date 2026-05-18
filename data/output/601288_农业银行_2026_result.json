@@ -1,0 +1,442 @@
+{
+  "company_name": "农业银行",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 2049407.04,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围一+范围二） 吨二氧化碳当量 2,049,407.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 151438.27,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 151,438.27",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 1897968.77,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 1,897,968.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2.83,
+      "unit": "吨二氧化碳当量/百万元",
+      "original_text": "单位营收温室气体排放量（范围一+范围二） 吨二氧化碳当量/百万元 2.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 540244.51,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗量 吨标准煤 540,244.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 5.78,
+      "unit": "%",
+      "original_text": "清洁能源使用量占比 % 5.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 27363702.0,
+      "unit": "吨",
+      "original_text": "耗水总量 吨 27,363,702.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 0.11,
+      "unit": "吨",
+      "original_text": "氮氧化物（NO ）排放量 吨 0.11",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.01,
+      "unit": "吨",
+      "original_text": "硫氧化物（SOx）排放量 吨 0.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.04,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放量 吨 0.04",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 421000,
+      "unit": "人",
+      "original_text": "员工总人数（人）：员工总人数指本集团范围内签有劳动合同的员工总人数，包括境内机构、境外分子行及代表处和综合化经营子公司等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 50.1,
+      "unit": "%",
+      "original_text": "女性员工 人 213,824 210,901",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 144,
+      "unit": "小时/人",
+      "original_text": "员工参训平均时长144学时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.81,
+      "unit": "%",
+      "original_text": "员工整体流失率 % 0.81 1.06",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 350,
+      "unit": "万元",
+      "original_text": "2025年捐赠 350 万元",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 15,
+      "unit": "人",
+      "original_text": "本行董事会共有董事15名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "独立董事6名，董事会共15名，比例40%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "2025年，董事会召开11次会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "召开6次会议，审议了2024年度报告及摘要等方面的议案",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "本行聚焦碳达峰碳中和目标，全面推进绿色金融发展规划，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "本行聚焦碳达峰碳中和目标，全面推进中国农业银行《绿色金融发展规划（2021-2025年）》和绿色金融高质量发展",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "本行将环境保护融入发展战略和公司治理，落实环境管理制度，未被列入环境信息依法披露企业名单。制定能源管理办法，推进节能降碳。",
+      "original_text": "环境保护融入本行发展战略和公司治理过程，落实相关环境管理制度...制定《中国农业银行总行本部能源管理办法》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "本行提供绿色贷款、绿色债券等产品，支持清洁能源、绿色建筑等领域，截至2025年末绿色贷款余额5.93万亿元。",
+      "original_text": "截至2025年末，绿色贷款余额5.93万亿元，较上年末增长",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "本行在联合国《生物多样性公约》第十五次缔约方大会共同发布《银行业金融机构支持生物多样性保护》倡议，重点关注山水林田湖草沙一体化保护和系统治理、生物多样性保护重大工程金融服务。",
+      "original_text": "在联合国《生物多样性公约》第十五次缔约方大会'中国角'主题边会上共同发布《银行业金融机构支持生物多样性保护》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "本行推行废弃物减量化、资源化，实施绿色采购，推广无纸化办公，减少资源消耗。",
+      "original_text": "遵循减量化、资源化原则，推进无纸化办公体系建设",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "本行严格遵守国家劳动用工相关法律法规，坚决反对并禁止任何雇佣童工和强迫劳动等行为，公开招聘员工，保障员工休息休养权利，成立劳动争议调解委员会。",
+      "original_text": "严格遵守《中华人民共和国劳动合同法》等国家劳动用工相关法律法规，坚决反对并禁止任何雇佣童工和强迫劳动等行为，公开招聘员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "本行深入贯彻‘健康中国’战略，每年组织员工开展健康体检筛查重大疾病，为员工提供健康咨询、培训、讲座等健康促进服务，实现重疾险全行覆盖。",
+      "original_text": "深入贯彻‘健康中国’战略，每年组织员工开展健康体检筛查重大疾病，为员工提供健康咨询、培训、讲座等健康促进服务，实现重疾险全行覆盖。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "本行严格落实供应链管理及供应链安全相关要求，持续提升对关键环节的掌控能力，筑牢供应链安全防线。在准入环节明确将存在违法失信、涉贪腐行为等排除。",
+      "original_text": "严格落实供应链管理及供应链安全相关要求，持续提升对关键环节的掌控能力，筑牢供应链安全防线。在准入环节，明确将存在违法失信、涉贪腐行为、已被...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "本行持续完善消费者权益保护体系，报告期内未发生产品和服务相关的安全与质量重大行政处罚。",
+      "original_text": "报告期内未发生产品和服务相关的安全与质量重大行政处罚",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "本行高度重视数据安全与客户隐私保护，建立完善的数据安全管理制度体系，开展数据安全培训，报告期内未发生数据安全事件、泄露客户隐私事件。",
+      "original_text": "报告期内，本行未发生数据安全事件、泄露客户隐私事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "本行融入当地社区，开展公益帮扶、志愿服务等活动，依托'农情暖域'网点公益服务品牌，开展健康守护、暖心陪伴等活动。",
+      "original_text": "本行融入当地社区，与当地政府、社区组织和居民进行...依托'农情暖域'网点公益服务品牌，开展健康守护、暖心陪伴等活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "坚持公平公正原则，杜绝设置民族、种族、性别、户籍、宗教信仰等歧视性或限制性条款，依法与员工订立劳动合同。",
+      "original_text": "坚持公平公正原则，杜绝设置民族、种族、性别、户籍、 宗教信仰等歧视性或限制性条款，依法与员工订立劳动合 同。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会下设战略规划与可持续发展委员会、风险管理与消费者权益保护委员会等，并在战略规划与可持续发展委员会下设立可持续发展工作组，由董事会秘书任组长。",
+      "original_text": "本行持续完善上下贯通的可持续发展治理架构。董事会充分发挥战略部署和决策引领作用，下设战略规划与可持续发展委员会、风险管理与消费者权益保护委员会等与可持续发展议题高度相关的专委会。在董事会战略规划与可持续发展委员会下设立可持续发展工作组，由董事会秘书任组长。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "本行明确董事会承担案件风险防控最终责任，制定《中国农业银行反贿赂反贪腐政策要点》，开展全员警示教育，将员工行为道德风险纳入审计范围。",
+      "original_text": "本行明确董事会、高级管理层等在贪污受贿等涉刑案件风险防控中的职责分工，董事会承担案件风险防控最终责任。本行持续完善反腐败相关制度，制定并公布《中国农业银行反贿赂反贪腐政策要点》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "本行持续强化反腐败和商业道德相关领域的审计监督，将员工行为道德风险纳入审计范围，开展合规宣讲、警示教育，要求供应商签署廉洁承诺书。",
+      "original_text": "本行持续强化反腐败和商业道德相关领域的审计监督，将员工行为道德风险等相关内容纳入审计范围。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会审议全面风险管理报告（含环境与气候相关金融风险），下设风险管理与消费者权益保护委员会，推动案件风险防控管理体系和制度机制建设。",
+      "original_text": "审议本行风险管理战略规划、风险偏好、重大风险管理政策、合规管理基本制度、消费者权益保护工作的战略、政策和目标等，并向董事会提出建议；审议本行全面风险管理报告和风险资本分配方案。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "本行制定实施《市值管理与投资者关系管理办法》，保持与股东和投资者的日常深度交流，通过股东会、业绩发布会、资本市场峰会、上证e互动平台、投资者热线、IR邮箱等方式沟通。",
+      "original_text": "本行制定实施《市值管理与投资者关系管理办法》，保持与股东和投资者的日常深度交流。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "本行识别出利益相关方，通过公司官网、行业研讨会、座谈会、报告汇报等方式沟通，重点关注服务国家战略、支持实体经济、乡村振兴、金融五篇大文章等。",
+      "original_text": "识别出本行利益相关方。本行通过公司官网、行业研讨会、座谈会、报告汇报等方式沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "本行合规开展信息披露，董事长承担首要责任，董事会秘书负责组织和协调，上海证券交易所信息披露工作评价结果为优秀。",
+      "original_text": "合规开展信息披露。本行董事长对信息披露事务管理承担首要责任，董事会秘书负责组织和协调信息披露事务。上海证券交易所信息披露工作评价结果为优秀。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未在报告中找到关于税务透明度的具体描述。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601288_农业银行_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

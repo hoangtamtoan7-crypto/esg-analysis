@@ -1,0 +1,441 @@
+{
+  "company_name": "中通客车",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 32771.4,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1+范围2） 吨二氧化碳当量 32,771.4",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 6782.4,
+      "unit": "吨二氧化碳当量",
+      "original_text": "其中范围1：温室气体排放量（天然气、柴油） 吨二氧化碳当量 6,782.4",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 25989.0,
+      "unit": "吨二氧化碳当量",
+      "original_text": "其中范围2：温室气体排放量（外购电力、外购热力） 吨二氧化碳当量 25,989.0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 68488,
+      "unit": "吨",
+      "original_text": "工业废水排放总量 吨 68,488",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 900,
+      "unit": "万元",
+      "original_text": "全年累计投入环保安全资金近900万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 128.16,
+      "unit": "万元",
+      "original_text": "员工培训资金总投入 万元 128.16",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 33.59,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时数 小时 33.59",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2.55,
+      "unit": "亿元",
+      "original_text": "研发投入金额 亿元 2.55",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.43,
+      "unit": "%",
+      "original_text": "研发投入占营收占比 % 3.43%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 657.45,
+      "unit": "万元",
+      "original_text": "安全生产资金总投入 万元 657.45",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 17.4,
+      "unit": "万元",
+      "original_text": "社会捐赠总金额（含公益与非公益捐赠） 万元 17.4",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事达3名，外部董事占比...",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "召开董事会次数 次 5",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 0,
+      "unit": "人",
+      "original_text": "正式取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司通过减少碳排放、降低对化石燃料依赖缓解气候变化，制定了碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "通过减少碳排放、降低对化石燃料的依赖，缓解气候变化，降低环境气候影响",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司通过ISO 14001环境管理体系认证，构建了绿色制造体系，并建立了环境治理体系。",
+      "original_text": "ISO 14000环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司提供新能源客车等低碳产品，并取得EPD和碳足迹认证，推动绿色出行。",
+      "original_text": "提供新能源汽车 提供低碳的解决方案",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进循环经济，包括轻量化技术、循环回收技术、回收再利用材料，以及产品工艺设计提升。",
+      "original_text": "利用轻量化技术、循环回收技术、回收再利用材料，以及产品工艺设计提升，减少采用原材料所形成的开采和环境污染",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司通过专题培训与常态化宣贯厚植全员合规文化，针对新入职员工开展廉洁、安全、企业文化等入职培训，向中高层干部宣贯诉讼风险，邀请法官和外聘律师开展合规培训。",
+      "original_text": "通过专题培训与常态化宣贯厚植全员合规文化，实现合规管理全流程嵌入、全领域覆盖、全层级压实",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司始终将员工职业健康安全置于重要位置，通过严控安全生产核心指标、落实应急工作责任、开展全员安全培训，全年累计组织安全专项培训12次，覆盖23609人次，安全培训覆盖率100%，安全生产培训总时长772小时。",
+      "original_text": "公司始终将员工职业健康安全置于重要位置，通过严控安全生产核心指标、扎实落实应急工作责任、开展全员安全培训",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过ISO 14001环境管理体系、OHSAS 18001/ISO 45001职业健康安全管理体系、IATF 16949汽车行业质量管理体系认证，将环境保护、职业健康安全、员工权益、商业道德等ESG核心要求全面融入供应商管理全流程。",
+      "original_text": "2025年，中通客车通过ISO 14001环境管理体系、OHSAS 18001/ISO 45001职业健康安全管理体系、IATF 16949汽车行业质量管理体系认证，构建合规可靠、绿色安全的供应链基础。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以ZT-PDS正向产品开发体系为抓手，实现产品全生命周期闭环管控，通过质量门红线约束、多层级技术评审与决策评审，筑牢产品质量根基。2025年关键质量指标大幅改善。",
+      "original_text": "产品开发层面，以ZT—PDS正向产品开发体系为抓手，实现产品全生命周期闭环管控。通过质量门红线约束、多层级技术评审与决策评审，筑牢产品质量根基",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建“日常管理—预警预报—应急处置—安全评估”全闭环信息安全管理体系，全面保障客户与员工隐私安全，2025年实现“0信息泄露”“0网络安全事故”。",
+      "original_text": "构建“日常管理—预警预报—应急处置—安全评估”全闭环信息安全管理体系，全面保障客户与员工隐私安全，提升网络安全风险抵御能力。2025年，公司实现“0信息泄露”“0网络安全事故”",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展“志愿服务月”系列活动，以公益力量厚植民生福祉；国际层面参与全球合作伙伴大会。社会捐赠总金额17.4万元。",
+      "original_text": "开展“志愿服务月”系列活动，以公益力量厚植民生福祉；国际层面，中通客车携11款创新产品亮相全球合作伙伴大会",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司构建均衡多元的员工结构，男性员工3238人、女性员工312人，积极落实包容性雇佣政策，开展多元化人才引进。",
+      "original_text": "性别分布上，男性员工3238人、女性员工312人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了董事会、管理层、执行层三级ESG治理架构，董事会为终极责任主体，下设可持续发展统筹机构，并设有合规管理委员会。",
+      "original_text": "董事会是公司可持续发展治理的终极责任主体...管理层推进、执行层落地三级...合规管理委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展反腐培训，供应商签署廉洁承诺书，向中高层干部宣贯廉洁从业培训，构建家庭、社会监督合力。",
+      "original_text": "反腐培训次数...供应商签署《从业准则》占比...向中高层干部宣贯诉讼风险及廉洁从业培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司构建合规管理体系，形成三道防线，制定合规管理三张清单，合规培训覆盖率超60%，并开展EcoVadis评级。",
+      "original_text": "构建合规管理体系...三道防线...合规培训覆盖率超60%...EcoVadis评级由57分提升至72分",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司制定《风险管理办法》，识别风险岗位管控点，开展风险合规培训，并实施内部控制评价。",
+      "original_text": "制定《风险管理办法》...风险岗位管控点...风险合规培训...内部控制有效性开展全面评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股份回购、现金分红、规范信息披露等方式维护股东权益，召开股东大会3次，实施现金分红2次。",
+      "original_text": "实施股份回购...落实现金分红...规范信息披露...召开股东大会3次...现金分红2次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别出6类核心利益相关方，通过定期交流、专题访谈、问卷调查等多元化渠道进行沟通，并开展双重重要性分析。",
+      "original_text": "识别出包括政府及监管机构、股东与投资者、客户、合作伙伴、员工以及社区与公众在内的6类核心利益相关方...通过定期交流、专题访谈及双向反馈等多元化渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》，明确披露范围及重大事件临时报告要求，确保信息披露真实、准确、完整。",
+      "original_text": "实施经修订的《信息披露管理制度》...明确披露范围以及对重大事件的临时报告...确保信息披露真实、准确、完整",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

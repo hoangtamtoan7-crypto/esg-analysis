@@ -1,0 +1,442 @@
+{
+  "company_name": "福耀玻璃",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 68900,
+      "unit": "吨二氧化碳当量",
+      "original_text": "公司全年温室气体排放总量 6.89万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 6590811.8,
+      "unit": "兆瓦时",
+      "original_text": "总能源消耗量（境内）6,590,811.80MWh",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 10550100,
+      "unit": "吨",
+      "original_text": "总取水量（万吨） 817.24 696.08 684.59 237.77 331.11 64.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 6376700,
+      "unit": "吨",
+      "original_text": "总排水量（万吨） 616.93 533.62 411.30 20.74 17.27 8.35",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 587.51,
+      "unit": "吨",
+      "original_text": "氮氧化物（吨） 2.10 1.42 1.50 585.41 725.16 1,243.66",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 42541,
+      "unit": "人",
+      "original_text": "按性别划分的员工人数 单位：人 33,268 9,273 男性员工 女性员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "按性别划分的员工人数 单位：人 ... 男性员工 女性员工",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1747.95,
+      "unit": "万元",
+      "original_text": "总培训支出 万元 1,747.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 71.46,
+      "unit": "小时/人",
+      "original_text": "每位正式员工平均培训时长 小时 71.46",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 20.39,
+      "unit": "%",
+      "original_text": "员工总流失 10,894 20.39%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 191308.22,
+      "unit": "万元",
+      "original_text": "研发投入 万元 191,308.22",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.18,
+      "unit": "%",
+      "original_text": "公司将营业收入的4.18%投入研发",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 5027,
+      "unit": "万元",
+      "original_text": "公司安全保险投入金额5,027万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 246.34,
+      "unit": "万元",
+      "original_text": "社会公益捐赠金额 246.34万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "2025年董事局成员 共 11人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定明确的减碳计划与可量化指标，通过碳盘查、能效改造、清洁能源采购等举措推进气候目标的实现。发布了《双碳管理规定》，系统界定各职能部门及子公司在双碳方面的工作职责。",
+      "original_text": "福耀玻璃已制定明确的减碳计划与可量化指标，通过碳盘查、能效改造、清洁能源采购等举措推进气候目标的实现。2025年，公司发布《双碳管理规定》，系统界定各职能部门及子公司在双碳方面的工作职责。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立健全环境管理体系，通过ISO 14001环境管理体系认证，并持续完善。开展环境风险评估的制造组织数量占总工厂数量的100%。",
+      "original_text": "福耀玻璃秉持绿色发展理念，建立健全环境管理体系，深入开展环境治理工作。开展环境风险评估的制造组织数量占总工厂数量的100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司全面实施系统化绿色设计，在产品设计中聚焦节能减碳、高效隔热、轻量化、新能源集成与环保健康等绿色理念，系统性提供兼具性能优势和环保属性的产品解决方案。",
+      "original_text": "全面实施系统化绿色设计，在产品设计中聚焦节能减碳、高效隔热、轻量化、新能源集成与环保健康等绿色理念，系统性提供兼具性能优势和环保属性的产品解决方案。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格遵守生物多样性保护法律法规，在项目环境影响评价中纳入生物多样性风险评估，积极采取生态保护与修复措施。以绿色矿山、绿色工厂认证标准为基础，优先在自身运营范围、周边区域开展生物多样性保护。",
+      "original_text": "公司严格遵守《中华人民共和国自然保护区条例》《水产种质资源保护区管理暂行办法》等生物多样性保护方面的法律法规。公司在各个项目的环境影响评价中纳入生物多样性风险评估，在项目进行的全过程中积极采取生态保护与修复措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司围绕能源、水资源、材料及固体废弃物等关键领域，强化资源循环利用与价值再生，提升资源利用效率。通过推广节能节水措施、提高清洁能源使用比例、加强资源回收等方式，深入贯彻低碳运营战略。",
+      "original_text": "在循环经济实践中，公司围绕能源、水资源、材料及固体废弃物等关键领域，强化资源循环利用与价值再生，努力提升资源利用效率。通过推广节能节水措施、提高清洁能源使用比例、加强资源回收等方式，深入贯彻公司低碳运营战略。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，制定并执行《招聘管理制度》等内部制度，保障员工权益。",
+      "original_text": "福耀玻璃严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等相关法律法规，制定并执行《招聘管理制度》等内部制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司严格遵守职业健康安全法规，制定《安健环培训与技能管理规定》，开展培训5,465次，覆盖402,148人次，共计582,185小时。",
+      "original_text": "福耀玻璃严格遵守《中华人民共和国职业病防治法》《用人单位职业健康监护监督管理办法》等法律法规，落实《职业健康管理规定》等内部制度。2025年，公司开展安全生产与职业健康相关培训5,465次，培训覆盖402,148人次，共计582,185小时。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司构建责任供应链，将可持续发展理念融入采购管理，制定《供应商CSR现场监查表及自评表》，从管理体系、人权与劳工保护、劳动安全与卫生、环境管理、合规经营、社区关系、信息安全等七个维度开展自查，并鼓励签署《可持续采购章程》。",
+      "original_text": "福耀玻璃将可持续发展理念全面融入采购管理流程，持续完善供应商准入、考核与退出的全周期管理机制，将...向供应商提供《供应商CSR现场监查表及自评表》，要求其从管理体系、人权与劳工保护、劳动安全与卫生、环境管理、合规经营、社区关系、信息安全等七个维度开展自查，并鼓励供应商签署《可持续采购章程》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建三级质量治理架构，开展质量管理培训，全年开展质量相关培训2,632场，累计培训员工167,053人，总时长544,493小时。",
+      "original_text": "公司构建了权责明确、协同联动的三级质量治理架构...全年开展质量相关培训2,632场，累计培训员工167,053人，总时长544,493小时。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全法律法规，开展信息安全培训466次，覆盖员工，并通过ISO 27001:2022监督审核。",
+      "original_text": "福耀玻璃始终将信息安全与用户隐私保护置于企业发展的核心位置，严格遵守《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》...2025年，公司开展信息安全相关培训466次，覆盖...总部通过ISO 27001:2022监督审核。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过公益慈善、社区共建、教育支持等形式回馈社会，2025年累计帮助困难员工14人，金额合计1,496,846.09元。",
+      "original_text": "福耀玻璃始终将履行社会责任视为企业发展的重要组成部分，积极通过公益慈善、社区共建、教育支持等多种形式回馈社会。2025年度累计帮助困难员工14人，金额合计1,496,846.09元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司努力为员工营造公平、包容、健康、有成长空间的工作环境。2025年举办女性关怀活动，提供母婴室。员工多元化绩效显示少数族群/弱势群体员工占比22%，女性占比。",
+      "original_text": "公司努力为员工营造公平、包容、健康、有成长空间的工作环境...2025年福耀玻璃员工多元化绩效 少数族群/弱势群体 22 员工占比 女性占比",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了自上而下、权责分明的ESG治理架构，董事局为最高责任机构，下设ESG管理委员会及工作小组。",
+      "original_text": "公司建立了自上而下、权责分明的ESG治理架构，由董事局（董事局及战略委员会）指导内部建立有效的气候变化风险管理及监控系统。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司对贿赂、腐败、舞弊等违反商业道德准则的行为坚持'零容忍'，持续开展反腐倡廉教育与合规宣贯，并建立举报渠道。",
+      "original_text": "公司对贿赂、腐败、舞弊等违反商业道德准则的行为坚持'零容忍'态度，并按照风险导向原则，将主要单位、业务及高风险岗位纳入重点监督。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持以诚信合规为经营底线，完善商业道德制度，加强廉洁教育，健全举报监督机制，商业道德培训员工覆盖率100%。",
+      "original_text": "福耀玻璃坚持以诚信合规为经营底线，通过完善商业道德制度、加强廉洁教育和健全举报监督机制，持续防范不正当竞争。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续优化内部控制流程，强化合规运营与风险管理能力，开展内控管理风险评价的子公司45家，制造组织覆盖比例100%。",
+      "original_text": "福耀玻璃持续优化内部控制流程，强化合规运营与风险管理能力，推动公司治理与经营管理的规范化运行。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视利益相关方的期望与关切，建立多渠道、常态化的沟通机制，在经营决策和发展规划中充分听取利益相关方的意见并进行反馈。",
+      "original_text": "福耀玻璃重视利益相关方的期望与关切，建立多渠道、常态化的沟通机制，在经营决策和发展规划中充分听取利益相关方的意见并进行反馈，推动企业与利益相关方共同发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立多渠道、常态化的沟通机制，通过问卷调查、部门访谈、管理层商议等方式识别利益相关方关注重点。",
+      "original_text": "福耀玻璃重视利益相关方的期望与关切，建立多渠道、常态化的沟通机制，在经营决策和发展规划中充分听取利益相关方的意见并进行反馈。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司加强环境与气候相关信息披露，提升透明度，本报告经董事局审议通过。",
+      "original_text": "加强环境与气候相关信息披露，提升透明度，展示公司ESG工作进展与成果。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600660_福耀玻璃_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

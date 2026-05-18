@@ -1,0 +1,406 @@
+{
+  "company_name": "苏常柴Ａ",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 3558.76,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "2025 年，公司总部全年综合能耗 3,558.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2375,
+      "unit": "人",
+      "original_text": "截至 2025 年 12 月 31 日，公司及各子公司员工总人数为 2,375",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 8367.68,
+      "unit": "万元",
+      "original_text": "研发投入 8,367.68万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.33,
+      "unit": "%",
+      "original_text": "研发投入 8,367.68万元 0.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "报告期内，公司共召开 12 次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会、不再设置监事会及监事",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司持续推进柴油机的节能降碳技术升级，拓展低碳燃料技术应用，推动产品向更高效能、更低排放方向演进。",
+      "original_text": "在绿色发展路径上，公司将持续推进柴油机的节能降碳技术升级，不断拓展低碳燃料技术的应用，推动产品向更高效能、更低排放方向演进。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司通过了ISO14001环境管理体系认证，并按照PDCA原则持续改进，确保体系有效运行。",
+      "original_text": "通过了ISO9001质量体系认证、ISO14001环境管理体系认证、IATF16949汽车产品",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出国四柴油机，形成多系列、多品种的绿色动力产品矩阵，多款单、多缸机通过欧V排放认证。",
+      "original_text": "机械领域推出国四柴油机，形成了多系列、多品种的绿色动力产品矩阵。多款单、多缸机成功通过欧V排放认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司加强危废规范管理，建立全流程危险废物管控体系，2025年危险废物处置量、处置费用同比下降。",
+      "original_text": "公司建立全流程危险废物管控体系，从产生、储存到处置实施精细化管理。2025 年危险废物处置量、处置费用同比下降。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，与员工签订劳动合同，缴纳社保和公积金，提供法定假期和福利，实行职工代表大会制度，保障员工权益。",
+      "original_text": "公司严格遵守国家劳动用工相关法律法规与政策，平等对待全体员工，持续规范劳动用工管理。严格依据《中华人民共和国劳动合同法》与员工签订书面劳动合同，实现劳动合同签订率100%；依法为员工缴纳社会保险及住房公积金。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司开展消防安全培训覆盖1925人次，组织消防演练8次；为员工提供体检，包括特殊岗位职业病体检；落实职业健康管理要求，建立个人职业健康档案。",
+      "original_text": "全年开展消防安全培训覆盖 1925 人次，组织消防演练 8 次；为 407 名特殊岗位职工职业病体检；严格落实职业健康管理要求，组织新进、转岗、离职的职业危害接触人员开展专项职业健康体检，建立健全个人职业健康档案。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过《零部件配套、采购合同》和《供应商质量协议》管理供应商，组建SQE团队进行技术指导和质量改进，实现供应链数据集中化整合。",
+      "original_text": "公司坚持在《零部件配套、采购合同》和《供应商质量协议》的框架下管理供应商；组建 SQE（供应商质量工程师）团队，开展技术指导、协助质量改进；借力信息化管理工具实现供应链数据的集中化整合与可视。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO9001、IATF16949等质量体系认证，获得多项质量奖项，注重产品质量和客户满意度。",
+      "original_text": "通过了ISO9001质量体系认证、ISO14001环境管理体系认证、IATF16949汽车产品质量管理体系认证；多次获得质量奖项，如常州市市长质量奖、'精耕杯'用户最满意售后服务十佳品牌荣誉。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立《网络安全管理制度》，开展网络安全培训，参与实战演练，强化信息安全防护能力。",
+      "original_text": "公司建立了《网络安全管理制度》，明确网络使用行为和各部门、用户的安全责任；组织网络安全培训，参与控股股东网络安全实战演练与复盘培训；夯实基础设施安全建设，强化网络与信息安全防护能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与助学济困、社区共建、志愿服务等公益活动，组织员工献血和参与公益挑战活动。",
+      "original_text": "积极参与助学济困、社区共建、志愿服务等公益活动；组织员工参与献血；组织员工参与'一袋牛奶的暴走'公益活动，为困难家庭儿童筹集牛奶善款。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司提及构建多元化董事会，但未明确说明员工多元化与包容的具体政策或措施。",
+      "original_text": "公司着力构建多元化董事会，综合考量成员性别、年龄、专业知识及行业经验，实现成员背景多元。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已形成以股东会为权力决策机构、董事会为经营决策机构、审计委员会为专门监督机构的治理架构，董事会下设薪酬与考核委员会、审计委员会等。",
+      "original_text": "已形成以股东会为权力决策机构、董事会为经营决策机构、审计委员会为专门监督机构的治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展廉洁文化教育，聚焦廉洁风险点开展专项自查与风险排查，有效防范化解廉洁隐患。",
+      "original_text": "开展专项自查与风险排查，有效防范化解各类廉洁隐患",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司将合规管理作为治理工作的重要抓手，完善多层级制度体系，组织董事、高管参加合规培训，提升合规意识。",
+      "original_text": "公司将合规管理作为治理工作的重要抓手，贯穿全主体、全流程，完善多层级制度体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建覆盖母子公司的全方位、多层次风险防控体系，重点强化法律、运营、资本运作等核心领域风险防范。",
+      "original_text": "构建覆盖母子公司的全方位、多层次风险防控体系，重点强化法律、运营、上市公司资本运作等核心领域风险防范",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司发布了《投资者关系管理制度》，通过现场、电话、邮件、互动平台及业绩说明会等多渠道与投资者沟通，保障投资者知情权。",
+      "original_text": "发布了《常柴股份有限公司投资者关系管理制度》，通过现场、电话、邮件、互动平台及业绩说明会等多渠道沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司秉持开放透明、积极高效的沟通准则，与股东、政府、供应商、社区等各利益相关方保持常态化良性互动。",
+      "original_text": "公司始终秉持开放透明、积极高效的沟通准则，与各利益相关方保持常态化良性互动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司依法履行信息披露义务，确保信息披露真实、准确、完整、及时，使所有股东平等地获取信息，未发生内幕交易行为。",
+      "original_text": "依法履行信息披露义务，确保信息披露真实、准确、完整、及时，使所有股东平等地获取信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度相关措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 20,
+    "quantitative_valid": 20,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.74
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 40,
+    "missing": 12,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 76.9
+  }
+}

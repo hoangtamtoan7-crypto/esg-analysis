@@ -1,0 +1,441 @@
+{
+  "company_name": "深纺织Ａ",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 74069.85,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "盛波光电2024年度温室气体排放总量为74,069.85吨CO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 9192,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一包含直接温室气体排放量9,192吨CO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 64878,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二包含外购能源间接温室气体排放64,878吨CO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 16.39,
+      "unit": "吨二氧化碳当量/万平方米",
+      "original_text": "2024年度单位产品碳排放强度为16.39吨CO2e／万平方米",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 17648,
+      "unit": "吨标煤",
+      "original_text": "能源消耗总量 吨标煤 17,648.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 1.2,
+      "unit": "%",
+      "original_text": "可再生能源消耗量占比 % 1.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1072754,
+      "unit": "吨",
+      "original_text": "总用水量（自来水） 立方米 1,072,754.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 433306,
+      "unit": "吨",
+      "original_text": "盛波光电废水排放总量433,306吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1128.27,
+      "unit": "吨",
+      "original_text": "2024年盛波光电废弃物产出总量为1,128.27吨（不包含生活垃圾）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1389,
+      "unit": "人",
+      "original_text": "员工人数1389人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 33.76,
+      "unit": "%",
+      "original_text": "总体女性员工占比 % 33.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 10381.18,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 10,381.18",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.11,
+      "unit": "%",
+      "original_text": "研发投入占营收比例 % 3.11",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会设董事9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名，其比例33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "董事会成员中包含1名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "召开董事会会议次数 场次 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "监事会 6 100% 12项",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "董事平均薪酬（不含独立董事）78.74万元",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，参考TCFD框架识别气候风险，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "深纺集团积极响应国家'双碳'战略的号召，高度重视气候相关问题，持续完善应对气候变化管理策略并落实相关行动。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立ISO14064温室气体排放盘查体系，并通过ISO14001环境管理体系认证。",
+      "original_text": "已建立ISO 14064温室气体排放盘查体系，通过了ISO9001质量管理体系、ISO14001环境管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发符合美国能源之星9.0标准的显示器偏光片，开展产品碳足迹核算，推进绿色产品设计。",
+      "original_text": "盛波光电积极探索绿色产品设计，研发了符合美国能源之星9.0标准的显示器偏光片。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司声明生产经营活动对生态系统和生物多样性未产生重大影响。",
+      "original_text": "公司及各子公司的生产经营活动对生态系统和生物多样性未",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施废水回收利用、废有机溶剂重新加工利用，提升资源利用效率，推进循环经济。",
+      "original_text": "通过废有机溶剂的重新加工利用，有效降低了危废产生，既减少挥发性有机物排放，又优化生产工艺，降低能耗与危废处理成本。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司完善劳动合同管理制度，保障员工自愿就业、自由离职；未发生雇佣童工、强制劳动事件；构建多元化员工福利体系，重视女性员工关怀。",
+      "original_text": "报告期内，深纺集团未发生任何雇佣童工、强制劳动事件。不因员工的性别、种族、宗教信仰、政治立场或婚姻状况等因素而有所区别，确保每位员工都能获得公正的薪酬福利待遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO45001职业健康和安全管理体系认证，制定多项安全制度，开展安全培训、应急演练，职业健康与安全生产培训覆盖率100%，报告期内未发生安全生产事故。",
+      "original_text": "ISO45001职业健康和安全管理体系、QC080000有害物质管理体系。职业健康与安全生产培训覆盖率 % 100。职业健康与安全生产事故发生次数 次 0。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司设立供应商管理委员会，通过准入严控、绩效动态追踪、协同改善三大机制构建供应链体系；明确禁止冲突矿产，要求供应商签署无强迫劳动承诺。",
+      "original_text": "盛波光电设立供应商管理委员会作为最高决策机构。公司明确禁止“冲突矿产”进入公司供应链生态中，要求供应商签署无工/强迫劳动、合理工时、禁止歧视等承诺。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司持续投入创新研发，高度重视产品质量，通过质量月活动、内审优化生产流程，增强员工质量意识，构建全员参与、持续改进的质量文化。",
+      "original_text": "深纺集团持续投入创新研发、高度重视产品质量，产品与服务获得客户、媒体、政府等多方认可。盛波光电通过开展质量月内审优化生产流程、组织品检科团队竞技强化操作规范等系列活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建覆盖数据全生命周期的保护体系，制定网络安全管理办法，报告期内未发生数据安全事件。",
+      "original_text": "盛波光电构建了覆盖数据全生命周期的保护体系。报告期内，未发生数据安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过消费帮扶、捐赠物资、组织员工参与植树造林和无偿献血等公益活动积极回馈社会。",
+      "original_text": "公司连续多年开展消费帮扶工作，累计采购帮扶产品超百万元，向青海藏区捐赠过冬衣物。组织员工参与植树造林等环保公益项目，定期组织无偿献血活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司不因性别、种族、宗教信仰等因素区别对待员工，重视女性员工关怀，定期组织女职工活动，构建多元化员工福利体系。",
+      "original_text": "不因员工的性别、种族、宗教信仰、政治立场或婚姻状况等因素而有所区别。深纺集团始终将女性员工关怀作为企业人文建设的重要维度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了党委-董事会-经理层相结合的合规管理架构，董事会下设战略规划委员会负责ESG事项，ESG工作组负责具体实施。",
+      "original_text": "公司建立起了“党委-董事会-经理层”相结合的合规管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《合规管理办法》，纪检监察室承担廉洁合规专项管理职责，开展反腐败专题培训和警示教育，将廉洁风险防控嵌入采购招标等关键节点。",
+      "original_text": "深纺集团高度重视廉洁文化建设，以党建引领廉洁纪律工作，将商业道德教育纳入员工培训体系，定期组织开展反腐败专题培训和警示教育活动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立合规管理体系，制定《合规管理办法》，明确合规价值观、机构职责、运行机制，开展合规培训，覆盖内幕交易防控、合同签订等主题。",
+      "original_text": "深纺集团将合规管理视为企业稳健运营的根本保障，致力于构建制度化、系统化、专业化的合规管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建多层级风险管理组织架构，成立全面风险领导小组，出台《全面风险管理办法》，建立风险预警机制，2024年识别10项重大风险。",
+      "original_text": "公司构建了多层级风险管理组织架构，明确各主体职责边界。2024年6月，公司成立全面风险领导小组",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立多渠道投资者关系管理体系，召开业绩说明会、接待机构调研，通过互动易平台与投资者交流，保障中小投资者权益。",
+      "original_text": "公司积极主动利用业绩说明会、机构投资者投票机制，2024年公司4次股东大会均对中小投资者表决单独计票",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立涵盖股东、客户、政府、员工、供应商、社区等内外部关键群体的沟通体系，通过股东大会、客户满意度调研、政策解读会等方式沟通。",
+      "original_text": "公司根据自身所处行业及业务性质，首先对可能涉及的利益相关方进行了识别和分析，而后建立了涵盖内外部关键群体的沟通体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照相关法律法规要求，真实、准确、完整、及时地履行信息披露义务，加强内幕信息管理，提高信息透明度。",
+      "original_text": "公司严格按照《上市公司信息披露管理办法》等相关规定，遵守信息披露的“公开、公平、公正”原则，真实、准确、完整、及时",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "金山办公",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 16518.49,
+      "unit": "吨二氧化碳当量",
+      "original_text": "山办公温室气体排放总量为16,518.49吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 453.01,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 453.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 6632.9,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 6,632.90",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 16615.12,
+      "unit": "兆瓦时",
+      "original_text": "能源消耗总量 48 兆瓦时 16,615.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 102748.99,
+      "unit": "吨",
+      "original_text": "用水总量 50 吨 102,755.47 102,748.99",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 6048,
+      "unit": "人",
+      "original_text": "全职员工数量（人） 6,048 5,189",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 33.19,
+      "unit": "%",
+      "original_text": "女性员工占比（%） 32.20% 33.19%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 22.09,
+      "unit": "%",
+      "original_text": "高级管理层女性员工占比（%） 18.18% 22.09%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 271,
+      "unit": "万元",
+      "original_text": "公司在2025年投入约271万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 62.48,
+      "unit": "小时/人",
+      "original_text": "全职员工培训平均小时数（小时） 62.48 6.79",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 5.62,
+      "unit": "%",
+      "original_text": "员工自愿流失率（%）5.62%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "研发投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "重大安全事故0发生",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 6,
+      "unit": "万元",
+      "original_text": "投入资金金额近6万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "2025年金山办公共有董事成员6名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "公司现任董事会中包含1名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "2025年，金山办公共召开董事会会议",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了气候变化应对策略，将发展清洁技术作为核心策略之一，积极评估和推动可再生能源项目实施，并制定了清洁能源转型计划。",
+      "original_text": "发展清洁技术作为公司气候变化应对的核心策略之一，积极评估和推动可再生能源项目实施。我们主动制定金山办公清洁能源转型计划。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定《金山办公环境管理制度——试行》《环境管理政策》等制度，建立环境管理体系，保障绿色合规运营。",
+      "original_text": "制定《金山办公环境管理制度——试行》《环境管理政策》，并纳入气候变化管理。环境管理体系建设，保障绿色合规运营。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司提供WPS 365低碳办公解决方案等绿色产品与服务，顺应国家双碳战略，降低用户使用过程对环境的影响。",
+      "original_text": "WPS 365 低碳办公解决方案等绿色产品与服务顺应国家“双碳”战略发展，可降低用户使用过程对环境的影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告未提及生物多样性保护的具体措施或政策。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行循环经济实践，包括废弃物分类回收、雨水收集利用、废弃物循环利用等。",
+      "original_text": "在无害废弃物方面，我们在办公区域设置分类垃圾桶；园区内设计下凹式绿地、雨水花园等；废弃物循环利用量 2.56 吨。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，与全体员工签订劳动合同，禁止强迫劳动，建立工会，提供申诉渠道，保障员工权益。",
+      "original_text": "金山办公严格遵守《中华人民共和国劳动法》...与全体员工依法签订劳动合同...未发生雇佣强迫员工劳动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO 45001认证，提供健康体检、医疗保险、工伤保险，开展安全培训和应急演练。",
+      "original_text": "珠海办公场所已通过ISO 45001职业健康安全管理体系认证...为100%在职员工购买医疗保险及工伤保险",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定供应商管理制度，将供应商纳入网络与隐私安全管理体系，定期开展安全合规审计和绩效评估。",
+      "original_text": "根据《金山办公供应商管理制度》...将供应商纳入网络与隐私安全管理体系...定期开展网络安全与隐私保护合规审计",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全流程质量管理体系，未发生产品与服务安全质量重大事故，获得多项资质认证。",
+      "original_text": "报告期内，公司未发生产品和服务相关的安全与质量重大事故",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司设立隐私保护委员会，完善数据安全管理制度，通过多项国际认证，未发生数据安全事件。",
+      "original_text": "公司设立隐私保护委员会...未因数据安全与用户隐私保护...发生重大负面事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益活动，与北京师范大学等合作，预计覆盖10万名学生，参与社会公益事业。",
+      "original_text": "共开展了5次公益活动，参与的员工志愿者...此次合作预计覆盖10万名学生",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司提供公平晋升通道，披露女性员工占比、女性新员工数量，开展多元化培训。",
+      "original_text": "女性员工占比...女性新员工数量...提供公平的晋升发展通道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会战略委员会是ESG事宜的最高治理机构，负责监督整体ESG事宜，包括识别和评估ESG相关机遇和风险、监督ESG战略计划和目标进展，以及审阅可持续发展相关信息披露。公司已形成由董事会战略委员会、管理层、ESG相关职能部门构成的三层管治架构。",
+      "original_text": "董事会战略委员会是金山办公ESG事宜的最高治理机构，主要负责监督公司整体ESG事宜，包括识别和评估ESG相关机遇和风险、监督ESG战略计划和目标的进展，以及审阅可持续发展相关信息披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立了商业道德管理架构，由CEO担任组长，审计监察部负责内部商业道德执行工作，包括开展商业道德审计、受理举报、反商业贿赂、反贪污和反舞弊调查。制定了《商业行为准则》《反商业贿赂合规指引》等制度，并开展商业道德培训。报告期内未发生重大商业贿赂及贪污事件。",
+      "original_text": "金山办公商业道德工作小组由公司CEO担任组长，进行统筹管理。审计监察部专门负责公司内部商业道德在执行层面的工作，包括开展商业道德审计、受理商业道德违规举报，以及开展公司反商业贿赂、反贪污和反舞弊的调查工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德，秉持诚信为本、合规经营，制定了《商业行为准则》《反垄断合规指引》《反不正当竞争合规指引》等内部制度，并设置反垄断合规部门。定期开展商业道德培训，覆盖董事、管理层及员工。",
+      "original_text": "金山办公恪守商业道德，秉持诚信为本、合规经营，制定了《商业行为准则》《反垄断合规指引》《反不正当竞争合规指引》等内部制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了三级内容安全管理体系，董事会战略委员会下设安全委员会及隐私保护委员会，负责信息安全与隐私保护策略规划、决策制定和审查。公司定期开展可持续发展尽职调查，系统识别、预防并应对实际和潜在风险。",
+      "original_text": "公司构建了三级内容安全管理体系。董事会战略委员会下设安全委员会及隐私保护委员会，负责信息安全与隐私保护相关事项的策略规划、决策制定和审查。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司注重与各利益相关方有效沟通，包括投资者。沟通渠道包括股东会、投资者调研、路演、定期报告等。",
+      "original_text": "利益相关方沟通渠道包括股东会、投资者调研、路演、定期报告等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司注重与各利益相关方进行有效沟通，包括股东、员工、用户、社区与公众、非政府组织等，通过股东会、投资者调研、员工工会活动、问卷调查、社区活动参与、媒体采访等多种渠道进行沟通。",
+      "original_text": "金山办公注重与各利益相关方进行有效沟通，在沟通过程中注重沟通内容、沟通方式、沟通管理与反馈。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "本报告经董事会审阅批准，公司入选北京市可持续信息披露试点企业名单，表明信息披露质量得到认可。",
+      "original_text": "本报告经董事会审阅批准。金山办公入选北京市可持续信息披露试点企业名单。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "688111_金山办公_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

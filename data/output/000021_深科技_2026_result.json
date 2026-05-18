@@ -1,0 +1,447 @@
+{
+  "company_name": "深科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 1974.11,
+      "unit": "万元",
+      "original_text": "环保投入：1,974.11万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 15020.65,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接（范围1）温室气体排放 吨CO2e 15,020.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 155840.19,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "基于位置的（范围2）间接温室气体排放 吨CO2e 194,977.35 155,840.19 193,114.22",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1173152173,
+      "unit": "兆焦耳",
+      "original_text": "能源消耗总量 兆焦耳 1,173,152,173.",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 15.93,
+      "unit": "%",
+      "original_text": "使用可再生能源（绿电、绿证）比率 目标：与2023年基准相比，逐年增加2%或以上 15.93%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 3206455.88,
+      "unit": "吨",
+      "original_text": "总取水量 吨 2,722,255.00 2,729,943.56 3,206,455.88",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 918759.18,
+      "unit": "吨",
+      "original_text": "工厂废水站处理后排放 吨 918,759.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 6168.52,
+      "unit": "吨",
+      "original_text": "废弃物生成总重量 吨 4231.83 4,942.71 6,168.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 1263.4,
+      "unit": "公斤",
+      "original_text": "PM 公斤 374.79 1,774.87 1,263.40",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 29000,
+      "unit": "人",
+      "original_text": "2025年公司员工总数约2.9万人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 32.9,
+      "unit": "%",
+      "original_text": "女性员工占比为32.9%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 31.1,
+      "unit": "%",
+      "original_text": "女性在所有管理职位占比为31.1%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 36.01,
+      "unit": "小时/人",
+      "original_text": "人均学时 36.01 小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 14.0,
+      "unit": "%",
+      "original_text": "员工流失率 % 12.9 11.8 14.0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 45980,
+      "unit": "万元",
+      "original_text": "研发投入 万元 36,202 42,324 45,980",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 233,
+      "unit": "万元",
+      "original_text": "助力乡村振兴 233 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "本届董事会成员共有9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.3,
+      "unit": "%",
+      "original_text": "独立董事3人，占比33.3%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 0,
+      "unit": "人",
+      "original_text": "董事长 韩宗远 男 ... 董事 郑国荣 男 ... 董事 周庚申 男 ... 董事 刘汉清 男 ... 董事 刘燕武 男 ... 董事 董大伟 男",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳中和路线图，目标2030年碳达峰、2060年碳中和，并采取节能改造、可再生能源替代等措施。",
+      "original_text": "制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，苏州电子公司按绿色工厂管理，并通过ISO14064-1第三方核查。",
+      "original_text": "深科技自有生产工厂通过ISO14064-1第三方核查",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司建立生态设计流程，选用易拆解和可回收利用的绿色环保原料，开展产品碳足迹核算。",
+      "original_text": "建立生态设计流程文件，全面落实产品生态设计理念，选用易拆解和可回收利用的绿色环保原料进行设计和生产",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生物多样性保护纳入可持续发展的核心议题，明确董事会与管理层责任，并采取清洁生产技术、加强生态保护修复等措施。",
+      "original_text": "深科技董事会将生物多样性保护纳入可持续发展的核心议题，明确董事会与管理层责任",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过提高产品合格率、强化原材料回收利用、改造周转箱为循环利用塑料箱等措施推动循环经济。",
+      "original_text": "将一次性纸质周转箱改造为循环利用的塑料周转箱，降低一般固体废弃物及危险废弃物的产生",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守国家法律法规，依法成立工会，保障集体谈判权利，通过职工代表大会等机制保障员工知情权、参与权、表达权和监督权。",
+      "original_text": "公司严格遵守国家法律法规。依法成立工会组织，并明确允许员工自由加入与退出工会，确保工会运作的规范性与包容性。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司关注员工身心健康，提供健康安全教育、心理健康讲座、定期体检、社会医疗保险及商业保险等，并采取防泄漏措施强化危险化学品管控。",
+      "original_text": "关注员工身心健康，为员工提供包括健康安全教育、心理健康讲座、中医讲座等培训，通过开设医疗诊所、组织定期体检、提供社会医疗保险、另购商业保险等举措，完善医疗保健服务与风险兜底机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过搭建国内国际双循环供应链，深化两金管理，加强供应链数字化转型，有序推进供应链可持续发展。",
+      "original_text": "通过搭建国内国际双循环供应链，深化两金管理，加强供应链数字化转型，有序推进供应链可持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司遵守RoHS、REACH等有关有害物质的法律法规，采购符合环保要求的物料，进行废弃化学品回收处理，减少有害物质对环境的污染和人员健康的影响。",
+      "original_text": "遵守RoHS、REACH等有关有害物质的法律法规，采购符合环保要求的物料，进行废弃化学品回收处理，减少有害物质对环境的污染和人员健康的影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循非必要不收集原则，授权访问、加密，防止第三方数据被非法存取或披露，定期安全审计和应急演练，并遵循欧盟GDPR等法律法规。",
+      "original_text": "遵循非必要不收集原则；授权访问、加密；防止第三方数据被非法存取或披露；定期安全审计和应急演练。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，围绕乡村振兴、社区建设、环境保护、困难群体等主题组织公益活动，如关爱地贫儿公益项目、无偿献血等。",
+      "original_text": "我们始终关注并积极履行社会责任，围绕国家乡村振兴战略、社区建设、环境保护、困难群体等主题，携手员工组织多元化的公益活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司鼓励多元化的员工队伍，提供无歧视、无报复、无骚扰、无虐待的工作环境，为残障人士提供就业机会，女性员工占比32.9%，女性管理职位占比31.1%。",
+      "original_text": "鼓励多元化的员工队伍，提供无歧视、无报复、无骚扰、无任何形式虐待的工作场所。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立董事会战略与可持续发展委员会，下设可持续发展工作组，由总裁任组长，向董事会汇报。董事会是ESG最高决策机构。",
+      "original_text": "设立董事会战略与可持续发展委员会，在董事会领导下开展工作，对董事会负责，并定期向董事会汇报。董事会是公司ESG工作的最高决策机构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司贯彻反腐倡廉精神，坚持组织和学习反贿赂和职业道德培训，按照廉洁从业风险分层级管控理念，对关键领导干部、全体员工和海外员工分别出台相应规定，实现廉洁从业全覆盖。",
+      "original_text": "贯彻反腐倡廉精神，坚持组织和学习反贿赂和职业道德培训，不间断治理商业贿赂，确保采购行为的透明和规范。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司将'诚实守信'作为核心价值观，建立商业道德治理架构，确保反腐败工作制度在公司运营过程中的全面贯彻。",
+      "original_text": "将'诚实守信'作为公司的核心价值观，建立商业道德治理架构，确保反腐败工作制度在公司运营过程中的全面贯彻。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司结合自身业务特点建立了全面风险管理体系框架，设立风控合规委员会，由总裁任主任，全面指导风险管理、内控建设及合规管理工作。",
+      "original_text": "结合自身业务特点建立了全面风险管理体系框架。设立风控合规委员会，由总裁任委员会主任。风控合规委员会全面指导公司的全面风险管理、内控建设及合规管理工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过董事会办公室保持开放的沟通渠道，为股东提供咨询、反馈和关注的专门联系点。公司网站提供投资者关系相关信息。",
+      "original_text": "通过董事会办公室保持开放的沟通渠道，为股东提供咨询、反馈和关注的专门联系点。公司网站...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司已搭建常态化、多元化的利益相关方沟通与反馈机制，通过投资者说明会、客户满意度调研、供应商协作会议等多维度沟通渠道回应各方关切。",
+      "original_text": "经董事会审议批准，公司已搭建起常态化、多元化的利益相关方沟通与反馈机制。通过该机制，公司得以持续聆听各方意见与建议...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司获深圳证券交易所2024-2025年度A类评级，已连续五年获A类评级。",
+      "original_text": "获深圳证券交易所2024-2025年度A类评级，已连续五年获A类评级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守财税关务法规，按时申报纳税，确保进出口业务合规，审计委员会审阅包括税务政策及实施情况。",
+      "original_text": "财税关务 严格遵守财税关务法规，按时申报纳税，确保进出口业务合规。审计委员会审阅包括税务政策及实施。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 31,
+    "quantitative_issues": [
+      {
+        "indicator_id": "E_Q05",
+        "indicator_name": "综合能源消耗",
+        "issue": "数值1173152173超出合理范围[0, 1000000000]"
+      }
+    ],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.867
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

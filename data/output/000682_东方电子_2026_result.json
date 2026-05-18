@@ -1,0 +1,441 @@
+{
+  "company_name": "东方电子",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "员工总人数 男性 女性",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "员工结构 按性别划分",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "管理人员中女性员工112人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 143,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 143",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 56.74,
+      "unit": "小时/人",
+      "original_text": "每名员工平均培训时长 小时/人 56.74",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 69105,
+      "unit": "万元",
+      "original_text": "报告期内，公司研发投入69,105万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 8.25,
+      "unit": "%",
+      "original_text": "占营业收入8.25%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 44.9,
+      "unit": "万元",
+      "original_text": "安全生产投入金额为44.9万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 30,
+      "unit": "万元",
+      "original_text": "专项向巫山县援助30万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'碳达峰、碳中和'战略，将低碳转型纳入长期发展规划，制定科学碳减排目标，实施绿色制造与低碳办公，持续开展碳排放核查，并制定碳中和路线图。",
+      "original_text": "东方电子积极响应国家'碳达峰、碳中和'战略部署，将低碳转型纳入企业长期发展规划，持续开展碳排放核查；制定科学碳减排目标，实施绿色制造与低碳办公，助力应对全球气候变化。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过GB/T 33635绿色制造 制造企业绿色供应链管理导则，系统构建三废管理体系，制定《废弃物管理控制程序》，并定期开展废气、废水、噪声检测。",
+      "original_text": "公司已通过GB/T 33635绿色制造 制造企业绿色供应链管理 导则；系统构建三废管理体系，制定《废弃物管理控制程序》，搭建'后勤处统筹+...'；定期开展pH、CODcr、氨氮、总磷等指标检测。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司打造涵盖绿色能源建设、智慧能源管理、云化智能运维、虚拟电厂、碳资产管理的绿色低碳全产业链生态圈，研发推广清洁能源技术与产品，推动能源结构转型。",
+      "original_text": "打造了涵盖'绿色能源建设+智慧能源管理+云化智能运维+虚拟电厂+碳资产管理'绿色低碳全产业链生态圈；研发推广清洁能源相关技术与产品，助力清洁能源高效利用，推动能源结构转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格遵守环保法规，确保废水达标排放，保护流域生态环境，维护水生生物多样性；在日常运营及项目实施中坚守生态保护底线，维护陆地生态平衡与生物多样性。",
+      "original_text": "严格遵守环保法规，确保废水达标排放，保护流域生态环境，维护水生生物多样性；积极践行生态保护责任，在日常运营及项目实施中坚守生态保护底线，维护陆地生态平衡与生物多样性。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司在生产中推行精益管理，减少原材料消耗与废弃物产生，实现生产资源高效利用；优化生产工艺与废水处理流程，确保达标排放；推行节水技术与设备使用，降低水资源消耗。",
+      "original_text": "在生产中推行精益管理，减少原材料消耗与废弃物产生，实现生产资源高效利用；优化生产工艺与废水处理流程，确保达标排放；在生产运营中推行节水技术与设备使用，优化生产用水工艺，降低水资源消耗。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法律法规，构建完善的员工权益保障体系，包括劳动合同签订、社会保险覆盖、平等就业、禁止歧视等。",
+      "original_text": "公司严格遵循《中华人民共和国劳动法》《中华人民共和国社会保险法》等国家法律法规，构建完善的员工权益保障体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过职业健康安全管理体系认证，制定安全生产管理制度，开展安全培训，保障员工健康安全。",
+      "original_text": "公司及子公司海颐软件均已通过职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应链风险管理体系，推行绿色供应链管理，通过GB/T 33635绿色供应链认证。",
+      "original_text": "建立完善的供应链风险管理体系，全面覆盖供应商认证、合约、变更、采购环境波动等六大风险域；将环境保护理念深度融入供应链管理的全生命周期，已通过GB/T 33635绿色供应链认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立质量管理体系，通过ISO 9001认证，开展质量培训，设置质量控制点，确保产品安全与质量。",
+      "original_text": "拥有质量管理体系认证的...设置关键工序质量控制点，实时监测核心工艺参数。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定信息安全管理制度，开展信息安全培训，未发生信息安全与隐私保护违规事件。",
+      "original_text": "报告期内，公司信息安全投入 万元，未发生信息安全与隐私保护违规事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益慈善事业，开展慈善捐赠、物资帮扶等活动，推动城市绿色低碳发展。",
+      "original_text": "积极投身公益慈善事业，开展慈善捐赠、物资帮扶等活动，践行企业社会责任。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司完善招聘与晋升机制，确保女性员工在管理层及技术岗位的公平参与，营造性别包容、机会均等的职场文化。",
+      "original_text": "完善招聘与晋升机制，确保女性员工在管理层及技术岗位的公平参与，营造性别包容、机会均等的职场文化。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会下设战略与ESG委员会，负责研究ESG目标、战略及制度，并向董事会提出建议；监督ESG目标制定。",
+      "original_text": "董事会下设战略与ESG委员会、审计委员会、薪酬与考核委员会、提名委员会、科技创新委员会五个专门委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司恪守商业道德，将诚信经营、公平竞争、廉洁自律融入管理，由审计委员会主导反舞弊文化建设，审计部独立负责舞弊举报受理、调查及报告。",
+      "original_text": "公司严格遵循国家相关法律法规及行业准则，恪守商业道德与职业操守，将诚信经营、公平竞争、廉洁自律融入披露等多类违法违规行为，并由审计委员会主导反舞弊文化建设、内控体系完善及工作监督，审计部独立负责舞弊举报受理、调查及报告，管理层搭建内控机制与举报渠道，形成全方位、全流程的廉洁管控与监督格局。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立完善的公司治理体系与合规管理机制，坚守商业道德与法律法规，制定《信息披露规则》等制度，确保信息披露真实、准确、完整、及时、公平。",
+      "original_text": "建立完善的公司治理体系与合规管理机制，坚守商业道德与法律法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建全面、全员、全过程的风险管理体系，建立健全风险识别、分析、监测及应对机制，涵盖战略、运营、财务、法律等风险。",
+      "original_text": "公司构建全面、全员、全过程的风险管理体系，建立健全风险识别、分析、监测及应对机制，通过对内外部环境的持续监测，有效识别经营与合规风险，并制定针对性防控策略。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理办法》，通过投资者现场调研、策略会、股东会、热线、邮箱、互动易平台、业绩说明会等渠道与投资者沟通。",
+      "original_text": "公司制定了《投资者关系管理办法》，作为公司投资者关系管理工作指引。建立了通过投资者现场调研、参加投资者策略会、股东会、投资者热线、电子邮箱、深交所'互动易'平台、业绩说明会、邮箱、官网、公众",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司构建全方位利益相关方沟通体系，实现与客户、员工、供应商、社区及监管机构等各方的高效对接，依托多样渠道倾听各方诉求并回应关切。",
+      "original_text": "健全利益相关方沟通机制，倾听各方诉求并回应关切；深化与高校、科研机构的合作，联合推进可持续发展技术研发与项目落地。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循真实、准确、完整、及时、公平原则，制定《信息披露规则》《年报信息披露重大差错责任追究制度》等专项制度，确保披露信息合规可控。",
+      "original_text": "遵循真实、准确、完整、及时、公平原则，制定《信息披露规则》《年报信息披露重大差错责任追究制度》等专项制度，明确披露范围、流程、责任及豁免情形，规范年报等重大信息披露流程，并建立重大差错责任追究机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司建立健全税务管理体系，以合规管控与价值创造为核心，规范税务登记、核算申报、发票管理等全流程，强化税务合规管理。",
+      "original_text": "公司建立健全税务管理体系，以合规管控与价值创造为核心，规范税务登记、核算申报、发票管理等全流程，强化税务合规管理。同时，公司定期开展税务培训、完善税务风险识别与评估机制，确保税务处理符合法律法规要求，有效防范税务风险。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.75
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

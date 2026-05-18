@@ -1,0 +1,442 @@
+{
+  "company_name": "迈瑞医疗",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 7207.56,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接（范畴 1）温室气体排放量 吨二氧化碳当量 7,207.56",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "能源间接（范畴 2）温室气体排放16",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 21288,
+      "unit": "人",
+      "original_text": "为全球 21,288 人提供就业机会",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工占比",
+      "value": 48,
+      "unit": "%",
+      "original_text": "女性员工占比为48",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "高级管理层女性占比为",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 32.94,
+      "unit": "小时/人",
+      "original_text": "员工平均受训时数 小时/人 37.02 35.69 32.94",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 20,
+      "unit": "%",
+      "original_text": "员工流失率 20 %",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 392900,
+      "unit": "万元",
+      "original_text": "2025年，本集团研发投入达39.29亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "比率：0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "第八届董事会共11人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 54.55,
+      "unit": "%",
+      "original_text": "独立董事6人，占董事会总人数的超1/3",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事3人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已设定温室气体减排目标（范围一和范围二）：到2030年碳排放强度降低25%，并积极布局深度脱碳技术，推动全价值链低碳化。",
+      "original_text": "迈瑞医疗承诺温室气体减排目标（范围一和范围二）：到 2030 年，碳排放强度降低25%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司开展ISO14001环境管理体系认证，并建立EHS治理架构，包括推动绿色发展子委员会、ESG执行委员会等。",
+      "original_text": "开展ISO14001环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司通过绿色转型和低碳创新，提供低碳解决方案，如“超极本”便携式超声、绿色工艺等，并加强产品全生命周期碳足迹管理。",
+      "original_text": "通过绿色转型和低碳创新，企业可以提升自身的可持续发展能力，满足市场对环保产品的需求",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格遵守生物多样性相关法律法规，采取多元化措施促进生物多样性保护，且产品与服务未对生物多样性造成重大影响。",
+      "original_text": "迈瑞医疗严格遵守《中华人民共和国生物安全法》...履行联合国《生物多样性公约》，采取多元化措施促进生物多样性保护...产品与服务均未对生物多样性造成重大影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动业务向循环经济转型，通过资源优化设计、绿色采购、生产数字化优化和循环物流，减少资源依赖。",
+      "original_text": "推动业务向循环经济转型，通过低碳解决方案开拓新市场，并以“产品即服务”模式构建长期客户关系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司成立员工工会，就劳动报酬、工作时间、休息休假、保险福利、劳动安全卫生、职业培训等与公司集体协商并签订书面协议。尊重、保障员工权益，杜绝任何形式的偏见与歧视。",
+      "original_text": "我们成立员工工会，由工会代表员工就劳动报酬、工作时间和休息休假、保险福利、劳动安全卫生、职业培训等涉及员工切身利益的问题与公司进行集体协商，并签订书面协议。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立EHS管理体系，通过ISO 45001认证，提供职业健康安全培训，2025年EHS安全培训受训员工总人次为2,484。",
+      "original_text": "职业健康与安全投入达 427 万元；EHS安全培训受训员工总人次 2,484",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立可持续供应链管理体系，对供应商进行环境、社会、治理评估，提供ESG培训，覆盖所有高风险供应商。",
+      "original_text": "迈瑞医疗可持续供应链管理体系，对授权供应商的合规管控与可持续发展，包括劳工与人权、健康与安全、环境保护、冲突矿产、商业道德。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立产品全生命周期风险管理，通过ISO 13485质量管理体系认证，2025年开展质量管理培训，受训员工覆盖率100%。",
+      "original_text": "2025年，我们面向全体员工开展《质量管理与产品安全》培训，共21,288人参训，受训员工覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全与隐私保护管理体系，通过ISO/IEC 27001认证，开展个人信息保护培训，覆盖率达100%。",
+      "original_text": "信息安全培训覆盖 100%；个人信息保护培训覆盖 100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展志愿服务与公益项目，包括教育扶贫、医疗援助、急救培训等，与微笑行动及慈善船国际公益组织合作。",
+      "original_text": "与微笑行动及慈善船国际公益组织合作，向社会各界开展急救培训，守护动物健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司承诺同工同酬，尊重员工多元化，开展DEI主题培训，消除性别歧视，保障女性员工平等权益。",
+      "original_text": "消除性别歧视，保障女性员工平等权益；我们致力于营造多元化的职场氛围，持续开展多元化、平等与包容性（DEI）主题培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会、战略与可持续发展委员会、ESG执行委员会组成的ESG治理架构，董事会负责监督ESG风险与机遇，战略与可持续发展委员会统筹气候变化相关事务，ESG执行委员会负责具体执行。",
+      "original_text": "迈瑞医疗建立了由公司股东会、董事会...董事会下设战略与可持续发展委员会...ESG执行委员会负责监督并审核集团气候风险和机遇管理表现",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立了反腐败合规管理体系，包括反腐败政策、投诉举报制度、商业道德审计、反腐败培训等，每年开展风险评估和审计，确保覆盖所有营运地。",
+      "original_text": "反腐败合规管理，确保各项业务活动...每年按综合风险评级结果确定被审计的子公司及业务领域...年组织全体员工学习公司《反腐败政策》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立了商业道德及合规管理框架，由董事会负责，设置合规委员会作为议事决策机构，形成三道防线：业务部门、合规办公室、内审部。",
+      "original_text": "商业道德及合规管理框架，由董事会负责...合规委员会作为商业道德及合规业务管理的议事和决策机构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了风险管理、内部控制与内部审计有机联动的闭环机制，涵盖目标设定、风险识别与评估、风险应对、风险监督与改进。",
+      "original_text": "构建风险管理、内部控制与内部审计有机联动的闭环机制...涵盖目标设定、风险识别与评估、风险应对、风险监督与改进",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过电话、电子邮箱、投资者关系互动平台、公司官网、路演、业绩说明会等多种渠道与投资者沟通，维护投资者关系。",
+      "original_text": "迈瑞医疗为投资者提供丰富便捷的沟通渠道，通过电话、电子邮箱、投资者关系互动平台、公司官方网站...路演、深圳证券交易所公告、股东大会等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立了常态化的利益相关方沟通机制，通过问卷调研、现场访谈、ESG路演、研讨会等方式与股东、投资者、供应商、客户等沟通。",
+      "original_text": "迈瑞医疗已建立常态化的利益相关方沟通机制...通过多样化的沟通方式，与利益相关方保持积极、有效的沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司承诺对报告内容进行确认及批准，董事会批准发布，并遵循相关监管要求，提升披露透明度。",
+      "original_text": "本公司董事会承诺对报告内容进行确认及批准...报告的披露透明度，响应利益相关方的要求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司提及合规纳税，但未详细说明税务透明度政策或具体措施。",
+      "original_text": "合规纳税",
+      "confidence": "medium"
+    }
+  ],
+  "source_file": "300760_迈瑞医疗_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

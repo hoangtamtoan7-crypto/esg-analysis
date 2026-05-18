@@ -1,0 +1,442 @@
+{
+  "company_name": "兖矿能源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 22468800,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1及范围2）（万吨二氧化碳当量） 2,246.88",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 18399900,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1）（万吨二氧化碳当量） 1,839.99",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 4068900,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围2）（万吨二氧化碳当量） 406.89",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 15.5,
+      "unit": "吨二氧化碳当量/十亿元营业收入",
+      "original_text": "温室气体排放密度（万吨二氧化碳当量/十亿元营业收入） 15.50",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 0.67,
+      "unit": "%",
+      "original_text": "清洁能源使用比例 % 0.67",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 200890000,
+      "unit": "吨",
+      "original_text": "总耗水量（百万立方米） 200.89",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 129845000,
+      "unit": "吨",
+      "original_text": "废水排放量（万立方米） 12,984.50",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 10128.4,
+      "unit": "吨",
+      "original_text": "NOx排放量（吨） 10,128.40",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 951.17,
+      "unit": "吨",
+      "original_text": "SO2排放量（吨） 951.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 185.18,
+      "unit": "吨",
+      "original_text": "颗粒物排放量（吨） 185.18",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 90921,
+      "unit": "人",
+      "original_text": "员工总数 人 90,921",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工总数 人 15,189 14,884 15,615",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 39.16,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 39.16 44.67 36.01",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.66,
+      "unit": "%",
+      "original_text": "员工自愿离职比率 % 0.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 339800,
+      "unit": "万元",
+      "original_text": "2025年，公司投入研发费用33.98亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 248400,
+      "unit": "万元",
+      "original_text": "公司安全生产费用期末余额为24.84亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 6214.21,
+      "unit": "万元",
+      "original_text": "公益项目及对外捐赠总投入 6,214.21 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "执行董事2人，非执行董事5人，独立非执行董事4人，合计11人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立非执行董事4人，董事会总人数11人，比例约36.36%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "未明确提及女性董事人数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "董事会会议8次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司全面完成取消监事会改革，监事会已不存在",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳目标，制定碳达峰碳中和规划，设立2030年碳达峰、2060年碳中和目标，并制定阶段减排降碳规划，包括强化节能降碳改造、推进产业数字化智能化转型、发展清洁能源等。",
+      "original_text": "兖矿能源将碳达峰碳中和纳入公司发展整体布局，制定了碳达峰、碳中和阶段减排降碳规划。短期内，公司加强强化节能降碳改造，提高能源利用效率；推进产业向数字化、智能化转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立并有效运行环境管理体系，所有子公司及业务运营单位均实现ISO 14001环境管理体系认证100%覆盖。",
+      "original_text": "本年度，公司所有子公司及业务运营单位均建立了完备的环境管理体系，实现ISO 14001环境管理体系认证100%覆盖。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发展清洁能源，布局光伏发电，建成并投用9座分布式和集中式光伏电站，推动新能源与化工产业融合发展，提供清洁能源产品。",
+      "original_text": "清洁能源 充分盘活矿井、铁路集运站等闲置土地及屋顶资源，建成并投用9座分布式和集中式光伏电站。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严格按照国家政策要求，聘请第三方专业机构针对所有运营点开展环境影响评估、生物多样性尽职调查，运营阶段不触及国家生态保护红线，未对当地生物多样性造成严重影响。对采煤塌陷地进行治理，探索建设自然保护区。",
+      "original_text": "公司严格按照国家政策要求，聘请第三方专业机构针对所有运营点开展环境影响评估、生物多样性尽职调查等，建设和运营阶段均不触及国家生态保护红线，且未对当地生物多样性水平造成严重影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施固废协同处置、废气资源化综合利用等项目，减少废弃物排放并创造经济效益。",
+      "original_text": "案例 固废协同处置...案例 废气资源化综合利用...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工权益，与所有员工签订劳动合同，明确合同期，确保合法有效。建立职工代表大会、员工劳动争议调解委员会等沟通渠道。",
+      "original_text": "公司保障员工权益，关注生产安全与职业健康，支持员工发展...与所有员工签订劳动合同，明确合同期...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，制定安全培训管理制度，开展安全培训，建立职业病危害防治措施。",
+      "original_text": "公司顺利通过ISO 45001职业健康安全管理体系认证，千人职业病发生率为0...制定《安全培训管理...》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司评估供应商的安全、环境与质量管理体系，对供应商进行考评，考核结果均合格。",
+      "original_text": "公司会评估供应商的安全、环境与质量管理体系运...家供应商进行考评，考核结果均合格",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO 9001质量管理体系认证，未发生与产品安全和质量相关重大责任事故，未发生产品退货或召回事件。",
+      "original_text": "公司顺利通过ISO 9001质量管理体系认证，未发生与产品安全和质量相关重大责任事故...未发生产品退货或召回事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守《网络安全法》《数据安全法》等，制定《网络安全管理办法》《数据安全管理办法》，开展信息安全培训。",
+      "original_text": "严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规...制定《网络安全管理办法》《数据安全管理办法（试行）》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展暖心志愿、急难救助、社区关怀等活动，主动融入区域经济协同发展。",
+      "original_text": "公司志愿者们上街头、驻社区、进家庭，从消防宣传、绿色行动、爱心志愿、社区服务、健康关怀等方面开展...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司保障女性员工权益，提供平等就业机会，女性员工培训人数占比100%，女性员工人均培训时长26.35小时。",
+      "original_text": "有效保障女性员工工作环境、孕产期假期权益等...女性员工培训人数占比 % 100 100 100",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会是ESG最高决策机构，下设可持续发展委员会（3名董事组成，独立董事任主任），负责监督ESG事宜。董事会秘书处负责日常工作。",
+      "original_text": "公司董事会是ESG事宜的最高决策机构...董事会下设可持续发展委员会...由3名董事组成，由1名具备ESG领域相关专业知识的独立董事担任主任",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《企业行为准则》《管理人员廉洁从业实施细则》等制度，建立管理人员廉洁从业档案，开展廉洁培训，进行商业道德审计。",
+      "original_text": "公司制定《企业行为准则》《管理人员廉洁从业实施细则》等制度...建立管理人员廉洁从业档案...开展廉洁培训等商业道德教育与宣传活动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《企业行为准则》等制度，明确合规审查程序、举报人保护机制及违规追责体系，定期开展商业道德审计，覆盖全部权属公司。",
+      "original_text": "公司制定《企业行为准则》...明确合规审查程序、举报人保护机制及违规行为追责体系...每年按照制度要求对公司总部和全部权属公司开展商业道德审计",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立完善的风险管理组织体系，董事会负责确定风险管理原则，审计委员会监督，经理层执行。每年辨识评估风险，确认重大风险并制定应对方案。",
+      "original_text": "公司建立了较为完善的风险管理组织体系...董事会负责确定风险管理的总体原则...每年采取风险问卷调查和管理层访谈的形式...确定年度重大风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理工作制度》，构建进取型投资者关系管理模式，建立关键股东常态化沟通机制，连续两年实施中期分红。",
+      "original_text": "公司构建积极进取的投资者关系...制定《投资者关系管理工作制度》...建立关键股东常态化沟通机制...连续两年实施中期分红",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过信息披露、股东会、满意度调查、座谈会、问卷调研等多种渠道与利益相关方沟通，了解其诉求，确保参与可持续发展。",
+      "original_text": "公司通过多种渠道与利益相关方沟通，包括但不限于信息披露、股东会、满意度调查、座谈会、问卷调研等，了解其诉求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》，董事会保证报告真实准确完整，定期披露内控自我评估报告及审计报告，接受利益相关方审阅。",
+      "original_text": "公司制定《信息披露管理制度》...董事会及全体董事保证本报告内容不存在任何虚假记载、误导性陈述或重大遗漏...自我评估报告及年审会计师出具的内部控制审计报告全文均公开披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及上缴税金作为目标之一，但未详细说明税务管理政策或透明度措施。",
+      "original_text": "目标17 建立与利益相关方的畅通沟通渠道...上缴税金、主体信用评级、公益项目及对外捐赠总投入",
+      "confidence": "medium"
+    }
+  ],
+  "source_file": "600188_兖矿能源_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

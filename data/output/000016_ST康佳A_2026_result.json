@@ -1,0 +1,441 @@
+{
+  "company_name": "*ST康佳A",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 113126.46,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 117,319.54 113,126.46",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 16.11,
+      "unit": "吨二氧化碳当量/百万营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/百万营收 16.11 16.49",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 3.5,
+      "unit": "万吨标准煤",
+      "original_text": "能源消耗总量 万吨标准煤 3.21 3.50",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 108.26,
+      "unit": "万吨",
+      "original_text": "废水排放量 108.26万吨 ↓9.74%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "一般废弃物产生量 18,725.42吨；危险废弃物产生量 3,851吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 32.57,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 32.57吨 ↓3.21%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.49,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 0.49吨 ↓48.45%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 3.18,
+      "unit": "吨",
+      "original_text": "烟（粉）尘排放量 3.18吨 ↑0.95%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1482700,
+      "unit": "吨",
+      "original_text": "新鲜水用水量 万吨 - 114.63 148.27",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 14106,
+      "unit": "人",
+      "original_text": "员工总人数 人 14,106 13,358 12,053",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 17.02,
+      "unit": "%",
+      "original_text": "女性 % 17.02 17.65 17.43",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 182.5,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 182.50 130.54 45.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 4.27,
+      "unit": "小时/人",
+      "original_text": "员工培训人均时长 小时 4.27 1.82 7.23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 17.18,
+      "unit": "%",
+      "original_text": "员工流失率 % 18.60 17.50 17.18",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 807,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 851.47 1,005.47 807",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 28.5,
+      "unit": "万元",
+      "original_text": "公益总投入 万元 47.80 48.64 28.5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 2.81,
+      "unit": "亿元",
+      "original_text": "纳税总额 亿元 5.45 4.52 2.81",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 7 7 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 20,
+      "unit": "次",
+      "original_text": "召开20次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "不设监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开17次专门委员会会议（未明确审计委员会单独次数）",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，将碳达峰、碳中和融入中长期发展规划，推进节能降碳项目。",
+      "original_text": "康佳持续完善碳排放目标体系，将碳达峰、碳中和相关要求全面融入公司中长期发展规划",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司及16家下属单位通过了ISO 14001环境管理体系认证，环境管理体系覆盖范围扩大。",
+      "original_text": "2025年，公司及16家下属单位通过了ISO 14001环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推进绿色产品认证，多款核心产品通过绿色产品认证，推动绿色低碳转型。",
+      "original_text": "多款核心产品通过绿色产品认证，推动消费端绿色低碳转型",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司提及在厂房选址等环节遵循合规标准，降低对周边生态环境的潜在影响，但未明确生物多样性保护政策。",
+      "original_text": "在厂房选址、设备设施规划布局等环节，公司严格遵循相关合规标准，科学统筹布局，着力降低生产经营活动对周边生态环境的潜在影响",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司对废弃物进行资源化协同处置，构建绿色低碳、循环高效的资源利用体系。",
+      "original_text": "对生产经营过程中产生的废弃物进行资源化协同处置，构建绿色低碳、循环高效的资源利用体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持同工同酬，提供社会保险、补充医疗保险等保障，落实带薪休假，保障女性权益，开展职工关爱活动。",
+      "original_text": "康佳制定《薪酬福利管理办法》《员工绩效管理办法》《休假管理办法》等制度，坚持同工同酬，不因性别、信仰等因素影响员工薪资；为员工提供社会保险、住房公积金、补充医疗保险等保障，定期组织员工健康体检；落实带薪休假。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司推进EHS管理体系建设，通过ISO 45001认证，开展安全培训、应急演练，设置安全警示标识，定期组织健康体检。",
+      "original_text": "康佳推进EHS管理体系建设，由环境健康与安全部统筹承担EHS管理；严格按照国家安全生产及职业健康相关规范标准，在各相关生产作业场所规范设置安全警示标识牌；定期组织员工开展健康体检。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司构建供应链管理制度架构，建立严格的供应商评估和选择流程，考核供应商数量达7,795个。",
+      "original_text": "康佳系统构建供应链管理制度架构，形成以一级制度为主干、多项二级管理办法为支撑、配套三级操作细则为补充的高效的供应链管理体系；建立严格的供应商评估和选择流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司遵循产品质量法律法规，通过ISO 9001认证，建立质量风险防控机制，开展质量月活动，2025年因健康与安全原因需撤回和召回的产品数量为0件。",
+      "original_text": "康佳严格遵循《中华人民共和国产品质量法》等法律法规，依据ISO 9001质量管理体系要求，建立工业产品质量安全风险防控动态管理机制；2025年因健康与安全原因需撤回和召回的产品数量为0件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定网络安全管理办法，对核心系统实行最小权限访问，开展数据安全专项培训，报告期内未发生数据安全事件。",
+      "original_text": "康佳落实《数据安全管理细则》要求，制定《康佳集团股份有限公司网络安全管理办法》，对核心系统实行最小权限访问；常态化开展全员数据安全专项培训；报告期内，公司未发生任何经确认的数据安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司聚焦弱势群体帮扶、教育振兴支持、生态环境保护等领域，开展志愿服务等公益志愿活动。",
+      "original_text": "将公益慈善事业深度融入企业运营过程，持续聚焦弱势群体帮扶、教育振兴支持、生态环境保护等领域，对接社会需求；开展志愿服务等公益志愿活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司不因性别、年龄、民族等区别对待，杜绝雇用童工，禁止强迫劳动，实行标准工时制，开展女性员工赋能行动。",
+      "original_text": "严格审查候选人年龄等信息，不因性别、年龄、民族等而区别对待，坚决杜绝雇用童工，禁止强迫劳动，实行标准工时制；开展节日慰问、兴趣活动与女性员工赋能行动。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司深化现代企业治理体系建设，完成《公司章程》等核心制度修订，设置合规委员会、首席合规官，各层级配置合规管理员，构建合规管理组织体系。",
+      "original_text": "康佳深化现代企业治理体系建设，完成《公司章程》《股东会议事规则》《董事会议事规则》3项治理核心制度的修订发布",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《大监督体系工作管理办法》，推动成立大监督体系工作领导小组，已向纪委移交问题线索1件，开展警示教育大会暨新任职干部集体廉政谈话会。",
+      "original_text": "康佳制定《康佳集团股份有限公司“大监督”体系工作管理办法》，明确各监督部室职责；推动成立康佳大监督体系工作领导小组，督促大监督主体积极履职，已向纪委移交问题线索1件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司系统推进合规管理体系全维度建设，构建组织健全、制度完备、机制闭环的合规管理体系，制定《合规管理实施细则》等制度，覆盖反不正当竞争、海外反商业贿赂等领域。",
+      "original_text": "康佳严格遵守国务院国资委、上级主管单位及深圳证券交易所有关合规管理工作指示要求，系统推进合规管理体系全维度建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司推进风险管理体系建设，以党委为领导核心，董事会、经营管理层推动落实，建立风险识别预警机制、法律合规审查机制等，按季度开展风险梳理监测分析。",
+      "original_text": "康佳推进风险管理体系建设，坚持以党委为领导核心，由公司董事会、经营管理层依规推动和组织落实风险管理各项工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，严格规范与投资者的沟通与交流，增强投资者对公司价值的认同与支持。",
+      "original_text": "康佳依据《中华人民共和国证券法》《上市公司与投资者关系管理工作指引》及其他相关规定，制定了《康佳集团股份有限公司投资者关系管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别利益相关方群体，完善沟通机制，开展双重重要性议题调研。",
+      "original_text": "康佳将利益相关方的关注要点作为践行可持续发展的重要方向，全面识别对公司业务和运营可能或已经产生重大影响的利益相关方群体，并持续完善与利益相关方的沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》，董事会秘书负责信息披露工作，确保信息披露及时、真实、准确、完整，不断提高信息披露质量。",
+      "original_text": "康佳严格遵守《中华人民共和国公司法》《上市公司信息披露管理办法》等法律法规，制定《康佳集团股份有限公司信息披露管理制度》，积极履行公司信息披露义务。公司董事会秘书负责信息披露工作，确保公司信息披露及时、真实、准确、完整",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

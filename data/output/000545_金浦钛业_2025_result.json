@@ -1,0 +1,403 @@
+{
+  "company_name": "金浦钛业",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家“双碳”战略，对标“碳达峰碳中和”目标任务，从生产组织、技术改造等方面降低能耗物耗水耗。",
+      "original_text": "公司积极贯彻创新、协调、绿色、开放、共享的新发展理念...积极响应国家“双碳”战略...对标“碳达峰碳中和”目标任务",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立并持续改进环境管理体系，获得ISO14001:2004环境管理体系认证。南京钛白和徐州钛白均通过了能源管理体系的认证。",
+      "original_text": "立并持续改进环境管理体系，获得 ISO14001:2004 环境管理体系认...南京钛白和徐州钛白均通过了能源管理体系的认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司通过产品提档升级和更新换代，助力节能降耗、清洁生产和发展循环经济。打造“变废为宝、循环利用”绿色项目案例。",
+      "original_text": "现产品提档升级和更新换代，也助力企业节能降耗、清洁生产和发展...打造“变废为宝、循环利用”绿色项目案例",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过技术改造实现废酸全部综合利用，科学统筹废酸浓缩生产及浓废酸回用，稳定并加大聚铁生产，优化中和剂使用比例，吨产品石膏产出比达到行业领先水平。",
+      "original_text": "与技术改造手段，实现废酸全部综合利用，科学统筹废酸浓缩生产及浓废酸回用，稳定并加大聚铁生产，优化中和剂使用比例",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守国家法律法规，规范劳动管理制度，与员工签订劳动合同，足额缴纳五险一金，维护员工合法权益。",
+      "original_text": "公司严格遵守国家各项法律法规，规范劳动管理制度...依法保障员工各项权益...为公司员工及时足额缴纳'五险一金'，切实维护员工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立安全生产长效机制，推动职业健康安全管理体系，开展安全教育培训，进行职业健康检查，配备劳动防护用品，建立健康档案，建档率100%。",
+      "original_text": "公司建立安全生产长效机制，持续推动职业健康安全管理体系...每年开展员工职业卫生体检...建立健全员工个人健康监护档案，建档率达到100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司坚持可持续采购理念，主张基于资质、质量、服务选择供应商，尊重及保护劳动者权益，不接受使用童工、强迫劳动。",
+      "original_text": "公司一贯坚持可持续的采购理念，主张在基于资质、质量、服务...尊重及保护劳动者权益为原则，不接受使用童工、强迫劳动及其他侵...",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司致力于提供质量可靠的优质产品，生产上精益求精，提供高质量的产品，并积极为客户开发。",
+      "original_text": "金浦钛业致力于保护客户权益，努力提供质量可靠的优质产品和满意的服务。生产上精益求精，提供高质量的产品。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益事业，通过志愿服务、爱心捐赠、结对帮扶困境儿童、与社区建联合作建立社区工厂等方式回馈社会。",
+      "original_text": "公司倡导志愿精神，积极投身公益活动...结对帮扶五家困境儿童...与周边社区开展建联合作，指导建立社区工厂...助力失地农民就业增加社区集体...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司举办三八妇女节女职工健康体检，体现对女性员工的关怀，但未明确提及多元化与包容政策。",
+      "original_text": "开展'三八妇女节'女职工健康体检...",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司将董事会战略发展委员会调整为董事会战略与ESG委员会，并修订工作规则，研究和指导ESG工作。",
+      "original_text": "公司将董事会下设的“董事会战略发展委员会”调整为“董事会战略与ESG委员会”，修订了《董事会战略与ESG委员会工作规则》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "partial",
+      "summary": "公司提及合规营销与责任采购，尊重知识产权，确保采购来源正当合规。",
+      "original_text": "合规营销与责任采购...尊重知识产权，确保采购物资来源正当合规",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续推进内控评价和风险管理工作，加强内部控制和风险管理。",
+      "original_text": "公司持续推进内控评价和风险管理工作...加强内部控制和风险管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司以对投资者负责为主要目标，保障股东合法权益，通过多元化沟通渠道与投资者交流。",
+      "original_text": "为投资者负责作为主要目标...公司应当建立健全公司透明度和规范性...通过多元化沟通交流渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司尊重利益相关方合法权利，促进有效交流，维护股东、员工、客户、消费者、供应商等权益。",
+      "original_text": "公司尊重利益相关方的合法权利，促进与利益相关方的有效交流...维护股东、员工、客户、消费者、供应商利益相关方的权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定了《信息披露管理制度》，确保信息披露真实、准确、及时、完整。",
+      "original_text": "公司制定了《信息披露管理制度》，确保信息披露的真实、准确、及时和完整",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 19,
+    "quantitative_valid": 19,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.692
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 39,
+    "missing": 13,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 75.0
+  }
+}

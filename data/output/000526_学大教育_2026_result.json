@@ -1,0 +1,441 @@
+{
+  "company_name": "学大教育",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 9909,
+      "unit": "人",
+      "original_text": "员工数量 人 8,627 9,909",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 68.37,
+      "unit": "%",
+      "original_text": "截至报告期末，公司女性员工占比达68.37%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "女性高级管理人员数量占比 % 50.00 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 105.3,
+      "unit": "万元",
+      "original_text": "报告期内，公司员工培训方面投入金额共计105.30万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 29.95,
+      "unit": "%",
+      "original_text": "员工流失率1 % 30.66 29.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 3543.1,
+      "unit": "万元",
+      "original_text": "报告期内，我们在研发方面的投入金额达3,543.10万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.1,
+      "unit": "%",
+      "original_text": "研发投入金额占营业收入比例 % 1.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 225.07,
+      "unit": "万元",
+      "original_text": "对外捐赠投入总额225.07万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会共由8名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "其中独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司参考IFRS S2识别气候变化风险与机遇，制定应对策略，包括物理风险（急性、慢性）和转型风险（政策法律、市场、声誉），并识别技术、产品、品牌、融资等机遇。",
+      "original_text": "为有效应对全球气候变化挑战，公司参考《国际财务报告可持续披露准则第2号——气候相关披露（IFRS S2）》，结合行业特性、业务特点、内外部经营环境及专家意见，通过宏观政策研究、背景调研、同行对标等方式，系统识别、分析并管理气候变化风险与机遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定了一系列内部环境管理制度，包括《环境管理制度》《废弃物管理制度》《环境和职业健康安全管理手册》等，并定期开展环境风险辨识与应急演练。",
+      "original_text": "为保障环境管理工作的系统规范化运行，我们制定了一系列内部管理制度，例如：文谷学校板块的《环境管理制度》《废弃物管理制度》《环境和职业健康安全管理手册》《环境管理监督考核制度》《环境应急管理制度》、千翼健康板块的《医疗废物安全管理制度》、句象书店板块的《废弃物管理制度》《咖啡废弃物排放管理标准》等。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司提及若积极开发和提供绿色低碳相关课程产品与服务，可适应市场需求，把握新兴市场发展机遇，但未明确说明已推出具体绿色产品或服务。",
+      "original_text": "公司若积极开发和提供绿色低碳相关课程产品与服务，可更好地适应市场需求，把握新兴市场发展机遇，获得额外的收入增长。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告GRI索引中304系列（生物多样性）标注为“不涉及”，表明公司未识别生物多样性相关影响。",
+      "original_text": "304-1 组织在位于或邻近保护区和保护区外的生物多样性丰富区域拥有、租赁、管理的运营点：不涉及",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行无纸化办公、设置单面纸回收箱、倡导光盘行动、鼓励水循环利用（收集废水浇灌绿植）等循环经济措施。",
+      "original_text": "在废弃物管理方面，我们通过推行无纸化办公、设置单面纸回收箱实现纸张循环利用，在校园食堂倡导“光盘行动”，从源头削减废弃物产生量。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持合规用工，严格遵守劳工相关法律法规，与全体在职员工签订劳动合同并缴纳社会保险，未发生使用童工、强制劳工等重大违法违规行为。",
+      "original_text": "公司坚持合规用工，严格遵守劳工相关法律法规，切实保障员工合法权益。...截至报告期末，公司已与全体在职员工签订劳动合同，且均为其缴纳社会保险。报告期内，公司未发生使用童工、强制劳工等重大违法违规行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司遵守职业病防治法，定期组织健康体检，购买补充医疗保险，开展中医理疗活动，报告期内无因工死亡或新增职业病。",
+      "original_text": "公司严格遵守《中华人民共和国职业病防治法》《职业健康检查管理办法》...报告期内，公司员工未发生因工死亡事故，亦无新增患职业病病例的情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定《学大教育集团供应商及管理制度》，将ESG因素纳入供应商准入评审，要求食品供应商提供食品经营许可、装修类供应商具备安全生产资质，并要求签署《阳光合作协议》或廉洁条款。",
+      "original_text": "我们逐步将ESG因素纳入供应商准入评审管理，例如要求食品供应商提供食品经营许可文件，装修类供应商具备安全生产相关资质等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格遵守教育相关法律法规，提供高品质个性化教育服务，建立多层次课程形式，保障教学质量。",
+      "original_text": "学大教育严格遵守《中华人民共和国产品质量法》《中华人民共和国教育法》...始终秉承“以人为本、因材施教”的教育理念，持续完善教学质量管控",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全与隐私保护法律法规，建立了多层联动的数据安全与隐私保护管理架构，并制定了多项内部管理制度。",
+      "original_text": "学大教育高度重视数据安全与客户隐私保护工作，严格遵守《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》...建立了多层联动的数据安全与隐私保护管理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过公益捐赠、捐资助学、阅读成长计划等项目参与社区发展，报告期内对外捐赠225.07万元。",
+      "original_text": "报告期内，我们围绕公益事业、爱心助学等领域，协同推进对外捐赠活动，对外捐赠投入总额225.07万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司恪守非歧视原则，在招聘录用、薪酬分配、职业晋升等环节实施公平透明管理，持续推进人才队伍多元化与包容性建设。",
+      "original_text": "我们亦致力积极营造平等、包容的就业环境。我们恪守非歧视原则，在招聘录用、薪酬分配、职业晋升及培训发展等关键环节，借助数字化线上平台实施公平、透明的管理机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会、战略与ESG委员会、ESG工作小组构成的三层ESG治理架构，董事会为最高决策机构，战略与ESG委员会为研究和指导机构，ESG工作小组为协调和执行机构。",
+      "original_text": "公司董事会是ESG治理的最高决策机构...战略与可持续发展委员会是董事会下设的专门委员会...ESG工作小组为协调和执行机构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定了《学大教育道德准则与商业道德行为规范》等制度，建立多层联动的廉洁治理架构，设立合规中心，开展廉洁审计和培训。",
+      "original_text": "公司制定了《学大教育道德准则与商业道德行为规范》《学大教育廉洁自律工作规则》等内部管理制度，围绕禁止贿赂、禁止贪污、禁止利益输送、禁止不正当竞争等方面实施管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守法律法规，搭建由股东会、董事会和管理层构成的治理架构，制定关联交易管理制度等，保障合规经营。",
+      "original_text": "学大教育严格遵守《中华人民共和国公司法》《上市公司治理准则》等要求，搭建由股东会、董事会和管理层构成的健全且高效的公司治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立风险与合规管理机制，识别环境风险、合规风险等，并制定应对措施。",
+      "original_text": "风险与合规管理；公司管理层或指定领导机构负责审议反腐败管理制度、监督重大廉洁风险及案件处置。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东会、定期报告、互动易平台、投资者热线、业绩说明会等方式加强与投资者沟通，保护投资者合法权益。",
+      "original_text": "公司通过股东会、定期报告及公司公告、互动易平台、投资者热线电话、业绩说明会、公司邮箱等方式，加强与各利益相关方之间的沟通，持续提升投资者信任度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视利益相关方沟通，通过多元化渠道与股东、员工、客户、供应商、政府、社区等保持日常沟通，识别并回应其期望与诉求。",
+      "original_text": "公司与利益相关方保持日常密切沟通，通过搭建有效的沟通机制和多元化的沟通渠道，积极了解并回应利益相关方的期待与需求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司不断完善信息披露体系，通过定期报告、公告等方式进行信息披露，并审议批准ESG报告等重大信息披露。",
+      "original_text": "公司不断完善信息披露体系，构建多元化沟通机制，切实保护投资者等各利益相关方的合法权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

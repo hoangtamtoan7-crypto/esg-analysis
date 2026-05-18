@@ -1,0 +1,442 @@
+{
+  "company_name": "中国石油",
+  "report_year": "2018",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 336,
+      "unit": "万元",
+      "original_text": "环境保护（万元人民币） 9,295 243 336",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 102900,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）排放量（万吨） 12.27 11.27 10.29*",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 109100,
+      "unit": "吨",
+      "original_text": "二氧化硫（SO2）排放量（万吨） 12.33 12.32 10.91*",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 494300,
+      "unit": "人",
+      "original_text": "员工人数（万人） 52.2 50.88 49.43",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 30.71,
+      "unit": "%",
+      "original_text": "女性员工比例（%） 31.6 31.2 30.71",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 4.36,
+      "unit": "%",
+      "original_text": "女性管理人员占员工比例（%） 4.7 7.22 4.36",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1860100,
+      "unit": "万元",
+      "original_text": "研发投入（亿元人民币） - 175.65 186.01",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 2520000,
+      "unit": "万元",
+      "original_text": "2017年公司海外纳税252亿元人民币",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立非执行董事有5名",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "1名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司监事会有9名监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司关注温室气体排放，将应对气候变化纳入公司发展规划，已着手研究制订低碳发展路线图和碳排放管控方案，积极参与国际应对气候变化合作，加入油气行业气候倡议组织（OGCI），并制定低碳发展路线图。",
+      "original_text": "作为负责任的能源公司，中国石油关注温室气体排放，将应对气候变化纳入公司发展规划。公司已着手研究制订低碳发展路线图和碳排放管控方案。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司严格执行国家及各地区环保法律法规，加强环境管理，覆盖水、气、噪声、固体废弃物全要素，并持续提升环境监测能力，完成废水和废气在线监测设备安装和数据联网。",
+      "original_text": "公司严格执行国家及各地区环保法律法规，严格监控生产过程中的废弃物排放，覆盖水、气、噪声、固体废弃物全要素。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司积极发展天然气、煤层气、页岩气和生物质能等低碳能源，持续开发清洁能源，推进天然气开发利用，研发推广新能源，努力满足社会对清洁能源的需求。",
+      "original_text": "我们积极发展天然气、煤层气、页岩气和生物质能等低碳能源，持续开发清洁能源，推进天然气开发利用，研发推广新能源开发利用，努力满足社会对清洁能源的需求。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司致力于减少生产运营可能给生态环境和生物多样性带来的潜在影响，保护当地生态环境，做好水土保护、植被恢复，努力恢复作业区域生态环境。",
+      "original_text": "我们致力于减少生产运营可能给生态环境和生物多样性带来的潜在影响，保护当地生态环境，做好水土保护、植被恢复，努力恢复作业区域生态环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以资源高效和循环利用为核心，积极开展固体废物综合利用，提高综合利用效率，减少废弃物排放。进一步加强固体废物产生、收集、存贮、利用和处置全过程管理。",
+      "original_text": "公司以资源高效和循环利用为核心，积极开展固体废物综合利用，提高综合利用效率，减少废弃物排放。进一步加强固体废物产生、收集、存贮、利用和处置全过程管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法规范用工，保障员工合法权益，坚持平等对待不同国籍、民族、种族、性别、宗教信仰和文化背景的员工，建立多种沟通渠道，推选员工代表加入监事会，成立工会组织，召开职工代表大会。",
+      "original_text": "依法规范用工行为。开展依法用工自检自查，规范招聘、晋升及劳动合同解除，切实保障员工合法权利。公司坚持对不同国籍、民族、种族、性别、宗教信仰和文化背景的员工一视同仁，平等对待。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司高度重视健康、安全与环境（HSE）工作，完善HSE管理体系，开展职业健康监护，组织职业健康体检，加强安全培训，推进基层HSE标准化建设。",
+      "original_text": "公司完善HSE管理体系、严格责任落实、加大监管力度、强化安全培训，努力提升HSE管理绩效。职业健康监护主要包括职业健康体检和职业健康监护档案管理等内容。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将供应商、承包商纳入安全管理，全面推行承包商施工作业安全准入制度，实行准入评估、安全资质审查、安全业绩记录、绩效评估等，对违反规定的承包商从严追究责任。",
+      "original_text": "我们将供应商、承包商纳入中国石油的安全管理。2017年，公司全面推行落实承包商施工作业安全准入制度...实行承包商和供应商准入安全资质审查制度...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持'质量至上、安全第一'的理念，加快油品质量升级，提供安全、环保、优质的产品和服务，加强质量管理，开展实验室开放日活动。",
+      "original_text": "公司不断优化产品结构，坚持'以人为本、质量至上、安全第一、环保优先'的理念。加快油品质量升级，为促进全社会的清洁生产和生态文明建设做出重要贡献。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "partial",
+      "summary": "公司提及遵守与标签及隐私有关的法律法规，制定了覆盖公司所有生产供应链管理的相关制度，但未详细说明具体措施。",
+      "original_text": "告、标签及隐私有关的法律法规，结合公司情况，制定了覆盖公司所有生产全供应链管理",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区发展，开展扶贫项目、志愿者活动，支持教育、医疗等公益事业，为社区提供就业机会和培训，尊重当地文化习俗。",
+      "original_text": "我们重视参与社会公益活动，鼓励员工参与志愿者活动，倡导社会文明。我们尊重业务所在地的文化习俗，致力于与东道国建立长期稳定的合作关系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持对不同国籍、民族、种族、性别、宗教信仰和文化背景的员工一视同仁，平等对待，保障女性员工权益，积极招聘和培训当地雇员，培养本地员工。",
+      "original_text": "公司坚持对不同国籍、民族、种族、性别、宗教信仰和文化背景的员工一视同仁，平等对待，严禁歧视。保障女性员工权益。积极招聘、培训当地雇员，不拘一格选用当地管理人才。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了股东大会、董事会及其专门委员会、监事会的治理结构，董事会下设提名委员会、投资与发展委员会、考核与薪酬委员会、审计委员会等。",
+      "original_text": "中国石油成立之初即建立了符合监管要求和国际规则的公司治理结构。股东大会、董事会及其专门委员会、监事会...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司成立了以董事长为组长的反腐倡廉建设领导小组，制定惩治和预防腐败体系，开展廉洁风险排查，强化制度建设。",
+      "original_text": "公司把反腐作为公司管理层的重要工作。公司成立了以董事长为组长的反腐倡廉建设领导小组，制定惩治和预防腐败体系和工作...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉承法律至上、权责对等、遵守程序、诚实守信、公平公正的现代企业法治理念，以合规管理为平台，规范企业和员工行为。",
+      "original_text": "诚信合规是企业永续发展的基础。我们秉承法律至上、权责对等、遵守程序、诚实守信、公平公正的现代企业法治理念...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续完善内控体系，加强重大风险评估和管控，构建风险分级防控和隐患治理双重预防机制，内控与风险管理体系连续12年通过外部审计。",
+      "original_text": "公司持续完善内控体系，确保内控体系设计持续有效。加强重大风险评估和管控...2017年，公司内控与风险管理体系连续12年通过外部审计。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系工作，获评'最佳投资者关系管理上市公司'，通过业绩路演、反向路演、现场考察等多种形式与投资者交流。",
+      "original_text": "获评'最佳投资者关系管理上市公司'...加强投资者关系工作，以多种形式与中小股东交流和对话",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立了定期报告、临时报告、媒体沟通、访谈参观和互动交流等多个层次多种形式的利益相关者沟通机制。",
+      "original_text": "公司已建立定期报告、临时报告、媒体沟通、访谈参观和互动交流等多个层次多种形式的利益相关者沟通机制...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司积极履行信息披露义务，根据境内外上市地的法律法规、监管要求进行信息披露，公司信息披露工作评价为A。",
+      "original_text": "公司积极履行信息披露义务...公司信息披露工作评价结果：公司信息披露工作评价为A",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司支持提高税收透明度，按规定进行税收信息披露，以真实、完整的涉税资料作为支持依据，并参与采掘业透明度行动计划（EITI）。",
+      "original_text": "支持提高税收透明度，按规定进行税收信息披露...在蒙古等实施采掘业透明度行动计划（EITI）的国家，我们积极参与利益相关方团体...",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "601857_中国石油_2018.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.788
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

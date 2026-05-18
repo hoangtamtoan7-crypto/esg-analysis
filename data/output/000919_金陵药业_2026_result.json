@@ -1,0 +1,441 @@
+{
+  "company_name": "金陵药业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "公司范围一碳排放 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5560.74,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗总量 吨标煤 5763.05 5560.74",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 0,
+      "unit": "%",
+      "original_text": "能源总消耗中清洁能源占比 % 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1472895.72,
+      "unit": "吨",
+      "original_text": "取水总量 吨 1573564.4 1472895.72",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1260061,
+      "unit": "吨",
+      "original_text": "废水排放总量 立方米 1230913 1260061",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 854.44,
+      "unit": "万元",
+      "original_text": "环保总投入 万元 1016.65 854.44",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.011,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放量 吨 0.073 0.011",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5204,
+      "unit": "人",
+      "original_text": "基层员工数量 人 5275 5204",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工数量 人 3839 3793",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 15.38,
+      "unit": "%",
+      "original_text": "女性高管占比 % 15.38 15.38",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 648.08,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 632.91 648.08",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 2.16,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均小时数 小时 2.14 2.16",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.95,
+      "unit": "%",
+      "original_text": "员工流失率 % 3.5 2.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 11013.52,
+      "unit": "万元",
+      "original_text": "2025年研发投入为11,013.52万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 21.28,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 19.55 21.28",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1594.21,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 1715.325 1594.21",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 6.5,
+      "unit": "万元",
+      "original_text": "公益慈善投入总金额 万元 27.8 6.5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至2025年末，公司董事会由9名董事组成。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事比例 % 33.33 33.33 百分比",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事占比 。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 7 8",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "修订和取消监事会工作",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "经理层成员的薪酬管理由公司董事会和薪酬与考核委员会负责",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司以实现碳达峰、碳中和目标为引领，制定碳中和路线图，目标2030年碳达峰、2060年碳中和，并逐步将气候变化风险纳入经营决策和风险管理。",
+      "original_text": "金陵药业以实现碳达峰、碳中和目标为引领，深入推进“绿色制造”战略，制定并下发《环境保护体系建设方案》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司推行ISO14001环境管理体系、ISO50001能源管理体系，并通过认证，获评江苏省绿色工厂等荣誉。",
+      "original_text": "公司推行ISO14001环境管理体系、ISO45001职业健康安全管理体系和ISO50001能源管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推动产品绿色化，但未明确提及绿色产品认证或具体绿色产品。",
+      "original_text": "推动产品绿色化、用能绿色化、生产绿色化、信披绿色化",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司重视经营活动对区域生态环境和生物多样性的影响，持续投入陆地及水下生态环境保护工作。",
+      "original_text": "公司持续推进生态环境保护工作，重视经营活动对区域生态环境和生物多样性的影响",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司秉持绿色生产、循环发展理念，建立废弃物分类体系，对可回收物回收再加工，并探索循环经济延伸实践。",
+      "original_text": "公司秉持“绿色生产、循环发展”的管理理念，将资源循环利用作为提升可持续发展能力的重要抓手",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司持续完善雇佣、薪酬、培训、职业发展和员工关怀体系，营造公平、规范、安全、和谐的工作环境。劳动合同签订率100%，缴纳社保员工占比100%。",
+      "original_text": "公司持续完善雇佣、薪酬、培训、职业发展和员工关怀体系，积极营造公平、规范、安全、和谐的工作环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司依据相关法律法规开展职业健康管理，建立职业健康与安全管理体系，通过ISO45001认证。2025年未发生重大安全生产责任事故。",
+      "original_text": "公司持续完善职业健康与安全管理体系，围绕安全责任落实、风险防控、隐患排查、教育培训和应急管理等方面，不断提升安全管理水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司遵循公平、公开、公正原则，建立供应商管理体系，对供应商准入、选择及评估等环节实施全流程管理。",
+      "original_text": "金陵药业遵循公平、公开、公正原则，建立供应商管理体系，对供应商准入、选择及评估等环节实施全流程管理，规范供应商相关行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格遵循药品管理法律法规，建立覆盖研发、生产、销售全过程的质量管理体系，质量体系培训计划执行率100%。",
+      "original_text": "金陵药业南京金陵制药厂始终将产品质量管理作为保障患者用药安全和企业稳健运营的重要基础，严格遵循《药品管理法》等法律法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全管理体系，制定相关制度文件，报告期内未发生信息安全或隐私泄露事件。",
+      "original_text": "公司同时持续健全数据安全和隐私保护制度体系，报告期内未发生信息安全或隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极开展志愿服务及公益活动，包括社区义诊、慰问船员、乡村环境改善等，人均志愿服务时长0.42小时。",
+      "original_text": "公司积极开展志愿服务及公益活动，包括组织参与乡村环境改善、慰问南京港江北集码头货运船船员、社区义诊。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司执行公平公正公开的招聘原则，明确反歧视及多元化用工要求，女性员工、不同年龄和学历层次的员工数据有披露。",
+      "original_text": "执行公平、公正、公开原则，建立招聘管理制度，明确反歧视及多元化用工要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会统筹领导、管理层系统推动、各部门协同执行的ESG工作格局。董事会下设战略与可持续发展委员会统筹ESG相关工作。",
+      "original_text": "公司持续深化ESG治理体系建设，构建'决策层引领—执行层落地—监督层保障'的闭环管理体系。明确董事会、管理层、分子公司及各职能部门的ESG责任边界。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定廉洁文化建设工作方案，深化清廉医院建设，开展反商业贿赂培训覆盖董事、管理层和员工100%，建立廉洁风险排查和动态更新机制。",
+      "original_text": "公司不断加强商业道德与反腐败管理，健全廉洁治理架构，强化重点领域风险识别与防控，推动廉洁文化建设和举报人保护机制落地。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司依据法律法规建立健全商业道德与反腐败管理体系，涵盖公司治理、市场交易、劳动用工等多个方面，并持续开展合规培训。",
+      "original_text": "公司持续健全商业道德与反腐败管理体系，深化廉洁文化建设，2025年实现反商业贿赂培训对董事、管理层和员工100%覆盖。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了全方位、多层次的风险管理架构，董事会下设审计委员会，建立风险信息库，实施风险识别、评估和应对流程。",
+      "original_text": "公司持续规范和加强风险管理工作，致力于有效识别和控制企业整体经营及投资风险，构建全方位、多层次的风险管理组织体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过业绩说明会、热线电话、投资者互动平台等多种渠道加强与投资者沟通，及时回应投资者关切。",
+      "original_text": "在投资者关系管理方面，公司坚持以投资者需求为导向，搭建常态化沟通机制，通过业绩说明会、热线电话、投资者互动平台等多种渠道加强与投资者的联系和沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多元化沟通机制与股东、客户、供应商、员工、政府等利益相关方保持紧密联系，并参考AA1000 SES原则确定关键利益相关方。",
+      "original_text": "金陵药业深知各利益相关方的意见与期望对公司的运营与发展有着重要的影响，时刻关注内外部利益相关方的意见与诉求，坚持构建多元化的沟通机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照相关法律法规和监管要求履行信息披露义务，2025年度累计披露公告和上网文件141份。",
+      "original_text": "公司高度重视信息披露工作，严格按照相关法律法规和监管要求履行信息披露义务，2025年度累计披露公告和上网文件141份。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司强化依法纳税工作，推动合规要求和风险管理贯穿经营管理全过程。",
+      "original_text": "公司还持续推进合规管理与全面风险管理体系建设，强化反不正当竞争、关联交易管理及依法纳税等工作。",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

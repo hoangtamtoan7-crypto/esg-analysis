@@ -1,0 +1,441 @@
+{
+  "company_name": "粤电力Ａ",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 6346400,
+      "unit": "吨",
+      "original_text": "2025年，公司用水量634.64万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 10497,
+      "unit": "人",
+      "original_text": "员工人数 人 10,074 10,251 10,497",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 46,
+      "unit": "万元",
+      "original_text": "培训投入（公司总部） 万元 30 22 46",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2,
+      "unit": "%",
+      "original_text": "员工流失率（公司总部） % 13 6 2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 56700,
+      "unit": "万元",
+      "original_text": "2025年，公司研发投入金额达5.67亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.1,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 1.87 2.25 1.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 55429,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 55,468 67,700 55,429",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 21.8,
+      "unit": "亿元",
+      "original_text": "纳税总额 亿元 28.05 30.13 21.80",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 10,
+      "unit": "人",
+      "original_text": "2025年，公司董事会由10名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "独立董事4名，占比10%？原文为“独立董事4名”，但比例应为4/10=40%，原文未明确比例，故根据人数计算",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名（占比10%）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "公司共组织召开董事会会议 股东大会（未明确次数）",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "未明确提及监事会规模，仅提及由董事会审计与合规委员会行使监事会法定职权",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家‘碳达峰’‘碳中和’目标，制定了初步的应对气候变化策略，设定了中长期的碳排放强度下降目标，计划通过优化机组运行、实施节能减排技术改造等措施持续降低碳排放强度。",
+      "original_text": "公司积极响应国家‘碳达峰’‘碳中和’目标，制定了初步的应对气候变化策略。粤电力设定了中长期的碳排放强度下降目标，计划在未来5年内，通过优化机组运行、实施节能减排技术改造等措施，持续降低碳排放强度。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "截至2025年底，共14家下属单位通过ISO14001环境管理体系认证，其中云河发电公司已同步取得ISO50001能源管理体系证书。公司推动环境管理体系认证工作向二三级单位延伸，下属企业及电厂持续开展认证并保持体系连续有效运行。",
+      "original_text": "截至2025年底，共14家下属单位通过ISO14001环境管理体系认证，其中云河发电公司已同步取得ISO50001能源管理体系证书。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司拥有天然气发电、风力发电和水力发电等清洁能源项目，大力发展风电、光伏等可再生能源，推进绿色甲醇一体化示范项目、微藻固碳等绿色技术。",
+      "original_text": "煤电厂的开发、建设和运营外，还拥有天然气发电、风力发电和水力发电等清洁能源项目。全力推进煤与生物质耦合发电、生物质发电绿色甲醇一体化示范、博贺能源碳捕集等重点科技项目实施。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司开展养护水生生物资源、促进生态文明建设活动，放生海鱼；开展植树造林、水土防治，保护生物多样性。",
+      "original_text": "湛江风电公司开展养护水生生物资源、促进生态文明建设活动，放生海鱼。开展植树造林、水土防治，保护生物多样性。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司对发电过程中产生的粉煤灰、石膏、炉渣、煤矸石等一般固废进行无害化和资源化处理，转化为可广泛应用于制造水泥、石膏板和混凝土等建筑材料的优质资源。处理后的废水回收使用，用于厂区地面冲洗和绿化等。",
+      "original_text": "对发电过程中产生的粉煤灰、石膏、炉渣、煤矸石等一般固废进行无害化和资源化处理，转化为可广泛应用于制造水泥、石膏板和混凝土等建筑材料的优质资源。处理后的废水回收使用，用于厂区地面冲洗和绿化或者除渣系统及输煤系统冲洗水或循环冷却水系统。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定并实施《招聘调配管理办法》《劳动合同管理办法》等制度，保障员工权益，确保男女平等，禁止歧视和强制劳动。",
+      "original_text": "制定并实施《招聘调配管理办法》《劳动合同管理办法》等系统化、规范化的用工管理制度，为员工构建公平、安全、受...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已取得ISO 45001职业健康安全管理体系认证，常态化开展急救、职业健康培训，并投保安全生产责任险。",
+      "original_text": "业健康安全管理体系认证，通过建立更完善的职业健康管理体系，...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将ESG理念融入供应链管理，构建责任供应链生态体系，并对供应商开展专项培训与案例通报。",
+      "original_text": "公司将环境、社会与治理理念深度融入供应链管理全过程，致力于构建安全、稳定、透明、绿色、协同的责任供应链生态体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格落实项目工程安全、质量、造价、工期、廉政“五控”要求，加强基建管理体系和能力建设。",
+      "original_text": "公司持续加强基建管理体系和能力建设，严格落实项目工程安全、质量、造价、工期、廉政“五控”要求",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视供应商信息安全与隐私保护，对获取的供应商信息进行保护。",
+      "original_text": "公司高度重视供应商信息安全与隐私保护，对获取的供应商信...",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司常态化开展敬老服务、科普教育、环境美化、爱心献血等公益活动，并参与乡村振兴项目。",
+      "original_text": "公司常态化开展敬老服务、科普教育、环境美化、爱心献血等系列公益活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持非歧视的用人原则，在招聘、晋升、培训等环节反对基于国籍、性别、年龄等歧视，并保障女性员工福利。",
+      "original_text": "非歧视的用人原则，在招聘录用、岗位晋升、培训发展、薪酬福利等所有环节，坚决反对并杜绝任何基于国籍、性别、年龄、...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建ESG管理架构，董事会事务部负责统筹ESG相关工作，董事会负责审核ESG报告。",
+      "original_text": "公司搭建ESG管理架构，积极探索科学的ESG管理实践方法。董事会事务部负责统筹公司ESG相关工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司强化廉洁风险防范意识，推动供应链整体责任能力提升，开展廉洁风险点清单管理。",
+      "original_text": "公司组织开展了针对供应商的专项培训与案例通报会议，强化廉洁风险防范意识，推动供应链整体责任能力的提升",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格执行规章制度，实现重大决策、经济合同100%法律合规审核，通过第三方监督审核认证。",
+      "original_text": "严格执行规章制度，实现重大决策、经济合同100%法律合规审核，并顺利通过第三方监督审核认证",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司完善“法务、合规、风控、内控”四位一体协同运作机制，系统构筑全面有效的风险防线。",
+      "original_text": "公司持续完善“法务、合规、风控、内控”四位一体协同运作机制，系统构筑全面、有效的风险防线",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视资本市场沟通，通过业绩说明会、投资者集体接待日、热线、官网、电邮等渠道与投资者沟通。",
+      "original_text": "公司高度重视资本市场沟通，严格遵守证监会、深交所信息披露要求，切实履行信息披露义务...通过组织召开年度业绩说明会、参加辖区投资者集体接待日活动，运用投资者咨询热线、官网、电邮",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司开展利益相关方沟通，发布年度ESG报告，识别主要关注点及沟通方式。",
+      "original_text": "开展利益相关方沟通；发布年度ESG报告。利益相关方沟通 ESG 议题重要性分析",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露要求，2025年对外披露公告110份，向交易所报备文件118份，保障信息披露及时准确完整。",
+      "original_text": "2025年，公司共对外披露公告110份，向交易所报备文件118份，保障信息披露的及时、准确与完整",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "未提及税务透明度相关措施或政策。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

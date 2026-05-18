@@ -1,0 +1,406 @@
+{
+  "company_name": "华锦股份",
+  "report_year": "2022",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 1598.305,
+      "unit": "吨",
+      "original_text": "氮氧化物1598.305吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 128.01,
+      "unit": "吨",
+      "original_text": "二氧化硫排放128.01吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 272.346,
+      "unit": "吨",
+      "original_text": "颗粒物272.346吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 8056,
+      "unit": "人",
+      "original_text": "报告期末在职员工的数量合计（人） 8,056",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司现有9名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "2021年度，公司董事会共召开9次董事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司坚持做好环境保护、节能降耗等工作，坚持绿色低碳和可持续发展理念。",
+      "original_text": "公司坚持做好环境保护、节能降耗等工作，坚持绿色低碳和可持续发展理念",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定了《北方华锦固体废物管理制度》，并执行《中华人民共和国固体废物污染环境防治法》。",
+      "original_text": "制定了《北方华锦固体废物管理制度》，执行《中华人民共和国固体废物污染环境防治法》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司提及废弃产品的回收、综合利用情况，但未提供具体措施。",
+      "original_text": "公司在生产过程中产生的废物的处理、处置情况，废弃产品的回收、综合利用情况",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法建立职工代表大会制度，严格执行劳动法律法规，平等对待员工，规范劳动用工管理，为员工购买社会保险及住房公积金，劳动合同签订率100%。",
+      "original_text": "公司依法建立了职工代表大会制度，保障员工权益的有效落实。公司严格执行有关劳动用工的法律法规和政策，平等对待各类员工，规范劳动用工管理；严格按照《中华人民共和国社会保险法》《住房公积金管理条例》为员工购买社会保险及住房公积金；严格按照《劳动合同法》与员工订立书面劳动合同，劳动合同签订率达到100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司加强员工职业卫生及安全教育，配置个人防护用品，组织职业健康体检，建立职业健康档案，定期开展安全月活动和应急预案演练，提升本质安全水平。",
+      "original_text": "加强员工职业卫生及安全教育，强化员工自我保护意识，为员工配置合格的个人防护用品，并督促检查员工正确穿戴。组织职业危害接触人员进行职业健康体检，建立职业健康档案。定期组织开展安全月活动，开展专项、综合应急预案及重点岗位的现场处置方案演练活动，提高员工科学施救和事故应急救援能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司在供应商管理及考核中践行社会环境保护责任，将安全、环保作为独立考核指标，不断调整优化供应链体系。",
+      "original_text": "致的考核评价，在供应商管理及考核中践行社会环境保护责任，将安全、环保作为独立考核供货情况，不断调整优化供应链体系。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格执行ISO9001:2015质量管理体系，组织开展管理体系内部审核、质量改进组、群众性质量活动，高效提升产品质量。",
+      "original_text": "严格执行ISO9001:2015质量管理体系。据质量管理体系要求，组织开展管理体系内部、量改进组、群众性质量活动，高效提升产品质量。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司关注社区及公众，开展低碳减排、减少噪音、方便就业、公益慈善等活动。",
+      "original_text": "社区及公众 低碳减排、减少噪音、方便就业、公益慈善",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司为员工营造公正、平等、和谐的工作氛围，平等对待各类员工，但未提及具体的多元化政策或指标。",
+      "original_text": "公司为员工营造公正、平等、和谐的工作氛围，并持续完善薪酬福利体系。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会已设立战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，并制订了实施细则，确保董事会高效运作和科学决策。",
+      "original_text": "公司董事会已设立战略委员会、审计委员会、提名委员会、薪酬与考核委员会四个专门委员会，并制订了各个委员会的实施细则。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "partial",
+      "summary": "公司按照《公司法》《公司章程》等规定规范运作，董事、监事、高级管理人员勤勉尽责，但未明确提及商业道德政策。",
+      "original_text": "公司按照《公司章程》规定程序提名及选聘董事...董事以勤勉尽责的态度出席董事会和股东大会。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续推进内控评价和风险管理工作，按照企业内部控制规范体系的规定，建立健全和有效实施内部控制。",
+      "original_text": "公司持续推进内控评价和风险管理工作，按照企业内部控制规范体系的规定，建立健全和有效实施内部控制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司指定董事会秘书负责信息披露工作，通过电话、网络、面访等多种形式与投资者沟通，维护投资者知情权。",
+      "original_text": "公司指定董事会秘书负责信息披露工作，接待股东来访和咨询...通过电话、网络、面访等多种形式认真做好广大股东及相关机构的交流工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别了股东、债权人等利益相关方及其期望与需求，并采取相应措施保护其权益。",
+      "original_text": "利益相关方沟通情况：股东、债权人等，期望与需求包括财务风险小、债权保障等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照《深圳证券交易所上市规则》及《信息披露管理办法》的规定，真实、准确、完整、及时地履行信息披露义务。",
+      "original_text": "公司严格按照《深圳证券交易所上市规则》及公司《信息披露管理办法》的规定，真实、准确、完整、及时地履行信息披露义务。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 22,
+    "quantitative_valid": 22,
+    "quantitative_issues": [],
+    "qualitative_count": 18,
+    "qualitative_valid": 18,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.74
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 40,
+    "missing": 12,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_L03",
+        "name": "绿色产品与服务",
+        "type": "qualitative"
+      },
+      {
+        "id": "E_L04",
+        "name": "生物多样性保护",
+        "type": "qualitative"
+      }
+    ],
+    "completeness": 76.9
+  }
+}

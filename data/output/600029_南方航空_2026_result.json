@@ -1,0 +1,442 @@
+{
+  "company_name": "南方航空",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 25899400,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "二氧化碳排放总量 万吨 2,589.94",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 25696200,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "二氧化碳排放（范围一） 万吨 2,569.62",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 203200,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "二氧化碳排放（范围二） 万吨 20.32",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 14194058.531,
+      "unit": "万吨标准煤",
+      "original_text": "能源消耗量 万吨标准煤 1259107.10 13618594.79 14194058.531",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 5,
+      "unit": "%",
+      "original_text": "到2025年，场内可再生能源（太阳能、地热能等及绿电）消费占比达5% 已完成",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 5772900,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 598.39 688.64 577.29",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 125119,
+      "unit": "人",
+      "original_text": "全职员工 73,738 ... 女性员工 38,381 ... 男性员工 51,383",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 39.33,
+      "unit": "%",
+      "original_text": "女性 人 38904 40014 42538",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 14.77,
+      "unit": "%",
+      "original_text": "中层及以上女性管理者的比例 % 11.73 20.71 14.77",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 15918.51,
+      "unit": "万元",
+      "original_text": "员工培训与发展支出 万元 / / 15,918.51",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 255.87,
+      "unit": "小时/人",
+      "original_text": "员工受训平均时数 小时 149.48 243.54 255.87",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.05,
+      "unit": "%",
+      "original_text": "员工综合流失率 % 2.56 2.27 2.05",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 60700,
+      "unit": "万元",
+      "original_text": "研发投入金额 亿元 / / 6.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.33,
+      "unit": "%",
+      "original_text": "研发投入金额及占 % / / 0.33 主营业务收入比例",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.00092,
+      "unit": "‰",
+      "original_text": "因工死亡员工比例 % 0.00201 0.00097 0.00092",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "热心公益慈善 137",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "2025年，公司董事会由6名成员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 66.67,
+      "unit": "%",
+      "original_text": "其中包含4名独立非执行董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "1名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "修订审计与风险管理委员会议事规则，取消监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "审计与风险管理委员会会议 4 6",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和，并发布绿色发展白皮书，推动低碳转型。",
+      "original_text": "到2060年，南航集团实现碳中和",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了生态环保及碳达峰碳中和工作领导小组，制定相关管理办法，并通过ISO 14001认证。",
+      "original_text": "南航成立生态环保及碳达峰碳中和工作领导小组",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出绿色飞行、低碳主题航班、碳标签餐食等绿色产品与服务。",
+      "original_text": "执飞航空餐食碳标签航班，向旅客展示碳排放数据",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司提及生态系统和生物多样性保护作为实质性议题，但具体措施描述有限。",
+      "original_text": "4 生态系统和生物多样性保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动循环经济，如飞机减重、节油改装、废弃物分类回收等。",
+      "original_text": "节油低排机型引进、地服车辆电动化改造、飞机减重及节油改装",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工权益，签订劳动合同，提供培训发展，营造尊重工作环境。",
+      "original_text": "严禁职场骚扰、虐待及一切形式的歧视行为，致力于营造安全、健康、尊重的工作环境。加强民主管理，保障职工在企业重大决策、福利保障、安全生产、培训发展等方面的知情权、参与权。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立安全管理体系，开展安全培训，提升应急管理能力。",
+      "original_text": "南航以系统思维构建安全管理体系，纵深推进安全责任、风险管控、过程控制、规章手册、训练培训、安全文化、科技支撑。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司关注供应链安全，与供应商合作，建立数据安全制度。",
+      "original_text": "南航聚焦核心主业，积极承担事关国家供应链安全、服务支撑国际国内'双循环'核心使命和重大任务。要求供应商、合作伙伴有责依法建立数据安全制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司保障飞行安全，提升服务质量，开展ISO质量管理体系认证。",
+      "original_text": "坚持安全第一，护航美好飞行。开展ISO 9001质量管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立数据安全与隐私保护体系，未发生数据安全事件。",
+      "original_text": "南航加强网络数据安全防护，建立覆盖全球所有业务条线的网络数据安全管理制度。报告期内，未发生数据安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展慈善公益活动，助力乡村振兴，参与社区沟通。",
+      "original_text": "热心公益慈善。助力乡村振兴与绿色发展。社区沟通和交流。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视多元化，董事会包含女性董事，制定多元化办法。",
+      "original_text": "公司深刻认同多元化对于优化董事会结构、提升决策质量的重要价值，制定《中国南方航空股份有限公司董事会成员多元化办法》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会是ESG事宜的最高负责机构，授权社会责任指导委员会制定并落实ESG相关事宜，董事会战略与投资委员会增加ESG相关职责。",
+      "original_text": "董事会作为公司环境、社会及管治（ESG）事宜的最高负责机构...董事会授权社会责任指导委员会制定并落实ESG相关事宜，并在董事会战略与投资委员会增加ESG相关职责",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立反商业贿赂及反贪污体系，董事会负责建立健全并有效实施相关体系和机制，审计与风险管理委员会监督。开展廉洁从业教育与培训，董事会反腐败培训次数1次。",
+      "original_text": "公司董事会：负责建立建全并有效实施反商业贿赂及反贪污的体系和机制...董事会反腐败培训次数 次 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立合规管理组织体系，发布合规管理手册，开展守法合规培训49次，覆盖近9000人次。坚持反不正当竞争，未发生不正当竞争事件。",
+      "original_text": "南航始终坚持反不正当竞争，建立反垄断合规管理制度体系...2025年，公司未发生不正当竞争事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "搭建由集团党组、公司董事会、公司经理层、风险管理责任部门、风险管理部门及风险监督部门组成的风险管理组织体系，修订《全面风险管理办法》，开展年度重大风险识别和评估。",
+      "original_text": "南航搭建由集团党组、公司董事会、公司经理层、风险管理责任部门、风险管理部门及风险监督部门组成的风险管理组织体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "持续优化投资者关系网站，畅通投资者互动渠道，制定《投资者关系管理办法》，蝉联中国上市公司协会“投资者关系管理最佳实践”。",
+      "original_text": "优化投资者关系网站，持续畅通投资者关系电话、邮箱、“上证e互动”等投资者互动交流渠道...蝉联中国上市公司协会“投资者关系管理最佳实践”",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "针对利益相关方建立常态化沟通渠道和方式，包括股东会、董事会、职工代表会议、新闻发布会等，增进利益相关方参与。",
+      "original_text": "南航切实保障各利益相关方的知情权、参与权和监督权，针对利益相关方建立常态化沟通渠道和方式",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续12年获得上交所信息披露A级评价，董事会承诺报告内容真实、准确、完整。",
+      "original_text": "南航已连续12年获得上交所信息披露A级评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关措施。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600029_南方航空_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

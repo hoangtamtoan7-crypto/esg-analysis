@@ -1,0 +1,441 @@
+{
+  "company_name": "藏格矿业",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 277335,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围一+范围二） tCO2e 277,335",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 31979,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接排放（范围一） tCO2e 31,979",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 245356,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接排放（范围二）- 基于位置 tCO2e 245,356",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.78,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "单位营收温室气体排放量（范围一+范围二） tCO2e/万元营收 0.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "直接及间接能源总能耗量（吨标准煤当量）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "绿色电力购买，逐步提升清洁电力在总能耗中的占比",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 244170000,
+      "unit": "吨",
+      "original_text": "总用水量 百万立方米 244.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废水零排放（生产废水100%回收利用）",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 310.56,
+      "unit": "吨",
+      "original_text": "废弃物总量 吨 310.56",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 4348.91,
+      "unit": "万元",
+      "original_text": "碳减排项目投入 万元 4,348.91",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "持续削减大气污染物排放总量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "持续削减大气污染物排放总量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "持续削减大气污染物排放总量",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1638,
+      "unit": "人",
+      "original_text": "截至报告期末，公司共有员工1,638人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 7.88,
+      "unit": "%",
+      "original_text": "为7.88%，女性员工流失率为12.61%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 87.84,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 32.06 45.85 87.84",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 55557,
+      "unit": "小时",
+      "original_text": "培训时长 小时 55,557",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 9.35,
+      "unit": "%",
+      "original_text": "报告期内，公司员工整体流失率为9.35%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2356,
+      "unit": "万元",
+      "original_text": "研发创新投入 万元 2,122.10 680.55 2,356",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 3074.57,
+      "unit": "万元",
+      "original_text": "安全生产与职业健康总投入 万元 3,074.57 1,938.75 2,981.56",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会人数 人 9 9 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "事会共计召开12次会议（审议议案61项）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已将气候变化视为影响长期价值创造与经营韧性的关键环境议题，形成跨部门协同的气候治理机制，持续推动碳排放压降，助力环境效益与经济效益协同。",
+      "original_text": "公司将气候变化视为影响其长期价值创造与经营韧性的关键环境议题，已将应对气候变化相关工作的规划、协调与落实，形成跨部门协同的气候治理机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，明确能源管理组织架构，制定《能源管理制度》《绩效参数控制程序》等制度，并通过清洁生产审核。",
+      "original_text": "公司已建立并持续完善温室气体排放与能源管理相关指标的统计与披露机制，通过内部协同机制，确保碳排放管理与生产运营、能源管理和清洁生产工作相互衔接。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司通过工艺升级和设备改造，逐步提升产品绿色属性和资源利用效率，关注下游客户对低碳、绿色产品需求变化。",
+      "original_text": "通过工艺升级和设备改造，逐步提升产品绿色属性和资源利用效率，增强对下游客户技术要求变化的适应能力",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生态保护与土地管理融入项目全生命周期，协同推进绿色矿山建设与生态修复实践，通过系统性评估、避让减缓及生态修复，降低运营对生态的干扰。",
+      "original_text": "公司将生态保护与土地管理融入项目全生命周期，协同推进绿色矿山建设与生态修复实践",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过技术创新实现共伴生矿、低品位矿及生产废料资源化利用，推进清洁生产审核、节能节水技术研发与绿色工厂建设，实现废水零排放。",
+      "original_text": "通过技术创新实现共伴生矿、低品位矿及生产废料资源化利用，可开辟新利润增长点、降低单位环境成本",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "正式员工劳动合同签订率保持100%，开展女职工权益保障专题讲座，举办职工生日联欢会、拔河比赛等文体活动，发放防暑降温物资，提供年度免费职业健康体检。",
+      "original_text": "正式员工劳动合同签订率保持100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立全方位的安全教育培训体系，员工安全生产教育培训率100%，特种作业持证上岗率100%，防护用品合规配备率100%。对标ISO 45001等国际标准，健全职业健康安全管理体系。",
+      "original_text": "员工安全生产教育培训率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司携手12家企业联合发起'供应链ESG'倡议，开展供应商ESG意识培训。",
+      "original_text": "藏格矿业携手12家企业联合发起'供应链ESG'",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立全流程质量管理体系，通过持续改进机制优化产品质量，藏格钾肥获评青海省市场质量信用A等（AA）企业。",
+      "original_text": "藏格矿业通过‘自我完善、自我改进’的持续改进机制，不断优化技术与质量管理规范。藏格钾肥获评青海省市场质量信用A等（AA）企业。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司强调数据安全与客户隐私保护，培训中重点强调企业级数据安全管理与合规使用要求。",
+      "original_text": "数据安全与客户隐私保护",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益活动、社区活动，关注社区发展。",
+      "original_text": "公益活动（不定期） 社区活动（不定期）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司关注女性员工关怀，派送妇女节礼品，开展健康知识讲座，营造包容职场氛围。",
+      "original_text": "在女性员工关怀方面，我们精心策划丰富业余活动，派送'三八'妇女节节日礼品",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了由股东大会、董事会及专门委员会、高级管理层构成的治理架构，董事会下设战略与可持续发展（ESG）委员会，负责ESG战略规划与执行监督。",
+      "original_text": "董事会下设战略与可持续发展（ESG）委员会，负责具体的ESG战略规划与执行监督",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司设立由董事会监察与审计委员会作为商业道德及腐败风险的最高评估与决策机构，实施系统性合规培训，定期进行腐败风险排查与商业道德审计。",
+      "original_text": "董事会监察与审计委员会作为商业道德及腐败风险的最高评估与决策机构，对公司运营全流程实施监督",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守高标准商业道德准则，建立风险内控管理‘三道防线’，董事会成员、管理层和全体员工商业道德培训覆盖率100%，全年实现重大诉讼零新增、合同纠纷零发生。",
+      "original_text": "董事会成员、管理层和全体员工商业道德培训覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司搭建三道防线风险管理架构，由董事会监察与审计委员会统筹监督合规运营与全面风险管理，建立并执行严格的合规内控体系。",
+      "original_text": "搭建三道防线风险管理架构，明晰董事会及其监察与审计委员会、管理层在风险管控机制中的职责分工",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东大会、业绩发布会、信息披露、现场调研、投资者沟通平台等方式与投资者沟通，并披露公司治理绩效。",
+      "original_text": "股东与投资者：通过可持续发展报告等渠道披露公司治理绩效",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立清晰的利益相关方沟通机制，涵盖股东、员工、客户、供应商、社区等，通过多种渠道进行沟通，并开展ESG问卷调查。",
+      "original_text": "藏格矿业的利益相关方沟通之道，建立在清晰沟通、透明公开与互信基础之上",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司承诺报告内容不存在虚假记载、误导性陈述或重大遗漏，董事会对其真实性、准确性与完整性承担责任，并持续完善ESG信息披露机制。",
+      "original_text": "本报告经藏格矿业董事会通过并批准发布。公司承诺本报告内容不存在任何虚假记载、误导性陈述或重大遗漏",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格恪守国家税收法律法规及监管要求，始终坚持依法诚信纳税，将税务合规与风险防控深度融入经营管理。",
+      "original_text": "公司严格恪守国家税收法律法规及监管要求，始终坚持依法诚信纳税，将税务合规与风险防控深度融入经营管",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

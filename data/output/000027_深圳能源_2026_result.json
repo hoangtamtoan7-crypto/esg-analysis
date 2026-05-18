@@ -1,0 +1,441 @@
+{
+  "company_name": "深圳能源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 29938600,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2025年，公司温室气体总排放2,993.86万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 29781900,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一2,978.19万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 156700,
+      "unit": "吨二氧化碳当量",
+      "original_text": "二氧化碳排放量（范围2） 万吨二氧化碳当量 / / 15.67",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 5420.7,
+      "unit": "吨",
+      "original_text": "新鲜水用水量 吨 5,502.40 5,368.30 5,420.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 582400,
+      "unit": "吨",
+      "original_text": "工业废水总量 万立方米 36.28 50.93 58.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公司环保总投入 万元。",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 9856.7,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 9,856.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 2172.61,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 吨 2,172.61",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 396.05,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 吨 396.05",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 12455,
+      "unit": "人",
+      "original_text": "员工总数 人 12,200 12,527 12,455",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 23.15,
+      "unit": "%",
+      "original_text": "女性员工数量 人 2,849 2,868 2,884；员工总数 12,455",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 14.29,
+      "unit": "%",
+      "original_text": "女性高管占比 % 0 0 14.29",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 144730,
+      "unit": "小时",
+      "original_text": "员工培训总时长 小时 / / 144,730",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.16,
+      "unit": "%",
+      "original_text": "员工流失率 % 2.47 2.23 2.16",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 36013,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 30,578 32,145 36,013",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.83,
+      "unit": "%",
+      "original_text": "研发投入金额占主营业务收入比例 % 0.93 0.78 0.83",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 562,
+      "unit": "万元",
+      "original_text": "公益慈善投入总金额 万元 / 194 562",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "纳税总额 亿元",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会由9名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.3,
+      "unit": "%",
+      "original_text": "独立董事比例 % 33.3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "召开董事会会议次数 次数 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司不再设置监事会，由审计与风险管理委员会行使监事会职权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已建立气候治理体系，将气候相关风险和机遇应对纳入可持续发展战略，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "深圳能源将应对气候变化视为提升企业韧性、实现长远发展的战略要务，致力于以可持续发展理念推动企业与社会绿色转型",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立健全环境管理体系和管理制度，明确年度能源环保指标，通过ISO 14001认证，并建立能源管理领导小组。",
+      "original_text": "公司严格落实《中华人民共和国环境保护法》等法律法规，建立健全环境管理体系和管理制度",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司主营业务包括清洁电力、生态环保、综合燃气和数智服务等绿色服务，满足客户对绿色节能服务的需求。",
+      "original_text": "公司主营业务为包含清洁电力、生态环保、综合燃气和数智服务在内的多项绿色服务，满足客户对绿色节能服务的需求",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过规划合理避开野生动物活动范围，保护当地生物多样性，并在项目区域大规模种植草皮及绿化带。",
+      "original_text": "通过规划合理避开野生动物的活动范围，保护当地生物的多样性；在项目地面区域及公共空间大规模种植草皮及绿化带",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过垃圾焚烧、固废处理、废水回收等实现资源循环利用，推动垃圾减量化、资源化、无害化。",
+      "original_text": "通过精准分类处置与合规外运，有效推动垃圾减量化、资源化、无害化进程",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，依法签订劳动合同，不因性别、年龄等歧视员工，建立员工手册，保障员工权益。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等相关法律法规，依法与员工签订劳动合同。不因民族、种族、性别、年龄、婚姻及妊娠状态等个人因素对员工进行歧视。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司落实安全生产，重视职业健康，通过健康安全管理体系认证，开展安全培训，未发生一般及以上生产安全事故。",
+      "original_text": "公司认真落实安全生产法律法规，坚持安全管理重心向下，压紧压实企业安全生产主体责任。2025年，公司未发生一般及以上生产安全事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司充分考虑供应商的产品质量、安全生产、环境保护和社会责任等ESG因素，优先采购有利于环保的产品。",
+      "original_text": "公司充分考虑供应商的产品质量、安全生产、环境保护和社会责任等ESG因素。在招标流程中，优先采购有利于环保的产品。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司强化质量责任，确保产品质量，将客户身心健康保护融入服务全流程。",
+      "original_text": "公司秉持“安全第一、责任至上”的理念，将客户身心健康保护融入服务全流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《个人信息管理标准》和《数据安全管理标准》，建立覆盖信息全生命周期的数据管理体系，未发生重大数据安全事件。",
+      "original_text": "公司制定了《个人信息管理标准》和《数据安全管理标准》，建立覆盖信息收集、传输、存储、使用等全生命周期的数据管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司心系社会公益事业，建立志愿服务体系，开展社区共建、志愿服务等活动。",
+      "original_text": "公司始终心系社会公益事业，建立健全志愿服务体系，打造“深能有爱”志愿服务品牌，开展服务社区、科普进校园等活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司不因性别、年龄、民族等歧视员工，提供平等就业机会，关注员工心理健康，支持员工职业发展。",
+      "original_text": "不因民族、种族、性别、年龄、婚姻及妊娠状态等个人因素对员工进行歧视，坚决抵制一切形式的就业歧视。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立董事会战略与可持续发展委员会，负责ESG工作的领导和决策，并设立可持续发展领导小组和工作小组，形成'董事会负责、管理层执行、部门落实'的ESG治理架构。",
+      "original_text": "本公司董事会是ESG工作的领导和决策机构，董事会设战略与可持续发展委员会，负责对公司长期发展战略...设立董事会战略与可持续发展委员会、可持续发展领导小组和工作小组，进一步完善'董事会负责、管理层执行、部门落实'的ESG管治架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续加强党风廉政建设和反腐败工作，强化廉洁风险防控，建立廉洁管理体系，涵盖责任追究等多个方面。",
+      "original_text": "持续加强党风廉政建设和反腐败工作，坚持以严的基调强化正风肃纪，强化廉洁风险...廉洁管理体系及责任追究等多个方面，为廉洁风险防控和合规经营提供制度保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司构建了以《诚信合规手册》为纲领、《合规管理标准》为核心的'1+1+N'合规管理制度体系，设立合规委员会，持续推进合规管理体系建设。",
+      "original_text": "公司构建了以《诚信合规手册》为纲领、《合规管理标准》为核心，并以《合规风险管理标准》《合规委员会议事管理标准》等配套制度为支撑的'1+1+N'合规管理制度体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了职责清晰、分工协同的风险管理体系，董事会承担最终责任，下设审计与风险管理委员会，建立常态化年度风险评估机制，制定多项风险管理制度。",
+      "original_text": "公司建立了职责清晰、分工协同的风险管理体系。董事会作为风险管理与内部控制相关事项的最高决策机构...公司已建立常态化年度风险评估机制...制定并严格执行《风险辨识与评估管理标准》《风险监督与改进管理标准》等风险管理制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司持续加强投资者关系管理，积极搭建多元化沟通渠道，举办业绩说明会和投资者集体接待日活动，制定《市值管理制度》，荣获'2025年度上市公司卓越'称号。",
+      "original_text": "公司持续加强投资者关系管理，积极搭建多元化的投资者沟通渠道...高质量举办2024年度业绩说明会及2025年网上投资者集体接待日活动...荣获易董'2025年度上市公司卓越'。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过构建有效的沟通机制，保障利益相关方的知情权与参与权，定期开展ESG重要性议题评估，并参考利益相关方调查问卷结果。",
+      "original_text": "深圳能源始终致力于为股东、客户、员工、伙伴等利益相关方创造更大价值。通过构建有效的沟通机制，保障利益相关方的知情权与参与权...参考交易所重要性议题识别流程，公司邀请可持续发展领域专家等利益相关方对议题重要性程度进行...利益相关方调查问卷的结果。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照上市公司信息披露相关法律法规及监管要求，持续完善信息披露管理制度，在深交所信息披露评价中获得最高等级A级（优秀）。",
+      "original_text": "公司严格按照上市公司信息披露相关法律法规及监管要求，持续完善信息披露管理制度...报告期内，公司在深圳证券交易所信息披露评价最高等级——A级（优秀）。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及纳税总额，但未详细说明税务透明度政策或措施。",
+      "original_text": "纳税总额 亿元",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "东方雨虹",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 806900,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量1、2 万吨二氧化碳当量 80.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 516000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1 万吨二氧化碳当量 51.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 290900,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2 万吨二氧化碳当量 29.09",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.29,
+      "unit": "吨/万元营业收入",
+      "original_text": "温室气体排放强度 吨/万元营业收入 0.29 0.26 0.21",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 326200,
+      "unit": "兆瓦时",
+      "original_text": "综合能源使用量 万吨标准煤 32.62 28.59 23.13",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 3.99,
+      "unit": "%",
+      "original_text": "绿色电力使用比例 % 3.99 11.61 7.73",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1569300,
+      "unit": "吨",
+      "original_text": "水资源使用量 万吨 156.93 187.79 215.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 480000,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨 48.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 10318,
+      "unit": "人",
+      "original_text": "员工总人数 人 10,318",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 18.85,
+      "unit": "%",
+      "original_text": "女性 人 1,945",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 50,
+      "unit": "小时/人",
+      "original_text": "员工人均培训小时数为50小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 60600,
+      "unit": "万元",
+      "original_text": "研发投入金额 亿元 6.06",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.85,
+      "unit": "%",
+      "original_text": "研发投入金额占营业收入比例 % 1.85",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 4299,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 4,299",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "报告期内，公司董事会由9位董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33,
+      "unit": "%",
+      "original_text": "独立董事3位，占董事会成员总数的33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 4,
+      "unit": "人",
+      "original_text": "女性董事4位，占董事会成员总数的44%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'碳达峰、碳中和'战略，将绿色发展融入中长期规划，建立关键指标监测体系，设定碳减排目标，并识别气候相关风险与机遇。",
+      "original_text": "东方雨虹积极响应国家'碳达峰、碳中和'战略部署，将绿色发展全面融入企业中长期规划。公司建立以关键指标为核心的监测...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司52个生产型工厂获得环境管理体系认证，14个被评为省级绿色工厂，9个被评为国家级绿色工厂。公司遵守环保法规，建立环境管理制度。",
+      "original_text": "2025年，公司52个生产型工厂获得环境管理体系认证，14个生产型工厂被评为省级绿色工厂，9个生产型工厂被评为国家级绿色工厂。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发宜顶工业化装配式屋面系统、虹顶光伏屋面系统等绿色产品，产品通过中国环境标志认证、绿色建材产品认证等，致力于低碳产品研发。",
+      "original_text": "公司创新研发了宜顶（EDEE）工业化装配式屋面系统、雨虹桃花源防排蓄水系统等一系列产品与解决方案...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过高效利用资源和循环再生方式减少废弃物排放，推行包装绿色化，推广托盘循环使用，实施'无废工厂'管理。",
+      "original_text": "东方雨虹在生产过程中，通过高效利用资源和循环再生的方式，减少资源消耗和废弃物排放...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司倡导平等非歧视用工政策，禁止强迫劳动、童工，保障结社自由和集体谈判，尊重员工风俗习惯与宗教信仰，促进女性和少数民族平等就业。",
+      "original_text": "公司倡导平等和非歧视的用工政策，禁止在员工招聘、薪酬和福利、晋升...禁止强迫劳动、童工和未成年工、结社自由和集体谈判、无歧视、健康和安全保障等",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司持续完善安全生产与职业健康管理体系，52个基地通过ISO 45001认证，全年未发生重大安全生产事故，无新增职业病案例。",
+      "original_text": "截至2025年底，公司共有52个生产研发物流基地通过ISO 45001职业健康安全管理体系认证。2025年内，公司全年未发生重大安全生产事故，无新增职业病案例。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将环保、质量和安全等社会责任要求融入供应商管理，对供应商开展多维度评估，对违规供应商采取黄牌、红牌、黑名单等措施。",
+      "original_text": "公司持续完善供应商环境与社会责任评估管理体系，对供应商开展多维度、全流程评估与管理...视情节采取黄牌、红牌直至列入黑名单等处罚措施",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持产品安全为核心，建立从原材料进厂到成品出厂5级检验，通过自检、外检及第三方监督审核保障质量，推出环保安全产品。",
+      "original_text": "东方雨虹坚持产品安全为核心...建立产品生产全过程的质量检验，实行从原材料进厂到成品出厂5级检验",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司成立信息安全委员会，应用非对称加密技术，员工入职签署保密协议，开展信息安全培训及钓鱼邮件演练。",
+      "original_text": "东方雨虹高度重视客户信息与隐私安全保护...成立信息安全委员会...全面应用非对称加密技术保障数据传输安全...所有员工入职时均须签署保密协议",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展'服务百姓，拒绝渗漏'公益活动，覆盖多个省市社区，提供免费渗漏勘查和维修，并参与公益徒步活动。",
+      "original_text": "2025年，东方雨虹'服务百姓，拒绝渗漏'主题公益活动在北京顺义天竺•水木兰亭花园社区、马家堡景兰家园社区启动...该活动已相继落地上海、成都、贵阳、江西等全国多个省市",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导平等多元包容文化，禁止歧视，促进女性和少数民族平等就业，关注女性员工权益，设置哺乳室等。",
+      "original_text": "公司倡导平等和非歧视的用工政策...积极促进女性和少数民族员工平等就业，着力构建平等、多元、包容的工作环境...高度关注女性员工需求，切实保障女员工'三期'休假权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已建立ESG治理架构，包括董事会、战略与可持续发展委员会、可持续发展执行委员会，负责监督和管理可持续发展相关事务。",
+      "original_text": "将原董事会下设专门委员会“战略委员会”调整为“战略与可持续发展委员会”，在原有职权基础上增加可持续发展监督管畴，由公司可持续发展执行委员会负责管理气候变化相关风险和机遇的识别分析和组织应对等工作，并接受公司董事会及战略与可持续发展委员会的监督指导。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续开展反腐败风险评估，识别关键环节和重点领域可能存在的商业贿赂和腐败风险，并开设廉洁合规公众号进行宣传。",
+      "original_text": "公司持续开展反腐败风险评估，识别采购、销售、财务等关键环节以及资金流动、合同签订等重点领域可能存在的商业贿赂和腐败风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司遵守商业规则和商业伦理，在合规经营方面，为各业务单位配备风控业务合作伙伴，组织合规培训，确保合规经营底线。",
+      "original_text": "遵守商业规则和商业伦理，在合规经营方面，公司为各业务单位配备风控业务合作伙伴，由其结合不同单位的业务特点进行专门合规培训。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了完善的风险管理体系，涵盖气候相关风险、供应链风险等，并形成闭环管理机制。",
+      "original_text": "东方雨虹建立并持续完善气候相关风险管理闭环机制，涵盖“识别－评估－排序－应对”全流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东大会、高管见面会、业绩说明会等方式与投资者沟通，披露经营信息，关注股东回报。",
+      "original_text": "采取股东会、高管见面会、业绩说明会等方式与投资者沟通，披露经营信息，关注股东回报。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与各利益相关方的沟通互动，通过官方网站、微信公众号、定期报告等渠道，综合运用电话会议、书面沟通、座谈研讨等方式。",
+      "original_text": "东方雨虹高度重视与各利益相关方的沟通互动，通过官方网站、微信公众号、定期报告等渠道，及时发布经营业绩、产品服务、对外合作等动态信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司董事会承诺报告不存在虚假信息、误导信息记载，并对内容的真实性、准确性和完整性负责。",
+      "original_text": "本公司董事会承诺报告不存在任何虚假信息、误导信息记载，并对内容的真实性、准确性和完整性负责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告中提及依法纳税，但未详细说明税务透明度相关政策和措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "source_file": "002271_东方雨虹_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

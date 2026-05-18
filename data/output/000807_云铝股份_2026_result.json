@@ -1,0 +1,441 @@
+{
+  "company_name": "云铝股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体直接排放量较2024年同比下降",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "单位产品碳排放强度稳步",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 87.5,
+      "unit": "%",
+      "original_text": "清洁能源使用占比约87.5%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 0,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 0 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 52600,
+      "unit": "万元",
+      "original_text": "环保投入达到5.26亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "二氧化硫、颗粒物、氟化物排放浓度分别",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "二氧化硫、颗粒物、氟化物排放浓度分别",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 10144,
+      "unit": "人",
+      "original_text": "员工总数 人 10,322 10,224 10,144",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 20.31,
+      "unit": "%",
+      "original_text": "女性员工比例 20.31%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 13.0,
+      "unit": "%",
+      "original_text": "管理层女性员工比例 13.00%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 886,
+      "unit": "万元",
+      "original_text": "培训投入金额 万元 1,057 896 886",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 17.38,
+      "unit": "小时/人",
+      "original_text": "人均受训时长 17.38 小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1.7,
+      "unit": "%",
+      "original_text": "员工总离职率 % 0.89 2.03 1.70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 210900,
+      "unit": "万元",
+      "original_text": "研发投入 亿元 15.27 18.51 21.09",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.51,
+      "unit": "%",
+      "original_text": "占总收入的3.51%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提供安全生产投入金额",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.25,
+      "unit": "‰",
+      "original_text": "员工百万工时工伤事故率 / 0.04 0.87 0.25",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 31.9,
+      "unit": "万元",
+      "original_text": "定点援助、扶贫及其他捐赠的资金 万元 31.9",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 328600,
+      "unit": "万元",
+      "original_text": "纳税总额 亿元 21.88 26.73 32.86",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "公司董事会由11名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事4人，董事会11人，比例4/11≈36.36%",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "包括女性董事1人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 13,
+      "unit": "次",
+      "original_text": "董事会会议13次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司深化气候变化应对战略布局，围绕能源结构优化、低碳技术创新和绿色制造，构建系统化的气候行动路径。已制定2026年清洁能源使用目标，力争达到90%。",
+      "original_text": "公司深化气候变化应对战略布局，围绕能源结构优化、低碳技术创新和绿色制造，构建系统化的气候行动路径。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，获得ISO 14001环境管理体系认证比例为100%。",
+      "original_text": "获得ISO 14001环境管理体系认证比例为100%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司完善产品碳足迹生命周期评价工作，不断提升绿色产品在碳排放变现和产品品质方面的综合水平。",
+      "original_text": "公司完善产品碳足迹生命周期评价工作，不断提升绿色产品在碳排放变现和产品品质方面的综合水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司主动开展生物多样性风险评估，覆盖全部所属企业，评估聚焦空气污染、水体污染及外来生物等主要风险。",
+      "original_text": "主动开展生物多样性风险评估，覆盖全部所属企业。评估聚焦空气污染、水体污染及外来生物等主要风险",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司系统推进工业废水高效利用，实现生产生活污水零排放；累计处置铝电解固废120,697.29吨，无害化碳素材料产品全部销售至水泥厂等企业实现资源化利用。",
+      "original_text": "系统推进工业废水高效利用，实现生产生活污水零排放；累计处置铝电解固废120,697.29吨，无害化碳素材料产品全部销售至水泥厂等企业实现资源化利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司通过职工代表大会、员工座谈会等保障员工权益，集体合同覆盖率100%，发布人权影响评估报告，遵守劳动法律法规。",
+      "original_text": "职工代表大会、员工座谈会、集体合同覆盖率达100%、发布人权影响评估报告",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司设立职业健康安全委员会，通过ISO 45001认证，开展职业健康体检、应急演练，安全生产培训覆盖率100%。",
+      "original_text": "设立职业健康安全委员会、100%获得ISO 45001职业健康安全认证、安全生产培训覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商准入机制，将关键供应商纳入ASI清单，接受人权、环保及健康安全审核，对违规供应商实施退出机制。",
+      "original_text": "建立完善的供应商准入机制，关键供应商纳入ASI供应商清单，接受人权、环保及健康安全管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司遵守产品质量法，实行全流程质量闭环管理，推行追溯体系，ISO 9001质量管理体系认证覆盖率100%。",
+      "original_text": "严格遵守《中华人民共和国产品质量法》，实行从原料到品牌端的全流程质量闭环管理，ISO 9001质量管理体系认证覆盖率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《网络安全管理办法》，开展网络安全培训，部署流量探针，进行7×24小时安全监控，无网络安全及信息泄露事件。",
+      "original_text": "制定《网络安全管理办法》，开展网络安全培训，部署流量探针，7×24小时全天候安全监控",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极组织志愿活动，围绕社区关怀、环保行动和教育支持开展公益项目，采购扶贫产品162万元，助力乡村振兴。",
+      "original_text": "积极组织员工参与志愿活动，持续在社区关怀、环保行动和教育支持等领域开展公益项目，采购扶贫产品162万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司保障残疾员工及少数民族员工权益，提供平等就业机会，女性员工比例20.31%，少数民族管理层比例19.70%。",
+      "original_text": "保障残疾员工及少数民族员工合法权益，女性员工比例20.31%，少数民族管理层员工比例19.70%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已建立由董事会统筹引领的ESG管理架构，由董事会战略委员会统筹协调并全面监督ESG相关工作，经营管理层作为执行主体。",
+      "original_text": "云铝股份已建立由董事会统筹引领的ESG管理架构，由董事会战略委员会统筹协调并全面监督公司ESG相关工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建反贪腐制度体系，强化党委全面从严治党，推进廉洁风险防控精准化，建立红、橙、黄三级风险预警处置机制。",
+      "original_text": "公司反腐败工作向纵深推进...构建并运行'计划制定—监督...'机制...建立红、橙、黄三级风险预警处置机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德，将合规经营作为企业基石，覆盖法律事务、合规管理、内部控制、反腐败等多个领域，开展专题培训。",
+      "original_text": "恪守商业道德，塑造诚信品牌形象...范围覆盖法律事务与合规管理、内部控制体系、反腐败",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，制定《全面风险管理办法》，搭建覆盖51项细分风险的风险管理数据库，实施全周期闭环管理。",
+      "original_text": "云铝股份致力于构建并持续完善全面风险管理体系...搭建覆盖51项细分风险的全专业领域风险管理数据库",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，通过业绩说明会、反向路演、券商策略会等多元渠道提升信息披露透明度，保障股东权益。",
+      "original_text": "公司高度重视投资者关系管理工作，积极通过业绩说明会、反向路演、券商策略会等多元渠道提升信息披露透明度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司系统识别政府、股东、客户、合作伙伴、员工及社区等主要利益相关方，通过多层次、常态化沟通机制及时了解并回应关注事项。",
+      "original_text": "云铝股份始终将与利益相关方的有效沟通作为ESG管理的重要部分，系统识别并覆盖政府、股东、客户、合作伙伴、员工及社区等主要利益相关方",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露规范，通过透明披露保持与资本市场的有效沟通，2024-2025年度信息披露获A级评价。",
+      "original_text": "严格遵守信息披露规范，通过透明披露，保持与资本市场的有效沟通...2024-2025年度信息披露A级评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.865
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

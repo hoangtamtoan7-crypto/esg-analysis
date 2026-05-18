@@ -1,0 +1,442 @@
+{
+  "company_name": "五粮液",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 460400,
+      "unit": "吨二氧化碳当量",
+      "original_text": "万吨二氧化碳当量 49.76 46.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 400800,
+      "unit": "吨二氧化碳当量",
+      "original_text": "万吨二氧化碳当量 38.11 40.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 51800,
+      "unit": "吨二氧化碳当量",
+      "original_text": "万吨二氧化碳当量 10.30 5.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.78,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "万吨二氧化碳当量 1.35 0.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "可再生能源和非化石能源消费 50% 比重提升至 以上",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 845202.67,
+      "unit": "吨",
+      "original_text": "无害废弃物 吨 758,551.17 845,202.67",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 18671,
+      "unit": "人",
+      "original_text": "员工总数 人 18,535 18,361 18,671",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工占比",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "投入职工教育经费 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "研发投入金额 亿元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产投入包含公司及控股子公司安全生产投入金额",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公司捐赠 万元，支持四川省残疾...",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司董事会由 名董事构成，其中 名内部董事，名外部董事。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "截至报告期末，公司现有独立董事 名，占董事会成员的 。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "董事会成员中有 名女性董事，占比为 。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会 次，审议议案 项；涉及利润分配、重大工程项目等事项。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会各专门委员会 次，审议、听取议案 项。",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "五粮液以‘零碳酒企’为战略方向，积极践行‘双碳’目标，制定《碳排放管理办法》，建立温室气体排放管理体系，明确‘双碳’管理的具体内容。",
+      "original_text": "五粮液以‘零碳酒企’为战略方向，积极践行‘双碳’目标，通过推进温室气体排放管理、绿色生产技术研发以及供应链上下游减碳",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "五粮液设立以董事长为主任的环境管理委员会，运行环境管理体系，落实环境保护目标，确保污染物合规排放。",
+      "original_text": "五粮液设立以董事长为主任的环境管理委员会，能源环保管理部等机构和各单位各司其职，共同落实环保目标。运行环境管理体系，落实环境保护目标，确保污染物合规排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推进绿色酿造、智能制造，开发健康低碳产品，包装材料轻量化、循环化、绿色化，获红点奖等。",
+      "original_text": "推进智能酿造与绿色工艺，开发健康低碳产品。轻量化 循环化 绿色化 采用高强度轻量化玻璃，降低 比例，系统性回收包装材料，减少装饰性材料，推动生物基",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "五粮液将‘生态优先、绿色低碳发展’理念融入生产经营各环节，开展区域生态环境修复和生物多样性保护。",
+      "original_text": "五粮液将‘生态优先、绿色低碳发展’理念融入生产经营各环节，开展区域生态环境修复和生物多样性保护",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "五粮液构建绿色低碳循环体系，以资源高效利用为核心，完善‘土、电、水’循环经济产业体系，促进白酒行业绿色可持续发展。",
+      "original_text": "五粮液构建绿色低碳循环体系，以资源高效利用为核心，通过建设生态园区、开发生态产品、实施生态化生产，持续完善‘土、电、水’循环经济产业体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定覆盖招聘、培训、薪酬福利、绩效激励以及员工关系等模块的人力资源管理制度，保障员工权益。制定《员工权益保护准则》，构建多元平等的员工队伍。",
+      "original_text": "公司制定覆盖招聘、培训、薪酬福利、绩效激励以及员工关系等模块的人力资源管理制度，保障员工权益，为员工创造...制定《员工权益保护准则》，构建多元平等的员工队伍。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚持'预防为先、全员参与、生命至上、万无一失'的职业健康安全方针，通过ISO 45001职业健康安全管理体系认证，建立双重预防机制，定期开展培训。",
+      "original_text": "五粮液坚持'预防为先、全员参与、生命至上、万无一失'的职业健康安全方针，严格落实各项责任措施...公司通过职业健康安全管理体系认证...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将供应商的环境、质量、职业健康安全体系作为加分项纳入集采商城管理，在准入环节融入社会责任与环境要求。每年召开供应商大会，开展培训。",
+      "original_text": "公司将供应商的环境、质量、职业健康安全体系作为加分项纳入集采商城管理，在准入环节深度融入社会责任与环境...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格执行产品质量法、食品安全法等法规，建立覆盖全产业链的质量管理体系，设立食品质量安全管理委员会，通过ISO 9001等认证。",
+      "original_text": "五粮液始终坚持'品质为魂，匠心酿造'质量理念，严格执行《中华人民共和国产品质量法》《中华人民共和国食品安全法》...构建覆盖全产业链的质量管理体系...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵循个人信息保护相关法律法规，建立健全数据安全与隐私保护体系，通过技术与管理措施确保信息安全。成立网络安全和信息化委员会，制定数据分级管理办法。",
+      "original_text": "五粮液严格遵循个人信息保护相关法律法规，建立健全数据安全与隐私保护体系，通过技术与管理措施确保信息安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极履行社会责任，在赈灾救助、扶贫济困、助学兴教等领域开展公益慈善项目，设立五粮液公益慈善基金会，支持乡村振兴等。",
+      "original_text": "五粮液积极履行社会责任...在赈灾救助、扶贫济困、助学兴教等重点领域取得显著成效。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司员工构成呈现多元化特点，包括女性员工占比、肢体受限员工占比等。致力于消除任何形式的歧视与偏见，切实维护员工权益。",
+      "original_text": "年公司员工构成呈现多元化特点，女性员工占比 肢体受限员工占比...致力于消除任何形式的歧视与偏见，切实维护公司员工...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立以董事会为核心的气候治理架构，成立环境管理委员会、节能领导小组和温室气体管理领导小组。ESG委员会由7名董事组成，包括两名独立董事，召集人由董事长担任。",
+      "original_text": "五粮液建立以董事会为核心的气候治理架构，成立环境管理委员会、节能领导小组和温室气体管理领导小组。ESG 由 名董事组成，包括两名独立 ESG 标杆。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定实施《反贿赂反腐败政策》《商业行为守则》《供应商行为准则》，构建廉洁合规制度体系，将反腐败政策和程序传达给董事会成员、员工和供应链。",
+      "original_text": "公司构建完善的廉洁合规制度体系，制定实施《反贿赂反腐败政策》《商业行为守则》《供应商行为准则》。反腐败政策和程序传达给董事会成员的比率 达成。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立并发布《商业行为守则》《反贿赂反腐败政策》《供应商行为准则》等，持续完善合规风险内控管理机制，推进合规管理体系建设。",
+      "original_text": "建立并发布《商业行为守则》《反贿赂反腐败政策》《供 链一体化质量管理模式。持续完善合规风险内控管理机制，不断提升治 负责定战略、做决策、防风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立党委领导、董事会监督、经营班子落实的风控治理体系，设立风险防控委员会，基于‘三道防线’理论构建风控组织架构，涵盖风险管理组织、重大经营风险防控、内控合规、应急管理及风险监督等要素。",
+      "original_text": "公司建立党委领导、董事会监督、经营班子落实的风控治理体系，并设立风险防控委员会。公司基于“三道防线”理论构建风险防控委员会领导下的风控组织架构。初步建立涵盖风险管理组织、重大经营风险防控、内控合规、应急管理及风险监督等要素的“大风控”体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立由董事会秘书牵头、董事会办公室协调执行的投资者关系管理架构，制定《投资者关系管理制度》，秉承合规、平等、主动的原则。",
+      "original_text": "公司建立由董事会 秘书牵头负责、董事会办公室协调执行的投资者关系管理架构，制定《投资者关系管理制度》，秉承合规、平等、主动。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司秉持开放透明的沟通理念，完善利益相关方沟通体系，建立常态化沟通渠道和多元化交流平台，及时收集意见并反馈至决策层。",
+      "original_text": "五粮液始终秉持开放透明的沟通理念，致力于构建与各利益相关方的良性互动机制。 年，公司进一步完善利益相关方沟通体系，通过建立常态化的沟通渠道和多元化的交流平台，及时收集利益相关方的意见和建议，并反馈至公司决策层。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露内容真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏，已连续多年获深圳证券交易所信息披露考核最高等级A级。",
+      "original_text": "报告期内，公司信息披露内容真实、准确和完整，没有虚假记载、误导性陈述或重大遗漏，并已连续 年获深圳 证券交易所信息披露考核最高等级 级。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司税务合规透明，未发生任何涉税违规违法事件。",
+      "original_text": "税务合规透明、未发生任何涉税违规违法事件。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "000858_五粮液_2025.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.75
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

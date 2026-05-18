@@ -1,0 +1,442 @@
+{
+  "company_name": "TCL中环",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 3064462.72,
+      "unit": "吨二氧化碳当量",
+      "original_text": "自身运营（范围一与范围二）绝对碳排放量 3,064,462.72 吨二氧化碳当量（2024 年基线）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 38515.32,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一 吨二氧化碳当量 54,235.28 51,619.32 38,515.32",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 4565405.65,
+      "unit": "吨二氧化碳当量",
+      "original_text": "基于位置 吨二氧化碳当量 3,044,461.58 4,887,263.05 4,565,054.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 18.38,
+      "unit": "吨二氧化碳当量/兆瓦",
+      "original_text": "基于位置 吨二氧化碳当量/兆瓦 11.13 17.36 18.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 29367200,
+      "unit": "立方米",
+      "original_text": "总取水量 立方米 25,139,709.66 28,855,400.00 29,367,200.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 17178015.04,
+      "unit": "吨",
+      "original_text": "废水排放总量 立方米 17,178,015.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 240142.53,
+      "unit": "吨",
+      "original_text": "废弃物产生总量 吨 240,142.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 16.44,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）排放量 吨 16.44",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 1.18,
+      "unit": "吨",
+      "original_text": "二氧化硫（SO）排放量 吨 1.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 12598,
+      "unit": "人",
+      "original_text": "截至2025年末，公司员工总数12,598人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 17.7,
+      "unit": "%",
+      "original_text": "女性员工比例 % 18.76 18.27 17.70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 25.93,
+      "unit": "%",
+      "original_text": "高级管理层女性占比25.93%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 286.34,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 286.34",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 42.88,
+      "unit": "小时/人",
+      "original_text": "员工年人均培训时数42.88，较2023年上升15.27%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 22.9,
+      "unit": "%",
+      "original_text": "员工总流失率22.90%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 106006.62,
+      "unit": "万元",
+      "original_text": "研发费用共投入 106,006.62 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.82,
+      "unit": "%",
+      "original_text": "研发投入占营收比例 % 3.65 3.88 4.82",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 0.89,
+      "unit": "亿元",
+      "original_text": "安全生产资金投入 亿元 0.68 1.05 0.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.08,
+      "unit": "‰",
+      "original_text": "2025年每百万工时工伤率0.08，较2023年下降65.22%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "共9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名，占比33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司围绕气候变化带来的物理风险、转型风险与发展机遇，逐步形成以低碳运营、绿色低碳产品和可持续供应链为核心的气候行动战略方向。",
+      "original_text": "围绕气候变化带来的物理风险、转型风险与发展机遇，公司结合行业特征与自身业务布局，逐步形成以低碳运营、绿色低碳产品和可持续供应链为核心的气候行动战略方向",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依据ISO 14001等标准构建环境管理体系，对废气、废水、废弃物排放等关键指标实施常态化监测与管理。",
+      "original_text": "公司积极践行环境管理责任，依据ISO 14001等标准构建“战略统筹 - 制度保障 - 执行穿透”环境管理体系。该体系对废气、废水、废弃物排放等关键指标实施常态化监测与管理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出TCL Solar T5 Pro组件产品，采用高密度封装设计，提升功率和转换效率，降低BOS成本，全生命周期发电量提升约4%，助力客户实现低碳运营。",
+      "original_text": "2025年，TCL中环推出TCL Solar T5 Pro组件产品，...全生命周期发电量提升约4%，有助于提升光伏项目整体经济性与长期运行收益，为集中式与分布式光伏应用提供高性能、低碳化解决方案，助力客户实现低碳运营。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过光伏治沙项目，采用‘板上发电、板下治沙、桩基固沙’模式，累计治理沙地面积36,000亩，有效遏制土地沙化，降低风速与沙尘迁移。",
+      "original_text": "项目创新采用“板上发电、板下治沙、桩基固沙”模式，...累计治理沙地面积36,000亩，其中光伏板下治理8,800亩，异地治理27,200亩，有效遏制土地沙化，显著降低区域风速与沙尘迁移",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司着力提高原材料循环利用比例，系统减少水资源消耗、能源使用与废弃物产生，推动清洁生产与资源节约。",
+      "original_text": "提升资源循环效率 着力提高原材料循环利用比例，系统减少生产过程中的水资源消耗、能源使用与废弃物产生，推动清洁生产与资源节约。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，通过培训提升技能与能力，建立申诉机制，确保同工同酬，禁止歧视。",
+      "original_text": "保障员工合法权益并通过培训提升技能与能力。倡导在招聘、培训、晋升、薪酬等各个环节，确保所有员工在性别、年龄、民族等方面享有公平竞争机会；坚决杜绝性别歧视与骚扰，贯彻同工同酬。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司以ISO 45001为框架建立职业健康安全管理体系，通过风险防控、应急管理、安全培训等举措，有效防范安全事故与职业病风险。",
+      "original_text": "在管理体系构建上，公司以ISO 45001为框架，建立了系统化的职业健康与安全管理体系。重视自身运营及相关方健康安全管理，通过风险防控、应急管理、安全培训等举措，有效防范各类安全事故与职业病风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司构建供应商ESG评价体系，覆盖环境合规、劳工与人权、职业健康与安全等维度，与供应商签订《不使用冲突矿产承诺书》，采购员供应链ESG培训参培率超过100%。",
+      "original_text": "依托《供应商管理制度》《风险与机遇管理制度》及《供应商ESG信息评价表》，公司构建覆盖环境合规、劳工与人权、职业健康与安全、商业道德及合规经营等维度的供应商ESG",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过质量与安全管理体系保障产品性能与客户权益，以不发生重大产品召回事件和产品安全事故为目标。",
+      "original_text": "通过质量与安全管理体系保障产品性能与客户权益。公司以'不发生重大产品召回事件、不发生重大产品安全事故和行政处罚'为目标。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司已获得ISO 27001信息安全管理体系认证，围绕数据安全与隐私保护从制度流程、技术防护和应急管理等方面制定并实施措施。",
+      "original_text": "公司总部及主要产业链事业部均已获得ISO 27001信息安全管理体系认证。围绕数据安全与隐私保护，公司从制度流程建设、技术防护和应急管理等方面制定并实施措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过社区合作与公益行动维护良好外部经营环境，持续推进乡村振兴与公益慈善事业，包括教育支持、社区赋能等。",
+      "original_text": "通过社区合作与公益行动维护良好外部经营环境。TCL中环始终将社会价值创造作为可持续发展的重要维度，持续推进乡村振兴与公益慈善事业，通过教育支持、社区赋能等多维行动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导多元包容，致力于打破性别壁垒，在晋升考核中纳入多元化指标，减少性别偏见，赋能女性职业成长。",
+      "original_text": "致力于打破性别壁垒，在晋升考核中纳入团队协作、创新贡献等多元化指标，减少性别偏见，赋能女性职业成长。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了以董事会为领导、战略与可持续发展委员会统筹、可持续发展推进办公室执行、各业务条线落实的四级ESG治理架构。",
+      "original_text": "公司建立了以董事会为领导、合规管理委员会统筹、合规管理部执行、各职能部门...的四级ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立了常态化、嵌入式的商业道德风险管理机制，在董事会审计委员会的监督下进行腐败风险评估。",
+      "original_text": "公司建立了常态化、嵌入式的商业道德风险管理机制，该机制在董事会审计委员会的监督下",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司在董事会层面强化对商业道德与合规事务的监督责任，由审计委员会在授权范围内负责。",
+      "original_text": "公司在董事会层面强化对商业道德与合规事务的监督责任，由审计委员会在授权范围内",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了全面风险管理体系，将ESG风险纳入框架，围绕风险识别、评估、应对进行管理。",
+      "original_text": "公司建立了全面风险管理体系，并将ESG风险纳入全面风险管理框架，围绕风险识别、评估、应对",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东会、定期报告、财务报告、ESG报告等渠道与投资者沟通，关注议题包括应对气候变化、环境合规、清洁技术等。",
+      "original_text": "利益相关方沟通渠道包括股东会、定期报告、财务报告、ESG报告等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司围绕政府及监管机构、股东与投资人、员工、客户、供应商等利益相关方进行沟通。",
+      "original_text": "公司围绕政府及监管机构、股东与投资人、董事及高级管理人员、员工、客户、供应商与承包商、合作伙伴、ESG专家、行业协会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司强调优化董事会结构与信息披露，提高决策透明度，并披露气候相关信息。",
+      "original_text": "优化董事会结构与信息披露，提高决策透明度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "2025年度，TCL中环缴纳各类税费合计9.80亿元。公司披露了税务方针（GRI 207-1）及税务治理、控制及风险管理（GRI 207-2）。",
+      "original_text": "2025年度，TCL中环缴纳各类税费合计9.80亿元。...207-1 税务方针 责任治理...207-2 税务治理、控制及风险管理",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "002129_TCL中环_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "古井贡酒",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 346329.46,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "公司自身运营温室气体排放总量为346,329.46tCO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 284490.78,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体直接排放量 （范围1） tCO2e 284,490.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 53727.28,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "外购电力碳排放(基于位置) tCO2e / / 53,727.28",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.1169,
+      "unit": "吨二氧化碳当量/万元产值",
+      "original_text": "温室气体排放强度（范围1+2-基于位置） tCO2e/万元产值 0.1169",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2711600,
+      "unit": "吨",
+      "original_text": "新鲜水取水总量 万吨 271.16",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1747100,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨 156.10 158.25 174.71",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 6988.98,
+      "unit": "万元",
+      "original_text": "全年投入环境保护资金6,988.98万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 0.22,
+      "unit": "吨",
+      "original_text": "NH3-N排放量 吨 0.56 0.50 0.22",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 15.06,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 吨 15.06",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 3.16,
+      "unit": "吨",
+      "original_text": "烟尘排放量 吨 3.16",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 13596,
+      "unit": "人",
+      "original_text": "在职员工总数 人 12,969 13,453 13,596",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 12.5,
+      "unit": "%",
+      "original_text": "女性管理者（中高层）占比 % 8.24 8.10 12.50",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 595.15,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 275.57 660.01 595.15",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 41.7,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 29.39 46.14 41.70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 4.21,
+      "unit": "%",
+      "original_text": "员工流失率 % 4.63 4.09 4.21",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4.04,
+      "unit": "亿元",
+      "original_text": "研发投入 亿元 3.67 4.35 4.04",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.14,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 1.81 1.85 2.14",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1390.83,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 1,529.44 1,037.87 1,390.83",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 862.63,
+      "unit": "万元",
+      "original_text": "公司公益捐赠总额达862.63万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会共有董事9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "其中女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "2025年，召开董事会会议 次；召开专门委员会会议 次。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "2025年，召开董事会会议 次；召开专门委员会会议 次。",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定《节能降碳十五五规划方案》，明确行动路径，实施节能改造，加快清洁能源替代；开展全公司碳盘查，完善气候治理体系；目标2030年股份公司单位产值碳排放强度较2025年降低10%，2035年达到近零碳工厂标准。",
+      "original_text": "制定碳达峰、碳中和行动方案，制定《节能降碳十五五规划方案》，明确行动路径，实施节能改造，加快清洁能源替代",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，ISO14001环境管理体系认证覆盖古井贡酒、黄鹤楼酒业、明光酒业等主体。制定《能源管理制度》《计量管理办法》等制度，设立节能环保部负责环境管理。",
+      "original_text": "ISO14001 环境管理体系认证实现古井贡酒、黄鹤楼酒业、明光酒业等主体覆盖",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "推行包装材料绿色设计，逐步淘汰不环保工艺；推出搭载数字化溯源、绿色酿造技术的产品。",
+      "original_text": "推行包装材料绿色设计，逐步淘汰电镀、覆膜等不环保工艺；推出搭载数字化溯源、绿色酿造技术",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司遵循《生物多样性公约》等国际公约，厂址及经营地不涉及生态保护红线、环境质量底线、资源利用上线和环境准入负面清单。",
+      "original_text": "遵循《生物多样性公约》等国际公约，厂址及经营地不涉及生态保护红线、环境质量底线、资源利用上线和环境准入负面清单",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司大力发展循环经济，研发酿酒高浓度废水资源化利用工艺，将黄浆水、酒糟渗滤液等转化为高附加值产品；热电站炉渣、废石膏由再生资源公司回收作为建材原料；回收利用酒糟等固体废弃物60余万吨。",
+      "original_text": "回收利用酒糟等固体废弃物60余万吨，构建“吃干榨净”的循环经济产业链",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司致力于构建平等尊重、安全健康、和谐稳定的职场环境，保障员工休息休假、劳动报酬、职业健康与民主参与等权利，严禁歧视与骚扰。",
+      "original_text": "对就业歧视、保障员工休息休假、劳动报酬、职业健康与民主参与等权利，致力于构建平等尊重、安全健康、和谐稳定",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过认证，开展安全培训、隐患排查、健康体检等，2025年未发生重大生产安全事故。",
+      "original_text": "职业健康安全管理体系认证证书；2025年，公司完成安全与职业健康目标，未发生重大生产安全事故",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司强化原材料供应链稳定与安全，推进原粮基地规模化种植，对供应商进行ESG培训与审核，推动全产业链可持续发展。",
+      "original_text": "我们持续强化原材料供应链的稳定与安全，全面推进原粮基地规模化种植；将ESG...推动全产业链高质量发展",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚守品质初心，严格遵守食品安全法规，建立全过程质量管控体系，2025年无重大质量事故、无食品安全事故。",
+      "original_text": "我们坚守品质初心，深耕质量管控，持续完善从原粮到原浆、从酒体到包装的大品控体系；无重大质量事故、无食品安全事故、产品市场抽检合格率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守数据安全与个人信息保护法规，通过技术防控与合规管理保障信息安全，2025年未发生客户隐私信息泄露事件。",
+      "original_text": "我们严格遵守《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》等法律法规；2025年，未发生客户相关隐私信息泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身慈善事业，开展捐资助学、助残公益项目等，公益捐赠总额达862.63万元。",
+      "original_text": "积极投身慈善事业，在捐资助学、助残公益项目...公司公益捐赠总额达862.63万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司平等对待不同民族、性别、年龄、宗教信仰和文化背景的员工，严禁职场骚扰与虐待，注重员工隐私保护。",
+      "original_text": "平等对待不同民族、性别、年龄、宗教信仰和文化背景的员工。严禁任何形式的职场骚扰与虐待行为，注重员工隐私保护",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了决策层、管理层、执行层三级联动的ESG治理架构，董事会为ESG最高决策机构，下设战略与ESG委员会。",
+      "original_text": "董事会是公司ESG的最高决策机构...设立战略与ESG委员会...构建起决策层、管理层、执行层三级联动的ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司对贪污腐败、商业贿赂零容忍，开展廉洁教育，将供应商等商业伙伴纳入监督范围，健全反腐败制度体系。",
+      "original_text": "对贪污腐败、商业贿赂零容忍，全覆盖开展廉洁教育...将供应商等商业伙伴纳入监督范围，不断强化反腐合规制度建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守诚信经营底线，构建'1+5+1'法治化古井模型，实现规章制度、经济合同、重大决策法律审核率100%。",
+      "original_text": "构建'1+5+1'法治化古井模型，实现规章制度、经济合同、重大决策法律审核率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，开展动态风险排查，每季度跟踪风险变化，将气候相关风险管理纳入全面风险管理体系。",
+      "original_text": "强化全面风险管控与内控审计，建立动态风险排查机制...每季度定期跟踪风险变化及应对",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理规定》，每月与投资者沟通，董事、高级管理人员积极听取意见建议，及时回应诉求。",
+      "original_text": "制定《投资者关系管理规定》等制度并严格执行，每月均与包含投资者在内的利益相关方沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司依托官方网站、交易所平台、主流媒体、ESG报告等渠道与利益相关方常态化沟通，梳理沟通机制、方式及频率。",
+      "original_text": "将利益相关方的常态化沟通视为推动公司高质量发展的重要路径，依托官方网站、交易所平台、主流媒体、ESG报告等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司依法依规履行信息披露义务，董事会承诺对报告内容监督，确保不存在虚假记载。",
+      "original_text": "依法依规履行信息披露义务...公司董事会承诺对报告内容进行监督，确保不存在虚假记载",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法合规经营，但未明确提及税务透明度具体措施或政策。",
+      "original_text": "把依法治企要求融入公司运营决策的各环节，推动依法合规经营",
+      "confidence": "medium"
+    }
+  ],
+  "source_file": "000596_古井贡酒_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

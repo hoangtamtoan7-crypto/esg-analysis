@@ -1,0 +1,441 @@
+{
+  "company_name": "东阿阿胶",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 41689.65,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 41,689.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 20045.69,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放（范围一） 吨二氧化碳当量 20,045.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 21643.96,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放（范围二） 吨二氧化碳当量 21,643.96",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.06676,
+      "unit": "吨二氧化碳当量/万元产值",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元产值 0.06676",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 13841.97,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 16,090.47 13,841.97",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 13.21,
+      "unit": "%",
+      "original_text": "可再生能源使用占比 % 13.55 13.21",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1255200,
+      "unit": "吨",
+      "original_text": "水资源消耗总量 万吨 125.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 908900,
+      "unit": "吨",
+      "original_text": "生产废水排放总量 万吨 90.89",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 2833.88,
+      "unit": "吨",
+      "original_text": "废弃物产生总量 吨 2,833.88",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 651.59,
+      "unit": "万元",
+      "original_text": "员工培训支出费用 万元 651.59",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 30.24,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时数 小时 30.24",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 5.87,
+      "unit": "%",
+      "original_text": "员工总体流失率 % 5.87 10.41",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4095,
+      "unit": "人",
+      "original_text": "截至2024年末，公司共有4,095名员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 20994,
+      "unit": "万元",
+      "original_text": "技术创新研发投入 万元 20,994",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.55,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 % 3.55",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 157.72,
+      "unit": "万元",
+      "original_text": "公司共投入安全生产管理157.72万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会由9名成员构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3人，董事会共9人",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "其中女性董事2人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会会议召开次数 9次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 5,
+      "unit": "人",
+      "original_text": "监事会由5名成员构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳战略，构建治理架构，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "东阿阿胶积极响应国家“双碳”战略，全面提升气候适应能力与韧性。公司构建完善的治理架构，强化风险识别与管控，...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续推进环境管理体系建设，制定《环境因素识别与评价管理标准》，定期开展环境因素识别与评估。",
+      "original_text": "公司持续推进环境管理体系建设，提高环境管理水平...公司制定《环境因素识别与评价管理标准》，并定期开展环境因素识别与评估",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推出环保型中医药产品，如绿色包装的阿胶产品、低碳生产的阿胶糕，并研发适应气候变化需求的产品。",
+      "original_text": "推出环保型中医药产品（如绿色包装的阿胶产品、低碳生产的阿胶糕）",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司坚持生态优先，守护生物资源，维系生态平衡，合理开发中药材资源，避免过度采挖。",
+      "original_text": "东阿阿胶坚持生态优先，推动产业链可持续发展，确保原材料供应的绿色化。公司规范驴皮采购、合理开发中药材资源",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进资源节约与高效利用，构建低碳循环经济体系，包括中水回用、废弃物回收利用等。",
+      "original_text": "东阿阿胶践行绿色制造模式，推进资源节约与高效利用，构建低碳循环经济体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司秉持以人为本理念，保障员工权益，劳动合同签订率100%，未发生雇佣、强制劳动等问题。",
+      "original_text": "东阿阿胶始终秉持“以人为本”“人才强基”理念...2024年，公司劳动合同签订率为100%，未发生员工雇佣、强制劳动、",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已取得ISO 45100职业健康安全管理体系认证，建立职业健康管理制度，配备防护用品，开展安全培训。",
+      "original_text": "公司已取得ISO 45100职业健康安全管理体系认证...2024年入选国家卫...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司持续贯彻金牌质量文化，开展质量培训，2024年产品质量管理培训75次，参训1,678人次。",
+      "original_text": "公司持续贯彻金牌质量文化...2024年，公司所有产品质量管理相关岗位员工均参与培训，共开展产品质量管理培训75次，参训达1,678人次",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定数据安全管理办法，开展网络安全培训，2024年网络安全培训24次，参与3,217人次。",
+      "original_text": "报告期内，公司开展基于公司网站攻防演练工作...网络安全培训次数 次 24...网络安全培训参与人次 人次 3,217",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司关注员工多元化，董事会中有女性董事，监事会中有女性监事，倡导包容文化。",
+      "original_text": "董事会由...其中女性董事...监事会由...其中女性监事...关怀有道，携手员工共同进步",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司深化可持续供应链管理，优化供应商管理体系，开展品类采购，确保供应链安全可控。",
+      "original_text": "公司深化可持续供应链管理，优化资源利用效率...全面防范供应链风险，打造自主可控、安全可靠的中药产业链",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与公益事业，支持社区发展，投身志愿服务，开展健康公益活动，推动乡村振兴。",
+      "original_text": "公司致力于履行企业社会责任，不断开展各类公益慈善、环保志愿活动，积极承担乡村振兴、共同富裕的时代责任",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司成立ESG委员会，董事会下设ESG委员会负责统筹气候变化相关事务，形成董事会-ESG委员会-管理层的治理架构。",
+      "original_text": "东阿阿胶构建完善的ESG治理体系，2024年发布《关于成立东阿阿胶ESG委员会的通知》，正式成立“东阿阿胶ESG委员会”",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司开展反腐败培训，建立审计监察及反舞弊调查机制，强化合规风控一体化运行。",
+      "original_text": "公司开展反腐败培训；审计监察及反舞弊调查",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立合规风控一体化运行机制，发布《东阿阿胶全员合规行为准则》，近4000名员工签署合规承诺，开展反垄断专项合规。",
+      "original_text": "东阿阿胶建立覆盖全业务链条的合规管理体系，修订《合规管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立风险、内控、合规一体化管理体系，形成合规风控三道防线，进行重大风险动态管理，形成季度风险监测报告。",
+      "original_text": "东阿阿胶建立起风险、内控、合规一体化管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，高标准、多频次开展投资者互动，覆盖机构股东和中小股东，2024年完成首次中期分红。",
+      "original_text": "东阿阿胶致力于与股东实现价值共享，不断完善投资者沟通机制，创新沟通渠道，制定《投资者关系管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立常态化、高效沟通机制，与政府、股东、供应商、客户、员工等利益相关方保持沟通，识别期望并积极回应。",
+      "original_text": "东阿阿胶根据行业特性与经营业务特点，为利益相关方搭建有效的沟通桥梁",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》，确保信息披露真实、准确、完整、及时、公平，2024年披露公告数量及评价等级未明确提及。",
+      "original_text": "制定《信息披露管理制度》，“真实、准确、完整、及时、公平”",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司提及税务治理、控制及风险管理，协同管理，严守合规底线。",
+      "original_text": "207-2 税务治理、控制及风险管理 协同管理，严守合规底线",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

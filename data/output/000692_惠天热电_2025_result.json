@@ -1,0 +1,446 @@
+{
+  "company_name": "惠天热电",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1581262.4,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一+范围二） 吨二氧化碳当量 1,581,262.40",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1581262.4,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量(范围一) 吨二氧化碳当量 1,581,262.40",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 753.45,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "温室气体排放强度（范围一+范围二） 吨二氧化碳当量/百万元营收 753.45",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 989946.0,
+      "unit": "吨标煤",
+      "original_text": "能源消耗总量 吨标煤 989,946.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 7236848.0,
+      "unit": "吨",
+      "original_text": "总用水量 吨 7,236,848.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 558421.54,
+      "unit": "吨",
+      "original_text": "无害废弃物总量 吨 558,418.89; 有害废弃物总量 吨 2.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废气排放总量 吨 1,934.44",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1254,
+      "unit": "人",
+      "original_text": "劳动合同制 1,254 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 20.97,
+      "unit": "%",
+      "original_text": "女性 263 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 0.34,
+      "unit": "小时/人",
+      "original_text": "员工接受培训的平均时长 小时 0.3",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1,
+      "unit": "%",
+      "original_text": "员工流失率 % 1",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "工伤事故起数 起 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会成员人数 人 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事人数 人 3；董事会成员人数 人 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事人数 1人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 12",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 5,
+      "unit": "人",
+      "original_text": "监事会由5名监事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司主动关注气候政策法规，识别气候风险与机遇，从治理、战略、风险管理、指标和目标四个方面应对气候变化。已制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司充分意识到气候变化对公司自身运营及业务开展带来的严重影响，从治理、战略、风险管理、指标和目标四个方面出发，主动识别和分析气候风险与机遇...",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，制定并执行《环保运行管理制度》《生态环境保护管理制度》《能源管理办法》等内部管理制度，由生产运行部和EHS部共同负责环境管理。",
+      "original_text": "公司制定并执行《环保运行管理制度》《生态环境保护管理制度》《能源管理办法》等内部管理制度...由生产运行部和EHS部共同负责环境管理相关工作",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司通过热源改造、管网优化和智能升级，提升能源利用效率，推动绿色转型。计划建设全胜热电项目以替代小型燃煤锅炉，实现减排目标。",
+      "original_text": "公司计划投资建设全胜热电项目以替代...通过热源改造、管网优化和智能升级，提升能源利用效率，严格环保管控",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "original_text": "报告未提及生物多样性保护相关措施。",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司废弃物综合利用率达80%以上，炉渣用于制砖，粉煤灰用于水泥，脱硫石膏用于石膏板，实现资源回收再利用。",
+      "original_text": "报告期内，将供暖过程中产生的主要废弃物（如炉渣、粉煤灰、脱硫石膏等）综合利用率提升至80%以上...实现资源的高效回收与再利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，坚持平等雇佣，保障员工合法权益，无劳动纠纷。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等相关法律法规以及公司相关规章制度，尊重和维护员工权益，通过规范劳动合同管理、完善薪酬福利制度、畅通职业发展通道等举措，切实保障员工合法权益，促进劳动关系和谐稳定发展。报告期内，公司在职员工无劳动纠纷。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立全员全过程安全管理体系，落实安全生产责任制，开展风险辨识和隐患排查，保障生产安全和员工健康。",
+      "original_text": "公司遵守 '安全第一，预防为主，综合治理' 的管理方针，构建全员全过程安全管理体系，通过落实 '党政同责、一岗双责' 机制，开展风险辨识和隐患排查，切实保障生产安全和员工健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司提及供应链管理，但未明确ESG管理具体措施。",
+      "original_text": "公司定期识别并评估公司面临的ESG相关风险和机遇，对供应链管理、环境管理等可持续发展相关议题的...",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过规范服务、创新研发和严格保密管理，保障产品和服务安全与质量。",
+      "original_text": "公司通过规范服务、创新研发、廉洁供应链和严格的保密管理，与员工、用户及供应商携手共建高效供应链。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司强化保密关键环节管控，开展保密教育培训，提升全员保密意识。",
+      "original_text": "公司强化保密关键环节管控，通过加强涉密人员管理，开展重点岗位人员专项保密教育培训，提升保密意识。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展供热服务进社区、健康关怀行动等社区活动，履行社会责任。",
+      "original_text": "惠天热电开展'供热服务进社区'系列宣传活动，通过开设'供热小讲堂'、发放'供热便民服务卡'、开展供热安全隐患排查等行动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，确保所有员工无论民族、性别、宗教信仰等均受到公正对待，反对童工和强迫劳动。",
+      "original_text": "公司严格遵循'公平、公正、公开、竞争、择优'原则，坚持平等雇佣，确保所有员工无论其民族、性别、宗教信仰或文化背景，均受到公正、公平地对待，坚决反对并严格禁止任何形式的童工使用、从童工劳动中谋取利益、雇佣不具备适当工作能力或条件的员工,以及任何强迫或强制劳动的行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了从决策层、管理层到执行层的ESG治理架构，将ESG职责纳入经营决策和内部控制评估中。",
+      "original_text": "公司将ESG管理纳入公司战略管理...构建了从决策层、管理层到执行层的ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司纵深推进廉洁从业建设，开展反贪腐培训，向供应商发放廉洁倡议书和协议，组织员工参观反腐倡廉展览馆。",
+      "original_text": "纵深推进廉洁从业建设...向供应商发放《廉洁共建倡议书》46份，签订《廉洁协议》787份",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉持合规经营理念，持续健全风险管理体系，优化内部控制机制，开展守法合规培训。",
+      "original_text": "公司始终秉持合规经营理念，持续健全风险管理体系，优化内部控制机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了“董事会-管理团队会-全面风险管理小组-各职能部门和分子公司”的风险管理体系，覆盖全面风险管理。",
+      "original_text": "公司构建了“董事会-管理团队会-全面风险管理小组-各职能部门和分子公司”的风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定并执行投资者关系管理制度，通过电话、邮件、互动易平台、股东大会等方式与投资者充分交流。",
+      "original_text": "公司严格遵守相关法律法规，制定并执行《投资者关系管理制度》...通过投资者热线、互动易平台、股东大会等方式与投资者充分交流",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别出7种主要利益相关方，通过调研、座谈等多样化沟通方式，收集和整理利益相关方的关注与诉求。",
+      "original_text": "惠天热电与各利益相关方保持常态化沟通...识别出7种主要利益相关方...通过调研、座谈等多样化沟通方式",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司秉持真实、准确、完整、及时、公平的信息披露原则，通过指定媒体和巨潮资讯网发布信息。",
+      "original_text": "公司秉持真实、准确、完整、及时、公平的信息披露原则，通过《中国证券报》《证券时报》、巨潮资讯网等渠道发布",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司制定并执行税务管理制度，依法、准确、及时缴纳各项税款，按规定披露税务信息。",
+      "original_text": "制定并执行《企业所得税汇算清缴及研发费用加计扣除税务指引》《税务风险管理指引》等内部管理制度，依法、准确、及时缴纳各项税款",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 19,
+    "qualitative_issues": [
+      {
+        "indicator_id": "E_L04",
+        "indicator_name": "生物多样性保护",
+        "issue": "缺少summary字段"
+      }
+    ],
+    "overall_quality_score": 0.834
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "company_name": "深粮控股",
+  "report_year": "2019",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "员工总数",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工比例",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "中层及以上管理人员中女性员工比例",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 10.9,
+      "unit": "小时/人",
+      "original_text": "人均年培训时长",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "员工流失率",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会现有成员9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "全年共召开董事会会议10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "深粮控股积极贯彻绿色发展理念，将生态文明建设提升至企业战略层面，把发展循环经济、绿色低碳经济作为企业提高核心竞争力的自觉意识和市场意识。",
+      "original_text": "深粮控股积极贯彻绿色发展理念，将生态文明建设提升至企业战略层面，把发展循环经济、绿色低碳经济作为企业提高核心竞争力的自觉意识和市场意识。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "深粮控股严格遵守《中华人民共和国环境保护法》等法律法规要求，不断完善环境管理体系，在粮油储备、加工生产、粮食物流、日常办公等各个业务板块和环节践行绿色理念。",
+      "original_text": "深粮控股严格遵守《中华人民共和国环境保护法》等法律法规要求，不断完善环境管理体系，在粮油储备、加工生产、粮食物流、日常办公等各个业务板块和环节，践行绿色理念。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "深粮控股以市场和消费者需求为指引，持续拓展产品供给链，丰富产品种类，为消费者提供多元、营养、绿色的产品。",
+      "original_text": "深粮控股以市场和消费者需求为指引，持续拓展产品供给链，丰富产品种类，为消费者提供多元、营养、绿色的产品。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "码头工程上下游点位的浮游动植物、底栖生物等生物多样性指数和均匀度良好，对周边区域海洋生态影响有限。",
+      "original_text": "码头工程上下游点位的浮游动植物、底栖生物等生物多样性指数和均匀度良好，对周边区域海洋生态影响有限。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "深粮控股将发展循环经济作为企业战略，综合利用雨水对施工场地喷淋降尘，使用生物质代替柴油，倡导绿色出行等。",
+      "original_text": "深粮控股积极贯彻绿色发展理念，将生态文明建设提升至企业战略层面，把发展循环经济、绿色低碳经济作为企业提高核心竞争力的自觉意识和市场意识。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，禁止歧视和强迫劳动，保障员工基本权益，未发生违反员工人权事件。",
+      "original_text": "深粮控股严格遵守《中华人民共和国劳动法》等法律法规，制定并发布《兼职管理办法》《员工借调管理制度》...杜绝因宗教、性别、年龄、...禁止强迫劳动...2018年，深粮控股未发生违反员工人权及合法权益的事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚持安全发展理念，推进安全生产标准化和双重预防机制建设，开展安全培训，未发生重大安全责任事故。",
+      "original_text": "深粮控股坚持“管理为本，安全为重”的安全发展理念...着力推进安全生产标准化创建和双重预防机制建设全覆盖...全年开展安全生产专题培训...重大生产安全责任事故...未发生。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司构建了业务运作、资金管理、库存管理和质量管理相对分离的管控模式，但未明确提及供应链ESG管理。",
+      "original_text": "深粮控股构建了业务运作、资金管理、库存管理和质量管理相对分离、相互制衡的“四位一体”管控模式",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司高度重视产品质量安全，构建严格的质量管控体系，通过多项认证和检测确保产品安全。",
+      "original_text": "民以食为天，食以安为先。深粮控股全力做好储备粮的质量安全管控...构建起严格、动态的监测和管理体系...确保质量良好、安全可靠的粮食供应。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "报告未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区建设，开展粮油科普、扶贫、志愿服务等活动，回馈社区。",
+      "original_text": "深粮控股积极发挥专业优势，开展粮油知识科普等服务民生的公益慈善和志愿服务活动...开展“放心粮油进社区”“节粮、爱粮、感受不一样的粮食‘视’界”等活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司禁止因宗教、性别、年龄等歧视，营造多元、公平、公正的发展环境。",
+      "original_text": "杜绝因宗教、性别、年龄、...禁止强迫劳动，为所有员工营造多元、公平、公正的发展环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "partial",
+      "summary": "公司董事会下设战略委员会、薪酬委员会等，但未明确提及ESG治理架构。",
+      "original_text": "董事会下设战略委员会、薪酬委员会的工作条例",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司修订完善《党风廉政建设目标责任书》《廉洁从业风险防控指引》，完善“六位一体”综合监督联动机制，强化廉洁风险防控。",
+      "original_text": "修订完善《党风廉政建设目标责任书》《廉洁从业风险防控指引》，完善“六位一体”综合监督联动机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格按照《公司法》《证券法》等法律法规，制定《公司章程》《董事会议事规则》等制度，完善法人治理结构。",
+      "original_text": "严格按照《公司法》《证券法》《上市公司章程指引》等法律法规，制定《公司章程》《董事会议事规则》等相关治理制度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立较完善的制度体系，全面管控经营过程中的合规、安全等风险，包括法律风险管理、合同管理、资金安全管理等。",
+      "original_text": "风险管理是企业合规运营、稳健发展的重要保障。深粮控股建立较完善的制度体系，全面管控公司经营过程中的合规、安全等风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东大会、信息披露等方式与投资者沟通，保障投资者知情权，维护长期信任关系。",
+      "original_text": "加强与投资者的沟通与互动，提高公司透明度，保障投资者的知情权，维护投资者和公司之间的长期信任关系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司积极拓展利益相关方沟通渠道和方式，聆听各方期望与建议，与利益相关方共享发展成果。",
+      "original_text": "深粮控股积极拓展利益相关方沟通的渠道和方式，聆听各方对公司可持续发展和履行社会责任的期望与建议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循《公司信息披露委员会实施细则》，加强信息披露管理，保持与投资者的沟通。",
+      "original_text": "深粮控股遵循《公司信息披露委员会实施细则》的规定，加强信息披露管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 19,
+    "quantitative_valid": 19,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.731
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 39,
+    "missing": 13,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 75.0
+  }
+}

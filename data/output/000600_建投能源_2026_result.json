@@ -1,0 +1,441 @@
+{
+  "company_name": "建投能源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 50086600,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 5,008.66 万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 50080000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放量 5,008 万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 6595,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放量 0.6595 万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2198.17,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "每百万营收温室气体排放总量（范围1和范围2） 吨二氧化碳当量 2,406.31 2,228.18 2,198.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 17971700,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗总量 1,797.17 万吨标准煤",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 72640900,
+      "unit": "吨",
+      "original_text": "耗水总量 7,264.09 万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 0,
+      "unit": "吨",
+      "original_text": "废水排放总量 万吨 0.00 0.00 0.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 8530,
+      "unit": "万元",
+      "original_text": "环保改造投入 万元 4,879.80 4,612.50 8,530",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 4697.8,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）排放总量 吨 3,459.23 4,558.37 4,697.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 2724.11,
+      "unit": "吨",
+      "original_text": "二氧化硫（SO）排放总量 吨 2,271.45 3,021.96 2,724.11",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 275,
+      "unit": "吨",
+      "original_text": "悬浮粒子与颗粒物(PM)排放量 吨 310 365 275",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5879,
+      "unit": "人",
+      "original_text": "2025年指标 员工人数 5,879 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 23.32,
+      "unit": "%",
+      "original_text": "女性员工人数及比例 人；% 1,291;24.09 1,374;23.86 1,371;23.32",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1663.9,
+      "unit": "万元",
+      "original_text": "员工培训投入 1,663.90 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 24.86,
+      "unit": "小时/人",
+      "original_text": "人均培训时长 24.86 小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.9,
+      "unit": "%",
+      "original_text": "员工流失率 % 1.12 0.80 0.90",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 13.46,
+      "unit": "亿元",
+      "original_text": "研发投入 13.46 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 5.91,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 4.59 5.12 5.91",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1.47,
+      "unit": "亿元",
+      "original_text": "安全生产投入 1.47 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.0,
+      "unit": "‰",
+      "original_text": "工伤率 % 0.00 0.00 0.05",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 12.39,
+      "unit": "亿元",
+      "original_text": "纳税总额 亿元 6.11 8.20 12.39",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司董事会现有董事9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事比例 % 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "2025年，公司共召开董事会会议12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "审计与风险管理委员会会议5次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司以'双碳'目标为引领，推动绿色低碳转型，制定应对气候变化的总体战略和政策，提升碳排放管理水平，逐年降低二氧化碳排放量。",
+      "original_text": "公司持续以'双碳'目标为引领，在坚守'传统能源清洁化、清洁能源规模化、多能互补高效化'核心发展方向的基础上，紧扣新型能源体系与'十五五'规划要求，进一步明确战略升级路径，全面推动企业绿色低碳转型与高质量发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司以高标准强化环境治理体系建设，纵深推进节能减排，系统开展生态保护修复，并开展环保合规性督导检查。",
+      "original_text": "建投能源积极助力美丽中国建设，主动投身应对气候变化的时代使命，以高标准强化环境治理体系建设，纵深推进节能减排、全面践行绿色办公、系统开展生态保护修复，全方位驱动能源产业绿色低碳转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司主营业务包括火电、供热、新能源三大板块，致力于为社会发展提供清洁、高效能源服务，加速拓展光伏、储能等绿色能源增量。",
+      "original_text": "建投能源主营业务为火电、供热、新能源三大板块，在保持传统产业优势的基础上，顺应新型电力系统'清洁低碳、安全高效'的发展方向，加速拓展光伏、储能等绿色能源增量。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司开展厂区生态绿化与水土保持工程，种植草坪和花卉，丰富生物多样性。",
+      "original_text": "完成3,800余平方米草坪及宿根花卉翻种补种，有效丰富厂区生物多样性、优化生态结构",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进脱硫废水零排放改造、全负荷脱硝等环保设备设施改造，加强固废、危废监督管理，粉煤灰利用率100%。",
+      "original_text": "继续推进系统发电企业进行脱硫废水零排放改造、全负荷脱硝等环保设备设施改造，加强固废、危废监督管理工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚决维护员工合法权益，构建和谐劳动关系，提供有竞争力的薪酬福利，按时足额支付薪酬，配套社会保险、带薪休假、健康体检等。",
+      "original_text": "建投能源始终将员工视为企业发展的重要一环，坚决维护员工的合法权益，积极构建和谐劳动关系，提供有竞争力的薪酬福利...按时足额支付员工薪酬，配套完善的福利保障体系，涵盖社会保险、带薪休假、健康体检等",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司贯彻《职业病防治法》，加强员工健康监督管理，保障身心健康，改善工作场所劳动条件，常态化开展安全教育培训，职业健康体检覆盖率100%。",
+      "original_text": "公司认真贯彻《职业病防治法》等相关法律法规，通过加强员工健康监督管理、保障员工身心健康、改善工作场所劳动条件等措施，全方位守护员工职业健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司构建安全供应链管理体系，推动燃料采购改革，主体端构建全链条风险防控屏障，保障供应链安全稳定。",
+      "original_text": "建投能源以'治理筑基、战略引领、风险管控、目标锚定'为核心，构建安全供应链管理体系，推动燃料采购改革...主体端构建全链条风险防控屏障，切实保障供应链安全稳定。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以全流程质量管理为牵引，通过专业化、精细化管控体系夯实设备质量根基，保障机组安全、稳定、经济运行。",
+      "original_text": "公司以全流程质量管理为牵引，通过专业化、精细化管控体系夯实设备质量根基，有效保障了机组安全、稳定、经济运行",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司关注数据安全与客户隐私保护，列为实质性议题，并加强信息安全能力。",
+      "original_text": "数据安全与客户隐私保护 加强信息安全能力",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社会公益事业，助力乡村振兴，开展社区沟通与交流，组织公益活动。",
+      "original_text": "积极践行国企社会责任，用心关爱员工成长成才，热心投身社会公益事业，全力助推乡村全面振兴",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司关心女性员工身心健康，注重女性权益，遵循国家'三期'政策，签订女性员工专项集体合同，并雇佣残疾员工。",
+      "original_text": "公司关心女性员工身心健康，注重女性权益，遵循国家'三期'政策，严格落实孕产期、哺乳期休假规定；全覆盖签订女性员工专项集体合同",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会负责审核ESG议题和报告，下设战略与ESG管理委员会，负责ESG战略规划、政策制定及目标设定，并及时向董事会汇报ESG工作。",
+      "original_text": "公司董事会负责审核ESG议题和报告以及ESG相关管理事宜；董事会下设战略与ESG管理委员会，负责ESG战略规划、政策制定及目标设定，并及时向董事会汇报ESG工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续健全商业道德管理与监督体系，制定《管理人员廉洁从业暂行规定》，开展廉洁教育培训，2025年廉洁教育培训时长533小时，参加人次12,773。",
+      "original_text": "公司持续健全商业道德管理与监督体系，制定《管理人员廉洁从业暂行规定》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守《公司法》《反不正当竞争法》等要求，健全合规、风险、内控、审计一体化风险防控体系，编制印发《合规管理办法》，将合规融入治理、战略与经营全流程。",
+      "original_text": "公司严格遵守《中华人民共和国公司法》《中华人民共和国反不正当竞争法》等相关要求规范运作，不断健全合规、风险、内控、审计一体化风险防控体系，编制印发《合规管理办法》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司开展年度重大风险评估，编写《2025年度风险评估报告》《2025年度全面风险管理报告》，针对重大风险制定应对方案。",
+      "original_text": "2025年，公司开展了年度重大风险评估工作，编写《2025年度风险评估报告》《2025年度全面风险管理报告》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过精细化投资者关系管理与负责任投资实践，兼顾股东短期知情需求，保障股东权益。",
+      "original_text": "建投能源通过精细化投资者关系管理与负责任投资实践，兼顾股东短期知情需求",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司始终将利益相关方沟通置于战略高度，依托访谈、座谈和问卷等多元渠道，全面倾听并及时反馈利益相关方诉求建议。",
+      "original_text": "公司始终将利益相关方沟通置于战略高度，依托访谈、座谈和问卷等多元渠道，全面倾听并及时反馈利益相关方诉求建议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司高度重视透明信息披露体系建设，以合规为基础、投资者需求为导向，通过健全制度保障、优化披露质量，提升信息披露透明度。",
+      "original_text": "建投能源高度重视透明信息披露体系建设，以合规为基础、投资者需求为导向，通过健全制度保障、优化披露质量",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度相关政策和措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.942
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

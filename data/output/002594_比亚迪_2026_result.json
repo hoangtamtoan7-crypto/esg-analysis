@@ -1,0 +1,442 @@
+{
+  "company_name": "比亚迪",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 10721916.24,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 （范围1+范围2 吨二氧化碳 当量） 10,721,916.24",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 12341455,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1温室气体排放量 12,341,455.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 12264221.23,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2温室气体排放量（基于位置） 12,264,221.23",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.13,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放密度（范围1+范围2） 0.1300 吨二氧化碳当量/万元营收",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 27785651.86,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源总耗量 27,785,651.86 兆瓦时",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 36.12,
+      "unit": "%",
+      "original_text": "间接能源中可再生能源占比 % 36.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 109256800,
+      "unit": "吨",
+      "original_text": "总取水量 109,256,800 立方米",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 11087490,
+      "unit": "立方米",
+      "original_text": "工业废水总量 立方米 11,087,490",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 20.4,
+      "unit": "亿元",
+      "original_text": "20.4 亿元 环保投入",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 2475.49,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 2,475.49 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 40.95,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量 40.95 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 869622,
+      "unit": "人",
+      "original_text": "869,622 人 全球员工总数",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 30,
+      "unit": "%",
+      "original_text": "30% 女性员工占比",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 29.77,
+      "unit": "%",
+      "original_text": "高级管理层人员组成（包括董事会成员） 女性占比 % 19.77 29.77",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 11069.5797,
+      "unit": "万元",
+      "original_text": "年度培训支出金额 元 / 110,695,797",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 53.68,
+      "unit": "小时/人",
+      "original_text": "53.68 小时 员工培训人均时长",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.89,
+      "unit": "%",
+      "original_text": "员工流失率 % 2.53 2.89",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 6340000,
+      "unit": "万元",
+      "original_text": "634 亿元 全年研发投入",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 7.89,
+      "unit": "%",
+      "original_text": "7.89% 营收占比",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 15700,
+      "unit": "万元",
+      "original_text": "1.57 亿元集团捐赠支出",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 5330000,
+      "unit": "万元",
+      "original_text": "533 亿元 国内纳税总额",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "公司董事会目前由6位董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 50,
+      "unit": "%",
+      "original_text": "其中3位为独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "全年共召开9次会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司设定2045年全价值链碳中和目标，制定碳中和路线图，通过i迪碳链平台管理碳排放，并参与TCFD气候评估。",
+      "original_text": "设定2045全价值链碳中和目标；披露TCFD气候信息；i迪碳链碳管理平台上线",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，通过ISO 14001认证，并制定相关环境管理政策。",
+      "original_text": "建议供应商按照ISO14001等标准建立并持续改进其环境管理体系；工厂已通过ISO 9001 / IATF 16949质量管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司提供新能源汽车、太阳能、储能等绿色产品，并推出V2G生态、闪充技术等绿色服务。",
+      "original_text": "发展新能源汽车、太阳能与储能等技术；构建全球首个V2G生态；发布超级e平台",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生物多样性风险识别与评估纳入环境管理与可持续发展管理体系，结合业务布局及项目特征，开展与自然相关的生态评估和物种调查，综合分析区域气候、水资源、土壤、地貌及动植物分布情况，合理安排施工方式，减少水土流失和对周边生态环境的扰动。",
+      "original_text": "我们将生物多样性风险识别与评估纳入环境管理与可持续发展管理体系，结合业务布局及项目特征，开展与自然相关的生态评估和物种调查。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动废弃物减量、水资源循环利用、再生材料使用等循环经济实践。",
+      "original_text": "建立中水回用系统；提高再生材料及可再生能源使用率；废弃物减量",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守联合国人权公约及运营地用工法规，建立完善的行为准则及人权政策，保障员工结社自由、反歧视、反骚扰、工资福利、个人隐私等权益。",
+      "original_text": "比亚迪遵守《联合国人权公约》，并根据《世界人权宣言》《联合国商业与人权指导原则》、中国以及其他运营所在地的用工法律法规，结合各类质量管理、职业健康、环境安全、社会责任等标准体系，建立了一套完善的公司行为准则及人权政策。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，覆盖全体员工，开展安全生产培训，制定职业卫生管理办法，定期进行风险辨识和健康监护。",
+      "original_text": "比亚迪建立完善的健康安全保障机制，为员工及时安排上岗前、岗中以及风险岗位的离岗职业健康检查。制定劳保配备标准，定期为员工发放劳动防护用品。已建立覆盖全体员工的安全培训体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司坚持供应商全生命周期管理，强化环境、社会风险审核，为合作伙伴提供支持与赋能，构建负责任供应链。",
+      "original_text": "比亚迪坚持供应商全生命周期管理模式，在强化环境、社会等维度风险审核的同时，为合作伙伴提供全方位支持与赋能，致力于构建负责任的供应链体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立完善的质量管理制度体系，覆盖产品全生命周期，通过质量表现分级管控、员工质量考核等方式确保质量要求落地。",
+      "original_text": "比亚迪建立并不断完善质量管理制度体系，制定《集团汽车产品安全及责任控制程序》《比亚迪公司产品设计和开发管理》等管理制度，覆盖产品制造全流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司设立隐私保护组织架构，通过ISO 27001等认证，开展数据合规培训，建立应急响应机制，未发生重大客户隐私泄露事件。",
+      "original_text": "我们设立了专门的隐私保护组织架构，合规委员会作为决策层。本集团已通过ISO 27001、UN R155、UN R156等第三方安全及隐私合规认证。2025年未发生重大的客户隐私泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过教育慈善、救灾、医疗捐赠、员工志愿服务等方式回馈社区，计划累计捐资30亿元教育慈善基金。",
+      "original_text": "教育慈善是比亚迪公益慈善新聚焦，计划累计捐资30亿元教育慈善基金。比亚迪不忘回馈社会的初心，将公益慈善事业作为企业发展的重要组成部分。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司注重多元化与包容，女性员工占比30%，少数族裔占比11%，残疾员工5,326人，巴西基地成立女性卓越委员会。",
+      "original_text": "30% 女性员工占比 11% 少数族裔占比 5,326 人 残疾员工 巴西基地成立WISE 女性卓越委员会——保障女性员工平等发展权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建了由董事会领导的“战略及可持续发展委员会-ESG管理委员会-ESG可持续发展部-各事业群/事业部ESG管理人员”的气候治理架构，各层级人员具备专业背景与能力推动气候工作决策落地。",
+      "original_text": "比亚迪已构建由董事会领导的“战略及可持续发展委员会-ESG管理委员会-ESG可持续发展部-各事业群/事业部ESG管理人员”的气候治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "董事会承担商业道德与反腐败治理的最终监督职责，授权合规委员会对商业道德与反腐败等事项进行日常督导。审计监察处开展员工投诉反腐调查。2025年未发生利益冲突、洗钱与内幕交易违规事件。",
+      "original_text": "董事会承担商业道德与反腐败治理的最终监督职责，授权合规委员会对商业道德与反腐败等事项进行日常督导并审...审计监察处依据上市规则开展日常监督和专项监督、员工投诉反腐调查",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "设立合规委员会，制定并发布《比亚迪公司合规管理》《比亚迪公司合规行为准则》，将合规与行为准则管理与薪酬绩效挂钩。持续完善反垄断合规管理，制定《比亚迪公司反垄断及公平竞争合规管理规定》。",
+      "original_text": "我们设立合规委员会，制定并发布《比亚迪公司合规管理》...发布《比亚迪公司合规行为准则》...制定并发布《比亚迪公司反垄断及公平竞争合规管理规定》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "基于ISO 31000和COSO企业风险管理框架制定《比亚迪公司风险管理》，设立风险管理委员会，由董事会主席兼总裁担任主任。将ESG核心议题纳入集团统一风险管理框架，核心风险指标纳入绩效与激励体系。",
+      "original_text": "比亚迪基于ISO 31000和COSO企业风险管理框架制定《比亚迪公司风险管理》，搭建了系统化的风险管理体系。公司设立风险管理委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视股东权益保护，建立健全投资者权益保护体系，通过多元化沟通机制、稳定的分红政策及保障信息披露的及时性与完整性，切实维护投资者合法权益。2025年召开股东会3次。",
+      "original_text": "比亚迪高度重视股东权益保护...已建立健全的投资者权益保护体系...2025年，我们召开股东会3次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "系统识别了包括客户、员工、股东、供应商、经销商及合作伙伴、政府及行业协会、媒体和社会公众在内的七大关键利益相关方，通过“双重重要性评估”模型深度分析其可持续发展诉求。",
+      "original_text": "比亚迪以“为地球降温1℃”品牌愿景为引领，系统识别了包括客户、员工、股东、供应商、经销商及合作伙伴、政府及行业协会、媒体和社会公众在内的七大关键利益相关方",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "董事会承诺对报告内容进行监督，并确保其不存在虚假记载、误导性陈述或重大遗漏，并对内容真实性、准确性负责。报告于2026年3月27日获董事会批准发布。",
+      "original_text": "董事会承诺对报告内容进行监督，并确保其不存在虚假记载、误导性陈述或重大遗漏，并对内容真实性、准确...本报告于2026年3月27日获董事会批准发布。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司遵循经济合作与发展组织（OECD）等国际税收标准，坚持依法诚信纳税，保障税务合规、透明。",
+      "original_text": "遵循经济合作与发展组织（OECD）等国际税收标准，坚持依法诚信纳税，保障税务合规、透明。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "002594_比亚迪_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.923
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

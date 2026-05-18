@@ -1,0 +1,441 @@
+{
+  "company_name": "沙河股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 7959.53,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 8,066.29 7,973.94 7,959.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 7468.28,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放量（范围一） tCO2e 7,539.53 7,448.35 7,468.28",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 484.21,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放量（范围二） tCO2e 520.27 519.82 484.21",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.26,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 tCO2e/万元营收 0.06 0.22 0.26",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 4446.08,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 4,492.98 4,441.49 4,446.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 18146,
+      "unit": "吨",
+      "original_text": "总用水量 吨 132,786 23,390 18,146",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 9345.6,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 9,345.60",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 73,
+      "unit": "人",
+      "original_text": "员工总人数 人 113 78 73",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 18.2,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 / / 18.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 19.17,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时/人 61.56 18.10 19.17",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 8.11,
+      "unit": "%",
+      "original_text": "员工流失比率 % 8.11",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 620,
+      "unit": "万元",
+      "original_text": "安全生产总投入 万元 620",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司董事会由7名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事占",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 4,
+      "unit": "人",
+      "original_text": "女性董事人数 人 4 4 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 7 6 5",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "依规取消监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开审计委员会",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和，并建立气候风险识别与应对流程。",
+      "original_text": "公司已制定碳中和路线图，目标是2030年碳达峰、2060年碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司成立生态文明工作领导小组，制定绿色施工管理制度及废弃物管理细则，并通过ISO 14001认证。",
+      "original_text": "公司成立生态文明工作建设领导小组统筹生态环境保护工作，并制定绿色施工管理制度及废弃物管理细则。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推广绿色建筑，应用BIM技术、铝模爬架等低碳工艺，提升绿色建筑实施比例。",
+      "original_text": "积极践行绿色建造理念，在项目中推广BIM协同设计、铝模爬架一体化等低碳工艺。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司遵守相关法规，开展环境影响评价和水土保持评估，减少对生物多样性的潜在影响。",
+      "original_text": "公司严格恪守《关于进一步加强生物多样性保护的意见》《中华人民共和国水土保持法》等相关法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施废弃物资源化利用，如将砌体边角废料用于回填，减少建筑垃圾外运。",
+      "original_text": "针对施工产生的砌体边角废料，将其用于地下车库高低跨处坡道的回填作业，替代传统回填材料。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工基本权益，提供职业发展机会，完善人文关怀体系，推行多元员工福利，劳动合同签订率100%，社会保险覆盖率100%。",
+      "original_text": "保障员工基本权益 提供职业发展机会 打造健康安全环境 完善人文关怀体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司聚焦职业健康与安全，严格遵照《职业健康管理手册》，定期组织职业危害因素识别，员工职业健康体检覆盖率100%，安全教育培训覆盖率100%。",
+      "original_text": "沙河股份始终将员工职业健康与作业安全放在重要位置，聚焦源头管控、全程发力，严格遵照《职业健康管理手册》，定期组织职业危害因素识别",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将安全文明管理、环保排放要求等纳入供应商准入考量，要求合作方通过ISO 45001认证，签署安全生产协议，推动绿色供应链建设。",
+      "original_text": "将安全文明管理等要求纳入供应商准入考量，要求合作方通过ISO 45001及...鼓励使用清洁能源施工机械，携手上下游推动绿色供应链建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立质量管理体系，通过ISO认证，实施全生命周期质量管控，报告期内未发生质量事故。",
+      "original_text": "沙河股份秉承'优质发展、以质取胜'的理念，严格遵守《中华人民共和国产品质量法》等法律法规，制定《工程质量管理制度》等内部管理制度，设立专职质量管理团队",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司规范信息管理，严格保护客户隐私，遵守《网络安全法》《数据安全法》等法规，开展专项宣贯活动提升员工网络安全意识。",
+      "original_text": "规范信息管理，严格保护客户隐私 维护信息安全 客户隐私保护 华人民共和国网络安全法》《中华人民共和国数据安全法》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区公益行动，助力社区公共事业，加强社区互动沟通，组织员工开展志愿活动。",
+      "original_text": "参与社区公益行动 积极开展公益活动 助力社区公共事业 参与社区公益行动 加强社区互动沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持男女平等，杜绝性别歧视，关注女性员工特殊需求，女性员工32人，管理人员中女性人数2人。",
+      "original_text": "在招聘、晋升、薪酬等环节坚决杜绝性别歧视，坚持男女平等、一视同仁，确保女性员工享有平等的 32 2",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司致力于建立健全权责清晰、运行高效、持续完善的ESG治理体系，为可持续发展战略的全面落地提供支撑。",
+      "original_text": "沙河股份致力于建立健全权责清晰、运行高效、持续完善的ESG治理体系，为可持续发展战略的全面落地提供支撑。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《反贿赂合规管理办法》《异地企业廉洁风险防控办法》等制度，明确由风险管理部负责反贪污腐败管理，常态化开展廉政警示教育，组织签订廉政责任书，开展作风建设专题学习47场、警示教育25场。",
+      "original_text": "制定《反贿赂合规管理办法》《异地企业廉洁风险防控办法》等制度，明确由风险管理部负责反贪污腐败管理，常态化开展廉政警示教育，组织签订廉政责任书，开展作风建设专题学习47场、警示教育25场。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业伦理与市场秩序，建立健全反不正当竞争风险评估与应对机制，坚决反对商业混淆、虚假宣传、商业诋毁、侵犯商业秘密等不正当竞争行为，并将内控要求嵌入采购、销售、市场营销等关键环节。报告期内未因不正当竞争行为导致诉讼或重大处罚。",
+      "original_text": "恪守商业伦理与市场秩序，建立健全反不正当竞争风险评估与应对机制，坚决反对并严格禁止商业混淆、虚假宣传、商业诋毁、侵犯商业秘密等任何形式的不正当竞争行为，并将相关内控要求全面嵌入采购、销售、市场营销等关键环节的制度与流程中。报告期内，公司未因不正当竞争行为导致诉讼或重大处罚。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司以业务融合、动态管控为主线，由风险管理部牵头开展全面风险管控工作，将风险防控要求融入各核心业务节点，督促各部门按月滚动更新《风险评估与排查报告》，实现风险敞口全面评估、分级管控与闭环整改。",
+      "original_text": "沙河股份以业务融合、动态管控为主线，由风险管理部牵头开展全面风险管控工作，将风险防控要求融入各核心业务节点，并督促各部门按月滚动更新《风险评估与排查报告》，实时校准风险等级、完善防控措施、明确责任主体，及时开展复盘与流程回溯，持续优化防控方案，实现风险敞口全面评估、分级管控与闭环整改。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，通过系统、专业的投资者关系管理，加深投资者对公司的理解与认同，搭建长期稳定的良性互动关系。投资者关系管理工作由董事会秘书全面统筹，董事会办公室具体落地。",
+      "original_text": "沙河股份制定《投资者关系管理制度》，通过系统、专业的投资者关系管理，旨在加深投资者对公司的理解与认同，搭建长期稳定的良性互动关系。投资者关系管理工作由董事会秘书全面统筹，董事会办公室具体落地。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司致力于与各利益相关方保持透明高效的互动沟通，通过构建多元化、常态化的沟通网络，主动回应各方期望与诉求。",
+      "original_text": "沙河股份致力于与各利益相关方保持透明高效的互动沟通，通过构建多元化、常态化的沟通网络，主动回应各方期望与诉求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守《上市公司信息披露管理办法》等法律法规，制定《信息披露管理制度》，明确董事长为信息披露第一责任人，董事会秘书统筹执行。报告期内信息披露工作合规有序，未发生信息披露违规事件。",
+      "original_text": "沙河股份严格遵守《上市公司信息披露管理办法》等法律法规，制定《信息披露管理制度》，明确董事长为信息披露第一责任人，董事会秘书统筹执行相关工作。报告期内，公司信息披露工作合规有序，未发生信息披露违规事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守国家税收法律法规，始终坚持依法纳税、合规经营，制定了覆盖税务核算、申报缴纳、发票管理及档案管理的全流程税务管理制度。",
+      "original_text": "公司严格遵守国家税收法律法规，始终坚持依法纳税、合规经营。公司制定了覆盖税务核算、申报缴纳、发票管理及档案管理的全流程税务管理制度。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

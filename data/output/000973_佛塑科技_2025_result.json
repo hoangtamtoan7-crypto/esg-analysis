@@ -1,0 +1,441 @@
+{
+  "company_name": "佛塑科技",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 12297,
+      "unit": "兆瓦时",
+      "original_text": "购买绿色能源总量达12,297兆瓦时",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 11.51,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 4.29 9.96 11.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.3,
+      "unit": "吨",
+      "original_text": "二氧化硫排放量 吨 0.37 0.67 0.30",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 2.0,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 吨 5.34 7.15 2.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2512,
+      "unit": "人",
+      "original_text": "员工总数 人 2,512",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "其中女性员工占比",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 100,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 7.64,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 7.64",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 16.2,
+      "unit": "%",
+      "original_text": "员工流失率 % 16.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "公司研发投入 占营业收入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 510,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 510 676 623",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司董事会共有董事7名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事占比 % 42.86",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "公司共召开10次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "监事会总人数 人 3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司识别气候变化风险与机遇，制定应对策略，包括政策风险、技术风险、市场风险、声誉风险、慢性风险等，并采取相应措施。",
+      "original_text": "佛塑科技将国家“双碳”政策与自身业务经营相融合，主动探索运营过程中气候变化的潜在风险，运用科学方法制定应对策略和风险管理措施，减轻气候变化对业务的潜在影响，提升公司应对气候变化的能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立环境管理体系，通过ISO14001认证，制定环境管理制度，开展清洁生产审核，并建立环境保护台账管理体系与风险预警机制。",
+      "original_text": "公司重视环境风险管理工作，建立环境保护台账管理体系与风险预警机制，制定《企业突发环境事件应急预案》并进行备案。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司致力于研发和生产绿色环保产品，如BOPA、BOPE、BOPP等薄膜产品，通过技术创新和工艺优化减少原生塑料使用，提升资源利用效率。",
+      "original_text": "佛塑科技深入践行低碳环保理念，致力于研发和生产绿色环保产品，BOPA、BOPE、BOPP等薄膜产品，通过技术创新和工艺优化，有效减少原生塑料使用，提升资源利用效率。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司提及生物多样性及生态保护议题，但未提供具体措施或行动。",
+      "original_text": "生物多样性及生态保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以循环经济为引擎，推动绿色办公，减少原生塑料使用，提升资源利用效率。",
+      "original_text": "佛塑科技坚持绿色发展,以绿色办公为起点，以循环经济为引擎，全面开启可持续发展新征程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工权益，提供有竞争力的薪酬福利，劳动合同签订率100%，社会保险覆盖率100%，未发生员工歧视事件。",
+      "original_text": "保障员工权益 提供有竞争力的薪酬福利 员工职业发展 职业健康与安全 员工人文关怀",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，开展职业健康培训，定期进行危险源辨识，组织应急演练，安全培训覆盖率100%。",
+      "original_text": "公司高度重视员工的身心健康，严格遵守《职业病防治法》等法律法规，定期组织职业危害因素检测与职业病危害现状评价",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司优化供应商管理体系，建立供应商分级管理和绩效评估体系，加强对供应商绿色供应链建设、质量等方面的评价。",
+      "original_text": "公司对供应商管理系统进行功能性优化，建立供应商分级管理、供应商绩效评估体系，加强对供应商绿色供应链建设、质量、",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司深化质量管控和产品服务，推行“明白卡”制度提高员工质量意识，整改生产问题1,053次。",
+      "original_text": "改生产问题1,053次，推行“明白卡”制度提高员工质量意识。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视信息安全，构建安全防线，开展安全培训，更新升级网络和安全设备，2024年未发生信息安全与客户隐私保护方面的违规。",
+      "original_text": "公司高度重视信息安全，将其视为生命线，全面构建安全防线，守护数据安全。2024年，公司未发生信息安全与客户隐私保护方面的违规",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司支持公益事业，关注社区发展，组织员工参与“百千万工程”活动，以产业帮扶赋能乡村发展。",
+      "original_text": "高质量推进“百千万工程”，以产业帮扶赋能乡村发展，以公益行动响应绿美广东生态建设",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等就业，反对歧视，关注女性员工权益，开展妇女节活动，评选先进女职工集体和巾帼标兵。",
+      "original_text": "平就业，反对任何以年龄、性别、民族等因素造成的歧视行为，全面维护员工",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建完善的ESG治理体系，建立决策层、管理层、执行层三级架构，明确职责分工。",
+      "original_text": "佛塑科技构建完善的ESG治理体系，依据ESG整体战略部署，建立决策层、管理层、执行层三级架构，明确职责分工和",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司恪守《反不正当竞争法》等商业道德相关法律法规，重点关注反商业贿赂、反垄断、反不正当竞争。",
+      "original_text": "佛塑科技恪守《反不正当竞争法》等商业道德相关法律法规，规范交易行为，重点关注反商业贿赂、反垄断、反不正当竞",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司以依法经营为核心，以商业道德为基石，以风险合规为保障，坚守法治与诚信，严守道德红线，强化合规管理。",
+      "original_text": "佛塑科技以依法经营为核心，以商业道德为基石，以风险合规为保障，坚守法治与诚信，严守道德红线，强化合规管理，",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理三道防线组织体系，识别涉及战略、市场、运营等各类风险事件共计13项，并制定防范应对措施。",
+      "original_text": "公司加强规范风险管理，坚持风险“预防为主，重点管控”的原则，建立全面风险管理三道防线组织体系，落实风险管理工作目标和责任",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司积极与投资者沟通，制订《公司2024年投资》，提升投资者关系管理水平。",
+      "original_text": "佛塑科技提升投资者关系管理水平，制订《公司2024年投资》",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司坚持与利益相关方保持紧密沟通，与政府、股东、员工、客户、供应商等建立常态化、高效沟通机制。",
+      "original_text": "佛塑科技根据行业特性与经营业务特点，为利益相关方搭建有效的沟通桥梁，与政府、监管部门及行业协会、股东与投资者、员工、客户、供应商或合作伙伴、环境管理机构及社区公众利益相关方建立常态化、高效沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循相关法律法规，真实、准确、完整、及时进行信息披露，监控每日舆情，保证信息获取渠道公正透明。",
+      "original_text": "佛塑科技积极履行信息披露职责，严格遵循《公司法》《证券法》《上市公司信息披露管理办法》《深圳证券交易所股票上市规则》等法律法规、规范性文件及《公司信息披露管理办法》等规定，真实、准确、完整、及时进行信息披露，监控每日舆情，保证投资者信息获取渠道的公正透明。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

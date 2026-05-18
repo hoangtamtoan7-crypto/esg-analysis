@@ -1,0 +1,441 @@
+{
+  "company_name": "京基智农",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 66235.5,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体总排放量 吨二氧化碳当量 66,235.50",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 26014.5,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 26,014.50",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 40221.0,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 40,221.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 214895707.44,
+      "unit": "千瓦时",
+      "original_text": "用电量 千瓦时 145,184,310.77 214,895,707.44",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 0,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 / 0",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 332410.45,
+      "unit": "吨",
+      "original_text": "一般废弃物产生量 吨 / 332,410.45",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 4310.61,
+      "unit": "万元",
+      "original_text": "环保总投入 4,310.61",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 3053,
+      "unit": "人",
+      "original_text": "员工总数 3,053",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 22.37,
+      "unit": "%",
+      "original_text": "女性 685人 3,062",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 9.9,
+      "unit": "%",
+      "original_text": "管理人员中女性人数比例 % 9.5 9.6 9.9",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 87.3,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 77.9 78.9 87.3",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 18.3,
+      "unit": "小时/人",
+      "original_text": "员工每年人均培训时长 小时 13.8 18.2 18.3",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4310.61,
+      "unit": "万元",
+      "original_text": "研发投入 万元 3,462.96 3,748.18 4,310.61",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.35,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 % 1.07 0.63 0.35",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 406.58,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 484.05 476.91 406.58",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 164.91,
+      "unit": "万元",
+      "original_text": "公益总投入 万元 321.06 128.29 164.91",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 834,
+      "unit": "万元",
+      "original_text": "纳税总额 贡 164.91 116.94 834",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "董事会成员共11名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "公司董事会独立董事占比为 %",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "未明确提及女性董事人数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会会议召开次数 次 9 5 7",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 5,
+      "unit": "人",
+      "original_text": "公司监事会成员共 5 人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应双碳目标，制定碳中和路线图，开展碳盘查，输出碳排放量核查报告，并探索减碳方式。",
+      "original_text": "京基智农积极响应“双碳”目标...已与专业第三方公司达成初步合作意向，以年为单位开展碳盘查，输出《京基智农养殖项目碳排放量核查报告》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，制定多项环保制度，设立环境管理及监控机构，并通过ISO14001认证。",
+      "original_text": "公司总部及下属项目公司均设立了环境管理及监控机构...制定一系列环保制度，完善环境管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推进绿色建筑发展，遵循《绿色建筑评价标准》，并开发高效绿色环保新型饲料产品。",
+      "original_text": "我们积极推进绿色建筑发展，遵循《绿色建筑评价标准》等国家和行业标准...高效绿色环保新型猪配合饲料、高效绿色环保新型鸡配合饲料等",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司不涉及生物多样性保护相关风险，在施工和运营中根据周边特点进行绿化，增加绿植面积，改善土壤。",
+      "original_text": "不涉及生物多样性保护等相关风险...根据项目周边种植特点及生态环境进行绿化，引进适宜当地环境的植物、尽可能增加绿植面积",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司遵循减量化、再利用、再循环原则，建设全链条环保工艺，实现粪污资源化利用，废水100%回收利用。",
+      "original_text": "遵循“减量化、再利用、再循环”原则，建设“全链条、全系统”环保工艺...废水回收利用率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，保障员工薪酬福利、休息休假等权益，反对职场歧视，建立民主沟通渠道。",
+      "original_text": "公司严格遵守相关法律法规，切实维护女性职工的合法权益。员工享有病假、事假、婚假、年休假、工伤假等多种假期福利。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定职业卫生管理制度，开展安全培训、应急演练，提供劳保用品，年度体检覆盖率100%。",
+      "original_text": "制定《职业卫生管理》《劳动防护用品管理制度》等内部制度，落实职业健康与职业病防治工作。2023年度体检覆盖率为100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司与供应商签订《阳光合作协议》，签署率超过95%，并实施负责任供应链管理。",
+      "original_text": "与供应商签订《阳光合作协议》，签署率超过95%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO 9001、ISO 22000认证，制定食品安全管理制度、质量监督程序、产品召回制度，开展质量专项培训。",
+      "original_text": "ISO 9001质量管理体系认证、ISO 22000食品安全管理体系认证，制定《食品安全管理制度》《质量监督程序》等。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定信息安全制度，保护客户隐私，处理投诉时注意保护个人信息。",
+      "original_text": "制定信息安全制度，充分保障客户隐私。处理投诉时注意保护顾客的隐私和信息安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益慈善、社区回馈、助力乡村振兴等活动，为当地提供就业岗位。",
+      "original_text": "积极投身于扶贫、济困、助学等公益慈善活动中。为当地居民提供高质量就业岗位。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司构建多元化包容工作环境，提供平等就业机会，开展女性员工关怀活动，雇佣少数民族员工。",
+      "original_text": "致力于构建多元化和包容性的工作环境，提供平等的就业机会。雇佣少数民族员工361人。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会作为管理经济、环境和社会议题的最高决策机构，负责识别和监管ESG议题及其表现、审议公司ESG报告。",
+      "original_text": "公司董事会作为管理经济、环境和社会议题的最高决策机构，负责识别和监管 ESG 议题及其表现、审议公司",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司设置多种公开举报渠道，防范贪腐风险，对董事及员工进行反贪污培训，签署廉洁协议。",
+      "original_text": "设置多种公开举报渠道，防范贪腐风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持依法合规经营，遵守商业道德，制定《信息披露制度》等，确保合规。",
+      "original_text": "京基智农始终坚持依法合规经营",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建全面风险管理体系，涵盖战略风险、合规风险、市场风险等，建立三道防线。",
+      "original_text": "公司构建全面风险管理体系，对战略风险、合规风险、市场风险等各方面的风险源进行准确识别、审慎评估、动态监控和及时应对",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《接待和推广制度》，通过接待机构调研、互动易平台、电话邮件等方式与投资者沟通。",
+      "original_text": "公司制定《接待和推广制度》，对公司接待机构调研及互动易平台回复问询、电话及邮件沟通等多种方式",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司搭建利益相关方常态化沟通机制，识别利益相关方关注的ESG议题并予以积极回应。",
+      "original_text": "京基智农重视与利益相关方的沟通，搭建了利益相关方常态化沟通机制，识别利益相关方关注的ESG议题，并予以积极回应。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循信息披露原则，及时、准确、完整地发布公告，未因信息披露违规受处罚。",
+      "original_text": "公司遵循信息披露原则，及时、准确、完整地在指定信息披露媒体发布相关公告",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司编制了《京基智农农业事业部税务制度汇编》及操作手册，但未明确披露税务透明度政策。",
+      "original_text": "编制了《京基智农农业事业部税务制度汇编》以及《京基智农农业事业部税务操作手册》",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

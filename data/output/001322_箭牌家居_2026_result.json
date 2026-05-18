@@ -1,0 +1,441 @@
+{
+  "company_name": "箭牌家居",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 218300,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2025年，公司碳排放总量为21.83万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "未提供汇总范围1排放数据，仅子公司数据：高明安华31,785.9398 tCO2e，韶关乐华11,716.1282 tCO2e，肇庆乐华51,540.5777 tCO2e",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "未提供汇总范围2排放数据，仅子公司数据：高明安华21,242.7947 tCO2e，韶关乐华7,084.8312 tCO2e，肇庆乐华10,508.3455 tCO2e",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.332,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "单位产值二氧化碳排放量降至0.332吨/万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "未提供综合能源消耗数据",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 20.12,
+      "unit": "%",
+      "original_text": "绿色电力占比至20.12%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未提供总用水量数据",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未提供废水排放总量数据，仅提供CODcr等污染物排放量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 47600,
+      "unit": "吨",
+      "original_text": "一般工业固体废物产生量约4.76万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提供环保投入金额数据",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 72.02,
+      "unit": "吨",
+      "original_text": "氮氧化物 72.02t/a",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 25.21,
+      "unit": "吨",
+      "original_text": "二氧化硫 25.21t/a",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未提供颗粒物排放总量数据",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 15840,
+      "unit": "人",
+      "original_text": "员工总数（人） 13,313 14,893 15,840",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "女性员工占比 36.7% 37.1% 37.5%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 210,
+      "unit": "万元",
+      "original_text": "2025年，公司培训总投入超过210万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 33513.39,
+      "unit": "万元",
+      "original_text": "研发投入(万元) 33,513.39",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 5.17,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 5.17%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 728.18,
+      "unit": "万元",
+      "original_text": "2025年，公司安全生产与职业病防护支出共计 728.18万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "现金与产品捐赠市场价值总计...",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "新一届董事会由11名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会9次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会设置",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "董事会审计委员会会议7次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，将应对气候变化纳入企业发展战略，多维度推进绿色低碳转型，构建'低消耗、低排放、高效率'的低碳发展模式。制定了碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司积极响应国家'双碳'战略，将碳减排深度融入公司运营与合规管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001环境管理体系认证，制定并持续完善《废水排放管理办法》《废气排放管理办法》等20余项内部环境管理制度。",
+      "original_text": "2025年，公司及主要子公司均通过了ISO14001环境管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司多款产品获'中国绿色产品认证'，超过170款产品通过'中国绿色建材产品认证'，推出节水节能型智能坐便器（如P50单次冲水量减少30%以上）和节水节能型智能花洒（如AirPlus富氧增压技术）。",
+      "original_text": "多款产品获'中国绿色产品认证'，超过170款产品通过'中国绿色建材产品认证'",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司通过'我给地球植个发'公益IP累计植树逾30万棵，在延安、锡林郭勒盟、阿拉善盟等地构筑绿色屏障，涵养水源、保护生物多样性。三水基地对宿舍后花园实施绿化升级。",
+      "original_text": "'我给地球植个发'公益IP（累计植树逾30万棵，在延安、锡林郭勒盟、阿拉善盟等地构筑绿色屏障）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进绿色工厂建设，全链路数字化管理降低生产损耗，推广环保材料与废料回收利用，生产废水经处理后优先回用于生产环节，生活污水经处理达标后部分用于厂区绿化。",
+      "original_text": "推广环保材料与废料回收利用；生产废水集中处理循环利用，减少新鲜水使用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "依法签订劳动合同，保障员工合法权益；缴纳社保，提供竞争力薪酬福利；构建多通道职业发展体系；完善沟通方式；开展员工满意度调查；增设职工代表董事。",
+      "original_text": "依法签订劳动合同，保障员工合法权益；缴纳社保，提供竞争力薪酬福利；构建多通道职业发展体系与系统化培训；完善沟通方式；开展员工满意度调查；增设职工代表董事，将员工诉求纳入董事会决策流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "通过ISO45001职业健康安全管理体系认证；开展安全培训、安全生产月活动；2025年体检覆盖率100%。",
+      "original_text": "公司及主要生产基地均已通过ISO45001职业健康安全管理体系；2025年体检覆盖率达100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司构建了‘决策层--管理层--执行层’三级管理架构，制定供应商全生命周期管理制度体系，推动绿色供应链建设和阳光采购治理。",
+      "original_text": "为保障供应链全流程规范高效运转，公司构建了‘决策层--管理层--执行层’三级管理架构，制定并持续完善涵盖供应商全生命周期的管理制度体系，为供应链可持续发展、风险防控及价值创造提供坚实组织保障。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "建立全价值链质量管理体系，聚焦研发、供应、生产、市场四端；2025年开展品质管理专题培训47场，覆盖超1000人次；服务网点覆盖率达92%。",
+      "original_text": "公司开创并实践的‘基于零文化的四端一网质量管理模式’，聚焦研发、供应、生产、市场‘四端’；2025年累计开展品质管理专题培训47场，覆盖超1000人次；县覆盖率高达92%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "严格保护客户隐私与数据安全；2025年未发生客户信息泄露及网络安全事故。",
+      "original_text": "严格保护客户隐私与数据安全。2025年，公司未发生客户信息泄露及网络安全事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "通过公益品牌‘箭牌泽计划’开展教育支持、乡村振兴、银龄关爱、生命健康等公益实践；累计植树逾30万棵；‘母亲水窖’项目惠及上万民众；无偿献血活动累计献血12,200毫升。",
+      "original_text": "通过公益品牌‘箭牌泽计划’，公司重点改善青少年教育环境；累计植树逾30万棵；‘母亲水窖’公益项目解决缺水地区饮水问题；2025年无偿献血累计12,200毫升。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "女性员工占比37.5%；研发‘和玥’无障碍康养卫浴套系响应适老化需求；关注弱势群体，开展银龄关爱。",
+      "original_text": "女性员工占比37.5%；研发‘和玥’无障碍康养卫浴套系，响应适老化需求；关注弱势群体，开展银龄关爱、生命健康救助等公益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建了“董事会—董事会战略与ESG委员会—ESG执行工作组”三层ESG治理架构，董事会为最高决策机构，战略与ESG委员会负责监督，执行工作组负责落实。",
+      "original_text": "构建了“董事会—董事会战略与ESG委员会—ESG执行工作组”三层ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司强化合规经营与反腐败体系，对假冒、仿冒及不正当竞争行为坚持“零容忍”态度，并建立商标动态监测和经销商合规使用引导。",
+      "original_text": "强化合规经营与反腐败体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉持“防风险、强内控、促合规”理念，构建风险、合规、内控“三位一体”管控体系，并修订30项核心制度。",
+      "original_text": "防风险、强内控、促合规",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了风险、合规、内控“三位一体”管控体系，定期发布《内控专刊》，并将气候风险纳入全面风险管理。",
+      "original_text": "构建风险、合规、内控“三位一体”管控体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过投资者热线、互动易平台、股东会、现场调研、业绩说明会、电话会议、邮件、官网专栏等多种方式与投资者互动交流，并荣获全景网“投资者关系金奖”。",
+      "original_text": "通过投资者热线电话、深交所互动易平台、股东会、现场调研、业绩说明会、电话会议、邮件、公司官网投资者关系专栏等多种方式与投资者互动交流",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司积极与员工、客户、供应商、股东、政府、社区等利益相关方开展多渠道、常态化沟通，并将其关切纳入运营和决策。",
+      "original_text": "积极与各利益相关方开展多渠道、常态化沟通，并将其关切问题纳入运营和决策过程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司秉持“真实、准确、完整、及时”的信息披露原则，建立严格审批流程，并推进自愿性信息披露提质。",
+      "original_text": "真实、准确、完整、及时的信息披露原则",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度具体措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "现代投资",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 7394.27,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一温室气体排放量（吨二氧化碳当量） 7,394.27",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 25545.49,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放量（吨二氧化碳当量）* 25,545.49",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 5.08,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "温室气体排放强度(按收入) 吨二氧化碳当量/百万元 1.82 1.86 5.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 152271.87,
+      "unit": "吨标煤",
+      "original_text": "能源消耗总量（吨标煤） 152,271.87",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1499259.9,
+      "unit": "吨",
+      "original_text": "用水总量（吨） 1,499,259.9",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 163715.23,
+      "unit": "吨",
+      "original_text": "排水量 吨 163,715.23",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 145057.22,
+      "unit": "吨",
+      "original_text": "固体废弃物排放总量 吨 94228.74 93,500.42 145,057.22",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 3.1,
+      "unit": "亿元",
+      "original_text": "环保总投入 亿元 3.1",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2354,
+      "unit": "人",
+      "original_text": "员工总数 人 2,673 2,434 2,354",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 16.67,
+      "unit": "%",
+      "original_text": "女性高级管理人员比例 % 16.67 16.67 16.67",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 91.37,
+      "unit": "万元",
+      "original_text": "年度培训支出金额 万元 175.00 164.80 91.37",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 55.0,
+      "unit": "小时/人",
+      "original_text": "员工人均受训小时数 | 小时 | 55.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 7.7,
+      "unit": "%",
+      "original_text": "员工总体流失率 % 11.00 9.41 7.7",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2892.99,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 2,648.00 2,636.75 2,892.99",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.49,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % / 0.35 0.49",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 18000,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 亿元 1.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 52.67,
+      "unit": "万元",
+      "original_text": "社会公益支出总金额 万元 52.67",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "公司现有董事 9 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事比例 % 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事 3 名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "未明确提及监事会人数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司遵循TCFD建议，从治理、战略、风险管理、指标和目标等维度系统推进气候应对与管理，制定碳减排战略和极端天气应对战略，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "应对气候变化已成为全球共识，现代投资深刻认识到气候变化带来的挑战与风险，积极探索科学有效的应对方案。严格遵循 TCFD（气候相关财务信息披露）建议，从治理、战略、风险管理、指标和目标等多个维度，系统推进气候应对与管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司通过了GB/T24001-2016/ISO14001:2015环境体系认证，持续加强环境体系标准化建设。",
+      "original_text": "通过了GB/T24001-2016/ISO14001:2015环境体系认证，环境规范管理水平持续提升。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推广光伏应用与智慧能源管理，建成光伏电站，提供清洁电能；开展绿色金融产品创新，如碳排放权质押融资等。",
+      "original_text": "大力推广光伏应用与智慧能源管理；现代新能源光伏智能管控平台投用；推出碳排放权质押融资等绿色金融产品。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司在项目全流程中开展生物多样性保护和恢复工作，采用工程防护与生态修复结合的方式，保护栖息地，恢复植被。",
+      "original_text": "公司严格按照《生态环境保护管理制度》，在项目“设计-开发-施工-运营”全流程中对生物多样性开展保护和恢复工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司探索固废资源化利用，联合搭建垃圾焚烧飞灰与富硅废弃物协同处置实验平台，推动固废资源化利用；废水处理后用于绿化浇灌和道路冲洗。",
+      "original_text": "现代环境联合搭建垃圾焚烧飞灰与富硅废弃物协同处置实验平台，推动固废资源化利用；生活污水经预处理后用于站场绿化浇灌和道路冲洗，实现水资源循环利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，建立健全员工权益保障体系，深化三项制度改革，构建科学薪酬管理体系与差异化绩效激励机制，召开职工代表大会，保障员工权益。",
+      "original_text": "现代投资严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规，建立健全员工权益保障体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立健全职业健康安全管理体系，完善健康保障机制，强化安全培训教育，持续改善工作环境，全方位守护员工生命健康安全。",
+      "original_text": "现代投资高度重视员工身心健康，建立健全职业健康安全管理体系，完善健康保障机制，强化安全培训教育，持续改善工作环境，全方位守护员工生命健康安全",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司有负责任供应链管理，包括供应链负面环境影响和负面社会影响及采取的行动。",
+      "original_text": "负责任供应链 P61-62；308-2 供应链的负面环境影响以及采取的行动；414-2 供应链的负面社会影响以及采取的行动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以客户为中心，聚焦公路运营的畅通与安全、金融产品服务的便捷与贴心，评估产品和服务类别的健康与安全影响，未发生健康与安全问题事件。",
+      "original_text": "现代投资始终坚持'以客户为中心'的服务理念，不断提升服务品质，优化服务流程，创新服务模式",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《信息安全管理办法》，开展网络攻防演练，组织全员网络安全培训，网络安全培训覆盖率100%。",
+      "original_text": "全年开展及参与网络攻防演练4次，组织全员网络安全培训1次，网络安全培训覆盖率 % 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极开展公益慈善活动，围绕重大节点开展'暖冬行动'等，社会公益活动人次1,768人次，同时开展金融知识普及活动。",
+      "original_text": "公司在发展的同时不忘回馈社会，积极开展公益慈善活动，以自身行动传递温暖，围绕重大节点，开展'暖冬行动'等",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，女性员工占比约53%，女性高管比例16.67%，关注少数民族和残疾人就业。",
+      "original_text": "女性 人 1,241 1,131 1,255；在职少数民族 人 / 175 173；在职残疾人 人 11 4 4",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会是ESG管理的最高监督和决策机构，下设战略与可持续发展委员会，协助监督ESG关键议题和战略实施。",
+      "original_text": "董事会是公司ESG管理的最高监督和决策机构，负责ESG战略规划、风险与机遇管理和相关重大事项的决议、审批公司年度可持续发展报告等。董事会下设战略与可持续发展委员会，协助董事会监督公司ESG关键议题和战略的实施。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续健全反贪污反腐败、反不正当竞争与反洗钱治理体系，完善制度规范，强化纪检监督，畅通举报渠道，深化合规培训。",
+      "original_text": "现代投资坚持诚实守信经营理念，持续健全反贪污反腐败、反不正当竞争与反洗钱治理体系，通过完善制度规范、强化纪检监督、畅通举报渠道、深化合规培训，严禁任何有损诚信声誉的活动，筑牢廉洁防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德，制定合规管理制度，成立合规委员会，推进合规管理体系建设，实现合规教育培训全覆盖。",
+      "original_text": "公司制定并实施《合规管理制度》《合规管理制度实施细则》等制度文件，成立合规委员会牵头推进合规管理体系建设，通过制定合规审查事项清单和尽职合规免责事项清单，筑牢合规管理三道防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了由董事会、党委会、经理层、归口管理部门、审计部门等组成的全面风险管理组织体系，形成业务部门、风控部门、审计监督部门组成的“三道防线”。",
+      "original_text": "公司制定《全面风险管理制度》《风险评估管理实施细则》《子公司经营风险防控制度》，建立了由公司董事会、党委会、经理层、归口管理部门、审计部门、各职能部门及二级、三级公司组成的全面风险管理组织体系，形成了由业务部门、风控部门、审计监督部门组成的“三道防线”。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过主流财经媒体和专业机构平台传播矩阵，深化“走出去+引进来”双向机制，积极参与行业交流、接待机构调研，系统传递公司战略布局。",
+      "original_text": "搭建“主流财经媒体 + 专业机构平台”传播矩阵，在定期报告、解读内容，系统传递公司战略布局；深化“走出去+引进来”双向机制，积极参与行业交流、接待机构调研。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与内外部利益相关方的沟通，建立多元化的沟通渠道与反馈机制，主动倾听并积极回应利益相关方诉求。",
+      "original_text": "公司高度重视与内外部利益相关方的沟通，建立多元化的沟通渠道与反馈机制，主动倾听并积极回应利益相关方诉求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续4年获得深交所信息披露A级评价，构建覆盖事前审核、事中管控、事后跟踪的全流程信息披露内控管理体系。",
+      "original_text": "公司连续4年斩获深交所信息披露A级评价，构建覆盖事前审核、事中管控、事后跟踪的全流程、全维度信息披露内控管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "未提及",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "盐湖股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 843530.93,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（吨二氧化碳当量） 886,148.02 926,671.18 843,530.93",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 264587.86,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量（吨二氧化碳当量） 311,026.42 296,380.19 264,587.86",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 578943.07,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量（吨二氧化碳当量） 575,121.60 630,290.99 578,943.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 54.42,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "单位营收温室气体排放量（吨二氧化碳当量/ 41.07 61.23 54.42",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 313194.0,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗总量（吨标准煤） 313,194.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 56589900,
+      "unit": "吨",
+      "original_text": "取水总量（万立方米） 5,658.99",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 352945.99,
+      "unit": "吨",
+      "original_text": "废水产生量（吨） 175,589.00 396,040.00 352,945.99",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 1201.84,
+      "unit": "吨",
+      "original_text": "废弃物总量（吨） 1,201.84",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 146.2,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOX）排放量（吨） 146.20",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 129.84,
+      "unit": "吨",
+      "original_text": "颗粒物排放量（吨） 129.84",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5864,
+      "unit": "人",
+      "original_text": "员工总数 5,864",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工占比达...",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 431.4,
+      "unit": "万元",
+      "original_text": "员工培训投入金额（万元） 830.71 570.59 431.40",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 3.99,
+      "unit": "%",
+      "original_text": "员工流失率（%） 4.53 4.46 3.99",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 27625.81,
+      "unit": "万元",
+      "original_text": "研发投入金额（万元） 13,275.74 20,032.53 27,625.81",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.78,
+      "unit": "%",
+      "original_text": "研发投入金额占营业收入比例（%） 0.62 1.32 1.78",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 16870.0,
+      "unit": "万元",
+      "original_text": "安全运营总投入 万元 16,870.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "累计投入超600万元",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "截至本报告发布日，董事会共有12名成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42,
+      "unit": "%",
+      "original_text": "董事会共有独立董事5名，占比42%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事3名，占比25%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "共召开董事会11次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司于报告期内完成监事会改革工作，取消监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家‘碳达峰碳中和’战略，将气候风险管理融入EHS管理体系，制定碳中和路线图，通过优化能源结构、余热利用、绿电替代等方式降低碳排放。",
+      "original_text": "对气候变化已成为企业可持续发展的核心议题。盐湖股份积极响应国家‘碳达峰碳中和’战略部署，深入贯彻绿色发展理念，将气候风险管理融入企业环境、健康与安全（EHS）管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，元通公司通过ISO 14001环境管理体系认证，并持续完善环保管理制度，构建‘三层联动、权责清晰’的环保管理组织体系。",
+      "original_text": "元通公司通过ISO 14001环境管理体系认证，占公司并表营业收入的9.44%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司通过技术创新提升锂回收率、降低水耗，开发高性能锂吸附剂，优化卤水提锂工艺，但未明确提及绿色产品认证或具体绿色产品比例。",
+      "original_text": "加大研发投入，优化卤水提锂工艺，开发高性能锂吸附剂，提高沉锂废液回收效能。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司充分认识到运营活动对区域生态系统的影响，将生物多样性保护融入企业可持续发展战略，通过优化空间布局、划定绿色开采区、实施生态补水与栖息地营造等措施保护生物多样性。",
+      "original_text": "公司充分认识到运营活动对区域生态系统的潜在影响，将生物多样性保护深度融入企业可持续发展战略，积极响应《中国生物多样性保护战略与行动计划》。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司秉持‘以钾为主、综合利用、循环经济’理念，推进废弃物循环利用，如尾盐消纳、废水零排放、中水回用，并获‘无废企业’称号。",
+      "original_text": "协调各生产单元提升尾盐消纳能力，并持续开展尾盐堆存场，优先推动可回收物料的再利用；实现生产废水零排放与中水回用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法为员工提供养老保险、医疗保险等福利，建立职工代表大会制度，保障员工权益。",
+      "original_text": "公司依法为员工提供养老保险、医疗保险、失业保险、工伤保险、生育保险及补充...开职工代表大会，共征集职工提案108份",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，通过ISO 14001认证，开展职业健康培训，体检率100%，无新增职业病患者。",
+      "original_text": "职业健康与安全培训覆盖的员工比例96.00%；开展在岗期间职业健康体检工作，体检率达100%；未发生群体性职业病危害事件，无新增职业病患者",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司高度重视供应链稳定性与可持续性，推动绿色采购与廉洁治理，对供应商进行风险评估和整改，整改完成率100%。",
+      "original_text": "盐湖股份高度重视供应链的稳定性、合规性与可持续性，推动绿色采购与廉洁治理，构建起高效协同、责任明确、风险可控的现代供应链管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司重视产品质量与客户服务，投诉处理率100%。",
+      "original_text": "接获关于产品及服务的投诉处理率（%）100 100 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立数据安全管理制度，开展信息安全培训，数据安全事件金额为0。",
+      "original_text": "制定《数据安全应急预案》等管理制度；针对员工开展的个人信息安全培训覆盖人数125人；数据安全事件涉及的金额（万元）0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司参与乡村振兴、公益慈善、应急救援等社区活动，员工志愿服务总时长900小时。",
+      "original_text": "公司员工志愿服务总时长900小时；累计投入超600万元；承担辖区内各项应急救援工作",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司女性员工占比达一定比例，无年龄、性别歧视，提供平等发展空间。",
+      "original_text": "女性员工1,969人；公司不存在基于年龄、性别的歧视，给予员工充分的发展空间",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会作为ESG管理与信息披露的最高决策机构，下设董事会ESG委员会，ESG领导工作组为执行单位。",
+      "original_text": "公司董事会作为ESG管理与信息披露的最高决策机构，对可持续发展信息披露进行最终审批与决策。董事会ESG委员会为指导单位，ESG领导工作组为信息报告的执行单位。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司成立党风廉政建设工作机构，制定并执行多项纪检制度，开展反腐败培训57次，提出75项廉洁风险管控事项和168条防控措施。",
+      "original_text": "公司召开反腐败培训57次，提出75项廉洁风险管控事项，提出168条防控措施",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司构建合规管理体系，通过ISO 37301:2021与GB/T 35770-2022双合规管理体系年审，无重大合规违规事件。",
+      "original_text": "通过了ISO 37301:2021与GB/T 35770-2022双合规管理体系年审。报告期内，公司无重大合规违规事件发生。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立内部控制和风险管理组织机构，董事会下设审计委员会，识别风险事项8项并完成整改。",
+      "original_text": "公司内部控制和风险管理组织机构；董事会下设审计委员会；识别风险事项8项，进行系统分析、评估和整改，整改完成率达100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，明确投资者沟通原则和规范，搭建顺畅高效的投资者沟通平台。",
+      "original_text": "公司制定《投资者关系管理制度》，明确投资者沟通的原则和规范。公司搭建起顺畅、高效的投资者沟通平台。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立有效的利益相关方沟通机制，通过问卷、调研等方式与股东、员工等关键利益相关方沟通。",
+      "original_text": "盐湖股份重视利益相关方的诉求与期望，建立有效的利益相关方沟通机制。公司根据自身业务和运营实际情况，识别出股东及债权人、政府及监管机构、员工等关键利益相关方，定期或不定期通过问卷、调研等方式与关键利益相关方进行沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》，严格按照法律法规开展信息披露工作，未出现文本错误或需要补充更正的情形。",
+      "original_text": "公司制定《信息披露管理制度》，严格按照法律法规和监管要求开展信息披露工作。公司确保信息披露...未出现文本错误、需要补充或更正公告的情形。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

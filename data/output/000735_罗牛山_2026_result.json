@@ -1,0 +1,441 @@
+{
+  "company_name": "罗 牛 山",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2447600,
+      "unit": "吨",
+      "original_text": "2025年总耗水量244.76万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 3075,
+      "unit": "人",
+      "original_text": "年末员工总数3075人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 36.6,
+      "unit": "%",
+      "original_text": "年末全体女性员工比例36.6%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 20,
+      "unit": "%",
+      "original_text": "年末女性高管比例20%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 750.96,
+      "unit": "万元",
+      "original_text": "研发投入7,50.96万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 65,
+      "unit": "万元",
+      "original_text": "在海南省“中华慈善日”捐款65万",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会 | 7 | 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事 3 1",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "召开董事会6次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司定期开展气候风险和机遇识别，针对台风、洪涝等急性风险建立预警体系和应急预案，对养殖场设施加固，储备关键设备。针对气温上升等慢性风险，优化养殖环境，安装温控系统，选育耐热品种。",
+      "original_text": "公司定期开展气候风险和机遇识别，针对台风、洪涝等急性风险建立预警体系和应急预案，对养殖场设施加固，储备关键设备。针对气温上升等慢性风险，优化养殖环境，安装温控系统，选育耐热品种。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依据《罗牛山股份环保工作管理条例》构建自上而下的环境管理体系，并已取得ISO 14001环境管理体系认证（畜牧板块）。",
+      "original_text": "依据《罗牛山股份环保工作管理条例》，构建自上而下的环境管理体系。...ISO 14001环境管理体系认证（畜牧板块）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司研发高浓度替米考星可溶性粉、阿莫西林克拉维酸钾颗粒等产品，旨在提高生物利用度、降低药物残留和耐药性风险，契合减抗限抗政策。",
+      "original_text": "研发高浓度替米考星可溶性粉...提高药物对畜禽细菌性疾病的治疗效果，同时降低药物残留和耐药性产生的风险",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司被列为我国第一家实现生物质能沼气发电并联上网的企业，可再生水回用2.63万吨，利用率2.66%。",
+      "original_text": "首家生物质能沼气发电并联网企业...可再生水回用2.63万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格按照劳动法律法规建立员工管理制度，保障员工权益，保护员工隐私，按规定缴纳五险一金，禁止雇用童工，反对歧视。",
+      "original_text": "公司严格按照《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规，建立完善的员工管理制度体系，保障员工权益，保护员工隐私。按规定为每位员工缴纳养老、失业、医疗、工伤、生育保险。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司设置安全与设备管理部，全年未发生职业病病例，对职业禁忌证员工按规定复检或调岗，持续对职业病风险岗位员工实施岗前、岗中及离岗体检，覆盖所有风险岗位。",
+      "original_text": "公司设置安全与设备管理部及专业人员，全年未发生职业病病例。对职业禁忌证员工按规定复检或调岗。持续对职业病风险岗位员工实施岗前、岗中及离岗体检，覆盖所有风险岗位。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司完善供应商准入文件，包括廉洁承诺书、质量承诺书等，对核心供应商实地走访，淘汰不合格供应商。但未明确提及ESG具体标准。",
+      "original_text": "完善供应商准入文件，包括廉洁承诺书、质量承诺书等。对核心供应商实地走访，淘汰不合格供应商。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立完善的产品质量控制体系，通过ISO22000食品安全管理体系认证、ISO9001质量管理体系认证，构建全链条质量管理体系，2025年没有出现产品召回。",
+      "original_text": "公司围绕“为顾客创造价值”的经营理念，建立了完善的产品质量控制体系，将全面质量管理贯穿产品...已顺利完成ISO22000食品安全管理体系认证、ISO9001质量管理体系认证。2025年公司没有出现产品召回。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视信息安全与隐私保护，遵循网络安全法、数据安全法等法律法规，构建并实施信息安全管理体系，包括机房安全、数据备份、上网行为管理等。",
+      "original_text": "公司高度重视信息安全与隐私保护，严格遵循《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规，构建并实施信息安全管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司关注社会发展，共建和谐社区，签订公益协议，参与志愿者活动，支持教育与农村发展，2025年9月捐款65万元。",
+      "original_text": "关注社会发展、共建和谐社区。签订公益协议、参与志愿者活动、定期会议。公益捐赠、志愿者服务、支持教育与农村发展。2025年9月，在海南省“中华慈善日”捐款65万。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司致力于营造开放、包容、尊重、多元的用工环境，重视为员工提供平等的工作机会，尊重与维护员工合法权益，为女性员工提供额外福利。",
+      "original_text": "罗牛山致力于营造开放、包容、尊重、多元的用工环境，重视为员工提供平等的工作机会，尊重与维护员工合法权益。罗牛山为女性员工提供额外福利，包括：产假、产检假、哺乳假、育儿假；生育慰问金、结婚红包；职工医疗险、女职工安康险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "2025年11月正式成立董事会领导下的ESG管理架构，按决策层-管理层-执行层三级治理体系设计，董事会负最终责任。",
+      "original_text": "2025年11月，公司正式成立董事会领导下的ESG管理架构，该架构按照“决策层—管理层—执行层”三级治理体系设计：董事会负最终责任",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "建立四位一体的反舞弊工作机制，2025年受理举报5件查实3件，开展腐败风险排查18次，中高层反腐培训覆盖率达100%。",
+      "original_text": "四位一体的反舞弊工作机制；2025年受理举报5件，查实3件；开展腐败风险排查18次；培训1场，中高层覆盖率达100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持合规经营、诚信对待客户、供应商、合作伙伴，未发生违规或风险事件。",
+      "original_text": "合规经营、诚信；方面未发生违规或风险事件",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "建立并有效运行风险管理‘三道防线’，构建覆盖风险评估、管理监督、定期汇报的全流程风险管理闭环，定期开展风险评估。",
+      "original_text": "建立并有效运行风险管理“三道防线”；构建了覆盖“风险评估、管理监督、定期汇报”的全流程风险管理闭环",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "通过巨潮资讯网、互动易平台、投资者交流会、热线电话等多种渠道与投资者沟通，保障中小股东权益。",
+      "original_text": "通过搭建全方位资讯及沟通平台，以更丰富的渠道传递公司资讯，覆盖更多股东及投资者",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "持续完善利益相关方沟通与参与机制，积极倾听各方诉求，计划2026年正式运行常态化的利益相关方沟通机制。",
+      "original_text": "公司持续完善利益相关方沟通与参与机制，积极倾听各方诉求；计划2026年正式运行常态化的利益相关方沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格按照法律法规要求规范信息披露，确保真实、准确、完整、及时、公平。",
+      "original_text": "及时准确信息披露、公司治理合法合规",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司提及合法合规经营、依法纳税，但未详细说明税务透明度具体措施。",
+      "original_text": "合法合规经营、依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

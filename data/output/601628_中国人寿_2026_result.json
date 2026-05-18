@@ -1,0 +1,442 @@
+{
+  "company_name": "中国人寿",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 628099.95,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一、二温室气体排放总量为628,099.95吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 42167.05,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一（包括所有燃料燃烧的温室气体排放） 吨二氧化碳当量 49,125.96 42,167.05",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 585932.9,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二（包括自用的采购电力产生的温室气体排放） 吨二氧化碳当量 659,611.01 585,932.90",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 13.41,
+      "unit": "千克二氧化碳当量/万元营收",
+      "original_text": "温室气体排放密度 千克二氧化碳当量/万元营收 13.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 205895.7,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗量 吨标煤 205,895.70 196,531.57",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 7674610.91,
+      "unit": "吨",
+      "original_text": "办公用水总量 吨 7,674,610.91 6,790,275.36",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 95400,
+      "unit": "人",
+      "original_text": "中国人寿劳动合同用工总数为9.54万人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 56.79,
+      "unit": "%",
+      "original_text": "女性员工比例为56.79%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 24403,
+      "unit": "万元",
+      "original_text": "员工培训与发展支出 亿元 2.4403",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 159.18,
+      "unit": "小时/人",
+      "original_text": "员工培训平均时长 小时 159.18",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.97,
+      "unit": "%",
+      "original_text": "年度员工流失率 % 1.80 1.34 0.97",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 18000,
+      "unit": "万元",
+      "original_text": "公司持续向中国人寿慈善基金会实施公益捐赠超过1.8亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "截至2025年12月31日，董事会成员共计12名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "4名独立董事",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "3名董事为女性",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 13,
+      "unit": "次",
+      "original_text": "董事会会议13次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会和监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "专门委员会会议35次（未单独列示审计委员会）",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了以韧性发展与低碳转型为导向的气候战略，通过完善气候治理架构、加强气候风险识别与管理、推进低碳投资与绿色运营实践，持续提升气候绩效。设定了范围一、二温室气体排放量减排10%（至2030年）和实现碳中和（至2055年）的目标。",
+      "original_text": "公司制定了以韧性发展与低碳转型为导向的气候战略，并通过完善气候治理架构、加强气候风险识别与管理、推进低碳投资与绿色运营实践，持续提升气候绩效，确保战略有效落地。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司设立能源管理工作委员会，由党委书记、总裁担任主任委员，统筹推进节能减排工作，并制定《节能减排管理办法》，将环境绩效纳入考核。同时制定《环境、社会、治理和绿色金融管理规定》，明确ESG和绿色金融管理要求。",
+      "original_text": "公司设立能源管理工作委员会，由党委书记、总裁担任主任委员，统筹推进节能减排工作，并制定《节能减排管理办法》，将环境绩效纳入考核。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司持续探索和推广涵盖可再生能源、绿色出行、节能环保等领域的绿色保险保障供给，通过服务创新引导客户践行低碳生活方式。2025年绿色保险保费收入8.8亿元。",
+      "original_text": "公司持续探索和推广涵盖可再生能源、绿色出行、节能环保等领域的绿色保险保障供给，通过服务创新引导客户践行低碳生活方式。2025年，绿色保险保费收入8.8亿元。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推广无纸化办公，使用环保建材，并开展废弃物回收利用。",
+      "original_text": "全年节约纸张超243吨；在新建项目中优先选用环保建材与节能设备。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司尊重员工民主权益，通过职工代表大会保障员工权益，提供薪酬福利保障、职业健康与安全、职业晋升与发展、员工关爱等。",
+      "original_text": "保障基本权益 薪酬福利保障 职业健康与安全 职业晋升与发展 员工关爱 职工代表大会 帮扶困难员工 员工座谈会 领导接待日",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立气象监测与预警机制，推行灵活办公安排，确保极端天气员工安全。提供绿色理赔通道、大健康陪诊等增值服务，提升员工安全感。",
+      "original_text": "公司建立气象监测与预警机制，推行灵活办公安排，确保在极端天气事件发生时员工能够安全避险并维持必要的业务运行。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商全流程管理体系，将ESG管理要求覆盖供应商筛选、准入、审核、退出等环节，关注环境管理、信息安全、职业健康等风险。",
+      "original_text": "公司建立了完善的供应商全流程管理体系，将ESG管理要求覆盖供应商筛选、准入、审核、退出等全部环节，严格明确各环节考核标准",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司持续打造消保内部培训体系，开展消费者权益保护专题必修课程，培训覆盖率、员工参与率达到100%。",
+      "original_text": "持续打造消保内部培训体系，开展消费者权益保护专题必修课程，培训覆盖率、员工参与率达到100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司已构建权责清晰的数据安全管理体系，取得ISO 27701隐私信息管理体系认证，对违反隐私政策的行为实行零容忍。",
+      "original_text": "成功取得ISO 27701隐私信息管理体系认证，数据安全...对任何违反隐私政策的行为实行零容忍",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过社区关怀、志愿服务、公益活动等积极贡献社会，开展'艺术回山'公益项目、家庭健康管理宣导活动等，覆盖30个省份159个城市。",
+      "original_text": "中国人寿以社区关怀、志愿服务和应急救援等实际行动，积极贡献社会，传递公益温暖。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司注重员工性别、年龄、民族等多样性，禁止歧视，开展多元化培训。女性员工比例56.79%，少数民族员工占比6.74%。",
+      "original_text": "公司在员工结构中充分考虑多元化因素，注重保持员工性别、年龄、民族、政治面貌、地域等指标的多样性，努力构建和谐包容的职场环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了由董事会承担主体责任的管理架构，包括董事会、董事会战略与资产负债管理委员会、总裁室、ESG/绿色金融委员会等层级，并制定《环境、社会、治理和绿色金融管理规定》。",
+      "original_text": "搭建了由董事会承担主体责任的管理架构，公司董事会、董事会战略与资产负债管理委员会、总裁室、ESG/绿色金融委员会各司其职",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定反腐败政策，开展廉洁教育，将反腐败规章制度、国家商业道德法律法规作为培训重点，并督促供应商落实反腐败反贿赂条款。",
+      "original_text": "廉洁教育，将反腐败规章制度、国家商业道德法律法规等作为培训重点内容",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持依法合规经营，构建合规管理组织框架，制定《董事、监事、高级管理人员和关键岗位人员绩效薪酬追索扣回管理暂行办法》等制度，并获评2025年度优秀合规企业。",
+      "original_text": "坚持依法合规经营，构建目标导向型风险管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立全面风险管理体系，包括“1+7+N”制度体系，将气候风险纳入重点ESG风险关注，并开展气候风险压力测试。风险综合评级连续30个季度保持A类。",
+      "original_text": "将气候风险作为重点ESG风险关注，纳入公司全面风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东大会、业绩说明会、投资者大会、上证e互动平台等多种方式与投资者沟通，加强投资者关系管理。",
+      "original_text": "加强投资者关系管理 及时准确全面披露信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司建立常态化、多渠道的沟通机制，识别股东、客户、员工、环境等七大利益相关方，并开展ESG双重重要性议题识别及评估。",
+      "original_text": "高度重视利益相关方的意见与建议，将其视为公司战略决策与可持续发展的重要依据",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司持续完善ESG信息披露体系建设，满足上交所可持续发展报告指引要求，每年开展ESG双重重要性议题识别，并发布ESG暨社会责任报告和绿色金融报告。",
+      "original_text": "持续完善ESG信息披露体系建设，综合考量利益相关方对企业管理与发展的新期望",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601628_中国人寿_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "中远海控",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 215220,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范畴一+范畴二） 吨二氧化碳当量 226,989 203,945 215,220",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 22963190,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范畴一温室气体排放量 吨二氧化碳当量 19,828,201 21,887,707 22,963,190",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 27024,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范畴二温室气体排放量 吨二氧化碳当量 14,740 20,116 27,024",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 17.874,
+      "unit": "吨二氧化碳当量/百万营业收入",
+      "original_text": "温室气体排放（范畴一+范畴二）密度 21.834 18.866 17.874",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 329925,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "总计 千个千瓦时 259,869 281,102 329,925",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 874246,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 824,586 841,041 874,246",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 698057,
+      "unit": "吨",
+      "original_text": "废水排放 立方米 287,564 645,701 698,057",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 490009,
+      "unit": "吨",
+      "original_text": "废气 氮氧化物 吨 433,000 478,755 490,009",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 145275,
+      "unit": "吨",
+      "original_text": "废气 硫氧化物 吨 114,681 139,945 145,275",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 32768,
+      "unit": "人",
+      "original_text": "正式员工总数 人 31,654 32,415 32,768",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 43,
+      "unit": "%",
+      "original_text": "正式女性员工总数 % 36 42 43",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 3.86,
+      "unit": "%",
+      "original_text": "总流失比率 % 3.88 2.69 3.86",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1000,
+      "unit": "万元",
+      "original_text": "中远海运集运慈善基金会捐赠1,000万元用于社会公益慈善事业",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "董事会成员中包含3名独立非执行董事（占比 37.5%）",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "1名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳中和路线图，目标2030年碳达峰、2060年碳中和。定期披露温室气体排放数据，建立船舶燃油与碳排放动态模型，实施内部碳定价，并考虑中国碳配额分配制度。",
+      "original_text": "制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司定期开展ISO 14001环境管理体系审核，确保环境管理体系持续符合要求。53%的控股码头获得ISO 50001能源管理体系认证。",
+      "original_text": "中远海控定期开展ISO 14001环境管理体系审核...共有53%的控股码头获得ISO 50001能源管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出Hi-ECO区块链绿色航运产品，通过生物燃料减排方案实现低碳运输。自主研发碳排放计算器，支持实时核算碳排放数据。",
+      "original_text": "中远海运集运创新推出基于绿色生物燃料的Hi-ECO区块链航运产品...自主研发碳排放计算器，支持实时核算各航线运输路径的精准碳排放数据。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司参与珊瑚及海草栖息地修复，开展生态调查监测，支持生物多样性保育工作，降低对海洋生态的影响。",
+      "original_text": "中远海运港口与世界自然基金会香港分会携手开展珊瑚及海草栖息地修复工作",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "推动资源循环利用，包括污水重复利用27,218吨，雨水回用系统，集装箱使用水性漆，船舶使用绿色材料。",
+      "original_text": "2025年污水重复利用共计 27,218 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司修订《员工管理办法》，增加保障员工不因性别、民族、宗教信仰等受到歧视的条款；明确禁止使用童工、禁止强迫劳动；为员工缴纳补充医疗保险，建立企业年金；建设妈咪小屋等关怀设施。",
+      "original_text": "2025年，中远海运集运修订《员工管理办法》，增加保障员工不因性别、民族、宗教信仰等受到歧视的...明确禁止使用童工、禁止一切形式的强迫劳动...基本社会保险费用严格按照国家规定标准缴存，并额外为员工缴纳补充医疗保险，建立企业年金...持续建设“妈咪小屋”等关怀设施",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司高度重视员工健康与安全，建立职业健康与安全管理体系，通过ISO 45001认证；开展职业健康安全培训；设立职工驿站改善工作环境；组织安全培训，新进员工安全培训面达100%。",
+      "original_text": "中远海控高度重视员工职业健康，严格遵守国家职业安全健康相关法规，持续完善职业健康管理体系...中远海运集运ISO 45001证书...新进员工安全培训面达到100%...中远海运集运总共投入200万元，累计建成“中远海运集运职工驿站”135家",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司持续完善可持续采购管理，将ESG要求纳入供应商准入标准，建立'准入-评价-退出'全流程管理，引导供应商遵守商业道德规范。",
+      "original_text": "本集团持续完善可持续采购管理，将ESG要求纳入供应商准入标准，建立'准入-评价-退出'全流程管理，引导供应商遵守商业道德规范并积极采纳ESG实践。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过安全、质量与环境管理体系（SQE）认证，每年进行外部审核；制定航运安全相关制度文件，开展安全管理举措；提供化工行业安全运输解决方案。",
+      "original_text": "东方海外国际遵守行业认可的海上健康、安全、质量、环境和能源管理指南的安全、质量和环境要求。每年进行SQE 认证外部审核...制定了一系列航运安全相关的制度文件...面向当地化工行业客户定制推出...化工安全运输硬件、化工安全运输服务的“六位一体”解决方案",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定数据安全保护政策，开展网络安全专项培训，进行信息安全与隐私保护演练，报告期内未发生数据安全事件或客户隐私泄露事故。",
+      "original_text": "中远海控持续更新数据安全保护政策...2025年，中远海运集运制定了《中远海运集装箱运输有限公司网络应急事件应急处理管理细则（2025）》《集运数智创新中心集运数据安全管理指南》...报告期内，中远海控未发生数据安全事件或客户隐私泄露事故",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展多项社会公益活动，包括爱心单车项目、西班牙洪灾捐赠、乡村振兴项目等；设立慈善基金会，捐赠1000万元用于社会公益。",
+      "original_text": "2025年11月，由中远海运慈善基金会、中国乡村发展基金会和哈啰集团联合发起...“爱心单车”项目...中远海运港口西班牙码头向西班牙瓦伦西亚慈善机构Aportem捐赠4万欧元...中远海运集运慈善基金会捐赠1,000万元用于社会公益慈善事业",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司发布《员工多元化政策》，明确反对种族、民族、性别等各类歧视；提供女性福利如妈妈小屋、哺乳时间；通过校园招聘、社会招聘等提供平等发展机会。",
+      "original_text": "2025年，中远海运港口发布《员工多元化政策》并于官网披露，明确反对种族、民族、性别等各类歧视...面向哺育一周岁以下婴儿的女性员工提供每个工作日1小时专属哺乳时间...始终致力于为每一位员工提供平等的发展机会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "构建了由董事会作为决策层、风险控制委员会及审计委员会作为管理层的架构，董事会下设ESG管理办公室，负责可持续发展战略制定与监督。",
+      "original_text": "构建了由董事会作为决策层、风险控制委员会以及审计委员会作为管理层构成的商业道德管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "制定并公开发布《合规准则》，严禁商业贿赂与腐败，建立举报机制，定期开展反贪腐培训，全体董事完成反贪腐培训。",
+      "original_text": "中远海控严防商业贿赂与腐败，遵守《联合国反腐败公约》...制定并公开发布了《合规准则》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "建立商业道德管理架构，制定商业道德管理制度，开展反垄断合规培训，将商业道德融入审计监督。",
+      "original_text": "本集团构建了由董事会作为决策层、风险控制委员会以及审计委员会作为管理层构成的商业道德管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "参照COSO框架和《企业内部控制基本规范》，建立风险管理架构，包括董事会、风险控制委员会和风险管理主责部门，定期识别评估风险。",
+      "original_text": "参照国际通用COSO企业风险管理框架（ERM）和中国《企业内部控制基本规范》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "通过券商策略会、投资者调研、路演、业绩说明会等多种渠道与投资者沟通，维护股东利益。",
+      "original_text": "投资机构/股东 券商策略会...业绩说明会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "建立多元化内外沟通机制，包括公司官网、投资者信箱、热线、微信公众号等，将利益相关方期望融入决策。",
+      "original_text": "秉持开放透明的沟通原则，建立并完善了多元化的内外沟通机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "不断完善可持续发展信息披露机制，定期向股东及公众披露信息，确保准确、透明、及时。",
+      "original_text": "不断完善可持续发展信息披露机制，为投资者、客户等重要利益相关方提供全面、准确的参考依据",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601919_中远海控_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

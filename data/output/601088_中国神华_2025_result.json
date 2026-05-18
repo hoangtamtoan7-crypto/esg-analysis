@@ -1,0 +1,442 @@
+{
+  "company_name": "中国神华",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "环境、社会及管治报告披露的碳排放总量是指中国神华所属生产经营类企业（不含印尼火电项目）产生的范围一碳排放",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一、二的碳排放 年比 年控 年碳排放总量控制 同比增加 比 年增加",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一、二的碳排放 年比 年控 年碳排放总量控制 同比增加 比 年增加",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "环境、社会及管治报告披露的碳排放强度是指中国神华所属生产经营类企业（不含印尼火电项目）产生的碳排放总量与",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "公司可再生能源消耗总量 万吨标准煤",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "全产业实现 绿电消费",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "污废水产生量是指中国神华所属生产经营类企业产生的污废水总量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "污废水利用量是指中国神华所属生产经营类企业利用的污废水总量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "一般工业固废和危险废物合规处置率",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "环保投入 万元产值综合能耗 污废水利用率",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "主要污染物正常工况下达标排放率",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "主要污染物正常工况下达标排放率",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "厂界总悬浮颗粒物平均浓度为74.89µg/m³",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 14.43,
+      "unit": "%",
+      "original_text": "女性员工占比 14.43%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "全年投入培训资金约 亿元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "全年研发投入强度",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公司安全生产投入 亿元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "社会捐赠额",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "纳税总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "截至 年底，中国神华第六届董事会由 名董事组成",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立非执行董事占比为 ，外部董事占比为 ，女性董事占比为",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "女性董事占比为",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "全年召开 次董事会会议",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司完成董事会、监事会换届工作",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "将 绩效融入薪酬考核体系：公司董事会薪酬与考核委员会审查董事、监事、总经理和其他高级管理人员的薪酬",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "审计与风险委员会审议气候变化风险和机遇清单等事项 次",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了《中国神华碳达峰行动方案》和年度低碳发展工作方案，目标2030年前碳达峰、2060年前碳中和。",
+      "original_text": "公司制定了《中国神华碳达峰行动方案》，以此为基础，逐年制定《年度低碳发展工作方案》",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了覆盖碳排放、污染物排放、能源消耗、水资源管理等主要指标的目标管理体系，并通过ISO 14001认证。",
+      "original_text": "本公司建立了覆盖碳排放、污染物排放、能源消耗、水资源管理等主要指标的目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推广清洁能源替代传统能源，发展新能源项目，如纯电动矿用自卸卡车、绿色甲醇船舶等。",
+      "original_text": "推广以清洁能源替代传统能源，国产首台纯电动化矿用自卸卡车、纯电轮斗采煤系统等设备相继投入使用",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生物多样性保护贯穿运营全过程，推进绿色矿山建设，开展生态修复，如微藻固碳系统。",
+      "original_text": "我们将生物多样性保护贯穿于运营全过程，致力于保护自然生态环境",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司以源头减量、价值再造、绿色低碳为原则，推进固体废物源头减量和资源化利用，如煤粉尘回收制煤饼。",
+      "original_text": "以源头减量、价值再造、绿色低碳为原则，通过原料替代、工艺改造、技术更新、弃物的产生与排放",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣原则，依法签订劳动合同，保障员工合法权益，包括职工依法享有的劳动权利和社会权利。",
+      "original_text": "公司坚持平等雇佣原则，严格遵守《中华人民共和国劳动法》等法律法规，与全体员工签订劳动合同，保障职工劳动权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，开展职业健康检查、培训，确保工作场所安全，降低安全风险。",
+      "original_text": "公司高度重视员工的职业健康与技能培训，全面保障职业健康安全，开展针对性安全培训，防止事故发生。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行ESG管理，包括商业道德培训、供应商问卷等，推动供应链绿色转型。",
+      "original_text": "我们通过线上线下平台对员工及供应链开展商业道德培训，增强合规文化氛围。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司不断优化电能和工序质量，强化设备安全运行及日常维护，未发生因安全与健康理由而回收的事件。",
+      "original_text": "公司不断优化电能和工序质量，强化设备安全运行及日常维护的管理措施，确保机组...未发生因安全与健康理由而回收的事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵守网络安全法、数据安全法等法律法规，建设数据安全管理制度、技术、运营体系，未发生重大信息安全和客户隐私泄露事件。",
+      "original_text": "公司严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规，未发生重大信息和网络安全事件，未发生客户隐私信息泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司热心公益慈善，支持社区教育、医疗健康等，制定志愿者管理制度，积极参与社区建设。",
+      "original_text": "公司长期投身于慈善公益事业，制定并实施《对外捐赠管理办法》，积极支持社会教育、医疗健康等，以志愿服务的方式积极参与社区建设和公益活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等雇佣，禁止歧视，推进员工队伍多元化，保障女性员工权益，关爱女性发展。",
+      "original_text": "公司坚持平等雇佣原则，禁止任何形式的歧视，持续推进员工队伍多元化，切实保障女性员工权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了层级分明、职能明确的ESG管治架构，覆盖董事会、管理层、本部职能部门和子分公司。董事会是ESG事宜的最高负责及决策机构，下设安全、健康、环保及ESG工作委员会和审计与风险委员会。",
+      "original_text": "中国神华构建了层级分明、职能明确的 管治架构，覆盖董事会、管理层、本部职能部门和子分公司，以保障高效的 整体规划和重大事项决策和部署。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵守反腐败法律法规，成立党风廉政建设和反腐败工作协调小组，推动大监督格局。报告期内发生贪腐案件，但未披露具体数量。开展商业道德培训，向董事、监事、高级管理层发放廉洁从业手册。",
+      "original_text": "中国神华严格遵守《中华人民共和国刑法》《国有企业领导人员廉洁从业若干规定》等法律法规、支持《联合国反腐败公约》。公司成立党风廉政建设和反腐败工作协调小组，推动党内监督完善监督对象全覆盖、业务内容全涵盖、监督风险全辨识、监督责任全链条的大监督格局。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《合规管理规定》《诚信合规手册》《商业道德制度》等，明确商业道德标准，包括反不正当竞争、内幕信息管理等。开展商业道德专项审计，至少每两年一次。对员工和供应链进行商业道德培训。",
+      "original_text": "公司制定了覆盖本部及子分公司的《合规管理规定（试行）》和《诚信合规手册》《商业道德制度》，明确规定了包括商业道德政策制定及执行方面的内部控制专项检查。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立完善的内控风险管理体系，包括《内控风险管理规定》《内控风险管理手册》《风险监控预警指标体系》等文件，应用内控风险管理信息系统。每年开展全面风险评估，包含ESG相关风险。董事会每年检讨内控有效性。",
+      "original_text": "中国神华建立了完善的内控监督检查机制，每年开展针对包含 风险的综合风险评价工作，包含制定评价方案、组成内控监督检查机制年度评价工作流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过路演和交流等方式与股东和投资者沟通，关注议题包括合规经营等。荣获港股上市公司投资者关系管理天马奖。",
+      "original_text": "股东与投资者 重点关注议题 合规经营 沟通渠道 路演和交流",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别各利益相关方，包括股东、投资者等，通过多种渠道沟通。定期开展重要性议题分析评估，识别ESG风险。",
+      "original_text": "中国神华根据行业动态以及公司的特性、发展情况识别各利益相关方。我们尊重利益相关方的合法权利，保持与利益相关方的沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司连续获评上交所信息披露工作评价A级，荣获中央广播电视总台中国ESG上市公司先锋、福布斯中国ESG等荣誉。董事会保证报告内容不存在虚假记载。",
+      "original_text": "连续 年获评上交所信息披露工作评价 级，荣获中央广播电视总台 中国 上市公司先锋 、福布斯中国 企业治理先锋奖",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关具体措施或政策。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601088_中国神华_2025.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.702
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

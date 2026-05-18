@@ -1,0 +1,442 @@
+{
+  "company_name": "顺丰控股",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1453283.9,
+      "unit": "吨二氧化碳当量",
+      "original_text": "吨二氧化碳当量 1,453,283.9",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3430954.0,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放总量 吨二氧化碳当量 3,430,954.0",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 746566,
+      "unit": "人",
+      "original_text": "从业人员总人数746,566人（2025年）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 15.9,
+      "unit": "%",
+      "original_text": "女性从业人员占比15.9%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 29,
+      "unit": "%",
+      "original_text": "在高级管理人员中，女性占比达29%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 14857,
+      "unit": "万元",
+      "original_text": "培训支出金额14,857万元（2025年）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 13.4,
+      "unit": "%",
+      "original_text": "流失率=总流失人数÷从业人员总人数，总流失人数100,370，从业人员746,566，计算得13.4%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 29.6,
+      "unit": "亿元",
+      "original_text": "科技研发投入金额达29.6亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.0,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例1.0%（2025年）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 3374,
+      "unit": "万元",
+      "original_text": "慈善捐款3,374万元（2025年）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "公司董事会由六名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 50,
+      "unit": "%",
+      "original_text": "三名独立非执行董事，占董事会成员的二分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "董事会有1名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "2025年，公司共召开了9次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会设置",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会各专业委员会共召开19次会议",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已公开承诺基于科学的温室气体减排目标，力争2050年实现全价值链净零排放，并制定了气候转型路径，聚焦绿色运输、绿色园区、绿色包装、绿色科技和循环供应链五大领域。",
+      "original_text": "公司已公开承诺基于科学的温室气体减排目标，并力争于2050年实现全价值链净零排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司制定《顺丰环境管理政策》，确保日常运营主动践行环保措施、降低环境影响，并持续完善环境管理体系，全面保障经营合规。",
+      "original_text": "公司制定《顺丰环境管理政策》，确保日常运营主动践行环保措施、降低环境影响，切实践行可持续发展与绿色运营的承诺。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发绿色产品与服务，为客户提供定制化的绿色低碳供应链解决方案，涵盖碳排放管理、绿色包装等。",
+      "original_text": "开发绿色产品与服务，提升供应链韧性，推动业务模式创新",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司通过系统推进绿色运营升级、参与生态保护公益行动、优化运营环节生态影响管控等举措，持续降低业务对自然生态系统及野生物种栖息地的干扰。",
+      "original_text": "秉持与生态环境和谐共生的可持续发展理念，顺丰通过系统推进绿色运营升级、积极参与生态保护公益行动、优化运营环节生态影响管控等多元举措，持续降低业务开展对自然生态系统及野生物种栖息地的干扰",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动循环经济规模化落地，如使用循环箱减少碳排放，研发新型生物基可降解包装材料，并建立包装碳排放核算端口。",
+      "original_text": "使用顺丰冷运丰E循环箱超1.5万次，每天可减少约11.7吨碳排放",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司致力于提供多元、包容与平等的工作环境，遵守国际劳工公约，禁止童工和强迫劳动，保障员工休息时间和加班报酬，建立多元化沟通与举报机制。",
+      "original_text": "顺丰始终将员工权益保护置于首位，致力于为员工提供多元、包容与平等的工作环境...禁止使用童工及强迫劳动...保障员工休息时间，并根据加班时长，足额、及时支付加班报酬",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司贯彻'安全第一，预防为主'方针，建立职业健康安全管理体系，通过ISO 45001认证，覆盖全体员工和承包商，开展安全培训，2025年安全培训覆盖率100%。",
+      "original_text": "公司秉持'安全第一、预防为主'的方针，将职业健康与安全管理贯穿于物流全链条...通过ISO 45001职业健康安全管理体系认证...2025年安全培训覆盖率（包括员工以及承包商）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将ESG要求纳入供应商合同条款，定期审查供应商履约表现，开展培训沟通项目，促进供应链可持续发展。",
+      "original_text": "公司将商业道德、安全与职业健康、劳动与人权、环境保护等ESG要求纳入供应商合同条款，并定期审查供应商履约表现...促进供应链合作伙伴可持续发展",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格遵循《禁止寄递物品管理规定》，制定并动态更新托寄标准，定期开展寄递安全专项整治，排查拦截违法违禁品21,300件。",
+      "original_text": "公司严格遵循《禁止寄递物品管理规定》，制定并动态更新《常见收寄物托寄标准》...排查拦截违法违禁品21,300件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立三级信息安全与隐私保护架构，通过ISO 27001和ISO 27701认证，制定多项制度，开展全员培训，2025年未发生重大数据安全事件。",
+      "original_text": "公司建立了由决策层、管理层、执行层构成的三级信息安全与隐私保护架构...通过ISO 27001及ISO 27701认证...2025年，公司未发生重大数据安全事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司重视与利益相关方沟通，建立多元化沟通渠道，包括监管机构、客户、员工等九类利益相关方，开展社区发展、乡村振兴等公益项目。",
+      "original_text": "顺丰高度重视与利益相关方的沟通...建立了多元化且高效的沟通渠道，确保包括监管机构、客户、员工、投资者及价值链伙伴等在内的九类利益相关方能够持续获得及时、准确的信息",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉持多元化招聘理念，积极吸纳女性员工和少数民族员工，女性从业人员占比15.9%，少数民族员工占比6.3%，高级管理人员中女性占比29%，对歧视零容忍。",
+      "original_text": "公司秉持多元化招聘理念，积极吸纳优秀女性员工...女性从业人员占比15.9%，少数民族员工占比6.3%...高级管理人员中女性占比达29%...对歧视与骚扰行为持零容忍态度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "顺丰将ESG理念融入公司发展战略，搭建科学规范的ESG管理机制与清晰透明的ESG治理架构。董事会战略委员会作为可持续发展管理的决策机构，下设可持续发展领导小组和可持续发展专项工作组。",
+      "original_text": "顺丰将ESG理念融入公司发展战略，搭建科学规范的ESG管理机制与清晰透明的ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "顺丰对任何形式的腐败、贿赂及欺诈行为零容忍，设立独立内部审计部门，成立反腐败合规管理委员会及评审委员会，构建廉洁从业监管防线，制定《顺丰集团反腐败合规管理制度》等政策。",
+      "original_text": "顺丰将反腐败管理融入日常运营中，对任何形式的腐败、贿赂及欺诈行为零容忍",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持合规经营，恪守商业道德，对违反商业道德的行为零容忍。合规管理体系已通过ISO 37301国际标准认证。董事会负责监督商业道德与合规管理重要事宜。",
+      "original_text": "顺丰始终坚持合规经营，恪守商业道德，对任何违反商业道德的行为采取零容忍态度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建覆盖经营全流程的全面风险管理体系，设立董事会风险管理委员会作为最高风险管理机构，下设风险委员会，风控合规处负责统筹。定期开展风险识别评估，制定应对措施。",
+      "original_text": "顺丰高度重视风险管理，通过构建覆盖经营全流程、适配业务多元化需求的全面风险管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司充分尊重和维护全体股东的合法权益，通过股东会行使股东权利，未发生越权干预经营决策的行为。2025年共召开3次股东会。",
+      "original_text": "公司严格按照相关法律法规的规定，召集和召开股东会...充分尊重和维护全体股东的合法权益...2025年，顺丰共召开3次股东会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过监管部门、客户、员工、股东、供应商、社区、行业协会、媒体等多种渠道与利益相关方沟通，识别ESG风险和机遇。",
+      "original_text": "利益相关方沟通：监管部门、客户、员工、股东和投资人、董事、监事及高管、供应商、社区、行业协会、媒体/公众",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司诚实履行信息披露义务，严格按照监管要求披露信息，确保真实、准确、完整。连续9年获得深交所信息披露评级A。",
+      "original_text": "顺丰始终诚实履行信息披露义务，严格按照中国证券监督管理委员会、香港证券及期货事务监察委员会要求披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司提及依法纳税，但未详细披露税务管理政策或透明度措施。",
+      "original_text": "依法纳税",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "002352_顺丰控股_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

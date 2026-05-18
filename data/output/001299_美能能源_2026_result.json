@@ -1,0 +1,441 @@
+{
+  "company_name": "美能能源",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 958.75,
+      "unit": "万元",
+      "original_text": "年内依法计提安全生产专项经费958.75万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "公司全年共召开董事会会议5次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司通过销售天然气替代高污染散煤，助力全社会减少二氧化碳排放约35.18万吨；系统性探索自身碳中和路径，减少甲烷泄露与排放；制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司通过销售天然气，助力全社会减少二氧化碳排放约35.18万吨；系统性探索自身的碳中和路径，减少甲烷泄露与排放；制定了碳中和路线图，目标是2030年碳达峰、2060年碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "partial",
+      "summary": "公司建立HSE领导小组，持续规范安全、环境、健康管理；核心供应商已通过ISO14001环境管理体系认证；公司自身未明确提及是否通过ISO14001认证。",
+      "original_text": "核心供应商已通过ISO14001环境管理体系认证；公司持续规范安全、环境、健康管理。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司立足传统燃气优势，积极探索清洁能源综合利用新路径，布局分布式供热、综合能源站等智慧综合能源项目；推动企业从单一燃气供应商向清洁能源综合服务商转型。",
+      "original_text": "公司立足传统燃气优势，积极探索和拓展清洁能源综合利用新路径，加快布局分布式供热、综合能源站等智慧综合能源项目；推动企业从单一的燃气供应商向清洁能源综合利用解决方案的提供商稳步转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司采用海绵城市设计，通过透水铺装、下沉式绿地等措施收集利用雨水；减少一次性包装物消耗；推动物流车辆向LNG重卡转型，降低运输环节碳排放。",
+      "original_text": "采用海绵城市设计，通过透水铺装、下沉式绿地等有效收集和利用雨水；减少一次性包装物消耗；积极推动物流车辆向LNG重卡转型。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司致力于构建开放透明的职场环境，通过定期举办员工座谈会、设立员工互助基金、提供41项特色福利项目等保障员工权益。",
+      "original_text": "公司致力于构建开放透明的职场环境，通过定期举办员工座谈会、确保员工意见得到及时倾听与反馈。设立了涵盖通讯、午餐、交通、驻外津贴、住房补贴、员工子女高考慰问、员工高龄父母慰问等在内的41项特色福利项目，并持续运营员工互助基金。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司严格贯彻职业健康安全管理体系，足额配置防静电服、安全帽等专业防护装备，组织全员健康体检及心理健康培训讲座，筑牢职业健康防线。",
+      "original_text": "公司严格贯彻职业健康安全管理体系，足额配置防静电服、安全帽等专业防护装备，从硬件层面筑牢安全防护屏障。同时系统化推进健康关怀，组织全员健康体检及心理健康培训讲座。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将ESG理念深度融入供应商管理全流程，构建绿色供应链生态，优先选择具备环保优势的合作伙伴，并推动低碳理念在供应链中的应用。",
+      "original_text": "公司将ESG理念深度融入供应商管理全流程，致力于构建环境友好、责任共担的绿色供应链生态，携手上下游伙伴共同推动可持续发展。公司将低碳理念融入供应链管理，优先选择具备环保优势的合作伙伴。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建全方位安全管理体系，全年组织安全检查133次，发现并整改安全隐患1364条，开展应急演练21次，实现用户安检覆盖率100%。",
+      "original_text": "公司构建了覆盖全员、全过程、全方位的安全管理体系。全年组织各类安全检查133次，发现并整改安全隐患1364条，组织开展各类应急演练21次。系统化推进'精准安检、科技赋能、宣传入户'三位一体的终端安全管理体系，全年实现各类用户安检覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司以'融社区'为理念，通过社区共建、安全宣传、志愿服务等举措融入社区发展，助力乡村振兴，回馈社会。",
+      "original_text": "我们始终坚信，企业是扎根社区的责任公民，发展成果理当反哺社会。通过与社区共建、助力乡村振兴、开展志愿服务等多样举措，我们将发展的成果回馈社会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司特别关注女职工权益，举办三八妇女节系列活动，但未明确提及多元化与包容的整体政策。",
+      "original_text": "公司特别关注女职工权益，举办三八国际劳动妇女节系列活动、专项旅游等活动，发放节日福利。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了'两会一层+专门委员会'的高效治理架构，董事会下设战略与ESG委员会积极推动可持续发展战略。",
+      "original_text": "公司构建了'两会一层+专门委员会'的高效治理架构，确保了决策的科学性和高效性。董事会下设的战略与ESG委员会积极推动可持续发展战略",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "partial",
+      "summary": "公司通过构建集成化的内控管理平台，将组织架构、审批流程与权责体系固化于系统之中，从源头杜绝职权滥用。",
+      "original_text": "公司通过构建集成化的内控管理平台，将组织架构、审批流程与权责体系固化于系统之中，从源头杜绝职权滥用",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵循《公司法》《证券法》等监管要求，强化合规管理与风险防控，树立了合规经营的良好形象。",
+      "original_text": "优化公司治理架构，强化合规管理与风险防控，以规范透明的信息披露和持续稳健的股东回报，筑牢与投资者之间的长期信任纽带",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司遵循《企业内部控制基本规范》，构建了覆盖战略规划、资金管理、投融资等重点领域的风险控制矩阵，建立'业务自查—职能督查—审计专查'三级防御机制。",
+      "original_text": "公司在风险防范领域坚持体系化建设与常态化治理相结合，持续强化企业治理与运营风险的全面管控。遵循《企业内部控制基本规范》...构建了覆盖战略规划、资金管理、投融资等重点领域的风险控制矩阵...建立并严格执行'业务自查—职能督查—审计专查'三级防御机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司始终将投资者关系管理置于战略高度，通过股东会、业绩说明会、投资者走进上市公司活动、投资者热线及深交所互动易平台等渠道构建双向沟通桥梁。",
+      "original_text": "公司始终将投资者关系管理置于战略高度，致力于构建开放、透明、平等的双向沟通桥梁。2025年，公司借助股东会、年度业绩说明会、投资者走进上市公司活动、投资者热线及深交所互动易平台等渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司认真听取各利益相关方的期望与诉求，打造多元沟通渠道，建立实时、有效、长期的沟通机制，并以实际行动回应。",
+      "original_text": "公司相信，与利益相关方携手共进是推动高质量发展的长期动力。为全面了解利益相关方的需求，美能能源认真听取各利益相关方的期望与诉求，打造多元沟通渠道，建立实时的、有效的、长期的沟通机制，并以实际行动对利益相关方进行回应",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司秉持'真实、准确、完整、及时、公平'的原则，信息披露工作持续获得深交所B级评价，累计发布各类公告100余份。",
+      "original_text": "秉持'真实、准确、完整、及时、公平'的原则，持续精进信息披露工作，2025年信息披露工作持续获得深交所B级评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司提及无任何超出合同约定的欠款，但未明确提及税务透明度政策或措施。",
+      "original_text": "无任何超出合同约定的欠款",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.712
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

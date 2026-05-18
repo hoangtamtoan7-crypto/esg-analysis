@@ -1,0 +1,441 @@
+{
+  "company_name": "传化智联",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 16518,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1温室气体排放 16,518",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 309121,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2温室气体排放 309,121",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 5406333,
+      "unit": "千瓦时",
+      "original_text": "用电量为5,406,333千瓦时",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4731,
+      "unit": "人",
+      "original_text": "员工总人数 ｜ 4,731 单位：人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 429.5,
+      "unit": "万元",
+      "original_text": "年度员工培训总投入为 429.50 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 119.4,
+      "unit": "小时/人",
+      "original_text": "人均培训时长为 119.40 小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 48272.31,
+      "unit": "万元",
+      "original_text": "研发投入总金额 万元 45,511.84 48,272.31 45,485.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 14575.47,
+      "unit": "万元",
+      "original_text": "公司化学业务安全生产总投入为 ,575.47 万元",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "董事会总人数 人 9 7 8",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33.33 42.86 37.50",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事人数 人 1 1 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "共召开12次董事会会议，审议通过44项议案。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 4,
+      "unit": "次",
+      "original_text": "审计委员会独立董事占比约 66.67%，共召开4次会议，审议通过16项议案。",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定“双碳”战略与气候行动计划，系统推进碳排放管理与绿色转型。设定了2030年温室气体排放强度较基准年下降≥15%，2035年下降≥25%的目标，并计划2030年实现100%使用绿色电力。",
+      "original_text": "公司制定“双碳”战略与气候行动计划，系统推进碳排放管理与绿色转型。2030年温室气体（范围1和范围2）排放强度较基准年下降≥15%；推动能源结构转型，2030年实现100%使用绿色电力。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了完善的环境管理体系，包括《环境保护管理制度》《环境因素识别与评价控制程序》等内部制度，并设立环境管理委员会。通过了ISO 14001认证（隐含于绿色认证描述中），但未明确提及。",
+      "original_text": "公司制定并实施《环境保护管理制度》《废弃物管理规定》等内部管理制度，对废水、废气、废弃物及噪声等进行管理。设立环境管理委员会（兼清洁生产领导小组和节水领导小组）。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发绿色产品，如羽绒防水整理剂、低碳染整方案，推动生物基材料等绿色产品。化学业务有1,200余款产品通过ZDHC MRSL V3认证，6个产品通过碳足迹认证、生物基认证等。",
+      "original_text": "传化化学为H&M提供一体化低碳染整方案，实现显著节水、节能；1,200余款印染助剂产品通过ZDHC MRSL V3认证；6个通过碳足迹认证、生物基认证等绿色认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司重视生态系统和生物多样性保护，严格遵守相关法律法规，通过推进绿色园区建设、加强污染物排放管理、优化资源利用效率等措施，持续改善园区生态环境。",
+      "original_text": "公司重视生态系统和生物多样性保护，在生产经营活动中持续降低对生态环境的影响。通过推进绿色园区建设、加强污染物排放管理、优化资源利用效率以及提升园区绿化水平等措施，持续改善园区生态环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进循环经济，如RTO系统余热回收利用，2025年回收蒸汽857吨；通过结构优化调整、能源梯级利用、导入电叉车等实现资源节约。",
+      "original_text": "推进RTO系统余热回收利用，2025年通过蒸汽锅炉余热回收蒸汽857吨，减少外购蒸汽采购，实现经济效益约21万元。通过结构优化调整、能源梯级利用、导入电叉车、AGV、连廊，实现内部运输低碳排放。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司尊重和维护员工权益，保障各项福利，落实在职员工关怀举措，实现个人价值与企业价值共同成长。制定《禁止强迫劳动管理办法》《禁止歧视管理办法》等制度，保障员工择业与自愿劳动权利。",
+      "original_text": "特别尊重和维护员工权益，保障各项福利，扎实落地在职员工关怀举措，实现个人价值与企业价值共同成长。制定《禁止强迫劳动管理办法》《禁止歧视管理办法》《反骚扰、反虐待、防止性骚扰管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定《职业健康安全管理制度》《安全生产信息管理制度》等，获得ISO 45001职业健康安全管理体系认证。开展安全培训、应急演练，建立职业健康档案电子化管理。",
+      "original_text": "制定《职业健康安全管理制度》《安全生产信息管理制度》《全员安全生产岗位制度》等，报告期内，公司获得的ISO 45001职业健康安全管理体系资格认证持",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司坚持与供应商构建长期稳定合作关系，开展供应商评估与风险管理，制定供应商可持续发展能力评估计划，从管理体系、产品质量、研发能力等方面评估。",
+      "original_text": "传化智联坚持与供应商构建长期稳定的合作关系，通过持续开展供应商评价与风险管理，不断优化供应链管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立系统化质量管理制度体系，覆盖研发、生产、检验、物流及客户服务等环节，通过ZDHC MRSL V3认证产品1200余款，开展质量管理培训。",
+      "original_text": "公司化学业务建立系统化的质量管理制度体系，对产品研发、生产、检验、物流及客户服务等关键环节实施管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司完善信息安全管理体系，通过ISO 27001认证，开展隐私合规整治，报告期内未发生重大信息安全事件。",
+      "original_text": "传化智联持续完善信息安全管理体系...通过 ISO 27001信息安全管理体系监督审核...报告期内未发生重大信息安全事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社区建设，将公益慈善与业务发展深度融合，入选2025年杭州市上市企业ESG战略慈善影响力排行榜先锋20，位列第六。",
+      "original_text": "公司长期将ESG理念融入发展战略，持续推进战略慈善体系建设，打造企业与社会协同发展的价值模式。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司致力于营造公平、包容、多元的工作环境，杜绝员工职业周期中的各种歧视。开展跨文化融合活动，凝聚全球员工。",
+      "original_text": "公司致力于营造公平、包容、多元的工作环境，杜绝员工职业周期中的各",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建覆盖'战略-管理-运营-实践'四维度的ESG治理体系，设立可持续发展委员会，将ESG融入供应链与业务运营。",
+      "original_text": "公司构建覆盖'战略-管理-运营-实践'四大维度的治理体系，将ESG融入供应链与业务运营，实现经济效益与社会价值协同发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续深化廉洁反腐建设，将廉洁教育纳入经营管理委员会固定议程，每月开展反腐倡廉专题教育，对中层及以上干部开展廉洁自律培训，持续推进党纪巡查工作。",
+      "original_text": "公司新材料事业部持续深化廉洁反腐建设，将廉洁教育纳入经营管理委员会固定议程，每月开展'正道阳光 廉洁同行'反腐倡廉专题教育。报告期内，对中层及以上干部开展《传化智联化学业务干部廉洁自律培训》，进一步强化各级管理人员廉洁从业意识。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司强化商业道德与合规管理，将公平竞争与商业道德要求纳入内部管理制度及业务流程，建立违规行为的报告、调查与问责机制。",
+      "original_text": "公司将公平竞争与商业道德要求纳入内部管理制度及业务流程，通过制度规范、合规培训及监督机制，确保合规经营。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建由董事会和审计委员会领导的风险管理体系，覆盖'事前预防、事中监控、事后审计'全过程，形成业务、职能及审计监察三道防线。",
+      "original_text": "公司构建由董事会和审计委员会领导的风险管理体系，覆盖'事前预防、事中监控、事后审计'全过程，形成业务、职能及审计监察三道防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过业绩发布会、接待投资者现场调研、回复投资者电话、邮件、网络留言等方式进行投资者关系管理。",
+      "original_text": "股东/投资者 | 信息披露 中小股东权益保护 投资者关系 | 股东会 业绩发布会 接待投资者现场调研 回复投资者电话、邮件、网络留言 各类信息披露平台",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司系统识别并分类受运营影响的利益相关方，建立常态化的双向沟通机制，通过多元化渠道精准梳理各方关切并及时回应。",
+      "original_text": "传化智联系统识别并分类受公司运营影响的利益相关方，建立常态化的双向沟通机制。公司秉持开放、审慎的沟通原则，通过多元化渠道精准梳理各方关切并及时回应。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司根据相关法律法规进行信息披露，通过各类信息披露平台向股东和投资者披露信息。",
+      "original_text": "公司根据《中华人民共和国公司法》《中华人民共和国证券法》《上市公司治理准则》《上市公司信息披露管理办法》进行信息披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "公司提及依法纳税，但未详细披露税务管理政策或透明度措施。",
+      "original_text": "政府及监管机构 | 依法纳税 合规经营 反腐败 促进经济发展 带动就业",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

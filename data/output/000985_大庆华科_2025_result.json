@@ -1,0 +1,446 @@
+{
+  "company_name": "大庆华科",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1.303,
+      "unit": "万吨标煤",
+      "original_text": "综合能源消耗量 万吨标煤 1.303",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 210000,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 21",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 8424,
+      "unit": "吨",
+      "original_text": "污水8,424吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "环保总投入（无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "排放NOX（无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "排放SO2（无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "排放颗粒物（无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2707,
+      "unit": "万元",
+      "original_text": "全年安全生产投入2707万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "截至2024年底，董事会共有11名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事占董事会成员的36.36%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 5,
+      "unit": "人",
+      "original_text": "监事会由5名监事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应绿色低碳发展新趋势，以实际行动践行碳达峰、碳中和行动。",
+      "original_text": "以实际行动践行碳达峰、碳中和行动",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司持续贯彻‘绿水青山就是金山银山’的理念，不断完善内部环境管理政策和体系，通过HSE管理体系，落实排污许可证制度，制定应急预案。",
+      "original_text": "不断完善内部环境管理政策和体系，以‘零伤害、零污染、零事故’为目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司通过碳四炔烃尾气回收项目实现‘变废为宝’的循环经济目的，但未明确提及绿色产品认证或服务。",
+      "original_text": "碳四炔烃尾气回收项目一次开车成功，既实现‘变废为宝’的循环经济目的",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过碳四炔烃尾气回收项目实现资源循环利用，同时优化工艺减少蒸汽消耗，降低能源损耗。",
+      "original_text": "碳四炔烃尾气回收项目既实现‘变废为宝’的循环经济目的；改进伴热、采暖系统，减少蒸汽消耗量46.8吨",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法，禁止雇佣童工，抵制强迫劳动，反对歧视，依法签订劳动合同，建立公平薪酬体系，保障员工休假权利，提供福利补助。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国社会保险法》《中华人民共和国未成年人保护法》等法律，坚决禁止雇佣童工，抵制强迫和强制性劳动，反对性别、年龄、国籍等各种歧视，依法与员工签订劳动合同。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立HSE管理体系，开展职业健康体检，配备劳动防护用品，组织安全培训和应急演练，设立安全记分档案，签署安全责任清单。",
+      "original_text": "公司高度重视员工的职业健康与安全，每年对职业病危害因素工作场所进行日常检测，并委托健康体检中心对接触苯、噪声职业病危害因素的员工实施在岗期间职业健康体检。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司从加强供应商管理、供应链风险管理、保障供应链安全稳定等方面着手，对供应商质量、安全、环保、商业道德等进行评估，定期进行供应链风险识别。",
+      "original_text": "保障供应链安全是确保企业运营连续性的关键。大庆华科从加强供应商管理及供应链风险管理、保障供应链安全稳定、对供应商质量、安全、环保、商业道德以...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过严格的质量控制和持续提升的服务品质，确保产品达到或超越客户期望，产品重大质量事故为0，通过质量管理体系认证。",
+      "original_text": "大庆华科深知卓越的品质是赢得客户信赖与市场认可的核心所在。我们始终将产品质量与服务视为企业的生命线，通过严格的质量控制和持续提升的服务品质，确保每一件产品都能达到甚至超越客户的期望。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司加强信息系统安全防护，确保信息披露渠道的稳定运行，保护客户隐私。",
+      "original_text": "加强信息系统安全防护，确保信息披露渠道的稳定运行。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益慈善事业，深度参与社区共建，通过扶贫济困、生态保护等公益行动，持续推动企业与社会的和谐共融。",
+      "original_text": "公司积极投身公益慈善事业，深度参与社区共建，通过扶贫济困、生态保护等公益行动，持续推动企业与社会的和谐共融。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司反对歧视，注重多元化，有女性管理者、少数民族员工、残疾人员工等数据披露，构建多元化董事会。",
+      "original_text": "反对性别、年龄、国籍等各种歧视。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了由董事会、监事会、经理层组成的ESG治理架构，董事会为最高决策机构，下设战略、薪酬与考核、审计、提名四个专业委员会。",
+      "original_text": "董事会 最高决策机构 对董事会负责，按规定统筹公司可持续发展及ESG事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司深化反贪污及商业贿赂治理，完善内控机制，建立廉洁风险数据库，梳理7个重点业务领域、17个业务流程、169个风险点，开展警示教育1,070人次。",
+      "original_text": "大庆华科深化反贪污及商业贿赂治理，通过制度完善、监督强化、教育引导以及信访举报等方面。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司秉持依法合规经营理念，严格遵守国家法律法规，修订《合规管理办法》《内控管理手册》等，每年对内部控制15个要素进行审计，每季度形成内控审计报告。",
+      "original_text": "大庆华科始终秉持依法合规经营理念，严格遵守国家法律法规",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司全面落实风险管理理念，提高对重点领域和区域风险的识别能力，持续完善制度化、标准化、常态化的全面风险管理系统，识别安全生产风险、产品价格波动风险等。",
+      "original_text": "公司全面落实风险管理理念，提高对重点领域和区域风险的识别能力，持续完善制度化、标准化、常态化的全面风险管理系统。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司持续深化投资者沟通机制建设，恪守信息披露原则，通过优化“线上+线下”立体化沟通平台，强化投资者关系管理效能。",
+      "original_text": "公司持续深化投资者沟通机制建设，严格遵循《公司法》《证券法》等规范性文件，恪守信息披露“真实、准确、完整、及时、公平”原则",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司重视利益相关方的期望和诉求，拓展和丰富沟通渠道和参与方式，将利益相关方的诉求纳入运营和决策过程，持续推动ESG管理水平提升。",
+      "original_text": "公司重视利益相关方的期望和诉求，拓展和丰富利益相关方沟通渠道和参与方式，持续提高运营透明度，将利益相关方的诉求纳入运营和决策过程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循信息披露规范性文件，恪守“真实、准确、完整、及时、公平”原则，通过官方网站、信息披露平台实现关键信息的精准发布。",
+      "original_text": "恪守信息披露“真实、准确、完整、及时、公平”原则，全面保障投资者对公司重大事项的知情权与参与权",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": false,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 19,
+    "qualitative_issues": [
+      {
+        "indicator_id": "E_L04",
+        "indicator_name": "生物多样性保护",
+        "issue": "缺少summary字段"
+      }
+    ],
+    "overall_quality_score": 0.747
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

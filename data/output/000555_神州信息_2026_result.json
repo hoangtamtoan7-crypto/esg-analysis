@@ -1,0 +1,403 @@
+{
+  "company_name": "神州信息",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 20726,
+      "unit": "人",
+      "original_text": "拥有20726名在职员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "全年员工学习累计21万+学时",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 55296,
+      "unit": "万元",
+      "original_text": "年度研发费用超过55296万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "新增公益捐赠3笔",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "神州信息董事会由 9 名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 55.56,
+      "unit": "%",
+      "original_text": "其中独立董事 5 名，占比超半数",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 10,
+      "unit": "次",
+      "original_text": "董事会会议10次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司不再设立监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "专门委员会及独立董事专门会议14次（未单独列示审计委员会）",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳政策，打造智慧能碳管理平台和甲烷排放监测系统，助力客户及自身绿色低碳转型。",
+      "original_text": "神州信息始终践行绿色办公理念，积极响应国家“双碳”政策，以技术创新与细节管控双轮驱动，推动减排与可持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "partial",
+      "summary": "公司通过技术创新推动运营环节绿色低碳转型，但未明确提及环境管理体系认证。",
+      "original_text": "以技术创新推动运营环节的绿色低碳转型。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推出煤炭企业智慧能碳管理解决方案和甲烷排放监测系统，提供碳排放监测、碳汇管理、碳资产运营等服务。",
+      "original_text": "煤炭企业智慧能碳管理解决方案 甲烷排放监测和碳排放管理系统",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告未提及生物多样性保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司倡导资源循环利用，通过废旧硬件集中规范处置提升电子废弃物资源二次利用，推行光盘行动等。",
+      "original_text": "二次利用，提升循环利用；员工按需取餐、杜绝食物浪费；废旧硬件集中规范处置，提升电子废弃物资源二次利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "禁止性别、年龄、民族等差别对待，保障员工享有公平权利；提供多元化职业发展路径，晋升透明。",
+      "original_text": "禁止性别、年龄、民族等差别对待，保障员工享有公平权利；晋升路径透明、评估标准统一",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "重视员工健康，开展健康体检，提供商业保险，组织文体活动，搭建健身平台。",
+      "original_text": "重视员工健康，扎实开展健康体检相关工作；完善商业保险；举办文体赛事",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "规范采购流程，建立沟通机制，打造可持续供应链生态。",
+      "original_text": "规范采购流程，建立沟通机制，打造可持续供应链生态",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "累计拥有质量、服务、安全类有效资质125个，夯实资质基础，强化安全管控。",
+      "original_text": "累计拥有质量、服务、安全类有效资质125个",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "制定《员工信息安全手册》，成立信息安全委员会，建立25项信息安全制度，开展保密培训。",
+      "original_text": "制定《员工信息安全手册》；成立信息安全委员会，建立25项信息安全制度",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "积极参与社会公益，助力乡村振兴，赞助慈善事业，新增公益捐赠3笔。",
+      "original_text": "助力乡村振兴；赞助慈善事业；新增公益捐赠3笔",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "禁止性别、年龄、民族等差别对待，但未明确提及多元化具体指标。",
+      "original_text": "禁止性别、年龄、民族等差别对待",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了规范的法人治理结构，包括股东会、董事会、监事会（职权由审计委员会承接）及专门委员会。",
+      "original_text": "神州信息按照《公司法》《证券法》等规定，建立了规范的法人治理结构，以及分层管理的制度管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定并发布了《神州信息内部审计制度》《廉洁从业管理办法》等制度，为反商业贿赂提供行为准则与执行依据。",
+      "original_text": "公司制定并发布了《神州信息内部审计制度》《廉洁从业管理办法》等一系列制度文件，为反商业贿赂提供清晰的行为准则与执行依据。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严格遵守法律法规，构建外部合规约束与内部制度规范双重管理体系，明确信息披露范围、标准及主体责任。",
+      "original_text": "公司严格遵守《中华人民共和国证券法》《上市公司信息披露管理办法》等法律法规及监管要求，构建外部合规约束+内部制度规范双重管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了税务管理制度、发票管理制度等内控制度，明确税务管理职责、核算规范、申报流程等，全方位保障税务合规与纳税安全。",
+      "original_text": "公司建立了《税务管理制度》《发票管理制度》等内控制度，明确了税务管理职责、核算规范、申报流程、发票管理、档案管理、风险排查及责任追究等全流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过定期报告、临时公告、ESG报告等多元形式，全面客观反映公司经营情况，指定董事会秘书牵头负责信息披露工作。",
+      "original_text": "公司通过定期报告、临时公告、ESG报告等多元形式，全面客观反映公司经营情况，指定董事会秘书牵头负责信息披露工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司持续完善多维度、高效率的沟通交流体系，确保投资者与公司之间的良性互动与互信共赢。",
+      "original_text": "公司持续完善多维度、高效率的沟通交流体系，确保投资者与公司之间的良性互动与互信共赢。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司多措并举完善信息披露举措，全方位提升披露质量与传递效率，确保信息披露各环节无缝衔接、规范高效推进。",
+      "original_text": "公司多措并举完善信息披露举措，全方位提升披露质量与传递效率，确保信息披露各环节无缝衔接、规范高效推进。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司始终将税务合规作为经营发展的重要准则，坚持依法纳税、合规经营，建立了税务管理制度等内控制度。",
+      "original_text": "神州信息始终将税务合规作为经营发展的重要准则，坚持依法纳税、合规经营，建立了《税务管理制度》等内控制度。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 19,
+    "quantitative_valid": 19,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.74
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 39,
+    "missing": 13,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 75.0
+  }
+}

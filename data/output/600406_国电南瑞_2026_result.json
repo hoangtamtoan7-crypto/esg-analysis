@@ -1,0 +1,442 @@
+{
+  "company_name": "国电南瑞",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 31211.55,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "全年温室气体排放量31211.55吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 28967.05,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一排放28967.05吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2244.5,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二排放2244.5吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 33793.83,
+      "unit": "吨标准煤",
+      "original_text": "综合能源消耗 吨标准煤 28324.26 31449.78 33793.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 3.55,
+      "unit": "%",
+      "original_text": "光伏发电用量比例 % 5.88 4.71 3.55",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1088400,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 93.97 105.68 108.84",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 56.26,
+      "unit": "万吨",
+      "original_text": "废水排放量 万吨 56.26 53.84 62.08",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 12781,
+      "unit": "人",
+      "original_text": "员工总人数12781人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 13.36,
+      "unit": "%",
+      "original_text": "女性：13.36%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 0.92,
+      "unit": "%",
+      "original_text": "高层管理职位的女性员工：0.92%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 8823,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 8823",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.5,
+      "unit": "%",
+      "original_text": "员工流失率 % 1.75 1.23 0.5",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 473900,
+      "unit": "万元",
+      "original_text": "研发投入 亿元 34.922 40.66 47.39",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 5218,
+      "unit": "万元",
+      "original_text": "安全生产投入5218万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 100,
+      "unit": "万元",
+      "original_text": "公益捐赠总额 万元 101 100 100",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 10,
+      "unit": "人",
+      "original_text": "非独立董事6名，独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "独立董事4名，董事会共10人，比例40%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及全年会议次数",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "已完成取消监事会及《公司章程》修订工作，撤销监事会和监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "审计与风险管理委员会 9次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了‘碳达峰、碳中和’行动方案，包括支撑电网向能源互联网升级、提高清洁能源优化配置能力、推动节能减排加快实施、降低企业碳排放水平等。",
+      "original_text": "国电南瑞‘碳达峰、碳中和’行动方案：支撑电网向能源互联网升级，提高清洁能源优化配置能力；支撑网源协调发展和调度交易机制优化，提高清洁能源并网消纳；推动能源电力技术创新，提高电网运行安全和效率；支撑终端能源消费再电气化，提高社会用能效能；推动节能减排加快实施，降低企业碳排放水平；深化国内外交流合作，弘扬绿色发展理念。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立健全环境管理体系，强化环境风险管理，开展生态环境保护隐患排查整改，确保'三废'排放符合环保标准。",
+      "original_text": "建立健全环境管理体系，强化环境风险管理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发布绿电制氢整体解决方案、4S储能系统整体解决方案、变速抽蓄交流励磁系统等绿色产品，并发布《绿电制氢技术白皮书》。",
+      "original_text": "国电南瑞发布4S储能系统整体解决方案及产品、绿电制氢整体解决方案及产品、变速抽蓄交流励磁系统，并发布《绿电制氢技术白皮书》。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司积极参与生态保护项目、环保公益活动，保护生物多样性，共建绿水青山。",
+      "original_text": "积极参与生态保护项目、环保公益活动，保护生物多样性，共建绿水青山",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司加强绿色包装材料的研制和开发，优先采用可生物降解、可回收包装材料，减少对不可再生资源的依赖。",
+      "original_text": "加强绿色包装材料的研制和开发，优先采用可生物降解、可回收包装材料，减少对不可再生资源的依赖",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工权益，通过职工代表大会、员工座谈会等渠道沟通，关爱员工身心健康，提供安全和健康的工作条件。",
+      "original_text": "保障员工权益 员工成长与发展 职业健康与安全 良好的工作环境",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司开展职业健康与安全培训，提供个人防护装备，定期组织体检，并举办安全文化活动。",
+      "original_text": "职业健康与安全培训 期 36 25 30；职业健康与安全培训人次 人次 1614 1035 1195",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司入选央视'供应链ESG先锋50（2025）'榜单，推动供应链ESG管理。",
+      "original_text": "入选央视'供应链ESG先锋50（2025）'榜单",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司积极开展产品和服务安全与质量培训，举办各类安全与质量培训75次，总培训时长266小时，参培人数6722人次。",
+      "original_text": "积极开展产品和服务安全与质量培训，举办各类安全与质量培训75次，总培训时长266小时，参培人数共计6722人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守信息安全与隐私保护管理，保护员工和客户隐私，通过加密、脱敏等手段安全存储数据。",
+      "original_text": "公司高度重视员工隐私保护，在招聘、入职及工作全流程中，严格遵循最小必要原则；面向电力相关企业，通过建设研发专网及配套体系保护核心数据",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社会公益事业，开展乡村振兴、公益慈善、社区共建等活动，并组织志愿服务。",
+      "original_text": "深化乡村振兴与社区共建工作；积极投身于社会公益事业；公益捐赠 志愿服务 社区沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司全面推进董事会多元化，包括性别、年龄、教育背景、工作经验等因素，并开展女性员工关怀活动。",
+      "original_text": "全面推进董事会多元化，包括性别、年龄、教育背景、工作经验等因素。持续通过举办'三八'节活动、瑜伽、形体礼仪课等文体活动践行女性员工关怀。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了‘董事会－环境、社会及治理（ESG）委员会－ESG工作组’三级治理架构，董事会下设ESG委员会，负责审议批准ESG战略规划、计划，监督ESG披露等。",
+      "original_text": "国电南瑞持续完善ESG治理架构，构建起‘董事会－环境、社会及治理（ESG）委员会－ESG工作组’的ESG工作体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司突出常态长效，抓实纪律学习培训，深化纪律警示教育，持之以恒纠治‘四风’，一严到底惩治腐败，持续深化风腐同查同治。加强纪检工作规范化、法治化正规化建设，健全反腐败合规机制和廉洁从业制度。",
+      "original_text": "突出常态长效，抓实纪律学习培训，深化纪律警示教育。持之以恒纠治‘四风’，一严到底惩治腐败，持续深化风腐同查同治。加强纪检工作规范化、法治化正规化建设，不断提高正风肃纪反腐能力。加大应知应会制度手册宣贯力度，并通过健全的反腐败合规机制和廉洁从业制度，规范员工商业行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚守规范治理底线，严格遵循监管要求，完善治理架构、健全合规管理体系、筑牢风险防控屏障。董事长带头签署《知识产权合规承诺书》，全年组织‘送法下基层’等合规培训110余场，强化重点领域风险防控。",
+      "original_text": "国电南瑞坚守规范治理底线，严格遵循监管要求，完善治理架构、健全合规管理体系、筑牢风险防控屏障。董事长带头签署《知识产权合规承诺书》，全年组织‘送法下基层’等合规培训110余场。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司在经营层设立全面风险管理委员会，负责落实董事会关于风险、内控各项工作要求。董事会下设审计与风险管理委员会，负责审核财务信息、监督内外部审计、推进风险管理和依法治企。",
+      "original_text": "在经营层设立全面风险管理委员会，负责落实董事会关于风险、内控各项工作要求。董事会下设审计与风险管理委员会，负责审核公司财务信息及其披露、监督及评估内外部审计工作和内部控制、推进风险管理和依法治企、监督ESG披露等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司坚持‘合规性、平等性、主动性、诚实守信’的投资者关系管理基本原则，畅通投资者沟通渠道，确保信息准确及时披露，充分保障股东权益。设立投资者关系管理中心，作为公司投关工作的统一出口。",
+      "original_text": "国电南瑞坚持‘合规性、平等性、主动性、诚实守信’的投资者关系管理基本原则，畅通投资者沟通渠道，确保信息准确及时披露，充分保障股东的各项权益得以有效行使。设立投资者关系管理中心，作为公司投关工作的统一出口。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过政企沟通、专题调研、合规信息披露、股东会、业绩说明会、定期报告、上证E互动平台、机构策略会等多种方式与政府、股东、员工、客户、合作伙伴等利益相关方进行沟通。",
+      "original_text": "沟通方式包括政企沟通与汇报、政府及监管机构专题调研、合规信息披露、股东会、业绩说明会、定期报告披露、临时公告披露、上证E互动平台交流、机构策略会、接待现场调研、接待股东拜访等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格履行信息披露义务，做到真实、准确、及时、完整，确保所有股东平等获取公司信息。2024-2025年度信息披露工作获上海证券交易所A级评价。",
+      "original_text": "严格履行信息披露义务，做到信息披露工作的真实、准确、及时、完整，确保公司所有股东平等获取公司信息。2024—2025年度信息披露工作A级。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司秉持合规经营理念，严格遵守税收法律法规，自主研发数字化税务管理系统，实现全流程闭环管理。",
+      "original_text": "秉持合规经营的理念，严格遵守投资目的地国家或地区的税收法律法规，自主研发数字化税务管理系统。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "600406_国电南瑞_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

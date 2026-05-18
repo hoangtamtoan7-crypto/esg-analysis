@@ -1,0 +1,441 @@
+{
+  "company_name": "许继电气",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 29500,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 2.95 万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1500,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放总量 0.15 万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 28000,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放总量 2.8 万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.016,
+      "unit": "吨二氧化碳当量/万元",
+      "original_text": "温室气体排放强度（万元产值温室气体排放强度） 0.016 吨二氧化碳当量/万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 399.92,
+      "unit": "万元",
+      "original_text": "环保总投入 399.92 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 7445.86,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 2025年 7,445.86",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 13.31,
+      "unit": "%",
+      "original_text": "可再生能源消耗量占比 % 2025年 13.31",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 385200,
+      "unit": "吨",
+      "original_text": "新鲜水用量 万吨 2025年 38.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 18521,
+      "unit": "吨",
+      "original_text": "工业废水总量 吨 17,500 17,709.14 18,521",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 5571.77,
+      "unit": "吨",
+      "original_text": "废弃物产生总量 吨 2025年 5,571.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 1.41,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 2025年 1.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.27,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量 吨 2025年 0.27",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.868,
+      "unit": "吨",
+      "original_text": "颗粒物排放量 吨 2025年 0.868",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5987,
+      "unit": "人",
+      "original_text": "员工总数 5,987",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 498.71,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 498.71",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 8.56,
+      "unit": "亿元",
+      "original_text": "研发投入金额 亿元 7.94 8.80 8.56",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 5.71,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 % 4.65 5.15 5.71",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2244.95,
+      "unit": "万元",
+      "original_text": "安全生产投入 2,244.95 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 276.64,
+      "unit": "万元",
+      "original_text": "276.64万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "公司现有董事8名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "独立董事比例 % — — 37.5",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 18,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 18",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'目标，聚焦应对气候变化，系统开展碳排放数据监测，制定低碳发展举措，包括能效提升、绿色工艺应用和清洁能源替代等。",
+      "original_text": "许继电气积极响应国家'双碳'目标、紧扣新型电力系统建设要求，聚焦应对气候变化、强化环境管理、节约能源资源、降低污染排放、深耕绿色生产、培育绿色文化",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司严格对标GB/T24001标准，建立健全环境管理体系，成立由董事长任组长的节约能源与生态环境保护工作领导小组，截至2025年底获得ISO 14001认证。",
+      "original_text": "严格对标GB/T24001标准，建立健全环境管理体系，成立由董事长任组长、管理层成员任副组长、各部门为成员的节约能源与生态环境保护工作领导小组",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推进绿色包装实践，优先选用可回收材料，提升产品绿色属性；展示换流阀、直流控保系统等绿色产品。",
+      "original_text": "电源公司积极推进绿色包装实践，开展绿色包装评价与认证工作，优先选用可回收...提升产品的绿色属性与市场竞争力...展示换流阀、直流控保系统等",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司关注产品及服务环节对所在地生态系统平衡和生物多样性可能产生的不利影响，助力实现人与自然和谐共生。",
+      "original_text": "及服务环节对所在地生态系统平衡和生物多样性可能产生的不利影响，助力实现人与自然和谐共生",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进废弃物减量化、资源化和循环利用，采用易循环的环保包装材料，提升包装废弃物回收与再利用水平，推进再生绝缘材料选型研究。",
+      "original_text": "持续提升包装废弃物的回收与再利用水平；可再生绝缘材料设计选型及应用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，构建全方位员工权益保障体系，包括劳动合同签订率100%，提供多元化福利，建立公平晋升机制，反对歧视和强制劳动。",
+      "original_text": "严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等相关法律法规，构建全方位、多层次员工权益保障体系...同种族、民族、性别、宗教信仰和文化背景的员工，坚决抵制使用童工和强制劳动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建全方位员工健康保障体系，通过职业健康安全管理体系认证，开展安全培训，为员工投保雇主责任险，提供健康体检等。",
+      "original_text": "公司始终将员工健康放在重要位置，构建全方位的员工健康保障体系...职业健康安全管理体系认证证书...统一投保雇主责任险",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商准入审核、培训交流、绩效评估机制，将绿色绩效纳入评价体系，推动供应链可持续发展。",
+      "original_text": "将绿色绩效纳入供应商绩效评价体系...重点评估供应商所提供产品及其生产过程的绿色化水平...开展供应商培训、能力建设与协同改进",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持质量为本，构建‘双循环’质量管控体系，全年未发生产品与服务相关的安全、质量重大责任事故。",
+      "original_text": "全年未发生产品与服务相关的安全、质量重大责任事故...基于‘双循环’的全生命周期质量安全管控模式",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全法律法规，制定并实施计算机相关管理制度，保护客户隐私。",
+      "original_text": "严格遵守《中华人民共和国数据安全法》等法律法规，制定并实施《计算机...》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身乡村振兴、公益慈善、社区共建等社会事业，开展应急保供、公益捐赠等活动。",
+      "original_text": "积极投身乡村振兴、公益慈善、社区共建等社会事业...慈善暖人心，珠海许继开展公益捐赠活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司尊重不同种族、民族、性别、宗教信仰和文化背景的员工，反对歧视，营造包容环境。",
+      "original_text": "同种族、民族、性别、宗教信仰和文化背景的员工，坚决抵制使用童工和强制劳动...营造尊重、关爱、支持女性发展的氛围",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建由董事会、战略委员会与ESG执行小组组成的三层治理机制，明确各层级职责边界。",
+      "original_text": "形成由董事会、战略委员会与ESG执行小组组成的三层治理机制，明确各层级职责边界。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司纵深推进反腐败治理，持续加强反垄断合规风险识别与防控，将合规要求嵌入业务流程。",
+      "original_text": "纵深推进反腐败治理，持续加强反垄断合规风险识别与防控，将合规要求嵌入业务流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信经营，建立健全合规管理体系，开展‘一把手讲合规’专题活动，推动合规管理常态化。",
+      "original_text": "许继电气坚持诚信经营，牢固树立依法合规经营理念，建立健全合规管理体系，通过持续完善合规制度与运行机制，深入推进合规文化建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建由董事会、总经理办公会、全面风险管理委员会等组成的全面风险管理体系，有效防范和化解重大风险。",
+      "original_text": "公司构建由董事会、总经理办公会、全面风险管理委员会等组成的统一规范、分级分层、权责清晰的全面风险管理体系，有效防范和化解重大风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司按照《投资者关系管理制度》，明确投资者关系管理基本原则、沟通内容与形式，通过多元化沟通矩阵及时响应投资者关切。",
+      "original_text": "公司高度重视投资者关系管理，按照《投资者关系管理制度》，明确投资者关系管理基本原则、与投资者沟通内容、投资者关系管理形式、投资者关系管理组织与实施。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过搭建多层次、常态化的沟通与反馈机制，及时识别并回应各利益相关方的诉求与期待。",
+      "original_text": "公司高度重视利益相关方沟通，并将利益相关方视作可持续发展的重要伙伴。通过搭建多层次、常态化的沟通与反馈机制，及时识别、深入分析并积极回应各利益相关方的诉求与期待。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵循信息披露相关法律法规，系统规范信息披露工作，自2011年起13次获得深交所信息披露考核A级评价。",
+      "original_text": "公司严格遵循《中华人民共和国公司法》《中华人民共和国证券法》《上市公司信息披露管理办法》《深圳证券交易所股票上市规则》等法律法规，并依据内部《信息披露事务管理制度》，系统规范信息披露工作。公司自2011年起13次获得深交所信息披露考核A级评价。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.904
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "安道麦A",
+  "report_year": "2025",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 303000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围1温室气体排放量 千吨二氧化碳当量 303",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 898000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围2温室气体排放量 千吨二氧化碳当量 898",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 9028764,
+      "unit": "吨",
+      "original_text": "耗水总量（立方米） 9,028,764",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 7139405,
+      "unit": "吨",
+      "original_text": "废水排放总量（立方米） 7,270,658 7,139,405",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 183934,
+      "unit": "吨",
+      "original_text": "危险废弃物总量（吨）145,203；无害废弃物总量（吨）38,731",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 67,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 162 67",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 25,
+      "unit": "吨",
+      "original_text": "硫氧化物排放量 44 25",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 7819,
+      "unit": "人",
+      "original_text": "各大区在职员工人数 8,872 7,819",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 25.6,
+      "unit": "%",
+      "original_text": "所有员工中的女性比例 25.1% 25.6%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "高级管理人员中的女性比例 24.4%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 19.3,
+      "unit": "%",
+      "original_text": "员工流失率 (2) 14.7% 19.3%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.42,
+      "unit": "‰",
+      "original_text": "可记录工伤率 0.42%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司致力于减少温室气体排放，设定了2030年目标：以2024年基线水平为基础将范围1和范围2的碳排放量减少20%。",
+      "original_text": "到2030年将范围1与范围2的总排放量较2024年的基线水平进一步减少20%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司依照ISO14001环境管理体系标准管理自身对气候与环境的影响，并基于七项内部标准开展环境自评价和交叉审计。",
+      "original_text": "安道麦依照国际公认的标准管理自身对气候与环境的影响。在遵守ISO14001环境管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发推广水基制剂技术，减少对传统有机溶剂的依赖；增加生物可降解材料的应用；提供差异化产品如抗雨水冲刷、耐雨性及渗透性制剂。",
+      "original_text": "安道麦研发推广水基制剂技术，通过水基解决方案转型，减少对传统有机溶剂的依赖；增加生物可降解材料的应用",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "公司致力于保护周围海洋和淡水环境的健康和清洁，减少废水排放，保护本地水体，维护生态系统。",
+      "original_text": "安道麦致力于保护周围海洋和淡水环境的健康和清洁，努力减少各生产基地的废水排放。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司进行废水重复利用，2024年废水重复利用总量336,500立方米；危险废弃物再利用及再循环比例目标达到75%。",
+      "original_text": "废水重复利用总量（立方米） 156,000 336,500；危险废弃物再利用及再循环比例达到75%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "安道麦致力于为每位员工营造公平的工作环境，不因性别、种族、宗教等歧视，提供平等机会，遵守劳动法律法规，保障员工人权，支持集体谈判。",
+      "original_text": "安道麦致力于为每位员工营造公平的工作环境。我们力争为所有员工及应聘候选人提供平等机会，在招聘、薪酬、培训、晋升、聘用解除或退休等环节中杜绝歧视。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "安道麦建立了健康、安全和环境保护（HSE）政策，涵盖职业安全、工艺安全等，实施安全项目，记录并分析安全事件，提供员工援助项目。",
+      "original_text": "安道麦的健康、安全和环境保护（HSE）政策贯彻了这一方针，使公司能够...安道麦对员工、承包商、合作伙伴所在的每座运营基地和工作场所的健康和安全负责。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "安道麦与供应商保持持续联系和对话，关注物料品质与安全，但未详细说明供应链ESG管理具体措施。",
+      "original_text": "供应商 安道麦与其供应商保持着持续的联系和对话，供应商 • 物料品质与安全",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "安道麦开发和生产高质量、有效和安全的产品，注重产品成效与安全，遵守产品健康与安全法规。",
+      "original_text": "产品——可持续性、质量、高效率、安全及创新性",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "安道麦通过ISO/IEC 27001认证，制定《全球信息安全政策》，要求员工完成数据隐私培训，保护员工个人数据。",
+      "original_text": "安道麦《全球信息安全政策》体现了公司对保护员工个人数据与采取措施防止违规的承诺。安道麦通过 ISO/IEC 27001 认证反映了其对信息安全管理全球标准的坚持。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "安道麦与运营基地所在社区积极互动，定期举办社区对话，参与社区倡议，支持员工志愿服务，设立人道主义捐赠政策。",
+      "original_text": "安道麦与运营基地所在的社区积极互动，共同开发尽量减少潜在社区干扰的项目。我们在生产基地定期举办社区对话，倾听并解决公众关切的问题。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "安道麦重视多元化员工队伍，消除偏见，提高女性员工比例，提供平等机会，不因性别、种族等歧视。",
+      "original_text": "安道麦怀抱雄心要成为农业领域最值得信赖与合作的伙伴，多元化的员工队伍是实现这一抱负的后盾...安道麦注重鼓励女性担当公司各项岗位职责，认为必须提高女性员工比例。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会负责审批可持续发展战略，执行委员会与董事会审议通过社会责任报告。",
+      "original_text": "董事会负责审批...执行委员会与董事会审议通过了报告信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "安道麦对贿赂与腐败零容忍，制定反腐败政策，要求所有相关人员遵守，并开展合规培训。",
+      "original_text": "安道麦对贿赂与腐败零容忍...公司反腐败政策与程序已触达的员工人数 全体员工",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司设有SpeakUp系统，合规总监兼任职业道德规范官，处理合规事件。",
+      "original_text": "自2024年4月起，合规总监兼任职业道德规范官...通过Speakup报告的合规案例",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会负全责建立风险管理政策框架并监督实施效果，采用全面风险管理方法，定期开展风险评估调查和欺诈风险评估。",
+      "original_text": "董事会对建立风险管理政策框架并监督其实施效果负全部责任...全面风险管理办法的基础是定期风险评估调查",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "安道麦与投资者、股东和债券持有人保持定期沟通，包括定期报告。",
+      "original_text": "股东和投资者 安道麦与投资者、股东和债券持有人保持定期沟通 • 定期报告",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过定期报告、SpeakUp系统等与利益相关方沟通，并讨论如何参与管理与社区利益相关的风险。",
+      "original_text": "股东和投资者 安道麦与投资者、股东和债券持有人保持定期沟通 • 定期报告...讨论如何参与管理与社区利益相关的风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "报告经公司董事会审议批准后披露，执行委员会与董事会审议通过了报告信息。",
+      "original_text": "报告经公司董事会审议批准后披露...执行委员会与董事会审议通过了报告信息",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

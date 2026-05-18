@@ -1,0 +1,441 @@
+{
+  "company_name": "沃顿科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 18705.46,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 18,705.46",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 18338.61,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一排放量 吨二氧化碳当量 18,338.61",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 366.85,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二排放量 吨二氧化碳当量 366.85",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 15060,
+      "unit": "兆瓦时",
+      "original_text": "能源消耗总量 吨标准煤 15,060",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 151354,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 151,354",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 391465,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 391,465",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 494.83,
+      "unit": "吨",
+      "original_text": "有害废弃物总量 吨 341.03 无害废弃物总量 吨 153.80",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 5.81,
+      "unit": "吨",
+      "original_text": "氮氧化物排放量 吨 5.81",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 1.35,
+      "unit": "吨",
+      "original_text": "悬浮粒子与颗粒物(PM)排放量 吨 1.35",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1508,
+      "unit": "人",
+      "original_text": "报告期末在职员工的数量合计 人 1,508",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 34,
+      "unit": "%",
+      "original_text": "女性 % 34",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 2.28,
+      "unit": "万元",
+      "original_text": "员工培训投入金额 万元 2.28",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 110,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时长 小时 110",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.98,
+      "unit": "%",
+      "original_text": "员工流失率 % 2.98",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 13670,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 13,670",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 6.76,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 6.76",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 445,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 445",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会现有7名成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事占比 % 42.86",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "董事会 次 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "正式取消监事会建制",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司将气候变化应对纳入核心发展战略，成立零碳工厂创建工作领导小组，制定碳中和路线图，目标实现二氧化碳净零排放。",
+      "original_text": "公司将气候变化应对纳入核心发展战略，搭建层级分明、高效协同的治理架构。公司成立零碳工厂创建工作领导小组...致力于实现二氧化碳净零排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001:2015环境管理体系认证和ISO50001能源管理体系认证，建立系统化环境与碳管理体系。",
+      "original_text": "先后通过ISO14001:2015环境管理体系、ISO50001能源管理体系等多项国际权威认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司开发绿色产品，膜法零排放技术应用于钢铁、煤化工等行业，纳滤膜技术用于市政给水深度处理，膜分离技术用于盐湖提锂。",
+      "original_text": "膜法零排放技术已成功应用于钢铁、煤化工、煤矿及印染等行业...纳滤膜技术开展深度处理...膜分离技术应用于盐湖提锂项目",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "报告提及生态系统和生物多样性保护作为议题，但未提供具体措施或承诺。",
+      "original_text": "生态系统和生物多样性保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施清洁生产与循环经济，废水回用与结晶盐资源化利用，工业废水纳入中水回用系统用于绿化灌溉，实现废水不外排。",
+      "original_text": "积极实施清洁生产与循环经济...实现了废水回用与结晶盐资源化利用...将处理后的工业废水纳入中水回用系统，用于厂区绿化灌溉等，实现废水不外排",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司建立健全员工权益保障机制，制定《工会劳动保护监督检查工作管理办法》，设立劳动保护监督检查委员会，切实维护员工生命权与健康权；设立绩效管理委员会，作为绩效评价仲裁机构。",
+      "original_text": "公司建立健全员工权益保障机制，制定《工会劳动保护监督检查工作管理办法》，设立劳动保护监督检查委员会，切实维护员工生命权与健康权；设立绩效管理委员会，作为绩效评价仲裁机构。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过职业健康安全管理体系认证，建立系统化、常态化的职业健康管理体系，从风险监测、现场管控、健康体检、防护保障、应急预案等方面全面管理。",
+      "original_text": "公司已通过职业健康安全管理体系认证。建立系统化、常态化的职业健康管理体系，从风险监测、现场管控、健康体检、防护保障、应急预案等方面全面管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立完善供应链管理架构，明确各层级岗位职责，每年对供应商开展全面年度审核，覆盖质量体系、企业信用、财务状况、社会责任等维度，推动供应商协同履行社会责任。",
+      "original_text": "公司建立完善供应链管理架构，明确各层级岗位职责，每年对供应商开展全面年度审核，覆盖质量体系、企业信用、财务状况、社会责任等维度，推动供应商协同履行社会责任。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格依据GB/T19001:2016、ISO9001:2015《质量管理体系要求》等国际标准，制定并实施一系列覆盖产品全生命周期的质量管理制度和流程，全面规范产品质量控制流程。",
+      "original_text": "公司严格依据GB/T19001:2016、ISO9001:2015《质量管理体系要求》等国际标准，制定并实施《质量考核管理制度》《不合格品管理制度》《实物质量异常处置单》等一系列覆盖产品全生命周期的质量管理制度和流程，全面规范产品质量控制流程。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严守信息安全底线，切实保障客户隐私与数据安全，严格依据《国家数据安全法》，通过邮箱安全升级、24小时网络安全常态化值守、对客户和供应商相关数据实行私有化存储并建立备份等措施。",
+      "original_text": "严守信息安全底线，切实保障客户隐私与数据安全。严格依据《国家数据安全法》，通过邮箱安全升级、24小时网络安全常态化值守；对客户、供应商相关数据实行私有化存储并建立备份。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身乡村振兴帮扶，扎实推进乡村振兴帮扶，系统保障员工权益、筑牢安全防线，并参与公益事业。",
+      "original_text": "积极投身乡村振兴帮扶，系统保障员工权益、筑牢安全防线，并扎实推进乡村振兴帮扶。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚守以人为本的用工理念，严格遵循国家劳动相关法律法规，构建制度完善、流程规范、机会均等的人力资源管理体系，从招聘就业、薪酬福利、权益维护、培训发展到职业规划全维度保障员工合法权益，反对歧视和强制劳动。",
+      "original_text": "坚守以人为本的用工理念，严格遵循国家劳动相关法律法规，构建制度完善、流程规范、机会均等的人力资源管理体系，从招聘就业、薪酬福利、权益维护、培训发展到职业规划全维度保障员工合法权益，反对歧视，反对并杜绝强制劳动、雇佣童工行为。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司持续完善ESG治理架构，制定并执行《董事会战略与ESG委员会工作细则》，将ESG管理纳入公司战略管理。董事会下设战略与ESG委员会，负责决策ESG相关重大事项。",
+      "original_text": "公司持续完善ESG治理架构，按照工作实际，制定并执行《董事会战略与ESG委员会工作细则》等内部管 公司将ESG管理纳入公司战略管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定专项《反腐败合规管理办法》，从管理体系建设、反腐败合规重点领域、风险管理、监督问责等方面做了体系化规定。开展商业贿赂合规风险识别、评估，并纳入重点业务合规风险清单。",
+      "original_text": "公司以合规管理制度体系为框架，结合公司实际，制定专项《反腐败合规管理办法》，从管理体系建设、反腐败合规重点领域、反腐败合规风险管理、监督问责等方面做了体系化规定。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司始终恪守商业道德、坚守合规底线，坚决杜绝各类商业腐败与不正当竞争行为。建立由“三道防线”体系支撑的全面合规、内控与风险管理系统。",
+      "original_text": "始终恪守商业道德、坚守合规底线，坚决杜绝各类商业腐败与不正当竞争行为。沃顿科技已建立由“三道防线”体系支撑的全面合规、内控与风险管理系统",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立由“三道防线”体系支撑的全面合规、内控与风险管理系统，覆盖制度、组织、流程和监督。董事会作为最高治理机构，对公司治理、风险管理、审计监督负有最高责任。",
+      "original_text": "沃顿科技已建立由“三道防线”体系支撑的全面合规、内控与风险管理系统，覆盖制度、组织、流程和监督",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过多元化沟通、高质量信息披露、股东权益保护、股东分红等多举措协同投资者关系管理与信息披露工作，设置董事会秘书统筹相关工作。报告期内首次获评深交所信息披露工作A级。",
+      "original_text": "沃顿科技以制度建设为根基，通过多元化沟通、高质量信息披露、股东权益保护、股东分红等多举措协同投资者关系管理与信息披露工作，并设置董事会秘书统筹相关工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别出股东和投资者、客户、员工、供应商、政府及监管机构、合作伙伴、本地社区居民、公众与媒体8个利益相关方，通过多种途径保持密切沟通，充分收集和整理利益相关方的关注与诉求。",
+      "original_text": "出股东和投资者、客户、员工、供应商、政府及监管机构、合作伙伴、本地社区居民、公众与媒体8个利益相关方。公司尊重利益相关方诉求，积极搭建利益相关方沟通平台",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司秉持透明、一致、负责、诚信的信息披露原则，通过官网等官方渠道定期更新财务报告、公司公告。借助年度报告、ESG报告主动披露ESG管理流程与进展。报告期内首次获评深交所信息披露工作A级。",
+      "original_text": "公司秉持透明、一致、负责、诚信的信息披露原则，通过官网等官方渠道，定期更新财务报告、公司公告。同时，借助年度报告、ESG报告，主动向利益相关方披露ESG管理流程与进展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度管理措施。",
+      "original_text": "•依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

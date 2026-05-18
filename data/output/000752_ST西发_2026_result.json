@@ -1,0 +1,403 @@
+{
+  "company_name": "*ST西发",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 0,
+      "unit": "万元",
+      "original_text": "研发费用 0.00 0.00 0.00 0.00 0.00 0.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "no",
+      "summary": "报告未提及气候变化应对策略。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "no",
+      "summary": "报告未提及环境管理体系。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司产品以西藏泉水酿造，强调绿色无污染，但未明确绿色产品认证或具体措施。",
+      "original_text": "以西藏地区独特的自然资源为生产制造高品质、绿色无污染的西藏泉水酿造啤酒",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告未提及生物多样性保护。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "no",
+      "summary": "报告未提及循环经济实践。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "partial",
+      "summary": "公司承诺保证上市公司的人员独立，确保劳动、人事及工资管理与本公司完全独立。",
+      "original_text": "本公司/本人将确保上市公司的劳动、人事及工资管理与本公司/本人及本公司/本人控制的其他主体之间完全独立。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "partial",
+      "summary": "提及产品质量要求、制动系统安全装置完好等，但未明确产品安全与质量政策。",
+      "original_text": "制动系统 工作正常、可靠，无渗漏现象，安全装置完好。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已设立股东会、董事会、审计委员会等组织机构并制定相应的议事规则，从制度上保证规范运作和依法决策。",
+      "original_text": "本次交易前，上市公司已设立股东会、董事会、审计委员会等组织机构并制定相应的议事规则，从制度上保证股东会、董事会和审计委员会的规范运作和依法决策。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "partial",
+      "summary": "公司控股股东、实际控制人、董事、监事及高级管理人员承诺不存在泄露内幕信息及内幕交易情形，且最近五年内不存在因违反证券法律受到行政处罚或刑事处罚的情形。",
+      "original_text": "本公司、本公司控股股东、实际控制人、董事、监事及高级管理人员及上述主体控制的机构均不存在泄露本次交易的相关内幕信息及利用该内幕信息进行内幕交易的情形。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司及控股股东承诺合法合规经营，不存在因违反工商、税收、土地、环保、海关等法律受到行政处罚且情节严重的情形，且不存在严重损害投资者合法权益和社会公共利益的情形。",
+      "original_text": "最近五年内合法合规经营，最近五年内不存在因违反工商、税收、土地、环保、海关等法律、行政法规或规章，受到行政处罚且情节严重或受到刑事处罚的情形。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "partial",
+      "summary": "公司提及内部控制要求，但未详细描述风险管理体系。控股股东承诺避免关联交易占用资金，但存在历史违规记录。",
+      "original_text": "上市公司股东未严格按照内控要求，履行关联关系等相应股东告知义务，导致其内部控制存在缺陷。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过投资者关系互动平台等方式充分听取中小股东意见和诉求，维护公司全体股东利益。",
+      "original_text": "通过投资者关系互动平台等方式，充分听取中小股东的意见和诉求，并维护公司全体股东利益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "公司提及与股东沟通，但未明确与其他利益相关方（如员工、社区等）的沟通机制。",
+      "original_text": "通过投资者关系互动平台等方式，充分听取中小股东的意见和诉求。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司及董事、高级管理人员承诺提供真实、准确、完整的信息，并依法履行信息披露义务。",
+      "original_text": "本人为本次交易所提供的信息真实、准确、完整，不存在任何虚假记载、误导性陈述或者重大遗漏。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "控股股东承诺合法合规经营，包括税务合规，但未专门提及税务透明度政策。",
+      "original_text": "最近五年内不存在因违反工商、税收、土地、环保、海关等法律、行政法规或规章，受到行政处罚且情节严重或受到刑事处罚的情形。",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 19,
+    "quantitative_valid": 19,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.702
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 39,
+    "missing": 13,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 75.0
+  }
+}

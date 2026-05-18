@@ -1,0 +1,441 @@
+{
+  "company_name": "南京公用",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 46267.12,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量 tCO₂e 46,267.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 741.3,
+      "unit": "吨",
+      "original_text": "废弃物产生量 吨 741.30",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3507.59,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放量（范围1） tCO₂e 3,507.59",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 42759.53,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放量（范围2） tCO₂e 42,759.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.07,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度 tCO₂e/万元营收 0.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 150101.14,
+      "unit": "吨",
+      "original_text": "取水量（市政购水） 吨 150,101.14",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2756,
+      "unit": "人",
+      "original_text": "接受培训总人数 人 2,756",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 83.49,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 83.49",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 42.95,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均时长 小时/人 42.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1952.93,
+      "unit": "万元",
+      "original_text": "研发投入 1,952.93",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.28,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 0.28",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "9名，其中独立董事3名，非独立董事6名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3名，非独立董事6名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2060年碳中和。定量目标：以2024年为基年，至2030年营运碳排放总量降20%以上。定性目标：2030年成为区域客运绿色转型标杆。",
+      "original_text": "定量目标：以2024年为基年，至2030年营运碳排放总量降20%以上。定性目标：2030年成为区域客运绿色转型标杆。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立环境管理体系，制定环境管理目标，强化生产全流程环保管控，减少污染物排放。方针：遵纪守法，安全第一，预防为主，双重预防，节能环保，持续发展。",
+      "original_text": "建立环境管理体系，切实减少污染物排放，不断提升环境管理水平。方针：遵纪守法，安全第一，预防为主，双重预防，节能环保，持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦光伏、储能、充电、换电等新能源业务，构建‘光储充换+’生态示范站，提供智慧能源解决方案。房地产推行绿色建筑标准，客运推广新能源车辆。",
+      "original_text": "南京新能源集团聚焦‘光、储、充、换’四大核心业务板块，构建‘源-网-荷-储’协同运行的绿色能源示范站体系。房地产领域推行标准化管理，打造精品项目，探索绿色建筑。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "南京公用高度重视生物多样性保护，各业务活动主动规避自然保护区、生态红线区等生态敏感区域。在房地产施工中，严格落实生态修复责任，及时开展植被恢复与生境修复工作。",
+      "original_text": "南京公用高度重视生物多样性保护，各业务活动主动规避自然保护区、生态红线区等生态敏感区域。在房地产施工中，严格落实生态修复责任，及时开展植被恢复与生境修复工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进循环经济，如退役锂电池回收业务，形成能源服务与循环经济协同发展格局。施工废水经沉淀后回用，雨水调蓄系统用于绿化冲洗。",
+      "original_text": "投资布局循环经济项目，例如退役锂电池回收等业务，形成能源服务与循环经济协同发展的可持续格局。水资源循环利用：设置201立方米雨水调蓄系统，年径流总量控制率80%，雨水回用于绿化与道路冲洗。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，保障员工权益，禁止雇佣童工和强制劳动，推动公平、安全、包容的组织氛围。",
+      "original_text": "公司严格遵守国家劳动法律法规，确保员工离职程序的合法性与规范性。若发生劳动纠纷，公司始终坚持依法依...公司坚决禁止雇佣童工，并抵制一切形式的强制劳动，持续推动公平、安全、包容的组织氛围",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已获得ISO 45001职业健康安全管理体系认证，制定多项安全管理制度，定期开展安全培训，安全隐患整改率100%。",
+      "original_text": "公司及多家分子公司已获得ISO 45001职业健康安全管理体系认证和安全生产标准化认证。报告期内，公司安全隐患整改率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司要求供应商承诺遵守环保法规、保障劳工权益、杜绝强迫劳动与歧视，并签署《廉洁承诺书》。",
+      "original_text": "公司坚持将环境保护、人权保障与商业道德作为供应链合作的基石，要求所有供应商必须承诺遵守环保法规，保障劳工权益，杜绝强迫劳动与歧视行为，并签署具有约束力的《廉洁承诺书》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司制定质量手册，建立质量管理组织架构，报告期内未发生服务质量重大责任事故及大规模客户投诉。",
+      "original_text": "报告期内，公司未发生服务质量重大责任事故以及因服务质量与安全的大规模客户投诉事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循网络安全法、数据安全法等法律法规，构建数据全流程管理体系，报告期内未发生数据安全及客户信息泄露事件。",
+      "original_text": "南京公用严格遵循《中华人民共和国网络安全法》《中华人民共和国数据安全法》等法律法规，构建覆盖数据收集、存储、使用、共享全流程的管理体系...报告期内，公司未发生数据安全及客户信息泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展爱心送考、爱心赏花等公益服务，推进燃气安全进社区，荣获多项荣誉。",
+      "original_text": "“爱心送考”“爱心赏花”等公益服务深入人心。...南京港华以“便民惠民、安全护航”为核心，扎实推进客户服务进社区工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司注重董事会多元化建设，从年龄、职务、学历、性别等维度挑选人选，重视女性员工权益，设立母婴室。",
+      "original_text": "公司注重董事会多元化建设，从年龄、职务、学历、性别、职业背景等维度挑选最佳人选...公司及各分子公司高度重视女性员工权益保护，通过设立母婴室等便利设施",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司制定《ESG管理制度》，搭建权责清晰、运作规范的管理架构。董事会下设战略与ESG委员会并配套工作细则，同时设立总部证券法务部负责日常工作。",
+      "original_text": "公司制定《ESG管理制度》，搭建权责清晰、运作规范的管理架构。董事会下设战略与ESG委员会并配套工作细则，同...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司聚焦反腐败风险，强化全链条管控。南京港华依据《财务管理授权手册》等内部制度，对资金收付、工程管理等环节进行管控。",
+      "original_text": "公司聚焦反腐败风险，强化全链条管控。南京港华依据《财务管理授权手册》等内部制度，对资金收付、工程管...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司始终将合规经营与风险管理深度融入战略规划与日常运营，坚守法律法规底线，建立覆盖全业务、全流程的合规与风险管控体系。",
+      "original_text": "公司始终将合规经营与风险管理深度融入战略规划与日常运营，坚守法律法规底线，建立覆盖全业务、全流程的合规与风险管控体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立覆盖全业务、全流程的合规与风险管控体系，包括风险识别、评估、应对和监督改进流程，并针对气候、能源、供应链等风险制定具体措施。",
+      "original_text": "公司建立覆盖全业务、全流程的合规与风险管控体系，防范化解经营管理中的各类风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，明确董事会秘书为核心负责人、证券法务部为职能部门的组织架构，坚持合规性、平等性、主动性、诚实守信原则。",
+      "original_text": "公司制定《投资者关系管理制度》，明确董事会秘书为核心负责人、证券法务部为职能部门的组织架构，统筹制度...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过搭建高效的沟通渠道，识别利益相关方诉求，并建立信息收集与汇总机制，保障数据及时准确流转。",
+      "original_text": "利益相关方沟通 17 运营安全与民生保障 31 员工培训发展 82 重要议题管理 18 暖心客户服务 39 职业健康安全 86 研发创新赋能 43 践行社会价值 92 供应链安全 48 保护数据安全 52",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理制度》《信息披露暂缓与豁免业务管理制度》等规章制度，设立董事长为第一责任人，确保信息披露合规、透明。",
+      "original_text": "公司制定《信息披露管理制度》《信息披露暂缓与豁免业务管理制度》等规章制度，设立董事长为第一责任人，明...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司严格遵守税法，聘请5A级税务师事务所提供税务咨询、政策解读、风险指导、纳税审核与专业建议，防范税务风险。",
+      "original_text": "税务风险防范...聘请5A级税务师事务所，提供政策解读、风险指导、纳税审核与专业建议。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

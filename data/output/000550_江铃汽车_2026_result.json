@@ -1,0 +1,441 @@
+{
+  "company_name": "江铃汽车",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 97993.23,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放 tCO2e 21,130.34（范围1）...（范围2）tCO2e 76,862.89",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 21130.34,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放 tCO2e 21,130.34（范围1）",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 76862.89,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "（范围2）tCO2e 76,862.89",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 41209.4,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗量 吨标煤 41,209.40",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1365455,
+      "unit": "吨",
+      "original_text": "市政供水 吨 1,365,455",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 755430,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 755,430",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 98083.82,
+      "unit": "吨",
+      "original_text": "危险废弃物总产生量 吨 3,070.75；一般工业固废总产生量 吨 95,013.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 11203,
+      "unit": "人",
+      "original_text": "报告期内，公司员工总数11,203人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 14.9,
+      "unit": "亿元",
+      "original_text": "研发投入达14.9亿元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 2403,
+      "unit": "万元",
+      "original_text": "安全生产费用投入 万元 2403",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 200,
+      "unit": "万元",
+      "original_text": "对外公益捐赠 万元 200",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "公司董事会由11名董事构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "其中独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定2030年碳达峰、2060年碳中和的总体战略目标，建立气候变化治理架构，系统识别气候风险与机遇，并推进碳足迹数字化管理平台建设。",
+      "original_text": "制定了2030年碳达峰、2060年碳中和的总体战略目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司通过ISO14001、IATF 16949、3C及绿色环境标志等国际标准认证，形成一体化环境管理新模式，并持续完善环境管理体系。",
+      "original_text": "通过ISO14001、IATF 16949、3C及绿色环境标志等一系列国际标准认证并形成的一体化环境管理新模式",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司专注于低碳排放和高能效技术，涵盖纯电动、混合动力等新能源车型，加速电动化与智能化产品矩阵布局。",
+      "original_text": "产品研发：专注于低碳排放和高能效技术，涵盖纯电动、混合动力等新能源车型",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司秉持‘绿水青山就是金山银山’的发展理念，系统推进并落实多项生物多样性保护举措，通过科学规划厂区绿化，构建立体化生态空间。",
+      "original_text": "秉持‘绿水青山就是金山银山’的发展理念，系统推进并落实多项生物多样性保护举措",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司积极探索绿色、循环、低碳的发展模式，推动废旧车辆及零部件的再生利用，实现资源的高效循环，并推广可循环利用包装材料。",
+      "original_text": "推动废旧车辆及零部件的再生利用，实现资源的高效循环",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司建立合法合规的劳动用工制度，健全工会组织，保障员工休息休假权益，未发生歧视、强迫劳动等事件。",
+      "original_text": "公司《人权管理制度》明确禁止任何形式的童工使用，严禁强迫劳动、强制劳动...2025年，公司未发生任何歧视、",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO45001职业健康安全管理体系认证，建立分级管理的EHS委员会体系，开展安全培训943次，累计时长399,176小时。",
+      "original_text": "公司已通过ISO45001职业健康安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司不断完善供应链管理制度，将ESG理念融入供应链管理，开展供应商培训，推动全供应链工艺标准升级。",
+      "original_text": "我们不断完善供应链管理制度，将ESG理念深度融入供应链管理的各个环节",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO9001质量管理体系认证，建立覆盖产品全生命周期的质量管理制度，未发生因质量或安全问题导致的召回事件。",
+      "original_text": "江铃汽车已建立并持续完善覆盖产品全流程、全供应链、全生命周期的质量管理制度体系。通过了ISO9001质量管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司设立网络和数据安全委员会，制定信息安全与隐私保护制度，开展年度培训与考核，覆盖率达100%。",
+      "original_text": "公司设立网络和数据安全委员会、数据安全核心团队、个人信息保护小组...开展年度信息安全与隐私保护培训与考核，覆盖率达100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社区共建、乡村振兴、无偿献血等活动，推动全民健身，与城市发展同频共振。",
+      "original_text": "江铃汽车积极践行企业社会责任，充分参与乡村振兴...定期组织员工参与无偿献血活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司员工包括少数民族、外籍、残障员工，建立多元化职业发展通道，保障员工平等权益。",
+      "original_text": "报告期内，公司员工总数11,203人，其中男性9,566人，女性1,637人，少数民族55人，外籍2人，残障员工85人。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了由董事会、战略委员会、ESG委员会、'双碳'专项工作小组等组成的ESG治理架构，ESG委员会负责ESG相关风险和机遇，ESG执行小组负责制定并实施相关措施。",
+      "original_text": "构建了架构清晰、权责明确的ESG治理架构，ESG委...ESG相关风险和机遇，ESG执行小组负责制定并实施",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司以零容忍态度推进腐败治理，制定《员工行为管理办法》、《员工奖惩管理规定》等制度，发布《廉洁江铃》专刊，向供应商发布反商业贿赂承诺，开展廉洁教育活动。",
+      "original_text": "公司以零容忍态度坚决推进腐败...制定并实施《员工行为管理办法》、《员工奖惩管理规定》等一系列反腐败制度规范...发布《廉洁江铃》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信经营，对违反商业道德行为零容忍，制定《反垄断及反不正当竞争合规审查手册》，开展合规培训，覆盖100余人次。",
+      "original_text": "江铃汽车始终坚持诚信经营理念，对违反商业道德的不当行为采取零容忍态度...制定了《反垄断及反不正当竞争合规审查手册》，并组织了线上线下针对性培训，覆盖100余人次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了由董事会领导的审计委员会、执行委员会等组成的风险管理组织架构，董事会审定整体风险战略，审计部负责组织协调风险识别、评估与监控，建立了覆盖公司经营活动各环节的内部控制及风险管理机制。",
+      "original_text": "公司构建了由董事会领导的审计委员会、执行委员会...风险管理组织架构...董事会作为风险管理最高决策机构...审计部作为专职风险管理部门",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司重视投资者权益保护，持续完善投资者沟通与权益保障体系，严格执行信息披露制度，通过多渠道保持与市场积极沟通，在深交所'互动易'平台回复投资者提问63条，实现100%回复率。",
+      "original_text": "江铃汽车重视投资者权益保护，持续完善投资者沟通与权益保障体系...在深交所'互动易'平台回复投资者提问63条，实现100%回复率",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司持续深化实质性议题管理，通过常态化机制与股东、经销商、社区等利益相关方保持良好互动，开展重要性议题调研，进行双重重要性评估。",
+      "original_text": "江铃汽车高度重视与利益相关方的双向沟通，持续通过常态化机制与各方保持良好互动...开展重要性议题调研...开展了双重重要性评估",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格执行信息披露制度，坚持真实、准确、完整、及时原则，2025年累计发布各类公告59份，披露文件139份，信息披露工作获深交所A级评价。",
+      "original_text": "2025年，公司累计发布各类公告59份，披露文件139份...信息披露工作再次荣获深圳证券交易所A级评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.817
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "神州数码",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 9867.47,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围一和范围二）：9,867.47 吨二氧化碳",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 83525.78,
+      "unit": "吨",
+      "original_text": "废水排放量：83,525.78 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 2796.937,
+      "unit": "吨",
+      "original_text": "无害废弃物总量：2796.6 吨；有害废弃物总量：0.337 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 5548,
+      "unit": "人",
+      "original_text": "公司员工总数，5548 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 40.2,
+      "unit": "%",
+      "original_text": "女性员工比例，40.2%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "全年实施培训39318 小时，覆盖23624 人次",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 41491.56,
+      "unit": "万元",
+      "original_text": "研发投入：41,491.56 万元,CNY",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "公司现行董事会共有7名董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 57.14,
+      "unit": "%",
+      "original_text": "其中独立董事4名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 15,
+      "unit": "次",
+      "original_text": "15 次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "不再设置监事会及监事岗位",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了碳中和战略目标，分为四个阶段：2030年前碳排放强度达峰，2050年前区域碳中和，2060年前集团整体碳中和。已向SBTi提交科学碳目标并获得批准，目标为2030年范围1和2排放减少50.4%，范围3减少30%。",
+      "original_text": "神州数码深刻认识气候危机的紧迫性与参与全球气候治理的必要性，并于2024年制定了碳中和战略目标，将碳中和战略推进计划划分为四个阶段：2030年前：实现碳排放强度达峰；2050年前：按节奏实现区域碳中和目标；2060年前：集团整体实现最终碳中和目标。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了‘决策-监督-执行’三层环境管理体系，董事会下设战略与ESG委员会，管理层设专委会，ESG工作组执行。已通过ISO14001环境体系认证，合肥工厂通过绿色工厂认证。制定《环境运行管控程序》等制度。",
+      "original_text": "公司的环境管理深度嵌入集团ESG治理架构，形成‘决策-监督-执行’三层管理体系：董事会下设的战略与ESG管理委员会负责制定环境管理目标与战略方向；管理层设立的战略与ESG专委会负责监督环境管理体系的运行。公司全资子公司北京神州数码云计算有限公司通过了ISO14001环境体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司服务器和计算机产品已通过碳足迹产品认证、CCC节能产品认证、中国环境标志产品认证。产品设计符合绿色标准，提升能源效率，降低全生命周期环境影响。",
+      "original_text": "公司生产的服务器和计算机产品已通过碳足迹产品认证、CCC节能产品认证以及中国环境标志产品认证。在产品全生命周期管理方面，公司持续提升产品可再生利用水平，服务器产品符合相关标准，降低产品全生命周期对环境的影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司设定废弃物管理目标：到2035年实现废弃物总量较基准年下降，提高可回收废弃物利用率至50%以上，建立废弃物循环利用体系。",
+      "original_text": "分类与减量目标：全面推行废弃物源头分类，到2035年实现废弃物总量较...资源化利用目标：提高可回收废弃物利用率至50%以上",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定反歧视制度，保障员工平等就业，避免强制劳动，尊重隐私，提供符合要求的劳动条件和生产场所，建立安全生产事故应急处理机制。",
+      "original_text": "公司制定了《神州数码集团股份有限公司反歧视制度》，为员工提供包容、平等的工作环境，避免强制劳动，尊重并保护员工的隐私，充分保障员工权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO45001职业健康与安全生产管理体系认证，开展安全培训，人均安全培训时长3小时，累计参与约5000人次。",
+      "original_text": "7家子公司通过ISO45001职业健康与安全生产管理体系认证。人均安全培训时长：3小时。累计开展线上线下培训活动，参与员工约5,000人次。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过ISO28000供应链安全管理体系认证和GB/T33635绿色供制造供应链认证，对供应商进行季度考核，涵盖质量、服务、成本、交期等，并开展沟通与培训。",
+      "original_text": "公司已通过IS0 28000供应链安全管理体系认证和GB/T33635绿色供制造供应链认证。每季度对供应商在质量、服务、成本、交期等方面进行考核。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO9001质量管理体系认证，建立全流程质量管控体系，包括原材料和成品质量检验，确保产品符合环保和质量标准。",
+      "original_text": "11家公司已通过ISO9001质量管理体系认证。建立了覆盖从原材料采购到最终产品交付的全流程质量管控体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过ISO27001信息安全管理体系和ISO27701隐私信息管理体系认证，保障数据安全与隐私。",
+      "original_text": "ISO27001 信息安全管理体系、ISO27701 隐私信息管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益捐赠与乡村振兴，组织员工参与工会活动、家庭日、运动会等，增强员工归属感。",
+      "original_text": "公益捐赠与乡村振兴；全年员工累计参加人数2000余人次，增强了员工的归属感和文化认同。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司推行多元化招聘，提供平等机会，员工持股计划覆盖更广泛员工，少数民族员工比例5.6%，困难员工帮扶6人。",
+      "original_text": "神州数码通过多元化的招聘渠道广纳人才。少数民族员工比例，5.6%。困难员工帮扶人数，6人。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会下设战略与ESG委员会，负责制定ESG治理目标、战略与方针，审议ESG重大决策，监督ESG执行情况，审议ESG报告等。",
+      "original_text": "董事会及其下设的战略与ESG委员会：1、制定ESG治理目标、战略与方针；2、审议ESG相关重大决策、政策、规划；3、监督ESG执行情况；4、审议ESG报告；5、识别与评估ESG相关风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司已建立反腐倡廉管理制度，发布《内部审计制度》《廉洁从业管理办法》等，通过ISO37001反贿赂管理体系认证，设立举报邮箱，开展反腐培训。",
+      "original_text": "公司不断完善制度规范建设，设置反腐专栏，发布《内部审计制度》《神州数码廉洁从业管理办法》《员工手册》《业务行为规范》等。公司所有员工入职即签署《合规承诺书》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定反垄断合规政策，开展反垄断培训，建立知识产权合规管理体系（GB/T29490-2023），确保商业道德与合规运营。",
+      "original_text": "在反垄断与公平竞争风险控制方面，公司已制定明确的合规政策，严格禁止任何垄断行为。公司持续开展反垄断合规管理，不定期对重点岗位和关键环节进行反垄断合规风险梳理与识别。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立环境风险识别与应对管理机制，将突发环境事件风险纳入日常运营管理体系，定期开展环境风险识别、评估及应对措施制定与更新。",
+      "original_text": "公司建立并实施环境风险识别与应对管理机制，将突发环境事件风险纳入日常运营管理体系，定期开展环境风险识别、评估及应对措施的制定与更新，持续降低环境风险对生产经营和环境的潜在影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东会、定期信息披露、投资者热线、深交所互动易平台、业绩说明会等方式与投资者沟通，保障股东权益。",
+      "original_text": "股东及投资者：ESG管理、研发创新、经营绩效、股东权益保护；沟通方式：股东会、定期信息披露、投资者热点电话与邮件、深交所互动易平台、业绩说明会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司主动与关键利益相关者开展对话，通过日常沟通、调查问卷、研讨会等方式回应其ESG诉求，并识别实质性议题。",
+      "original_text": "公司致力于打造稳定持续的沟通渠道，主动与关键利益相关者开展对话，并回应其ESG诉求。利益相关方包括政府、股东、员工、客户、供应商等。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循《可持续发展报告（试行）》等要求进行ESG信息披露，提升信息披露透明度与规范性。",
+      "original_text": "17号——可持续发展报告（试行）中对于ESG信息披露的要求指引，以及全球报告倡议组织（GRI）标准进行披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度政策或措施。",
+      "original_text": "政府与监管机构：合规治理、产品质量、依法纳税、环境保护。",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "company_name": "上汽集团",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 49.9,
+      "unit": "亿元",
+      "original_text": "环保总投入超过49.9亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 200000,
+      "unit": "人",
+      "original_text": "报告期内，上汽在职员工 万人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工占比约",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "员工主动离职率",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 2201300,
+      "unit": "万元",
+      "original_text": "研发投入 220.13 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.03,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例为 3.03%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产投入超",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 5002.8,
+      "unit": "万元",
+      "original_text": "公司各项社会公益事业总投入 5,002.8 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "截至报告期末，上汽集团董事会由 名董事组成",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "董事会成员中包含独立董事 名，占比 以上",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "报告期内，公司董事会共召开 次会议",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 5,
+      "unit": "人",
+      "original_text": "截至报告期末，上汽集团第八届监事会共由5名监事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开 次战略与 可持续发展委员会会议， 次审计委",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定碳中和路线图，目标2030年碳达峰、2050年碳中和。",
+      "original_text": "明确了“双碳”管理目标：持续降低全生命周期二氧化碳排放，2030年至2018年较年平均下降25%，并于2050年实现碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司严格遵守环保法律法规，搭建了集团整体环境管理体系，并积极获取第三方认证。包括环境自行监测、环境影响评价、突发环境事件应急预案等。",
+      "original_text": "上汽集团严格遵守《中华人民共和国环境保护法》等国家和地方政府有关环境管理的法律法规，同时根据相关要求搭建了集团整体环境管理体系，将环境管理融入日常运营。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司自主掌控‘电池、电驱、电控’三电核心技术，推动新能源汽车发展。2023年新能源汽车销售112.3万辆。推出换电版车型，打造绿色供应链。",
+      "original_text": "上汽集团已自主掌控‘电池、电驱、电控’三电核心技术，并且通过科技创新，持续在新能源核心技术和产品上取得突破。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司开展生物多样性保护活动，如宝骏基地生态物种调查。",
+      "original_text": "上汽集团联合柳州市生态环境局开展宝骏基地生态物种调查",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司探索电池回收再利用，推动循环经济。",
+      "original_text": "上汽研发总院探索电池回收再利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司明确员工合规雇佣，培育多元化和包容性文化，社会保险覆盖率100%，集体合同覆盖率95%。",
+      "original_text": "员工合规雇佣 培育多元化和包容性文化。 95%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已建立职业健康安全管理体系，通过认证，组织全员安全培训，开展应急演练，员工体检覆盖率100%。",
+      "original_text": "职业健康安全管理体系认证；组织全员安全培训教育；员工体检覆盖率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立绿色供应链评选机制，对供应商进行质量、环境等培训，要求供应商参与相关活动。",
+      "original_text": "上汽集团已建立绿色供应链评选机制，综合考虑供应商环境、质量、成本、服务等能力",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司制定质量目标管理制度，建立覆盖设计到投产的安全性能检测体系，质量意识培训覆盖率100%。",
+      "original_text": "质量目标管理；安全性能专项检测体系；质量意识培训覆盖率",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全管理体系和隐私保护政策，开展员工数据安全意识培训，报告期内未发生信息安全与隐私泄露事件。",
+      "original_text": "上汽集团信息安全管理政策和隐私保护体系；上汽集团内未发生信息安全与隐私泄露事件",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身社会公益，包括乡村振兴、医疗公益、教育支持等，海外社区服务也积极参与。",
+      "original_text": "公司各项社会公益事业总投入 5,002.8 万元；乡村振兴总投入超过 2,567.2 万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司明确多元化员工队伍，重视女性员工职业发展，海外基地女性员工占比提升，设立歧视事件上报流程。",
+      "original_text": "多元化的员工队伍；重视女性员工的职业发展和生活需求；印度基地的女性员工占比达到",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立了由董事会、战略与可持续发展委员会、ESG工作小组组成的三层ESG治理架构，董事会负责决策和监督，战略与可持续发展委员会负责日常监督管理，ESG工作小组负责具体执行。",
+      "original_text": "董事会 ESG 战略与 可持续发展委员会 · ESG 决策和监督 战略和目标的制定、更新 · ESG ESG 决策公司 相关重大事项，监督 重大事项的推进进度和成效...规划层 ESG 工作小组 · ESG 制定和更新具体的 战略、目标、制度和工作流程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严格遵守反腐败和反贿赂法律，以零容忍态度防止腐败，制定了《关于实行党风廉政责任制的有关规定》等制度，并开展廉洁合规培训。",
+      "original_text": "上汽集团严格遵守业务所在地适用的反腐败和反贿赂法律，坚持以'零容忍'态度防止腐败问题发生",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持依法经营、合规管理，严格遵循相关法律法规，并持续加强供应链商业道德保障水平。",
+      "original_text": "我们坚持依法经营、合规管理，严格...持续加强供应链商业道德保障水平。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了在党委及董事会直接领导下的审计工作机制，董事会负责审批风险管理策略、重大风险管理解决方案，并每年聘请外部审计机构开展舞弊风险独立评估。",
+      "original_text": "上汽集团建立了在公司党委及董事会直接领导下的审计工作机制...董事会作为上汽集团公司治理的...批风险管理策略、重大风险管理解决方案...上汽集团每年聘请外部审计机构对公司舞弊风险开展独立评估",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司设立了由董事会秘书兼任负责人的证券事务部，专门负责信息披露和投资者关系工作，平等对待所有投资者，并按照相关监管要求开展投资者关系管理。",
+      "original_text": "上汽集团坚信投资者关系管理需要在依法履行信息披露义务的基础上开展。我们平等对待所有投资者...设立了由公司董事会秘书兼任负责人的证券事务部，专门负责公司信息披露和投资者关系工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与利益相关方的沟通交流，通过多种机制与股东、合作伙伴等保持密切联系，将核心诉求融入决策运营。",
+      "original_text": "上汽集团高度重视与利益相关方的沟通交流，与其保持密切联系和沟通互动",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定信息披露相关制度，报告期内完成定期报告和临时公告披露，连续获得上交所信息披露A类评价。",
+      "original_text": "连续获得上海证券交易所'上市公司信息披露A类'评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600104_上汽集团_2024.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.75
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

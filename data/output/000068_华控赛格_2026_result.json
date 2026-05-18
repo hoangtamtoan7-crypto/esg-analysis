@@ -1,0 +1,441 @@
+{
+  "company_name": "华控赛格",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 960,
+      "unit": "吨",
+      "original_text": "废水排放总量 立方米 960",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 377,
+      "unit": "人",
+      "original_text": "员工总人数 人 377",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 33.3,
+      "unit": "%",
+      "original_text": "女性高管占比 % 33.3",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 60.9,
+      "unit": "万元",
+      "original_text": "员工培训投入金额 万元 60.90",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 26.26,
+      "unit": "%",
+      "original_text": "员工流失率 % 26.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1734.05,
+      "unit": "万元",
+      "original_text": "研发投入 万元 1,734.05",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 2.08,
+      "unit": "%",
+      "original_text": "研发投入总额占营业收入比例 % 2.08",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 496.95,
+      "unit": "万元",
+      "original_text": "安全生产总投入 万元 496.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会董事人数 人 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.3,
+      "unit": "%",
+      "original_text": "独立董事占比 % 33.3",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 14,
+      "unit": "次",
+      "original_text": "董事会召开次数 次 14",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "董事会审计委员会会议次数 次 9",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已将应对气候变化纳入可持续发展战略，参考TCFD框架及ISSB准则，系统梳理转型风险与物理风险，通过多元实践推动减污降碳协同增效。",
+      "original_text": "华控赛格深刻认识到气候变化对行业发展的深远影响，将应对气候变化纳入可持续发展战略，积极响应国家‘双碳’目标，秉持‘环保优先、预防为主、综合治理’原则，参考TCFD框架及ISSB相关准则，系统梳理转型风险与物理风险，通过多元实践推动减污降碳协同增效。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立了以主要负责人为责任主体的环境管理体系，通过ISO 14001:2015认证，制定《环境保护管理制度》，实施月度自查，未发生重大环境事件。",
+      "original_text": "公司环境保护工作由公司总经理承担最高监督责任...通过制定《环境保护管理制度》等核心文件，并实施‘月度自查’...未发生重大环境事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦海绵城市建设、城镇水系综合治理等领域，研发智慧水务系统，推进超低能耗建筑项目，探索绿色建造技术，提供绿色低碳建筑服务。",
+      "original_text": "推进海绵城市建设以提升城市气候韧性，落地超低能耗建筑项目降低建筑碳排放；研发智慧水务系统以优化资源调配效率，探索绿色建造技术减少环境足迹。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "报告提及生态系统和生物多样性保护作为实质性议题，但未提供具体措施或项目。",
+      "original_text": "生态系统和生物多样性保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司遵循废弃物管理优先序，以‘源头减量、过程管控’为核心，实施无纸化办公、节水节电、废旧纸张回收、水资源循环利用（如归集洗手水浇灌绿植）等循环经济措施。",
+      "original_text": "公司严格遵循废弃物管理优先序，以‘源头减量、过程管控’为核心原则...归集洗手水、水瓶残留水，用于浇灌办公区绿植，实现水资源二次利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持不因种族、民族、性别、年龄、宗教等因素差别对待员工，抵制歧视与骚扰。关注女性员工差异化需求，提供产假、妇卫费等福利。依规组织职工大会，保障员工权益。",
+      "original_text": "始终坚持不因其种族、民族、性别、年龄、宗教等因素对员工进行差别对待。同时，坚决抵制歧视与骚扰等违法行为。关注女性员工等特殊群体在孕产育等阶段存在的差异化需求。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司构建职业健康与安全生产过程管理，开展安全培训、应急演练，实施隐患排查治理。2025年未发生安全事故和行政处罚。员工年度健康体检率100%。",
+      "original_text": "华控赛格将职业健康与安全视为保障员工生命健康、维护资产与运营连续性、降低合规与声誉风险的重要基础。通过安全生产管理、隐患排查、培训、应急演练等举措。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司秉持公开征集、严格准入、量化考核、动态监管原则，将质量管控、环境保护与商业道德融入供应链管理。对供应商实施分级管控，开展质量培训。",
+      "original_text": "华控赛格坚持将供应链安全作为业务稳健运行的重要保障。公司秉持“公开征集、严格准入、量化考核、动态监管”的原则，不断优化供应商管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立三级质量与服务治理架构，坚持质量为先、客户至上原则。报告期内未发生重大质量安全事故。开展质量提升培训与知识竞赛。",
+      "original_text": "华控赛格恪守“质量为先、客户至上”的原则，建立了总部与子公司协同工作的全面流程控制体系。报告期内，公司未发生重大质量安全事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全相关法律法规，搭建数据安全与隐私保护管理体系，开展全员安全培训。2025年未发生信息安全事故或客户隐私泄露事件。",
+      "original_text": "华控赛格将数据安全和客户隐私保护视为合规运营及业务连续性的根本保障。公司严格遵守《中华人民共和国网络安全法》《数据安全法》《个人信息保护法》等。2025年，公司未发生信息安全事故、以及侵犯客户隐私或丢失客户资料事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司坚持党的领导，以环保水务主业优势助力乡村振兴，开展夏送清凉、亲子活动等员工关怀，对外推动农村环境综合整治。",
+      "original_text": "华控赛格坚持党的领导，将社会责任作为企业发展的价值底座。对外，公司立足环保水务主业优势，以“生态赋能乡村”为核心路径，将农村环境综合整治与基础设施保障融入区域服务体系，助力乡村振兴与生态文明建设。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司关注女性员工权益，提供差异化福利，营造公平包容的职场环境。女性员工人数148人，女性高管占比33.3%。",
+      "original_text": "华控赛格关注女性员工等特殊群体在孕产育等阶段存在的差异化需求。持续营造公平、包容且无歧视的职场环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了以董事会为核心的治理体系，下设审计委员会等专门委员会，并明确了各层级职责。",
+      "original_text": "以董事会为核心的治理体系。通过修订《公司章程》及相关议事规则，明确由董事会审计委员会承接原监事会的对应职权。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司重视商业道德与廉洁建设，对腐败及贿赂行为持零容忍态度，开展廉洁风险排查，完善廉政档案。",
+      "original_text": "华控赛格重视商业道德与廉洁建设，秉持着高标准的职业道德和行为规范，对任何形式的腐败及贿赂行为持零容忍态度。组织中高层管理人员及关键岗位47人开展廉洁从业风险点排查。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《合规管理办法》等制度，开展合规培训，签署合规承诺书，将合规绩效与薪酬挂钩。",
+      "original_text": "华控赛格始终秉持'合规筑基、风控赋能、价值创造'的核心准则，构建并完善了覆盖公司全业务、全层级的合规经营与风险管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了动态的风险识别与评价体系，按照'梳理识别-分类评估-分级研判-动态更新'流程管理风险。",
+      "original_text": "按照'梳理识别-分类评估-分级研判-动态更新'的标准化流程，对识别出的各类风险与机遇进行管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司积极开展投资者关系活动，通过股东会、业绩说明会等渠道与投资者沟通，并制定《投资者关系管理办法》。",
+      "original_text": "华控赛格积极开展投资者关系活动，主动回应投资者关切。公司通过股东会、业绩说明会、深交所互动易平台等渠道与投资者沟通。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司围绕政府部门、股东、客户、合作伙伴、员工及社会公众等建立多渠道沟通机制，并将沟通结果纳入经营管理。",
+      "original_text": "华控赛格重视与利益相关方的常态化沟通，将其视为提升公司治理透明度、识别并回应ESG重点议题的重要基础。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定《信息披露管理办法》，确保信息披露真实、准确、完整、及时，并通过指定渠道公平披露。",
+      "original_text": "公司指定《中国证券报》《证券时报》及巨潮资讯网作为公司官方信息披露渠道，确保全体投资者能够公平获取信息。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "古麒绒材",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1080000,
+      "unit": "吨",
+      "original_text": "总用水量 万吨 108",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 323.05,
+      "unit": "万元",
+      "original_text": "环保投入总金额 万元 323.05",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 139,
+      "unit": "人",
+      "original_text": "员工总数 人 139",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 38,
+      "unit": "%",
+      "original_text": "女性员工比例达38%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 30,
+      "unit": "万元",
+      "original_text": "年度培训支出金额 万元 30",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 11,
+      "unit": "小时/人",
+      "original_text": "长共计11小时",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 3251,
+      "unit": "万元",
+      "original_text": "研发投入 万元 3,251",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.09,
+      "unit": "%",
+      "original_text": "研发投入占营业收入的比例 % 3.09",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "公司董事会由8名董事构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "独立董事占比 % 37.5",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事占比达25%",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "召开董事会7次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消了监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "董事会专门委员会会议10次（未单独列示审计委员会）",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极呼应国家‘碳达峰、碳中和’重大发展战略，将绿色生产提升至企业发展重要位置，目标到2030年实现运营层面的碳达峰。",
+      "original_text": "公司积极呼应国家‘碳达峰、碳中和’的重大发展战略，将绿色生产提升至企业发展的重要位置...我们的目标是到2030年实现运营层面的碳达峰。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立规范化、标准化、精细化的环境管理体系，通过ISO 14001:2015认证，并被评为‘国家级绿色工厂’。",
+      "original_text": "公司已建立规范化、标准化、精细化的环境管理体系...被工信部评定为‘国家级绿色工厂’",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司生产的羽绒产品将上游行业废弃物进行资源化利用，符合循环经济发展要求，属于《绿色低碳转型产业指导目录》鼓励类范畴。",
+      "original_text": "公司生产的羽绒产品将上游行业废弃物进行资源化利用，符合循环经济发展要求，符合《绿色低碳转型产业指导目录》的要求",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司深刻践行‘人与自然和谐共生’的绿色发展理念，在项目运营中严格执行生态保护措施，最大限度降低生产活动对周边生态环境的干扰，减少对区域生物多样性的潜在影响。",
+      "original_text": "古麒绒材深刻践行‘人与自然和谐共生’的绿色发展理念...在项目运营中，公司严格执行生态保护措施，最大限度降低生产活动对周边生态环境的干扰，减少对区域生物多样性的潜在影响",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司构建全链条闭环管理体系，包括羽绒原料编织袋回收再生、助剂空桶循环复用、污泥资源化利用等，被评为‘安徽省循环经济示范单位’。",
+      "original_text": "在物料循环利用领域，公司构建全链条闭环管理体系：羽绒原料编织袋统一交由专业塑料生产企业回收再生，生产助剂空桶由原供应商回收后循环复用...曾被评为‘安徽省循环经济示范单位’",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法的结社与集体谈判权利，签订劳动合同，坚持公平公正原则，提供薪酬福利，开展员工关怀活动，如三八妇女节慰问、异地员工关怀等。",
+      "original_text": "公司保障员工合法的结社与集体谈判权利，全方位保障员工各项基本劳动权益，构建平等、尊重、包容的职场生态。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司以零事故为目标，建立安全生产与职业健康管理体系，获得ISO 45001认证，开展安全培训、隐患排查，配备防护用品，每年体检覆盖率100%。",
+      "original_text": "公司以零事故为安全管理目标，获得ISO 45001职业健康安全管理体系认证，开展安全培训，员工年度体检覆盖率为100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立规范化管控体系，要求供应商符合环保标准，推动负责任羽绒标准（RDS），实施供应链审核。",
+      "original_text": "公司建立规范化管控体系，对供应商进行准入管理与过程管控，推动负责任羽绒标准（RDS）。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格遵守产品质量法，建立四级质量把关体系，获得CNAS实验室认可、ISO 9001认证、OEKO-TEX认证，参与制定多项标准。",
+      "original_text": "公司建立严格的质量控制体系，获得CNAS实验室认可、ISO 9001认证、OEKO-TEX认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司遵循网络安全法、数据安全法等法律法规，构建全流程信息安全防护体系，报告期内未发生数据安全事件。",
+      "original_text": "公司严格遵循相关法律法规，构建全流程闭环的安全防护体系，报告期内发生数据安全事件的次数为0次。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与社会公益，报告期内参与社区贡献及公益项目，如南陵共青团春节'微心愿'认领兑现活动，践行企业公民责任。",
+      "original_text": "公司参与的社区贡献及公益项目如下：...关注未成年人健康成长：公司积极参加南陵共青团2025年春节'微心愿'认领兑现",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持公平公正原则，摒弃歧视，女性员工比例38%，女性董事比例25%，关注残疾人员工权益。",
+      "original_text": "女性员工比例达38%，女性董事比例25%，公司关注残疾人员工权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已建立由董事会战略与可持续发展委员会、ESG管理委员会、ESG工作小组构成的三级ESG治理架构，明确各层级职责。",
+      "original_text": "由董事会战略与可持续发展委员会、ESG管理委员会、ESG工作小组构成的三级ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司设立审计部负责内控审计和反舞弊，行政管理部统筹廉洁文化建设，制定并动态更新员工行为准则，构建举报渠道，对违规行为严肃处理。",
+      "original_text": "公司专门设立审计部，主要承担公司内控审计和反舞弊职责...行政管理部负责统筹廉洁文化建设...构建了覆盖所有利益相关方和全部经营活动的举报渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定了一系列风险管理和内控制度，包括重大信息内部报告制度、年报信息披露重大差错责任追究制度等，并设有审计部负责合规管控。",
+      "original_text": "制定了一系列全面且细致的风险管理和内控制度，包括《安徽古麒绒材股份有限公司重大信息内部报告制度》等",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了以高层引领、审计为基础的立体化管理体系，通过主动的风险识别与预警机制，将合规要求内化为经营准则。",
+      "original_text": "构建了以高层引领、审计为基础的立体化管理体系，通过健全主动的风险识别与预警机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司董事长为第一责任人，董事会秘书为负责人，通过互动易平台、投资者现场调研等渠道与投资者沟通。",
+      "original_text": "公司投资者关系管理工作的第一责任人是公司董事长，公司董事会秘书为公司投资者关系管理负责人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别了股东和投资者、政府及监管机构、供应商、客户等关键利益相关方，并通过多元化渠道进行沟通。",
+      "original_text": "系统性地识别并界定了包括股东和投资者、政府及监管机构、供应商、客户等在内的关键利益相关方群体",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格依照证监会和深交所要求进行信息披露，确保真实、准确、完整，并设有审计委员会监督。",
+      "original_text": "严格依照中国证监会发布的《上市公司信息披露管理办法》《深圳证券交易所股票上市规则》进行信息披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及税收优惠政策变化的风险，但未明确税务透明度相关政策和措施。",
+      "original_text": "税收优惠政策变化的风险",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

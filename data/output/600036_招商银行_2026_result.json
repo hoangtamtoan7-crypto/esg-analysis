@@ -1,0 +1,442 @@
+{
+  "company_name": "招商银行",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 503600,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围一+范围二） 万吨二氧化碳当量 50.36",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 29300,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一（直接）温室气体排放量 万吨二氧化碳当量 2.93",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 474300,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二（间接）温室气体排放量 万吨二氧化碳当量 47.43",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 116100,
+      "unit": "兆瓦时",
+      "original_text": "综合能源消耗量 11.61万吨标准煤",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2562800,
+      "unit": "吨",
+      "original_text": "总耗水量 万吨 256.28",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未提及废水排放量数值",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 30729,
+      "unit": "吨",
+      "original_text": "废弃物总量 吨 30,729.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未提及",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 0.64,
+      "unit": "吨",
+      "original_text": "氮氧化物（NO ）排放量 吨 0.64",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.01,
+      "unit": "吨",
+      "original_text": "硫氧化物（SO ）排放量 吨 0.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 0.07,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放量 吨 0.07",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 116474,
+      "unit": "人",
+      "original_text": "劳动合同制员工数 人 109,665 111,901 116,474",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 57,
+      "unit": "%",
+      "original_text": "女性员工比例 % 57 57 57",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 24,
+      "unit": "%",
+      "original_text": "中高层管理人员女性比例 % 23 22 24",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 61777,
+      "unit": "万元",
+      "original_text": "员工培训经费支出 万元 54,777 59,681 61,777",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 156.52,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 113.79 141.24 156.52",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 4.9,
+      "unit": "%",
+      "original_text": "员工流失率1 % 6.61 5.72 4.90",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 11400,
+      "unit": "万元",
+      "original_text": "对外捐赠总额 1.14 1 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 473.66,
+      "unit": "亿元",
+      "original_text": "纳税总额 亿元 562.40 526.48 473.66",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 15,
+      "unit": "人",
+      "original_text": "截至2025年末，本公司董事会由15名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 40,
+      "unit": "%",
+      "original_text": "独立非执行董事6名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "截至2025年末，本公司共有2名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 18,
+      "unit": "次",
+      "original_text": "2025年，召开董事会会议18次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "不再设置监事会",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "本公司积极贯彻落实国家“双碳”战略，全面审视气候变化影响，致力于打造具有气候适应性的“价值银行”，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "本公司积极贯彻落实国家“双碳”战略，全面审视气候变化对本公司的影响，致力于打造具有气候适应性的“价值银行”",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "本公司制定《招商银行办公物业能源管理办法》，构建覆盖温室气体、能源、水资源、纸张、废弃物及污染物等多维度的管理体系。在总行成立绿色运营管理委员会。",
+      "original_text": "制定《招商银行办公物业能源管理办法》，构建覆盖温室气体、能源、水资源、纸张、废弃物及污染物等多维度的管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "本公司开发绿色信贷、绿色债券、可持续发展挂钩贷款等产品，打造绿色金融特色产品服务矩阵，推出《绿色金融综合服务方案》。",
+      "original_text": "推动本公司开发绿色信贷、绿色债券、可持续发展挂钩贷款等产品",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "本公司开展循环经济、生态保护、生物多样性保护等主题活动，带动员工、客户、合作伙伴参与绿色行动。",
+      "original_text": "开展循环经济、生态保护、生物多样性保护等主题活动",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "本公司优先支持绿色农业生产、高标准农田建设、农林废弃物综合利用，推动资源循环利用。",
+      "original_text": "优先支持领域：绿色农业生产、高标准农田建设、农林废弃物综合利用",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "本公司保障员工合法权益，构建全面职业健康与安全管理体系，并持续推进多元员工关怀、民主沟通及企业文化建设。",
+      "original_text": "本公司保障员工合法权益，构建全面职业健康与安全管理体系，并持续推进多元员工关怀、民主沟通及企业文化建设，全面营造安全、",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "构建全面职业健康与安全管理体系，定期开展员工安全教育培训和应急演练，强化红线意识与风险防范能力。",
+      "original_text": "定期开展员工安全教育培训和应急演练，强化红线意识与风险防范能力，确保发生突发事件时，员工具备及时妥善应对的能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司构建安全稳定、高效协同的供应链生态体系，实施合规采购和智慧采购，识别并核查高风险供应商，制定应对预案。",
+      "original_text": "构建安全稳定、高效协同的供应链生态体系。 合规采购 智慧采购...识别并核查高风险供应商，制定针对性应对预案",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "本公司持续完善产品和服务安全与质量，未发生与产品和服务相关的安全与质量方面的监管处罚事件。",
+      "original_text": "品和服务相关的安全与质量方面的监管处罚事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立了完善的数据安全与隐私保护管理体系，包括制度、培训、审计等。",
+      "original_text": "设立信息安全管理委员会；制定《招商银行数据安全管理规定》；开展全员数据安全培训和考试；定期开展网络安全和数据安全审计。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "本公司主动履行社会责任，通过公益慈善活动、教育支持、乡村振兴等积极参与社区发展。",
+      "original_text": "本公司主动履行社会责任，推进产品和服务创新，重点支持新青年、中低收入家庭...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "本公司有女性董事，举办女性骨干培训班，员工多元化背景，符合香港联交所董事会性别多元化要求。",
+      "original_text": "截至2025年末，本公司共有2名女性董事，符合香港联交所上市规则对董事会成员性别多元化的相关要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会及董事会战略与可持续发展委员会每年定期审议可持续发展报告等议案，将ESG融入全行整体经营发展战略。董事会下设专门委员会履行ESG相关职责。",
+      "original_text": "董事会及董事会战略与可持续发展委员会每年定期审议可持续发展报告等议案，确保本公司将涵盖气候风险等在内的ESG相关内容融入全行整体经营发展战略。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "本公司董事会及高级管理层共同监督反贿赂反贪腐事项。内部纪检监察部门、法律合规部门等推进联合治理。面向全体员工开展常态化反贪污、反腐败相关廉洁警示教育培训。",
+      "original_text": "本公司董事会及高级管理层共同监督反贿赂反贪腐事项。内部纪检监察部门、法律合规部门、风险管理部门、审计部门等推进联合治理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司开展'合规履职年'活动，强化'合规优先、合规创造价值'理念。建立覆盖全行的合规培训体系，包括新员工、管理层等培训。",
+      "original_text": "开展'合规履职年'活动，'合规优先、合规创造价值、合规从高层做起'的理念文化深入人心。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会是风险管理最高决策机构，承担全面风险管理最终责任。下设风险与资本管理委员会，高级管理层下设立风险与合规管理委员会。首席风险官独立于操作和经营条线，可直接向董事会报告。",
+      "original_text": "董事会是风险管理最高决策机构，承担全面风险管理的最终责任。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司持续完善投资者交流体系，遵循平等性原则开展投资者关系管理，保障包括中小投资者在内的各类投资者合法权益，精准传递投资价值。",
+      "original_text": "本公司持续完善投资者交流体系，遵循平等性原则开展投资者关系管理，持续提升信息披露的主动性和透明度，保障包括中小投资者在内的各类投资者合法权益，精准传递投资价值。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别出六类主要利益相关方：政府和监管机构、股东与投资者、客户、员工、合作伙伴及社会。通过年度股东会、业绩发布会、定期业绩报告等方式进行沟通。",
+      "original_text": "本公司识别出六类受到招行经营发展影响的主要利益相关方，包括：政府和监管机构、股东与投资者、客户、员工、合作伙伴及社会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司持续提升信息披露的主动性和透明度，确保募集资金使用的合规性与透明度，聘请会计师事务所对绿色金融债券募集资金使用情况进行审计。",
+      "original_text": "持续提升信息披露的主动性和透明度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司强化税务合规性建设和税务风险管控，持续提高税法遵从度。",
+      "original_text": "强化税务合规性建设和税务风险管控，持续提高税法遵从度。",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "600036_招商银行_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

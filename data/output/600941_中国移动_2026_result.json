@@ -1,0 +1,442 @@
+{
+  "company_name": "中国移动",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 190000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "直接温室气体排放总量（范围一）...2025年...19万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 35020000,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "间接温室气体排放总量（范围二）（绿电未抵扣）...2025年...3,502万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 67026713,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "总能源消耗量...2025年...67,026,713兆瓦时",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 40320000,
+      "unit": "吨",
+      "original_text": "总用水量 百万吨 37.41 38.74 40.32",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 1040000,
+      "unit": "万元",
+      "original_text": "2025年，节能环保总体投入为104亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 2.07,
+      "unit": "吨",
+      "original_text": "SO2排放量31 吨 5.17 1.96 2.07",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 461345,
+      "unit": "人",
+      "original_text": "员工总数 人 451,830 455,405 461,345",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 51.51,
+      "unit": "%",
+      "original_text": "全体员工中女性比例 % 52.34 51.93 51.51",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 15.0,
+      "unit": "%",
+      "original_text": "高级管理层中女性比例 % 15.14 14.79 15.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 120.6,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时间 小时 123.1 123.5 120.6",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1.03,
+      "unit": "%",
+      "original_text": "员工流失率22 % 1.31 0.94 1.03",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 374,
+      "unit": "亿元",
+      "original_text": "研发投入15 亿元 341 341 374",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.2,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 % 3.9 3.8 4.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 30.2,
+      "unit": "亿元",
+      "original_text": "安全生产投入 亿元 30.37 27.9 30.20",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 329900,
+      "unit": "万元",
+      "original_text": "\"蓝色梦想\"累计捐赠金额 亿元 2.704 2.984 3.299",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "截至2025年底，董事会由8名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 50,
+      "unit": "%",
+      "original_text": "董事会中有四位独立非执行董事，人数占比超过三分之一",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事数量 人 1 1 1",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "2025年，董事会召开11次会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "2025年董事会各专门委员会召开会议15次",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，将应对气候变化融入公司发展全局，完善气候治理架构，制定'C2三能计划2.0'方案，从愿景、目标、行动、组织、能力五个方面升级，推进'三能六绿'走深走实。",
+      "original_text": "公司积极响应国家'双碳'战略，将应对气候变化融入公司发展全局，完善气候治理架构，制定'C2三能计划2.0'方案",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司严格遵守相关法律法规，印发《中国移动能源节约管理办法》《中国移动生态环境污染风险防控管理办法》等，将可持续发展相关风险纳入风险管理清单，并推动供应商通过ISO14001认证。",
+      "original_text": "公司严格遵守《中华人民共和国节约能源法》...印发《中国移动能源节约管理办法》...将可持续发展相关风险纳入风险管理清单",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司深入探索减排政策机遇，增加低碳信息技术产品的研发费用，不断研发和开发新产品，通过信息化技术降碳杠杆作用，助力客户节能减排。",
+      "original_text": "增加低碳信息技术产品的研发费用，不断研发和开发新产品，通过充分发挥信息化技术降碳杠杆作用，将其应用于各个领域，助力客户节能减排",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生态环境和生物多样性保护置于重要位置，借助数智技术推动生态绿色发展，守护可可西里三江源，赋能生物多样性保护。",
+      "original_text": "中国移动将生态环境和生物多样性保护置于重要位置，借助数智技术推动生态绿色发展，共同守护...守护可可西里三江源赋能生物多样性保护",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司构建覆盖全链条的废旧物资循环利用体系，推动资源节约与绿色运营，包括报废物资全流程线上化处置、电池与维护耗材循环利用等。",
+      "original_text": "公司着力构建绿色文化，打造覆盖全链条的废旧物资循环利用体系，推动资源节约与绿色运营",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守平等雇佣原则，依法与员工签订劳动合同，尊重员工个人信息和隐私，营造公平公正、灵活高效的用工环境。未发生使用童工及强制劳工等违规情况，未发生重大劳动纠纷案件。",
+      "original_text": "公司严格遵守平等雇佣原则，依法与员工签订劳动合同，尊重员工个人信息和隐私，营造公平公正、灵活高效的用工环境。未发生使用童工及强制劳工等违规情况，未发生重大劳动纠纷案件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司关注员工职业健康与安全，严格遵守《中华人民共和国职业病防治法》等法律法规，开展安全应急演练，组织员工参与安全培训，未发生重大安全事故。",
+      "original_text": "公司关注员工职业健康与安全，严格遵守《中华人民共和国职业病防治法》...安全应急演练活动员工参与...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将SA8000、ISO45001、ISO14001认证作为供应商准入条件，建立供应链制度体系，涵盖采购、物流、供应商及质量、供应链安全等，实施供应链风险预警、评价与响应。",
+      "original_text": "将SA8000、ISO45001、ISO14001认证作为供应商准入条件...建立供应链制度体系，涵盖采购、物流、供应商及质量、供应链安全...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立产品质量测评体系，明确产品质量标准，部分子公司通过ISO9001质量管理体系认证，严把产品商用关和迭代关，坚持不达标不商用。",
+      "original_text": "产品质量测评体系：明确产品质量标准...质量管理体系认证：部分子公司通过ISO9001质量管理体系...严把产品商用关和迭代关，坚持不达标不商用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司成立由董事长担任组长的网络与信息安全领导小组，制定《中国移动数据安全管理办法》《中国移动客户个人信息保护实施细则》等制度，建立数据安全技术防护能力，严防数据泄露。",
+      "original_text": "公司成立由董事长担任组长的网络与信息安全领导小组...制定《中国移动数据安全管理办法》《中国移动客户个人信息保护实施细则》...建立数据安全技术防护能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司深耕“一红一蓝”公益慈善品牌项目，累计捐赠金额3.30亿元，开展志愿服务项目超2,000个，参与员工志愿者达10万人次，服务时长超50万小时。",
+      "original_text": "深耕“一红一蓝”公益慈善品牌项目...累计捐赠金额3.30亿元...2025年累计开展志愿服务项目超2,000个，参与员工志愿者达10万人次，服务时长超50万小时。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司倡导多元化和机会平等，关注不同性别和年龄结构的人才引进，努力打造多元化的员工队伍。同等条件下优先招录脱贫地区、民族地区毕业生。",
+      "original_text": "倡导多元化和机会平等，关注不同性别和年龄结构的人才引进，努力打造多元化的员工队伍。同等条件下，优先招录脱贫地区、民族地区毕业生。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立可持续发展委员会，构建‘决策-组织-实施’三层可持续发展管理架构，委员会由执行董事和独立非执行董事组成。",
+      "original_text": "公司设立可持续发展委员会，构建高层深度参与、横向协调、纵向联动的‘决策-组织-实施’三层可持续发展管理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "坚持不懈推动反腐败工作，营造崇廉拒腐、真抓实干风尚。",
+      "original_text": "坚持不懈推动反腐败工作，营造崇廉拒腐、真抓实干风尚",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司持续筑牢依法合规经营防线，合规管理体系更加健全，依法治企能力和合规管理能力不断提升。",
+      "original_text": "持续筑牢依法合规经营防线，合规管理体系更加健全，依法治企能力和合规管理能力不断提升",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立系统完备、层次分明、相互衔接、务实管用的内控风险管理制度体系，每年定期全面梳理内控与内控手册和矩阵融合，一体推进内控建设、合规管理、风险防控、问题整改。",
+      "original_text": "建立了系统完备、层次分明、相互衔接、务实管用的内控风险管理制度体系，每年定期全面梳理内控与内控手册和矩阵融合，一体推进内控建设、合规管理、风险防控、问题整改",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格履行信息披露责任，保持与利益相关方的沟通，获得最佳投资者关系公司等荣誉。",
+      "original_text": "严格履行信息披露责任，保持与利益相关方的沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过问卷调查、访谈、座谈会等方式广泛收集股东、客户、员工、供应商、社区居民和监管机构等利益相关方的意见，综合分析这些期望并纳入议题库。",
+      "original_text": "通过问卷调查、访谈、座谈会等方式广泛收集股东、客户、员工、供应商、社区居民和监管机构等利益相关方的意见，综合分析这些期望并纳入议题库",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司信息披露工作由董事会统一领导和管理，确保信息披露合法、真实、准确、完整、及时和公允。",
+      "original_text": "公司信息披露工作由董事会统一领导和管理，确保信息披露合法、真实、准确、完整、及时和公允",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司持续强化业财税融合，将合规管理嵌入业务环节，完善智能化风险防控体系，强化数电发票应用，并披露税收治理、控制及风险管理。",
+      "original_text": "持续强化业财税融合，将合规管理嵌入业务环节，完善智能化风险防控体系，强化数电发票应用；GRI 207：207-2 税收治理、控制及风险管理 97",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "600941_中国移动_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.875
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "首钢股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 44420648,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2025年，公司温室气体排放量（范围1+范围2）为44420648吨二氧化碳当量。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 41831526,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围1） 吨二氧化碳当量 41,831,526",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 2589122,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围2） 吨二氧化碳当量 2,589,122",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 12556125,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗总量 吨标准煤 13,898,235 16,055,181 12,556,125",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 2,
+      "unit": "%",
+      "original_text": "清洁能源/可再生能源用量占比 % 0.82 0.99 2",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 49883300,
+      "unit": "吨",
+      "original_text": "年度总用水量 万立方米 498,833",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 425200,
+      "unit": "吨",
+      "original_text": "废水总排放量 万吨 37.37 34.66 42.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 12895800,
+      "unit": "吨",
+      "original_text": "无害废弃物产生量 万吨 1,266.92 1,299.89 1,289.58",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 320200,
+      "unit": "万元",
+      "original_text": "近5年累计环保总投入 亿元 47.01 49.75 32.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 4021.65,
+      "unit": "吨",
+      "original_text": "氮氧化物（NOx）排放量 吨 7,460.57 4,021.65",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 1761.83,
+      "unit": "吨",
+      "original_text": "二氧化硫（SO2）排放量 吨 3,717.29 1,761.83",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 4888.92,
+      "unit": "吨",
+      "original_text": "颗粒物（PM）排放量 吨 5,397.81 5,397.15 4,888.92",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 18226,
+      "unit": "人",
+      "original_text": "员工总数 人 18,226 17,762 18,293",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性董事占比（%）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 2104,
+      "unit": "万元",
+      "original_text": "职业培训投入 万元 2,104 1,615 1,990",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 104,
+      "unit": "小时/人",
+      "original_text": "员工培训人均时长 小时 104 102 103",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 0.36,
+      "unit": "%",
+      "original_text": "员工离职率 % 1.23 2.18 0.36",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 502212,
+      "unit": "万元",
+      "original_text": "研发投入 | 万元 | 502,212 | 489,227 | 479,158",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.66,
+      "unit": "%",
+      "original_text": "研发投入占比 % 3 4.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 15200,
+      "unit": "万元",
+      "original_text": "安全生产投入1.52亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 88.92,
+      "unit": "万元",
+      "original_text": "组织“献爱心”募捐88.92万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会由9名成员组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事比例 % 50 50 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 4,
+      "unit": "人",
+      "original_text": "包括4名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "2025年，组织召开董事会会议12次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "完成监事会改革",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会专门委员会13次",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司深度落实国家双碳目标，构建全链条应对气候变化体系，以短中长期战略布局推进低碳转型，目标2060年碳中和。",
+      "original_text": "首钢股份深度落实国家“双碳”目标，构建全链条应对气候变化体系，以短中长期战略布局推进低碳转型。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司构建权责清晰的环境管理体系，通过能源管理体系认证的场所比例100%，迁钢公司、京唐公司连续获评河北省环保绩效A级企业。",
+      "original_text": "构建权责清晰的环境管理体系，深化多维度精准治污，持续巩固环保绩效行业领先地位。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司发布SOGREECO系列绿色低碳产品商标与绿色低碳冷轧和热镀钢板及钢带系列企标，典型产品大类EPD全覆盖，23个产品完成碳足迹认证。",
+      "original_text": "发布“SOGREECO”系列绿色低碳产品商标与《绿色低碳冷轧和热镀钢板及钢带》系列企标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司坚守生物多样性保护理念，打造森林式工厂，全方位塑造钢铁行业绿色发展新范式。",
+      "original_text": "坚守生物多样性保护理念，打造森林式工厂，全方位塑造钢铁行业绿色发展新范式。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司持续推动固废资源化、高值化利用，形成区域产业协作、城市与企业融合的循环经济发展新模式。",
+      "original_text": "持续推动固废资源化、高值化利用，形成区域产业协作、城市与企业融合的循环经济发展新模式。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚持以人为本，构建友好型工作场所，制定《劳动合同管理制度》，保障员工权益，严格保护员工个人隐私，提供平等就业机会。",
+      "original_text": "坚持以人为本，构建友好型工作场所...制定《劳动合同管理制度》...严格保护员工个人隐私。在招聘录用、薪酬福利、职业教育、技术培训、晋职晋级、参...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，覆盖率100%，构建'五位一体'职业健康安全管理体系，开展职业病危害因素检测和职业健康体检。",
+      "original_text": "ISO 45001 职业健康安全管理体系认证覆盖率100%...构建'五位一体'职业健康安全管理体系...职业病危害因素100%检测与接触人员100%职业健康体检",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司健全供应链ESG管理机制，优先考虑ESG表现较好的供应商，提供ESG相关培训，包括商业道德、劳工权益、环境保护、职业健康与安全等内容。",
+      "original_text": "健全供应链ESG管理机制...优先考虑ESG表现较好的供应商...提供ESG相关培训，包括商业道德、劳工权益、环境保护、职业健康与安全等内容",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚守质量强企理念，构建产品全生命周期质量管理与客户服务体系，获评中国质量协会'全国质量标杆'，获得客户奖项54项。",
+      "original_text": "坚守质量强企理念，构建产品全生命周期质量管理与客户服务体系...获评中国质量协会'全国质量标杆'...获得客户奖项54项",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司高度重视数据安全与客户隐私保护，提高信息安全防护水平，2025年未发生数据安全和泄露客户隐私事件，定期对全体员工进行信息安全培训。",
+      "original_text": "高度重视数据安全与客户隐私保护...2025年，未发生数据安全和泄露客户隐私事件...定期对全体员工进行信息安全培训和教育",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极践行社会责任，推动企业与城市、社区融合发展，开展社会公益活动，青年志愿服务团队获评'首都最佳志愿服务组织'。",
+      "original_text": "积极践行社会责任，推动企业与城市、社区融合发展...青年志愿服务团队获评'首都最佳志愿服务组织'",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司提供平等就业机会，保障女性员工权益，组织女性员工礼仪培训，提供妇科健康检查等，营造平等包容、健康和谐的职场生态。",
+      "original_text": "组织女性员工礼仪培训...提供妇科健康检查等，保障女性员工健康...打造平等包容、健康和谐、充满活力的职场生态",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建了由董事会、董事会战略、风险、ESG与合规管理委员会、ESG工作小组构成的ESG治理架构，并制定了相关管理制度。",
+      "original_text": "公司制定了《ESG工作推进方案》《ESG工作管理制度》《董事会战略、风险、ESG与合规管理委员会工作条例》，明确了专门委员会及各部门的ESG管理工作职责。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司对腐败、舞弊等不合规行为坚持零容忍态度，构建了董事会负责、专门委员会监督、多部门执行的商业道德管理架构，并开展尽职调查与合规筛选。",
+      "original_text": "高度重视并持续营造廉洁守正的企业文化，对腐败、舞弊等不合规行为坚持零容忍态度，推动诚信合规理念融入经营发展各环节。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定了多项合规管理制度，开展商业道德相关审计，并建立举报机制，确保运营合规。",
+      "original_text": "公司构建了董事会负责，董事会专门委员会监督，纪委、审计、风控、合规等部门具体执行的商业道德管理架构，实现执行落地、审计管理办法等制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了完善的风险管理架构，董事会战略、风险、ESG与合规管理委员会是风险管理的最高管理机构，制定了多项风险管理制度。",
+      "original_text": "公司构建了完善的风险管理架构。董事会战略、风险、ESG与合规管理委员会是风险管理的最高管理机构，负责研究风险与合规管理制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，通过业绩说明会、互动易平台等方式与投资者沟通，并制定了股东回报规划。",
+      "original_text": "高度重视投资者关系管理，提升信息披露质量，以规范、稳健、高效的治理实践支撑企业高质量可持续发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多种方式与利益相关方沟通，包括股东会、业绩说明会、现场调研等，并开展重要性评估。",
+      "original_text": "利益相关方沟通：股东与投资者、供应商等，通过股东会、业绩说明会、现场调研等方式。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司在深交所2024-2025年度信息披露工作考核评级中获评A级，信息披露准确率高。",
+      "original_text": "在深交所2024-2025年度上市公司信息披露工作考核评级中获评A级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司恪守国家税收法律法规，建立了全面的税务管理体系，确保税务合规。",
+      "original_text": "公司恪守国家税收法律法规及相关政策要求，依法全面履行纳税义务。建立了全面且完善的税务管理体系。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.923
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

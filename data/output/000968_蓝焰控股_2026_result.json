@@ -1,0 +1,441 @@
+{
+  "company_name": "蓝焰控股",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 173191.41,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 173,191.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 25154.64,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放 吨二氧化碳当量 25,154.64",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 148036.77,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放 吨二氧化碳当量 148,036.77",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.8208,
+      "unit": "吨二氧化碳当量/万元营业收入",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/万元营业收入 0.8208",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1525,
+      "unit": "人",
+      "original_text": "按性别 劳动合同制（人） 1,346 179",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 71.75,
+      "unit": "小时/年",
+      "original_text": "员工培训平均时长 小时/年 71.75",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 2.66,
+      "unit": "%",
+      "original_text": "员工流失率 % 2.66",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 8450.22,
+      "unit": "万元",
+      "original_text": "研发费用 万元 8,450.22",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4,
+      "unit": "%",
+      "original_text": "研发费用占主营业务收入比例 % 4",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 943.45,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 943.45",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "2025年底，董事会共由7名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.6,
+      "unit": "%",
+      "original_text": "独立董事占比42.6%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "其中男性董事5名、女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "董事会会议召开次数 次 7",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，将气候变化因素纳入中长期发展战略与风险管理体系，持续研判气候政策、市场与技术趋势，推动气候挑战向绿色发展机遇转化。",
+      "original_text": "公司积极响应国家'双碳'战略，将气候变化因素逐步纳入企业中长期发展战略与风险管理体系，持续研判气候政策、市场与技术趋势，推动气候挑战向绿色发展机遇转化。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司全面加强环境管理体系建设，规范废弃物、生活污水及固体废弃物的无害化处理与资源化利用，开展生态修复与生物多样性保护。",
+      "original_text": "全面加强环境管理体系建设，规范废弃物、生活污水及固体废弃物的无害化处理与资源化利用，开展生态修复与生物多样性保护。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司提供更多低碳清洁能源，推进煤层气全生命周期碳足迹核算体系建设，主导制定行业国家标准，战略合作绑定绿色客户，推广清洁能源品牌。",
+      "original_text": "推进煤层气全生命周期碳足迹核算体系建设，主导制定行业国家标准，战略合作绑定绿色客户，推广清洁能源品牌。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司严守生态保护红线、水源保护区、森林公园等生态敏感区管控要求，落实生态环境与生物多样性保护措施，开展环保教育引导员工爱护环境。",
+      "original_text": "公司严守生态保护红线、水源保护区、森林公园等生态敏感区管控要求，落实生态环境与生物多样性保护措施，开展环保教育引导员工爱护环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司积极推动循环经济发展，盘活闲置资源，通过技术改进与专利应用，有效降低设施设备采购成本，实现闲置资源再利用与资产增值。",
+      "original_text": "公司以打造资源节约型、环境友好型企业为目标，积极推动循环经济发展，盘活闲置资源，通过技术改进与专利应用，有效降低设施设备采购成本，实现闲置资源再利用与资产增值。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司保障员工合法权益，依法签订劳动合同，禁止强迫劳动，提供平等薪酬，建立工会组织。",
+      "original_text": "切实保护员工合法权益，积极构建规范有序、公正透明的劳动关系。依法签订劳动合同，禁止强迫劳动，保障员工合法劳动报酬权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司通过ISO 45001职业健康安全管理体系认证，实施HSE一体化管理，开展安全培训，安全培训覆盖率100%。",
+      "original_text": "通过ISO 45001职业健康安全管理体系认证，实施健康、安全和环境（HSE）一体化管理，安全培训覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司规范供应链管理，确保工资足额按时发放、工时合理合规、作业环境安全健康，以契约化管理压实供应链社会责任。",
+      "original_text": "确保工资足额按时发放、工时合理合规、作业环境安全健康，以契约化管理压实供应链社会责任，切实维护劳动者合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过ISO 9001质量管理体系认证，管输煤层气气质持续达到国家一类气标准，煤层气质量检测抽检合格率100%。",
+      "original_text": "通过ISO 9001质量管理体系认证，管输煤层气气质持续达到国家一类气标准，煤层气质量检测抽检合格率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全法、个人信息保护法，制定信息安全管理制度，开展网络安全宣传教育与培训。",
+      "original_text": "严格遵守《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》，制定实施《信息安全管理制度》《信息安全风险评估管理制度》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过乡村振兴、社会公益、志愿服务等活动深化企地共建，增进民生福祉。",
+      "original_text": "践行公益行动三大路径，持续深化企地共建、增进民生福祉，开展抗旱保耕、志愿服务、爱心献血等公益活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司拒绝性别、地域、民族等就业歧视，对歧视骚扰采取零容忍态度，不以民族、种族、性别、宗教信仰等因素区别对待劳动者。",
+      "original_text": "多元化与反歧视：拒绝性别、地域、民族等各类就业歧视，对歧视骚扰采取零容忍态度，不以民族、种族、性别、宗教信仰等因素区别对待劳动者。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建了董事会统筹引领、专业部门归口管控、子分公司具体执行、全员协同参与的ESG治理架构，董事会下设战略与可持续发展委员会履行ESG相关职责。",
+      "original_text": "建“董事会统筹引领、专业部门归口管控、子分公司具体执行、全员协同参与”的四层权责边界，形成“风险-内控-合规”三位一体管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司构建“制度防范、过程监督、严肃查处”三位一体的反腐长效机制，深入开展“清廉国企”建设，确保各项经营活动依法合规、公平有序。",
+      "original_text": "构建“制度防范、过程监督、严肃查处”三位一体的反腐长效机制，深入开展“清廉国企”建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司全面推动“风险-内控-合规”体系建设，强化合规管理组织体系，压实各层级合规责任，形成“纵向到底、横向到边”的合规责任网络。",
+      "original_text": "全面推动“风险-内控-合规”体系建设，强化重点领域监督管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司以“内控-合规-风险”三位一体建设为抓手，推动内控内审、合规管理、风险管控深度融合，持续优化安全风险分级管控与隐患排查治理双重预防机制。",
+      "original_text": "蓝焰控股坚持以“内控-合规-风险”三位一体建设为抓手，推动内控内审、合规管理、风险管控深度融合。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格遵守投资者关系管理相关监管要求，修订完善《投资者关系管理制度》《接待和推广工作制度》，切实保障股东知情权与参与权，维护中小投资者合法权益。",
+      "original_text": "蓝焰控股严格遵守投资者关系管理相关监管要求，修订完善《投资者关系管理制度》《接待和推广工作制度》，切实保障股东知情权与参与权，维护中小投资者合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视利益相关方的期望和诉求，健全与各利益相关方的常态化沟通机制，畅通沟通渠道，积极传递公司可持续发展信息，获取意见建议并积极回应。",
+      "original_text": "蓝焰控股高度重视利益相关方的期望和诉求，健全与各利益相关方的常态化沟通机制，畅通沟通渠道，积极传递公司可持续发展信息，获取利益相关方对公司的意见建议并积极回应。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守证监会、深交所有关信息披露管理规定，修订《信息披露管理制度》《内幕信息知情人登记管理制度》等多项制度，持续优化工作流程，提升信息披露质量与规范性。",
+      "original_text": "严格遵守证监会、深交所有关信息披露管理规定，修订《信息披露管理制度》《内幕信息知情人登记管理制度》等多项制度，并制定《信息披露暂缓与豁免管理制度》，持续优化工作流程，提升信息披露质量与规范性。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司披露了税务方针（207-1）和税务治理、控制和风险管理（207-2），表明公司重视税务合规与透明度。",
+      "original_text": "207-1 税务方针 合规风险管理 207-2 税务治理、控制和风险管理 合规风险管理",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.827
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

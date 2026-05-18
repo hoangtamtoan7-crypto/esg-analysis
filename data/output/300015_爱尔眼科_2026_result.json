@@ -1,0 +1,442 @@
+{
+  "company_name": "爱尔眼科",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 100210.33,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体总排放量100,210.33吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 9238.18,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范畴一温室气体排放量 吨二氧化碳当量 9,238.18",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 90972.14,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范畴二温室气体排放量 吨二氧化碳当量 90,972.14",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.045,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体总排放强度0.045吨二氧化碳当量/万元营收",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 0.02,
+      "unit": "%",
+      "original_text": "可再生能源占比 % 0.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1621675,
+      "unit": "吨",
+      "original_text": "市政供水 吨 1,621,675",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1621675,
+      "unit": "吨",
+      "original_text": "废水排放总量 1,621,675吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "本年度，爱尔眼科不涉及废气排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "本年度，爱尔眼科不涉及废气排放",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "本年度，爱尔眼科不涉及废气排放",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 42817,
+      "unit": "人",
+      "original_text": "截至2025年末，本集团共有员工42,817人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 78,
+      "unit": "%",
+      "original_text": "女性员工占比高达78%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 42,
+      "unit": "%",
+      "original_text": "集团副总监级别及以上的女性高管占比42%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1536.1,
+      "unit": "万元",
+      "original_text": "2025年，培训支出金额1,536.1万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 19.91,
+      "unit": "小时/人",
+      "original_text": "2025年，员工受训总小时数为852,636小时，平均受训时数为19.91小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 11.9,
+      "unit": "%",
+      "original_text": "2025年，本集团的员工离职率为 11.9%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 30200,
+      "unit": "万元",
+      "original_text": "2025年，集团研发投入金额3.02亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.35,
+      "unit": "%",
+      "original_text": "占主营业务收入1.35 %",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1083,
+      "unit": "万元",
+      "original_text": "工伤保险、安全生产责任险投入金额 万元 1,083",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 5402.77,
+      "unit": "万元",
+      "original_text": "投入金额5,402.77万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 7,
+      "unit": "人",
+      "original_text": "董事会成员由7名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 42.86,
+      "unit": "%",
+      "original_text": "独立董事3名，占比14%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "其中女性董事1名，占比14%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 17,
+      "unit": "次",
+      "original_text": "共召开17次董事会会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "集团将应对气候变化纳入核心治理体系，由董事会下属的可持续发展委员会作为最高决策机构，参照TCFD披露框架，在治理、战略、风险管理、指标与目标四个维度持续深化气候行动。",
+      "original_text": "集团将应对气候变化纳入核心治理体系，由董事会下属的可持续发展委员会作为最高决策机构，并委任集团总...参照TCFD披露框架，在治理、战略、风险管理、指标与目标四个维度，持续深化气候行动",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "通过ISO14001环境管理体系认证，制定并实施《爱尔眼科医院集团节能降耗管理制度》等环境制度，全面适用于集团总部、各省区和集团下属各医疗机构。",
+      "original_text": "通过ISO14001环境管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "长沙爱尔眼科医院获得LEED HC绿色医疗建筑金级认证，推动绿色医院建设。",
+      "original_text": "长沙爱尔眼科医院 LEED HC绿色医疗建筑金级认证",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "将生态保护全面融入环境管理全流程，严守生态保护红线要求，通过实施绿化、采用环保建材及优化能源结构等措施，降低运营对生态环境的压力。",
+      "original_text": "爱尔眼科高度重视自身运营对生态系统及生物多样性的影响，将生态保护全面融入环境管理全流程。我们严守...重点生态功能区种植绿化，优化院区生态、提升区域生态韧性",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "集团将循环经济纳入医院环境管理体系，通过科学制度与规范流程推动资源循环利用。对可回收物与废弃物精细化处理，推动资源再生与循环利用。建立物料循环利用与回收体系，对可重复使用器械规范消毒，对废弃物分类回收并委托专业机构合规处置。",
+      "original_text": "爱尔眼科将循环经济纳入医院环境管理体系，通过科学制度与规范流程，推动医院卫生环境持续优化、生活垃圾",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司坚决维护员工合法权益，建立科学公正的薪酬福利体系及多序列晋升机制，重视女性员工权益，落实同工同酬，保障女性平等发展权利。",
+      "original_text": "爱尔眼科以'共创、共享、共赢'的企业文化为引领，坚决维护员工合法权益，建立科学、公正的薪酬福利体系及多序列晋升机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司严格落实职业健康安全防护措施，持续构建覆盖全体员工、多工作场景的职业健康与安全保障体系，建立安全风险监测与评估机制，编制应急预案。",
+      "original_text": "我们严格落实职业健康安全防护措施，持续深化多元化员工关怀举措。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商进行ESG表现评估，包括质量、环境、职业健康安全三体系认证，并筛查健康工作环境及劳工权益保护风险，确保不存在童工、强迫劳动等。",
+      "original_text": "在供应商ESG管理实施层面，集团以'质量、环境、职业健康安全'三体系认证标准为参考，系统评估供应商。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司搭建覆盖全诊疗周期的标准化管控体系，开展医疗质量与安全专项培训及竞赛，强化药物质量与安全意识，提升医疗服务质量。",
+      "original_text": "爱尔眼科将医疗质量与安全作为守护眼健康的基石。我们搭建覆盖全诊疗周期的标准化管控体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建信息安全与隐私保护意识培养体系，制定《安全教育及培训管理办法》，每年至少组织一次全员覆盖的专业培训，涵盖信息安全基础、隐私保护等。",
+      "original_text": "爱尔眼科构建并不断完善信息安全与隐私保护意识培养体系，制定《安全教育及培训管理办法》。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展眼健康公益项目及社区服务，如基层医生培训、防盲阳光行活动，并协同爱眼公益基金会加大慈善医疗救助力度，提升公益影响力。",
+      "original_text": "我们秉持'预防为主、防治结合'的原则，面向多元群体开展眼健康公益项目及社区服务。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视女性员工权益，女性员工占比78%，构建公平公正的就业环境，并定期组织反歧视和反骚扰培训，营造平等尊重、包容友善的职场氛围。",
+      "original_text": "本集团重视女性员工权益的维护与保障...截至2025年末，公司女性员工占比高达78%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "集团已构建由董事会、可持续发展委员会及可持续发展工作小组组成的三级ESG治理架构。董事会战略委员会负责统筹可持续发展相关事宜，下设可持续发展委员会。",
+      "original_text": "集团已构建由董事会、可持续发展委员会及可持续发展工作小组组成的三级ESG治理架构。董事会战略委员会负责统筹可持续发展相关事宜，下设可持续发展委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "集团董事会对商业道德与反贪腐事宜履行最高管理责任，董事会战略委员会下设由董事长管理领导的反腐倡廉与职业道德委员会。制定了《反贿赂政策》及《商业道德行为准则》等政策制度，对任何形式的腐败与贿赂行为坚持'零容忍'。",
+      "original_text": "集团董事会对集团商业道德与反贪腐事宜履行最高管理责任；董事会战略委员会下设由董事长管理领导的反腐倡廉与职业道德委员会；制定了《反贿赂政策》及《商业道德行为准则》等政策制度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "集团将商业道德作为企业治理和稳健运营的重要基石，持续健全廉洁合规管理体系，将诚信经营要求与商业道德标准嵌入经营管理与业务开展全过程。要求所有供应商签署《廉洁协议》和《诚信经营承诺书》。",
+      "original_text": "爱尔眼科始终将商业道德作为企业治理和稳健运营的重要基石；要求包括供应商在内的所有商业伙伴遵守适用的反腐败法律法规，恪守商业道德",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "集团建立了'三道防线'风险管控体系，通过系统化协作与制衡机制保障合规管理体系持续有效运行。董事会审计委员会负责监督风险管理及内部控制相关事宜。建立季度汇报机制，定期向董事会汇报风险管理情况。",
+      "original_text": "建立了'三道防线'风险管控体系，通过系统化协作与制衡机制，保障合规管理体系持续有效运行；董事会审计委员会负责监督风险管理及内部控制相关事宜；建立季度汇报机制，定期向董事会汇报",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "集团优化投资者关系管理，切实保障股东、投资者及其他利益相关方的权益。通过股东会、信息披露等多种方式与投资者沟通。2024年度获得投资者关系管理最佳实践、年报业绩说明会优秀实践等荣誉。",
+      "original_text": "优化投资者关系管理，切实保障股东、投资者及其他利益相关方的权益；2024年度投资者关系管理最佳实践、年报业绩说明会优秀实践",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "集团重视利益相关方的参与及沟通，通过股东会、信息披露、投资者沟通、供应商交流、员工培训等多种方式与各利益相关方保持沟通。定期开展ESG议题重要性评估，邀请内外部利益相关方参与。",
+      "original_text": "爱尔眼科重视利益相关方的参与及沟通；我们通过股东会、信息披露、投资者沟通、供应商交流、员工培训等多种方式与各利益相关方保持沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "集团严格遵循《上市公司信息披露管理办法》等法律法规，制定并实施《信息披露事务管理制度》。董事长为信息披露工作第一责任人，董事会秘书为直接责任人。2024-2025年度信息披露考核为A（深交所）。",
+      "original_text": "严格遵循《上市公司信息披露管理办法》《深圳证券交易所创业板股票上市规则》及《深圳证券交易所创业板上市公司规范运作指引》等法律法规的要求，制定并实施《信息披露事务管理制度》；2024-2025年度信息披露考核为A",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "集团提及'严格落实信息披露及税务合规要求，提升规范运作水平'，但未详细说明税务透明度相关具体政策或措施。",
+      "original_text": "严格落实信息披露及税务合规要求，提升规范运作水平",
+      "confidence": "medium"
+    }
+  ],
+  "source_file": "300015_爱尔眼科_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.894
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

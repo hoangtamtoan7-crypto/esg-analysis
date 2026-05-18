@@ -1,0 +1,441 @@
+{
+  "company_name": "慕思股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 15885.53,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一+范围二） 吨二氧化碳当量 15,885.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 37.01,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 37.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 15848.52,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 15,848.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 3.04,
+      "unit": "吨二氧化碳当量/百万营收",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/百万营收 3.04",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 4396.11,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 4,396.11",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 29.1,
+      "unit": "%",
+      "original_text": "清洁能源消耗占比 % 29.10",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 20386.19,
+      "unit": "吨",
+      "original_text": "耗水量² 吨 20,386.19",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 244634.28,
+      "unit": "吨",
+      "original_text": "废水排放量 吨 244,634.28",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 1.73,
+      "unit": "吨",
+      "original_text": "颗粒物(PM) 吨 1.73",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4949,
+      "unit": "人",
+      "original_text": "截至报告期末，公司共有员工 4,949 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 37,
+      "unit": "%",
+      "original_text": "女性员工占比37%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 171.86,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 171.86",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 27.26,
+      "unit": "%",
+      "original_text": "员工流失率³ % 27.26",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 22427.72,
+      "unit": "万元",
+      "original_text": "研发投入 万元 22,427.72",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 4.29,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 4.29",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 507.8,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 507.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 338.21,
+      "unit": "万元",
+      "original_text": "全年投入公益慈善资金338.21万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "纳税总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会成员9人",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比达33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "女性董事1名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 6,
+      "unit": "次",
+      "original_text": "报告期内，公司共召开董事会会议6次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": 805.54,
+      "unit": "万元",
+      "original_text": "董事及高级管理人员报酬（包含现任和离任）万元 805.54",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 4,
+      "unit": "次",
+      "original_text": "召开审计委员会会议次数 次 4",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家“双碳”战略，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司积极响应国家“双碳”战略，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "全面通过ISO14001环境管理、ISO50001能源管理体系认证，慕思总部及嘉兴基地均获评国家级“绿色工厂”。",
+      "original_text": "全面通过ISO14001环境管理、ISO50001能源管理体系认证，慕思总部及嘉兴基地均获评国家级“绿色工厂”。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司践行绿色设计与循环经济，环保材料全覆盖，产品符合环保标准，获得清洁生产企业及绿色工厂认证。",
+      "original_text": "公司践行绿色设计与循环经济，环保材料全覆盖，产品符合环保标准，获得清洁生产企业及绿色工厂认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "践行绿色设计与循环经济，环保材料全覆盖，废弃物合规处置率100%。",
+      "original_text": "践行绿色设计与循环经济，环保材料全覆盖，废弃物合规处置率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司视员工为最宝贵的财富，构建全周期培训与职业发展体系，保障职业健康安全，实现社保覆盖率100%，打造包容共融的职场生态。",
+      "original_text": "我们视员工为最宝贵的财富，构建全周期培训与职业发展体系，投入资金开展员工培训，保障职业健康安全，实现社保覆盖率100%、女性员工占比37%，打造包容共融的职场生态",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司高度重视员工安全生产与职业健康管理，积极开展急救培训、工伤预防培训以及职业病防治宣传教育活动。",
+      "original_text": "公司高度重视员工安全生产与职业健康管理，积极开展急救培训、早会培训、工伤预防培训以及职业病防治宣传教育活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司致力于打造负责任的供应链，要求供应商在禁止童工与强迫劳动、规范用工管理、反腐败与诚信经营、环境保护及职业健康安全等方面通过社会责任审核。",
+      "original_text": "社会责任审核，要求供应商在禁止童工与强迫劳动、规范用工管理、反腐败与诚信经营、环境保护及职业健康安全",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建了覆盖研发、采购、生产、物流到售后的全生命周期质量管理体系，通过CNAS实验室认可，荣获SGS QTL认可实验室证书等。",
+      "original_text": "公司构建了覆盖研发、采购、生产、物流到售后的全生命周期质量管理体系，通过质量前置、部门协同和持续改进...公司检测中心通过CNAS实验室认可，荣获SGS国际测试、检验和认证机构颁发的QTL认可实验室证书",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立了完善的数据安全管理体系，涵盖管理制度、安全基线检查规范、信息安全管理规定和信息泄露问责标准，依据ISO/IEC27001标准制定手册，并自主研发出基于联发科芯片的边缘计算模块保障数据隐私。",
+      "original_text": "公司建立了完善的数据安全管理体系，涵盖管理制度、安全基线检查规范、信息安全管理规定和信息泄露问责标准...公司自主研发出基于联发科芯片的边缘计算模块。该模块可实现所有睡眠数据的本地化计算、存储与服务处理，无需上传至云端",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司深耕社会公益，全年投入公益慈善资金338.21万元，推进“梦想100分”公益计划、睡眠科普研学与灾害援助行动。",
+      "original_text": "深耕社会公益，全年投入公益慈善资金338.21万元，推进“梦想100分”公益计划、睡眠科普研学与灾害援助行动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司关注残疾员工与女性员工的权益保障，设置无障碍卫生间，女性员工占比37%，打造包容共融的职场生态。",
+      "original_text": "持续关注残疾员工与女性员工的权益保障。在残疾员工...设置了无障碍卫生间...女性员工占比37%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司构建权责清晰、运行高效的治理架构，强化董事会多元化与独立性建设，完善风险管控与信息披露机制。",
+      "original_text": "我们构建权责清晰、运行高效的治理架构，强化董事会多元化与独立性建设，完善风险管控与信息披露机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司严守商业道德底线，强化员工廉政自律管理，常态化开展经销商反腐风险评估，员工廉正自律承诺书签署率100%，经销商反腐败风险评估覆盖率100%。",
+      "original_text": "严守商业道德底线，强化员工廉政自律管理，常态化开展经销商反腐风险评估",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持诚信经营，共同维护公平、廉洁的商业环境，全面防范化解商业道德及廉洁风险。报告期内未发生因商业贿赂及贪污行为导致诉讼或重大行政处罚的事件。",
+      "original_text": "坚持诚信经营，共同维护公平、廉洁的商业环境，全面防范化解商业道德及廉洁风险。报告期内，公司未发生因商业贿赂及贪污行为导致诉讼或重大行政处罚的事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司制定《风险识别与风险管控管理规定》《财务风险管理规定》《项目风险管理流程》《人力资源合规风险管控》等制度，从风险事件的严重性、发生概率以及可探测性三个方面进行评价，促进内部控制体系不断完善。",
+      "original_text": "公司制定《风险识别与风险管控管理规定》《财务风险管理规定》《项目风险管理流程》《人力资源合规风险管控》等规章制度，从风险事件的严重性、发生概率以及可探测性三个方面对不同的事件进行评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理，由董事会办公室负责投资者关系管理，制定《投资者关系管理制度》，建立投资者交流渠道，报告期内互动易投资者回答问题22次，回复率100%。",
+      "original_text": "公司高度重视投资者关系管理，由董事会办公室负责投资者关系管理，制定《投资者关系管理制度》，建立投资者交流渠道",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与各利益相关方之间的沟通，通过多种渠道与各利益相关方积极展开沟通，倾听与回应不同的声音。",
+      "original_text": "公司高度重视与各利益相关方之间的沟通，并通过多种渠道与各利益相关方积极展开沟通，倾听与回应不同的声音。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司完善信息披露机制，确保信息披露透明度，本报告于2026年4月27日获公司董事会批准，并与年报同期发布。董事会承诺对报告内容进行监督，并确保其不存在虚假记载、误导性陈述或重大遗漏。",
+      "original_text": "完善风险管控与信息披露机制；本报告于2026年4月27日获公司董事会批准，并与年报同期发布。董事会承诺对报告内容进行监督，并确保其不存在虚假记载、误导性陈述或重大遗漏。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司依法申报缴纳税款，严格把控发票管理、税务核算、申报缴纳等环节，定期进行税务合规内部审查。",
+      "original_text": "报和缴纳税款，对发票管理、税务核算到申报缴纳等各个环节严格把控，杜绝潜在风险，保障税务处理全程合法合规、准确高效。公司定期进行税务合规的内部审查",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.913
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

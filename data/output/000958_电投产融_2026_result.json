@@ -1,0 +1,441 @@
+{
+  "company_name": "电投产融",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 3478600,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围 1- 直接温室气体排放产生的二氧化碳当量 万吨 347.86",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 19800,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围 2- 间接温室气体排放产生的二氧化碳当量 万吨 1.98",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1288500,
+      "unit": "吨",
+      "original_text": "淡水耗水量 万吨 128.85",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 810100,
+      "unit": "吨",
+      "original_text": "一般固体废弃物产生量 万吨 81.01",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 4083,
+      "unit": "人",
+      "original_text": "员工总数 人 4083",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 18.52,
+      "unit": "%",
+      "original_text": "女性员工占比 % 18.52",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 4555.38,
+      "unit": "万元",
+      "original_text": "年度培训投入 万元 4555.38",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 122.52,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 122.52",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 1.3,
+      "unit": "%",
+      "original_text": "员工流失率 % 1.30",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "科技研发投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 17815.53,
+      "unit": "万元",
+      "original_text": "安全生产投入总额 万元 17815.53",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 371.39,
+      "unit": "万元",
+      "original_text": "公益支出总额 万元 371.39",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 20.84,
+      "unit": "亿元",
+      "original_text": "纳税总额 亿元 20.84",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "司章程》规定，董事会由9名董事组成，其中独立董事3人。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3人，董事会9人，比例33.33%",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "召开董事会 11 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开审计与风险委员会会议 次数未明确",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家'双碳'战略，参照TCFD框架识别气候风险与机遇，制定碳减排目标，推动碳排放强度与总量双降，稳步推进碳足迹核算及全生命周期温室气体排放核算。",
+      "original_text": "公司积极响应国家'双碳'战略部署，参照气候相关财务信息披露工作组（TCFD）披露框架建议，系统识别并分析气候相关风险与机遇，制定针对性气候行动策略，持续提升气候变化议题治理水平。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司安全质量部承担环境管理相关职能，推动绿色低碳发展。山东核电建立常态化环境监测体系，对空气、水、土壤、生物等介质布设监测点位，按月度、季度、年度开展监测，实现全流程数字化管理。",
+      "original_text": "安全质量部承担公司环境管理相关职能，推动绿色低碳发展。山东核电建立常态化环境监测体系，针对空气、水、土壤、生物等介质布设多类监测点位，采用高灵敏度仪器，按月度、季度、年度等差异化频次开展监测。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司以核能发电及综合利用为核心，清洁能源发电量202.39亿千瓦时，相当于减排二氧化碳1623.80万吨。同时发展风电、光伏等非核清洁能源，助力能源结构优化。",
+      "original_text": "发电量202.39亿千瓦时，相当于减排二氧化碳1623.80万吨，为国家能源结构转型和生态文明建设贡献了坚实力量。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司积极践行生态环境保护与生物多样性管理，组织开展植树造林活动，促进生态系统稳定与恢复。山东核电全面评估生产运营对生物多样性、海洋环境、土壤状况的潜在影响，避免对周边生态造成破坏。",
+      "original_text": "公司积极践行生态环境保护与生物多样性管理，组织开展植树造林活动，促进生态系统稳定与恢复。山东核电严格遵循相关环境法规要求，全面评估生产运营对生物多样性、海洋环境、土壤状况等方面的潜在影响。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司积极探索能源、水资源、核燃料的高效利用路径，推行废物循环利用和放射性废物清洁解控。山东核电引入先进节水技术，优化用水流程，绿化用水量节约1.06万吨。",
+      "original_text": "公司高度重视资源节约和能源高效利用，积极探索能源、水资源、核燃料的高效利用路径，稳步向资源节约型、环境友好型企业迈进。山东核电推行废物循环利用和放射性废物清洁解控。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司深化民主管理建设，依法设立工会组织，定期召开职工代表大会，建立常态化沟通渠道，保障员工知情权、参与权、表达权。",
+      "original_text": "公司深化民主管理建设，依法设立工会组织，代表并组织员工参与企业民主管理；定期召开职工代表大会、工会会员代表大会，推动解决员工急难愁盼问题；建立常态化沟通渠道，鼓励员工主动建言献策，切实保障员工的知情权、参与权、表达权。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司坚持将员工健康与安全置于首位，遵循安全生产法和职业病防治法，建立健全职业健康保障体系，开展职业健康培训与宣传，组织职业健康体检。",
+      "original_text": "公司坚持将员工健康与安全置于首位，遵循《中华人民共和国安全生产法》《中华人民共和国职业病防治法》等法律法规要求，建立健全职业健康保障体系，全面落实职业健康管理责任制，致力于为员工营造健康、安全的工作环境。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司坚持合作共赢理念，推进责任采购体系建设，将环境保护、绿色低碳与社会责任融入供应链管理全流程，建立采购相关制度体系，严格审核供应商资质。",
+      "original_text": "公司持续推进责任采购体系建设，将环境保护、绿色低碳与社会责任深度融入供应链管理全流程，系统提升供应链的可持续性...公司所有供应链管理相关活动均接受监督，加强采购全过程的规范管理，严格审核供应商财务状况、专业资质及关键人员...建立健全采购相关制度体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严控质量工艺，构建标准化、数字化、精细化的工程质量管控体系，保障项目建设品质，筑牢安全与合规底线。",
+      "original_text": "公司严控质量工艺，创新体验模式，筑牢质量防线，通过技术突破与全生命周期管控打造精品标杆工程，保障能源安全。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守网络安全法、数据安全法、个人信息保护法等法律，筑牢信息安全防线，开展网络安全实战演习。",
+      "original_text": "公司严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》等法律，筑牢信息安全防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极响应国家乡村振兴战略，热心公益慈善，鼓励员工志愿服务，开展形式多样的志愿活动，共建和谐社区。",
+      "original_text": "公司秉承回馈社会的使命担当，积极践行社会责任，热心投身公益慈善事业，广泛开展形式多样的志愿活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司对待不同种族、性别、年龄、宗教信仰和文化背景的员工，提供平等的发展机会和公平的就业条件。",
+      "original_text": "对待不同种族、性别、年龄、宗教信仰和文化背景的员工，为员工提供平等的发展机会和公平的就业条件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司搭建由决策层、管理层、执行层构成的三级ESG治理架构，董事会是ESG事务最高决策机构，下设ESG领导小组和ESG工作组。",
+      "original_text": "明确董事会领导下各层级ESG治理组织架构、人员构成与职责分工，确保建立自上而下、高效协同的ESG决策、管理与执行体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司深入推进党风廉政建设和反腐败斗争，持续完善反腐败反贪污和商业道德管理机制，对腐败行为零容忍。",
+      "original_text": "公司深入推进党风廉政建设和反腐败斗争，坚持严字当头、实字为先，压实党风廉政建设责任，营造风清气正的干事氛围。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司恪守商业道德，持续完善反腐败反贪污和商业道德管理机制，对腐败行为零容忍。",
+      "original_text": "恪守商业道德，持续完善反腐败反贪污和商业道德管理机制，对腐败行为零容忍。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司优化风险管理体系，开展重大风险识别、防控、预警等风险管理工作，升版全面风险数据库，编制重大风险防控措施清单。",
+      "original_text": "公司坚持依法治企，严守依法合规经营底线，优化风险管理体系，切实筑牢风险管理防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司秉持平等原则对待所有股东，积极采取措施为股东参会提供便利条件，保障所有股东的平等权利。",
+      "original_text": "秉持平等原则对待所有股东，并积极采取措施为股东参会提供便利条件，充分保障所有股东（特别是中小股东）的平等权利。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司高度重视与内外部利益相关方的沟通交流，构建常态化沟通机制，积极倾听并及时响应各方诉求。",
+      "original_text": "公司高度重视与内外部利益相关方的沟通交流，构建起常态化的沟通机制，始终积极倾听并及时响应各方诉求与发展期望。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司持续提升信息披露透明度与完整性。",
+      "original_text": "价值创造全过程，持续提升信息披露透明度与完整性。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务透明度管理措施。",
+      "original_text": "遵纪守法、依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.837
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

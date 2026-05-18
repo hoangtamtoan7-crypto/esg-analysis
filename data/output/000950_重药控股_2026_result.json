@@ -1,0 +1,441 @@
+{
+  "company_name": "重药控股",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 36516.07,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "2025年度温室气体排放总量（涵盖范围1、范围2及范围3）为36,516.07吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "所以暂无范围1温室气体排放量。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 28074.8,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "用电量2 吨二氧化碳当量 28,074.80 27,370.74",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 106,
+      "unit": "万元",
+      "original_text": "累计投入环保资金106万元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 12000,
+      "unit": "人",
+      "original_text": "拥有全级次控股子公司超200家，员工12000余人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 57.19,
+      "unit": "%",
+      "original_text": "女性员工比例 % 57.19 57.91",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": null,
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 297.2,
+      "unit": "万元",
+      "original_text": "员工培训总投入 万元 297.20 470.30",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 11.5,
+      "unit": "%",
+      "original_text": "员工流失/离职率 % 11.50 7.80",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 1887.7,
+      "unit": "万元",
+      "original_text": "研发投入 （2025年财务口径为18,876,950.66元）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1093,
+      "unit": "万元",
+      "original_text": "全体系安全生产投入共1093万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "百万工时伤害率 % 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 10000,
+      "unit": "万元",
+      "original_text": "发放援助药品总价值达1亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": 157800,
+      "unit": "万元",
+      "original_text": "上缴税金15.78亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定了科学的气候行动目标，坚持以绿色低碳引领运营优化，推动可持续发展。通过提升能源利用效率，从源头降低温室气体排放。在环境治理与减排工作中，重点聚焦范围3下游运输、配送等业务环节，通过优化物流线路布局、推广应用清洁能源车辆等措施，切实减少碳排放。",
+      "original_text": "公司制定了科学的气候行动目标，坚持以绿色低碳引领运营优化，全力推动可持续发展。通过持续提升能源利用效率，从源头降低温室气体排放水平。在环境治理与减排工作中，重点聚焦范围3下游运输、配送等业务环节，通过优化物流线路布局、推广应用清洁能源车辆等措施，切实减少碳排放。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司严格落实各级环保主体责任，按照《工业企业落实环境保护主体责任标准化达标考核评估细则》要求，完善环保基层基础工作；严格贯彻新《环境保护法》和各项配套行政规章，加强员工环保意识。加强现场污染收集和治理设施的运行监管，并加强维护保养，严格按照排污许可证要求达标排放，规范危废、固废暂存、清理、处置。",
+      "original_text": "严格落实各级环保主体责任，按照《工业企业落实环境保护主体责任标准化达标考核评估细则》要求，完善环保基层基础工作；严格贯彻新《环境保护法》和各项配套行政规章，加强员工环保意识、从本质上提升环保管理水平。加强现场污染收集和治理设施的运行监管，并加强维护保养，严格按照排污许可证要求达标排放，规范危废、固废暂存、清理、处置。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司积极投身创新药械研发，高能级创新平台建设初见成效，产品应用转化加速推进，放射性药品布局日益完善，自研产品矩阵持续强化，智慧中药房项目稳步布局。但未明确提及绿色产品认证或具体绿色产品比例。",
+      "original_text": "公司积极投身创新药械研发，高能级创新平台建设初见成效，产品应用转化加速推进，放射性药品布局日益完善，自研产品矩阵持续强化，智慧中药房项目稳步布局。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司经营活动不直接影响生态系统、生物物种及其栖息地、生物遗传资源等，不涉及重要生物多样性价值的区域，不破坏当地水源和生态系统。",
+      "original_text": "公司严格遵守环境保护相关法律法规，公司经营活动不直接影响生态系统、生物物种及其栖息地、生物遗传资源等，有重要生物多样性价值的区域，不破坏当地水源和生态系统。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推动能源结构优化，采用光伏发电满足部分日常运营用电需求，逐步提高可再生能源在能源消费结构中的占比。同时，公司注重绿色供应链建设，投入使用新能源汽车，优化物流配送方案，减少运输过程中的能源消耗和温室气体排放。",
+      "original_text": "公司推动能源结构优化，采用光伏发电满足部分日常运营用电需求，逐步提高可再生能源在能源消费结构中的占比。同时，公司注重绿色供应链建设，投入使用新能源汽车，优化物流配送方案，减少运输过程中的能源消耗和温室气体排放。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定并实施《招聘及离职管理办法》等制度，确保合法合规雇佣，保障员工权益。依法签订劳动合同，禁止童工和强迫劳动，提供五险二金等福利。",
+      "original_text": "公司制定并实施《招聘及离职管理办法》《用工关系管理办法》《退休人员返聘管理办法》《实习生管理办法》等制度规范，确保合法合规雇佣，切实保障员工各项权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司秉持安全生产理念，完善安全生产体系，开展职业健康体检，组织安全教育培训，报告期内未发生重大安全事故。",
+      "original_text": "公司始终秉持'安全是基础，安全是保障，安全是效益，安全是发展'的安全生产理念，'珍惜生命，保护员工健康'的职业健康方针，落实安全责任制，保障员工的身心健康与安全福祉。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应链风险管理流程，对供应商进行可持续发展管理，从质量、环境、社会等维度综合评估，确保合规经营和公平劳动。",
+      "original_text": "公司将对供应商进行可持续发展管理，建立供应链可持续发展...大维度对供应商进行综合评估，确保其符合绿色低碳、合规经营和公平劳动等可持续发展要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司健全质量管理体系，实现生产经营全过程质量可控、规范、可追溯，保障百姓用药安全。",
+      "original_text": "公司始终坚持'献身医药、追求卓越'的企业精神，健全完善质量管理体系，实现生产经营全过程质量可控、规范、可追溯；优化现代化物流体系及智慧供应链建设管理，为保障百姓用药安全、守护健康平安提供坚实可靠的重药力量。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司重视客户隐私与信息保护，遵守相关法律法规。",
+      "original_text": "公司重视客户隐私与信息保护工作，严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》等法律法规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过健康义诊、进社区等公益活动，开展志愿服务，助力乡村振兴。",
+      "original_text": "通过'健康义诊''进社区'等公益活动，做好'康小青''红小青''植小青''幼小青''萌小青''洁小青''法小青'等系列志愿服务。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司秉承以人为本，反对歧视，营造和谐包容的工作氛围，报告期内未发生劳工歧视事件。",
+      "original_text": "公司秉承'以人为本'的价值理念，始终坚持公平公正的原则，坚决反对任何形式的歧视行为，营造和谐包容的工作氛围，倡导尊重和平等的文化价值观。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了以董事会、战略与可持续发展委员会为核心的ESG治理体系，在战略落地、风险管理及重大决策全流程中充分考量ESG因素。董事会下设战略与可持续发展委员会、提名委员会、审计委员会及薪酬与考核委员会。",
+      "original_text": "以董事会、战略与可持续发展委员会为核心的ESG治理体系，在战略落地、风险管理及重大决策全流程中，充分考量ESG因素。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司定期召开党风廉政建设和反腐败协调小组会，协同压减、堵塞廉政风险和漏洞。",
+      "original_text": "定期召开党风廉政建设和反腐败协调小组会，协同压减、堵塞廉政风险和漏洞。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司合规管理遵循'全面覆盖、强化责任、协同联动、客观独立'基本原则，建立由党委会、董事会、法治与合规委员会等组成的合规管理体系。",
+      "original_text": "公司合规管理遵循'全面覆盖、强化责任、协同联动、客观独立'基本原则，建立由党委会、董事会、法治与合规委员会、...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续优化内控体系，建立并执行董事会有效性评估机制，定期对董事会及各专门委员会的运作效率、履职情况、决策质量等进行系统性评估。",
+      "original_text": "公司建立并执行董事会有效性评估机制，定期对董事会及各专门委员会的运作效率、履职情况、决策质量等进行系统性评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理工作，致力于为股东创造长期且稳定的投资回报，通过路演活动、透明信息披露等方式加强与投资者沟通。",
+      "original_text": "公司持续提升经营管理能力，不断提高公司治理规范化水平，高度重视投资者关系管理工作，致力于为股东创造长期且稳定的投资回报。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司重视利益相关方权益，建立多种沟通渠道，收集265份有效调查问卷，识别重要性议题。",
+      "original_text": "公司重视投资者、客户、员工、合作伙伴等利益相关方的权益...共收集265份有效利益相关方调查问卷...识别和评估相关议题。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格遵守信息披露规定，制定《信息披露管理制度》，确保真实性、准确性、完整性和及时性，报告期内无违规。",
+      "original_text": "严格遵守《上市公司信息披露管理办法》...制定并实施《信息披露管理制度》...报告期内，公司不存在因违反信息披露规定而受到处罚的情况。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司恪守依法纳税原则，建立税务合规管理体系，搭建税务共享平台，上缴税金15.78亿元。",
+      "original_text": "公司恪守依法纳税基本原则...建立并完善税务合规管理体系...搭建税务共享平台...上缴税金15.78亿元。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.808
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

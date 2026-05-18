@@ -1,0 +1,442 @@
+{
+  "company_name": "广汽集团",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1060904.15,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围1和范围2） 吨二氧化碳当量 1,060,904.15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 181591.02,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围1） 吨二氧化碳当量 181,591.02",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 663668.75,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放量（范围2） 吨二氧化碳当量 663,668.75",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 2.11,
+      "unit": "吨二氧化碳当量/百万元人民币",
+      "original_text": "温室气体排放密度 吨二氧化碳当量/ 百万元人民币 2.11",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 22.52,
+      "unit": "%",
+      "original_text": "清洁能源占总能源耗量比例 % 22.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 141000,
+      "unit": "吨",
+      "original_text": "实际用水量为14.1万吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 2400763.15,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 2,400,763.15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 104.1,
+      "unit": "吨",
+      "original_text": "氮氧化物排放总量 吨 127.68 98.79 104.10",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 15.05,
+      "unit": "吨",
+      "original_text": "二氧化硫排放总量 吨 22.30 23.89 15.05",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 92.59,
+      "unit": "吨",
+      "original_text": "颗粒物排放总量 吨 107.89 108.59 92.59",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 66570,
+      "unit": "人",
+      "original_text": "66,570 人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 5980.89,
+      "unit": "万元",
+      "original_text": "培训费用总支出 万元 5,980.89 4,412.18 4,121.10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 770700,
+      "unit": "万元",
+      "original_text": "2025年，广汽集团新增研发投入77.07亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 7.98,
+      "unit": "%",
+      "original_text": "本年度自主研发投入占比达7.98%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 321600,
+      "unit": "万元",
+      "original_text": "安全生产投入达32.16亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 900,
+      "unit": "万元",
+      "original_text": "年捐赠900万元，用于在三江源国家公园开展户外物种调研、草场种植恢复、自然教育志愿服务等工作",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "独立董事成员占比 40%",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "广汽集团本届董事会有2名女性董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "集团制定了2030年温室气体排放总量达峰、2050年前实现产品全生命周期碳中和的目标，并建立了由董事会、气候变化领导小组和工作小组构成的气候变化管治架构。",
+      "original_text": "2030年目标：集团温室气体排放总量达峰；2050年目标：在2050年前（挑战2045年）实现产品全生命周期碳中和。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "集团制定并实施多项环境管理制度，如《环境保护管理办法》《废（污）水控制管理规定》等，并建立环境管理架构，覆盖大气、水、危险废物等重点风险。",
+      "original_text": "广汽集团制定并实施《环境保护管理办法》《废（污）水控制管理规定》等制度，强化对废水、废气等排放的监测与管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "集团持续推进新能源汽车、电动化技术及清洁能源应用，布局混动、纯电、插混、增程、氢能等多元动力技术，并通过智能制造、绿色材料应用打造绿色产品。",
+      "original_text": "广汽集团持续推进新能源汽车、电动化技术及清洁能源应用发展，打造智能绿色产品；布局混动、纯电、插混、增程、氢能等多元动力技术。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "集团实施生态环境保护措施，减少运营活动对生态系统和生物多样性的负面影响，并积极开展外部生物多样性保护活动，如建设生态园区吸引超300种物种。",
+      "original_text": "实施生态环境保护措施，减少运营活动对生态系统和生物多样性的负面影响，并积极开展外部生物多样性保护活动。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "集团推动废弃物减量化、资源化和无害化，如建设废包装桶和含油金属屑资源化生产线，实现危废安全处置；废水回用用于冲厕和绿化，年回用水量4.9万吨。",
+      "original_text": "广州环境建成废包装桶和含油金属屑资源化生产线，实现危废安全处置；通过回用处理达标废水，年回用水量达到4.9万吨。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法实行同工同酬，保障员工平等获取劳动报酬，建立厂务公开、职工代表大会制度，开展职工提案征集和评选，实施员工心理援助计划。",
+      "original_text": "公司依法实行同工同酬，对同类岗位执行相同劳动报酬分配机制，不以性别作为薪酬差异依据，保障员工平等获取劳动报酬。指导投资企业100%建立厂务公开、职工代表大会制度；开展职工提案征集和评选；开展全覆盖的关爱慰问工作，全天候实施员工心理援助计划。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系，开展安全生产标准化建设和ISO 45001认证，组织安全培训与应急演练，实施员工年度体检和健康义诊。",
+      "original_text": "广汽集团全方位开展安全生产宣传培训交流活动，组织举办安全生产、职业健康培训。积极开展安全生产标准化建设和ISO 45001职业健康安全管理体系认证。全体员工年度体检，开展健康义诊。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定供应链安全管理制度，监督上下游企业执行安全规范，组织供应商开展环保意识、安全生产、风险管理等ESG专题培训，识别重要原材料供应商并监察其过程管理体系。",
+      "original_text": "制定和实施供应链安全管理制度，监督上下游企业执行安全规范，持续开展安全培训和教育，制定严格的供应商准入标准。组织供应商开展环保意识、安全生产、风险管理等ESG维度专题培训。识别重要原材料供应商，员工或第三方机构对其过程管理体系进行监察。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司构建全生命周期质量管控体系，研发'广汽星灵安全守护体系'，通过ISO 9001质量管理体系认证，开展质量安全培训，确保产品安全性与可靠性。",
+      "original_text": "构建全生命周期质量管控体系，全环节严控产品质量与安全标准。研发'广汽星灵安全守护体系'，在智能化时代以全链路的安全研发体系、全域安全技术和全时安全保障。本年度总共有14家投资企业获得ISO 9001质量管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守个人信息保护法和数据安全法，构建覆盖整车端到销售端的双重隐私保护，推动投资企业获取ISO 27001信息安全管理体系认证和汽车数据安全管理体系认证。",
+      "original_text": "广汽集团高度重视客户的隐私与信息权益，严格遵循《中华人民共和国个人信息保护法》《中华人民共和国数据安全法》等法律法规，构建覆盖整车端到销售端的双重隐私保护。本年度广汽集团旗下3家自主品牌获汽车数据安全管理体系认证，共有2家投资企业获得ISO 27001信息安全管理体系认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极投身公益慈善事业，开展乡村振兴、三江源环保项目、灾区重建、落后地区扶持等社区公益工作，每年至少开展一次大型公益活动。",
+      "original_text": "积极投身公益慈善事业，履行社会责任，每年至少开展一次大型公益活动。深耕三江源环保项目、灾区重建、落后地区扶持等社区公益及乡村振兴工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司制定《董事会多元化制度》，本届董事会有2名女性董事，实现年龄、专业知识、工作经历、地域、性别等多维度多元化。持续关注女性职工健康，保障女性权益。",
+      "original_text": "广汽集团已制定《董事会多元化制度》，在设定董事会成员组合时会从多个方面考虑董事会成员多元化，包括但不限于性别、年龄、教育背景、种族、专业经验、技能、知识及服务任期。广汽集团本届董事会有2名女性董事，实现了集团董事会在年龄、专业知识、工作经历、地域、性别等多维度的多元化。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会承担ESG事宜责任，定期审阅ESG目标与绩效，下设社会责任（ESG）领导小组，并设立由董事会、气候变化领导小组及工作小组构成的气候变化管治架构。",
+      "original_text": "董事会承担集团ESG事宜的责任，不断识别与集团业务相关的重要ESG风险和机遇，审查ESG目标进展...并设立了由董事会、气候变化（碳排放）领导小组及气候变化（碳排放）工作小组构成的气候变化（碳排放）管治架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "集团构建'五部协同'综合监督体系，坚持反腐败无禁区、全覆盖、零容忍，制定《保护、奖励实名举报有功人员工作办法》，畅通举报渠道，开展廉洁培训。",
+      "original_text": "构建了'五部协同'综合监督体系...坚持反腐败无禁区、全覆盖、零容忍...制定了《保护、奖励实名举报有功人员工作办法》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "董事会对商业道德建设负有最终责任，对违反商业道德行为'零容忍'，制定相关制度，开展合规培训，联合市场监管局开展营销合规专题培训。",
+      "original_text": "广汽集团董事会对商业道德建设负有最终责任...对于违反商业道德的行为采取'零容忍'的态度...联合广州市番禺区市场监督管理局...开展企业经营合规专题培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "已建成全面风险管理组织体系，包括董事会、总经理办公会、风险控制部等层级，将ESG风险纳入常态化考核指标，定期开展风险评估。",
+      "original_text": "持续健全和运营全面风险管理组织体系。该体系包括董事会、总经理办公会、各部门及投资企业等全层级...已将ESG风险作为常态化考核的指标之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "通过投资者关系邮箱、官网等渠道与中小股东和个人投资者沟通，向董事会提交议案审批，保障股东知情权。",
+      "original_text": "投资者关系邮箱以及集团官网等多种渠道，与中小股东和个人投资者进行了直接有效的沟通...向董事会提交相关议案进行审批",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "已制定利益相关方回应策略，并开展双重重要性分析工作。",
+      "original_text": "已制定利益相关方回应策略，并已开展双重重要性分析工作",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "遵循中国证监会《上市公司治理准则》和香港联交所《ESG报告守则》要求，董事会定期审阅ESG目标和计划，确保信息披露合规。",
+      "original_text": "遵循中国证监会《上市公司治理准则》和香港联合交易所《环境、社会及管治报告守则》要求...董事会定期审阅并确认集团年度ESG目标和计划",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "601238_广汽集团_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "四川美丰",
+  "report_year": "2024",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一排放 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二排放 吨二氧化碳当量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放强度（总排放量 总产值） 吨二氧化碳当量 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "水资源消耗量（万吨） 365.35",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废水排放量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "年，公司在节能减排上投入 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2449,
+      "unit": "人",
+      "original_text": "2023 2,449",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工 人",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "董事会女性成员",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "全年培训投入 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "每名员工每年接受培训的平均小时数",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "员工流失 率为",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "研发投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "研发经费投入强度",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "重大安全违规、违纪",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "参与社会公益活动的投入及成效",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "税务治理",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "董事会由 名董事组成，其中非独立董事 名、独立董事 名、职工董事 名",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "公司现聘请独立董事 名，约占董事总人数的 。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "截至 年末，公司董事会成员共 名，女性董事 名。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "年，共召开董事会会议 次",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "监事会由 名监事组成，其中股东代表监事 名，职工代表监事 名。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "详情请参见：《四川美丰 年年度报告》",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极开展气候风险识别，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "公司结合自身运营情况，积极开展气候风险识别，以实际行动应对气候变化。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，通过ISO 14001认证，并定期进行监督审核。",
+      "original_text": "公司环境管理体系顺利通过第三方年度监督审核，体系运行良好。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发生产绿色高效作物专用肥，提供绿色低碳产品与服务认证。",
+      "original_text": "研发生产绿色高效作物专用肥；绿色低碳产品与服务认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施废物资源化、循环用水、废旧物资回收等循环经济措施。",
+      "original_text": "生产清洁化、废物资源化、能源低碳化。循环用水总量（万吨）",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司全面落实《劳动法》《劳动合同法》等法律法规，严格执行相关制度，保障员工权益。报告期内未发生侵犯员工权益的事件，未发生劳动纠纷。",
+      "original_text": "公司全面落实《劳动法》《劳动合同法》等法律法规，严格执行《劳动管理制度》《员工招聘管理实施细则》等制度规定。报告期内公司未发生侵犯员工权益的事件，未发生劳动纠纷。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立健全职业健康安全管理制度，通过HSE管理体系，开展职业健康培训、隐患排查、应急演练等，确保员工健康安全。",
+      "original_text": "公司建立健全职业健康安全管理制度，对职业病危害防治责任、防护设施维护检修等做出细致规定。报告期内，职业健康安全管理体系符合要求。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司对供应商按类别、等级实施年度考核，考核内容包括产品质量、供应及时性、业务行为、服务质量及社会性违规行为等，并建立市场准入信息化审批流程。",
+      "original_text": "公司对供应商按类别、等级实施年度考核，主要考核供应产品质量、供应及时性、业务行为、服务质量以及社会性违规行为等五个方面。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立产品质量安全保障机制与产品安全事故应急方案，坚持质量是生命、质量是效益的理念，持续强化质量培训。",
+      "original_text": "建立产品质量安全保障机制与产品安全事故应急方案。质量是生命、质量是效益、质量是未来。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司通过与员工签署保密协议、知识产权声明书、脱密协议或竞业限制协议等方式保护知识产权，并执行参观访问制度。",
+      "original_text": "公司通过与新员工签署《保密协议》、与研究开发岗位新员工签署《知识产权声明书》、与涉及核心知识产权的离职员工签署《脱密协议》或《竞业限制协议》、执行参观访问制度等方式保护自身知识产权。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司持续开展捐资助学等公益活动和员工志愿者服务，积极参与社区发展和乡村福祉建设，获得“最具爱心企业”称号。",
+      "original_text": "公司持续开展捐资助学等公益活动和员工志愿者服务，用实际行动为社区发展和乡村福祉做出积极贡献。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司着力构建多元化的员工队伍，确保不同背景的员工拥有平等机会。重视女性员工权益，设置“妈咪宝贝屋”，为女员工购买保险。",
+      "original_text": "四川美丰着力构建多元化的员工队伍，确保不同文化、种族、性别、年龄、学历、能力背景的员工都拥有平等的机会。公司重视女性员工的身心健康，常态化开展三八妇女节集体慰问。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司设立战略与委员会，由董事长担任主任委员，负责审议、评估及监督ESG相关事宜。董事会下设战略与委员会、风险管理委员会、审计委员会、提名委员会、薪酬与考核委员会、预算委员会等专门委员会。",
+      "original_text": "报告期内公司在董事会层面设立战略与 委员会，由董事长担任主任委员，委员会主要职责为审议、评估及监督 合规与风险管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定了《反舞弊工作实施细则》，严格落实党风廉政建设和反腐败工作部署，通过多种渠道宣传反腐败信息，签订廉洁承诺书，建立四位一体信访举报渠道。",
+      "original_text": "四川美丰制定了《反舞弊工作实施细则》，严格落实党风廉政建设和反腐败各项工作部署",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司坚持依法治企，合法合规开展经营，建立合规审查流程，涵盖公司治理和业务流程层面，完善相关制度，建立法律合规体系。",
+      "original_text": "四川美丰坚持依法治企，合法合规开展经营，着力构建长效风险控制体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司设立风险管理委员会和审计委员会，按照'决策、执行、监督'三分离原则，建立风险管理及内部控制循环系统，采用定性定量方法进行风险评级，建立重大风险预警机制。",
+      "original_text": "公司设立风险管理委员会和审计委员会，按照'决策、执行、监督'三分离的原则，加强内部管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系维护，遵循公开透明原则，搭建投关团队，完善常态化沟通机制，通过互动易平台、电话、股东大会等多渠道与投资者沟通。",
+      "original_text": "公司高度重视投资者关系维护，尤其注重保护中小投资者的权益。遵循公开透明原则，构筑诚实互信关系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别主要利益相关方，通过法定信息披露、投资者关系管理等多种方式沟通，开展实质性议题调研，回应利益相关方诉求。",
+      "original_text": "四川美丰与各利益相关方保持良好沟通，积极了解并回应利益相关方诉求，听取对公司发展的建议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司依据《信息披露管理办法》成立信息披露工作组，董事会审计委员会负责审核财务信息及披露，监事会负责检查信息披露事务管理制度，确保信息披露真实有效。",
+      "original_text": "公司依据《信息披露管理办法》，成立了信息披露工作组，会对公司发布的各类公开信息持续进行跟踪检查，确保信息披露真实有效。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司依据《内部控制手册》建立税务风险矩阵，覆盖多项税收业务的控制点，设立税收管理岗位，动态掌握税收政策，主动完成税费缴纳，加强税务自查。",
+      "original_text": "公司依据《内控控制手册》建立税务风险矩阵并识别具体业务风险。风险矩阵覆盖了 项税收业务的 个控制点",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.702
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

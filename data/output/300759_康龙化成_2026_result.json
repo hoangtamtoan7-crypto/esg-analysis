@@ -1,0 +1,442 @@
+{
+  "company_name": "康龙化成",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 189533.1,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一和范围二温室气体排放总量（基于市场的方法）为189,533.10吨，较2023年下降24.6%。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 35857.59,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围一：直接排放源的温室气体排放量 吨CO2e 35,857.59",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二：间接排放源的温室气体排放量 吨CO2e 146,112.91",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.19,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "每万元收益温室气体排放量（范围一+ 范围二） 吨CO2e/万元 0.19",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 86184.68,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗总量 吨标煤 86,184.68",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 42,
+      "unit": "%",
+      "original_text": "2025年，我们的可再生能源用电量为153,386.56兆瓦时，占总用电量的42%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2068482.37,
+      "unit": "吨",
+      "original_text": "用水量2,068,482.37吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1054522.7,
+      "unit": "吨",
+      "original_text": "废水排放量 标准立方米 1,403,594.35 1,290,008.76 1,179,158.65 1,054,522.70",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 25088,
+      "unit": "人",
+      "original_text": "2025年，康龙化成在全球范围内共有25,088名员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 56.72,
+      "unit": "%",
+      "original_text": "2025年女性员工占比56.72%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 26.6,
+      "unit": "%",
+      "original_text": "2025年女性高级管理层占比26.60%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 836,
+      "unit": "万元",
+      "original_text": "2025年，康龙化成在员工培训方面共投入836万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 44.13,
+      "unit": "小时/人",
+      "original_text": "2025年人均培训时长为44.13小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 14.55,
+      "unit": "%",
+      "original_text": "员工流失率 % 14.55",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 57601.96,
+      "unit": "万元",
+      "original_text": "2025年，公司投入研发费用共计约57,601.96万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 39.988524,
+      "unit": "万元",
+      "original_text": "2025年安全生产责任险投入金额共计399,885.24元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0.24,
+      "unit": "‰",
+      "original_text": "2025年，员工LTIR为0.24",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 100,
+      "unit": "万元",
+      "original_text": "2025年，“康龙健康智慧专项基金”捐赠50万元支持乡村女教师培训；捐赠50万元支持京郊抗洪救灾。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "调整后，董事会共9名成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立非执行董事占比为33.3%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事人数占董事总人数的33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司已制定经SBTi批准的温室气体减排目标，以2023年为基准年，到2033年范围一、二绝对碳排放总量减少54.6%，范围三碳排放强度下降61.1%。2025年范围一和范围二排放较2023年下降24.6%。",
+      "original_text": "公司已制定经科学碳目标倡议（SBTi）批准的温室气体减排目标，作为气候战略与减排行动的核心指引。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，包括污染防治体系、废水管理制度、废弃物分类处置等，并通过ISO 14001认证。",
+      "original_text": "公司已建立完善的污染防治体系，聚焦防范突发环境污染事件、提升环保设施管理水平及规范废弃物分类处置。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司启动产品碳足迹生命周期评估，识别碳排放热点，为制定减碳策略提供依据。开发及生产团队可提供高效和绿色的碳14及氚放射性标记化合物。",
+      "original_text": "本年度，公司启动了产品碳足迹生命周期评估，识别各环节的碳排放热点。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司秉持生物多样性保护理念，系统开展生态影响评估，所有运营地点均远离生态保护区，并连续七年支持阿拉善SEE生态保护项目。",
+      "original_text": "康龙化成始终秉持生物多样性保护理念，持续关注公司运营对周边环境及生态系统的潜在影响，并系统开展生态影响评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施废液分级管理制度，约60%的废溶剂通过精馏等工艺提纯后作为工业原料或能源使用，实现资源循环再利用。",
+      "original_text": "约60%的废溶剂通过精馏等工艺进行提纯，作为工业原料或能源供其他行业使用，实现了资源的循环再利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司遵守劳动法和员工权益，禁止童工或强迫劳工，保障员工健康安全。设有工会、信息公示、民主沟通、职业培训等权益维护机制。",
+      "original_text": "劳工权益 聚焦员工职业健康、反歧视、平等对待、薪酬福利等方面，遵守劳动法和员工权益，禁止童工或强迫劳工，保证员工的健康安全",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已建立职业健康安全管理体系，目标至2030年主要运营地ISO 45001认证覆盖率100%，2025年40%主要运营地获得认证。员工健康与安全风险评估覆盖率达100%。",
+      "original_text": "至2030年，主要运营地ISO 45001职业健康安全管理体系认证覆盖率达到100%。2025年，40%主要运营地获得ISO 45001认证。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司关注供应链多元化，建立供应链DEI子委员会，对供应商在劳工与人权、职业健康安全、环境保护、信息安全等方面进行评估。",
+      "original_text": "康龙化成深刻认识到供应链多元化对于增强韧性与可持续发展的重要意义。我们在合规及ESG委员会下,与员工DEI子委员会平行建立了供应链DEI子委员会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司以质量为根本基石，建立覆盖研发、生产、临床及供应链全链条的质量管理体系，符合中国及主要监管区域法规。集团董事长担任产品安全与质量的最高负责人。",
+      "original_text": "质量为根本基石，以创新驱动研发进程，以安全生产...建立并持续优化覆盖研发、生产、临床及供应链全链条的质量管理体系",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守相关法律法规，制定信息安全管理制度，购买信息安全保险，2025年未发生信息安全违规事件。员工需签署保密协议并接受隐私保护培训。",
+      "original_text": "康龙化成严格遵守《中华人民共和国网络安全法》、《中华人民共和国个人信息保护法》、欧盟《通用数据保护条例》等法律法规。2025年，公司未发生与信息安全相关的违规事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司持续开展公益与慈善活动，积极参与社区服务。2025年捐赠50万元支持乡村女教师培训，捐赠50万元支持京郊抗洪救灾。",
+      "original_text": "2025年，“康龙健康智慧专项基金”捐赠50万元支持乡村女教师培训；捐赠50万元支持京郊抗洪救灾。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司制定《员工多元化、平等、包容政策》，致力于营造包容的工作环境。2025年女性员工占比56.72%，反歧视与反骚扰培训覆盖率达100%。",
+      "original_text": "2025年女性员工占比56.72%。2025年反歧视、反骚扰与DEI培训覆盖率达100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司采用三级ESG治理架构：董事会及下属委员会作为治理层，合规及ESG委员会作为管理层，各业务部门作为执行层。董事会为最高决策机构，负责监督ESG事宜。",
+      "original_text": "康龙化成构建了架构清晰、权责明确的ESG治理体系，持续完善以董事会为最高决策机构的三级管理架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司制定《全球反腐败合规政策》，开展反腐败培训，董事会成员覆盖率100%。对供应商执行反腐败等商业道德相关的风险评估，覆盖率达100%。",
+      "original_text": "反贪腐培训董事会成员覆盖率 % 100；100%供应商执行反腐败等商业道德相关的风险评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司开展商业道德及反腐败内部审计与风险评估，涵盖贸易合规、反腐败、利益冲突等领域。商业道德审计覆盖64%园区，计划至2030年全覆盖。",
+      "original_text": "公司开展商业道德以及反腐败相关的内部审计与风险评估；商业道德内部审计本年度覆盖64%园区。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立三级信息安全治理架构，董事会承担整体责任。采用风险管理'三道防线'模型，合规及ESG委员会组织系统性风险评估。",
+      "original_text": "公司建立了三级信息安全治理架构，由上至下全面管控信息安全风险。董事会承担整体责任。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过公司公告、在线路演、专题汇报、实地考察等方式与投资者沟通，回应收益回报等诉求。",
+      "original_text": "机构投资者/股东期望与诉求：收益回报；沟通与回应方式：公司公告、在线路演、专题汇报、实地考察。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过访问形式开展利益相关方调研，由合规及ESG委员会牵头，识别内外部利益相关方，建立多元沟通渠道。",
+      "original_text": "公司通过访问形式开展利益相关方调研。由公司合规及ESG委员会牵头，根据利益相关方...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循联交所、深交所等要求，持续提升ESG信息披露质量，董事会声明对报告内容的真实性、准确性和完整性负责。",
+      "original_text": "董事会及全体董事对报告内容的真实性、准确性和完整性负责；依照联交所、深交所要求进行信息披露。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "300759_康龙化成_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "泸天化",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 1704218,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放总量（范围1+范围2）约170.4218万吨CO2e",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 1452577.54,
+      "unit": "吨二氧化碳当量",
+      "original_text": "1,452,577.54 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 226742.56,
+      "unit": "吨二氧化碳当量",
+      "original_text": "226,742.56 吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "未明确提及",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2000325.22,
+      "unit": "兆瓦时",
+      "original_text": "2,000,325.22 吨标准煤",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 10.95,
+      "unit": "%",
+      "original_text": "可再生能源电力消费占比达到10.95%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确提及总用水量",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "工业废水排放量 立方米（数据表中未给出具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "有害废弃物排放总量 吨（数据表中未给出具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "节能降耗投入 万元（数据表中未给出具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 4300,
+      "unit": "吨",
+      "original_text": "废气中氮氧化物（NOx）排放量 4,300.00 吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "废气中硫氧化物（SOx）排放量 吨（数据表中未给出具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "未明确提及颗粒物排放量",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "女性员工占比",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "董事会中女性董事占比",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 218.86,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 285.73 218.86",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 78.02,
+      "unit": "小时/人",
+      "original_text": "全体员工每年人均接受培训 的小时数 小时 66.44 60.91 78.02",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "研发投入 亿元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 3408.68,
+      "unit": "万元",
+      "original_text": "安全生产总投入 万元 4,983.68 3,408.68",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "累计投入资金 万元",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "截至报告期末，公司董事会由 名董事构成。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "其中 名独立董事， 名非独立董事",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "董事会中女性董事占比 。",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开董事会会议 次",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "年依法依规取消监事会",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "未明确提及高管薪酬总额",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "未明确提及审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定碳中和路线图，目标2030年碳达峰、2060年碳中和；系统规划碳排放管理路径，推进节能技改、清洁能源应用，探索二氧化碳捕集利用与封存技术。",
+      "original_text": "公司基于气候风险评估结果，系统规划碳排放管理路径。在坚持清洁生产与末端治理相结合的基础上，积极探索前瞻性减排技术，以保障企业长远发展的碳排放空间。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立完善的环境管理体系，通过ISO 14001:2015认证，制定多项环境管理制度，形成四级能源管理架构，并定期开展环境隐患排查。",
+      "original_text": "公司遵循相关法律法规构建并持续完善能源管理体系，不断优化能源使用结构与利用效率，积极推广清洁能源的应用与部署。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司在肥料产品研发中选用不造成土壤污染且不影响人体健康的原料，确保产品生命周期内的环境友好性；加大生态产品研发，优化工艺降低碳排放。",
+      "original_text": "绿色产品：公司在肥料产品研发中选用不造成土壤污染且不影响人体健康的原料，确保产品生命周期内的环境友好性。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司遵守《湿地保护法》等法律法规，全面落实《中国生物多样性保护战略与行动计划》，优化施工工艺与作业方式，最大限度降低对周边生态环境的扰动。",
+      "original_text": "公司遵守《湿地保护法》等相关法律法规，全面落实《中国生物多样性保护战略与行动计划》，优化施工工艺与作业方式，最大限度降低对周边生态环境的扰动。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过系统性的技术改造与流程优化，在蒸汽、水资源和废气等多个维度建立了高效的内部循环机制，将生产过程中产生的污染物转化为可再利用的资源。",
+      "original_text": "公司通过系统性的技术改造与流程优化，在蒸汽、水资源和废气等多个维度建立了高效的内部循环机制，将生产过程中产生的污染物转化为可再利用的资源。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司恪守公平就业原则，杜绝歧视，依法签订劳动合同，保障员工知情权与合法权益，未发生歧视、使用童工或强迫劳动事件。",
+      "original_text": "公司恪守公平就业原则，坚决杜绝种族、民族、性别、年龄、宗教信仰、残障等各类就业歧视，切实保障员工在招聘、晋升、薪酬分配、培训发展等各方面均享有公平待遇。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立职业健康安全管理体系并持续有效，通过识别危害因素、定期监测、组织职业健康体检、开展培训等措施保障员工健康安全。",
+      "original_text": "公司职业健康与安全管理体系（ ）认证持续有效。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立供应商开发与动态管理架构，将ESG要求融入供应商管理，坚持阳光采购，鼓励供应商参与负责任供应链监督。",
+      "original_text": "公司将可持续发展理念贯穿供应链管理，将ESG要求融入供应商与承包商管理体系；坚持阳光采购原则，通过阳光采购平台推动合规、公平、透明的采购行为",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司实施五标一体管理体系，建立标准化检验流程，对所有出厂产品实施逐批全检与内部抽检，确保产品安全质量合规。",
+      "original_text": "公司实施“五标一体”管理体系，通过内外部审核保障体系有效运行，确保产品安全质量合规。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司构建四层四维数据安全治理体系，严格遵守网络安全法、个人信息保护法等法律法规，定期开展保密检查和培训。",
+      "original_text": "公司构建“四层四维”数据安全治理体系。组织架构层建立三级管理机制，落实“三员分立”权限分离。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司参与社区建设、乡村振兴、义务植树等公益活动。",
+      "original_text": "组织员工义务植树，维护厂区周边环境；通过提供高效环保肥料和农化服务，改善土壤健康...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司致力于打造多元包容的就业环境，从性别、民族、文化、年龄等维度广纳人才，为女性、退伍军人等提供平等机会。",
+      "original_text": "公司致力于打造多元包容的就业与工作环境，从性别、民族、文化、年龄等维度广纳人才，为女性、退伍军",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会下设四个委员会，包括审计委员会、薪酬与考核委员会等，董事会负责审阅ESG报告和重要性议题。",
+      "original_text": "公司董事会下设四个委员会。董事会审阅并确认了年度重要性议题矩阵。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司有反腐败政策，传达给董事会成员比率100%，领导班子成员签订廉洁承诺书，设有举报渠道。",
+      "original_text": "反腐败政策传达给董事会成员的百分比 100%；领导班子成员签订《廉洁承诺书》的比率 达成。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立合规管理制度体系，成立合规委员会，开展合规风险识别与评估，确保经营合规。",
+      "original_text": "公司依托合规管理制度体系，建立健全从风险识别评估到合规评价的闭环管理机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建内控防风险、审计强内控的双轮驱动机制，董事会下设审计委员会，开展内控审计和风险管理。",
+      "original_text": "泸天化构建“以内控防风险、以审计强内控”的双轮驱动机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司修订《投资者关系管理制度》，通过投资者交流会、热线、邮箱等方式与投资者沟通，保障股东权益。",
+      "original_text": "公司修订《投资者关系管理制度》并严格执行《接待与推广工作制度》。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司识别利益相关方包括股东、员工、客户、供应商等，通过多种方式沟通，并开展重要性议题评估。",
+      "original_text": "泸天化高度重视与利益相关方的沟通，通过精准识别各方期望与需求，持续优化公司决策与运营策略。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司获深交所信息披露A级评价。建立环境信息定期报告制度，规范环境合规透明性、及时性和信息准确性。",
+      "original_text": "获深交所信息披露 级评价。...建立健全环境信息定期报告制度，规范环境合规透明性、及时性和信息准确性；",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司关注税务治理风险，制定应对策略，确保税务合规安全，开展税务培训。",
+      "original_text": "公司关注税务治理中的内外部风险，并制定相应的应对策略与方法，确保税务合规安全。",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.779
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

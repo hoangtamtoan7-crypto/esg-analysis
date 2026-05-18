@@ -1,0 +1,442 @@
+{
+  "company_name": "中国太保",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 45085,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围一）（吨二氧化碳当量） 33,306 44,792 45,085",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 178106,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "温室气体排放量（范围二）（吨二氧化碳当量） 178,106 171,018 202,742",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 460065,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "能源消耗总量（兆瓦时） 460,065 467,019 506,144",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 2901235,
+      "unit": "吨",
+      "original_text": "总耗水量（吨） 2,901,235",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 19271,
+      "unit": "千克",
+      "original_text": "氮氧化物排放量（千克） 19,271",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 282,
+      "unit": "千克",
+      "original_text": "硫氧化物排放量（千克） 282",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": 1542,
+      "unit": "千克",
+      "original_text": "颗粒物排放量（千克） 1,542",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 96838,
+      "unit": "人",
+      "original_text": "员工总人数（人） 96,838",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 51.52,
+      "unit": "%",
+      "original_text": "女员工比率（%） 51.52",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 27.47,
+      "unit": "%",
+      "original_text": "管理层女性占比（%） 27.47",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 645,
+      "unit": "万元",
+      "original_text": "员工培训总支出（万元） 645",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 29.95,
+      "unit": "小时/人",
+      "original_text": "员工受训平均时长（小时） 29.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 7.57,
+      "unit": "%",
+      "original_text": "整体员工流失率 7.57",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 400000,
+      "unit": "万元",
+      "original_text": "截至2025年底，科技研发投入40亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.9,
+      "unit": "%",
+      "original_text": "占主营业务收入 0.9%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "安全生产投入总额（表格标题，但无具体数值）",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 7000,
+      "unit": "万元",
+      "original_text": "公益捐赠（百万元） 70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "召开董事会会议（次） 11 9 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司制定《中国太保绿色低碳转型规划》，明确绿色发展整体框架，设定2028年运营碳排放较2023年下降20%的目标，并建立气候风险评估及报告机制。",
+      "original_text": "中国太保制定《中国太保绿色低碳转型三...年规划（2026-2028）》，加快绿色金融管理、...运营碳排放下降、绿色金融发展、建立气候风险评估及报告机制",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，遵循《环境保护法》《节约能源法》等法规，并制定《办公职场绿色运营管理指引》等制度。",
+      "original_text": "遵循《中华人民共和国环境保护法》《中华人民共和国节约能源法》等制度；将低碳运营融入日常工作管理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司创新推出碳信息披露责任保险、碳收益损失保险等40款绿色保险产品，绿色保险保额超310万亿元，清洁能源产业保险保额超73万亿元。",
+      "original_text": "续保险，创新推出碳信息披露责任保险、碳收益损失保险等40款绿色保险产品，绿色保险保额超310万亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司绘制生物多样性风险地图，强化投后管理，并参与青海三江源公益林建设，累计植树约1,600吨碳汇。",
+      "original_text": "多样性风险地图，强化生物多样性的投后管理，并研发覆盖多种生...在青海三江源先后完成三期公益林建设，...碳1,600吨",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司推行绿色办公，减少用纸1.5亿张，电子化率提升，但未明确提及循环经济具体实践。",
+      "original_text": "电子批单使用率达93%，个人长险电子保单替代率达26%，通过电子信函、电子批单、电子保单全年减少用纸1.5亿张",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，依法与员工订立劳动合同，坚持男女同酬，保障员工基本权益，提供五险一金及商业保险，并建立员工申诉通道。",
+      "original_text": "中国太保始终坚持以人为本，全面保障员工基本合法权益...严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等劳动保障相关法律法规...坚持男女员工同酬...为员工缴纳五险一金及商业保险",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定安全生产标准化管理规范，推进全员签订安全生产责任承诺书，组织应急培训与实战演练，全年无等级安全生产责任事故。",
+      "original_text": "制定并印发《集团安全生产标准化管理规范评定标准》...压紧压实安全生产责任制，推进全员签订《安全生产责任承诺书》...全年未发现重大事故隐患，无等级安全生产责任事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司制定供应商ESG风险管理指南，围绕环境保护、健康与安全、员工权利、商业道德四大领域进行风险识别，对181家重点供应商开展尽职调查，并将ESG管理融入供应商年度考核。",
+      "original_text": "制定《供应商ESG风险管理指南（试行）》等制度，强化供应商ESG风险管理...181家重点供应商开展尽职调查...将ESG管理全面融入供应商年度考核评估体系中",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司严格遵守法律法规，强化消保制度建设，创新研发消保智审大模型助手，优化投诉处理机制，提升客户服务品质。",
+      "original_text": "严格遵守《中华人民共和国保险法》等国家法律法规...强化集团统筹引领与监督管理职能...创新研发“消保智审大模型助手”...持续深化NPS客户体验管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立数据安全治理体系，修订并实施数据安全管理办法，开展全员网络安全意识培训，部署数据防泄漏系统，确保数据安全与客户隐私保护。",
+      "original_text": "响应国家数据安全保护要求...更新并发布《集团数据安全管理办法》《集团数据安全分类分级实施细则》...开展全员网络安全意识培训...部署推广网络及终端数据防泄漏系统",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益慈善事业，发布“守护朝夕”公益伙伴圈，连续十八年开展责任公益活动，小水滴志愿服务队提供社区服务，并荣获上海慈善奖。",
+      "original_text": "保障公益项目，发布“守护朝夕”公益伙伴圈，连续十八年开展“责任照亮未来”公益活动...小水滴志愿服务队在“3·5学雷锋”活动中，为社区居民提供健康筛查、金融知识普及与保险咨询",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司恪守公平与包容的用工原则，坚持男女员工同酬，关注少数民族等群体，打造多元化员工团队，并开展反歧视培训。",
+      "original_text": "恪守公平与包容的用工原则...坚持男女员工同酬...关注少数民族等，致力打造多元化员工团队...开展反歧视培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "中国太保建立健全“董事会－管理层－执行层”ESG治理架构，董事会作为最高决策机构，下设战略与投资决策及ESG委员会，集团ESG工作委员会负责具体推进。",
+      "original_text": "中国太保建立健全“董事会－管理层－执行层”ESG治理架构，并将ESG指标表现与董事和管理层绩效薪酬挂钩。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司坚持诚实守信、依法合规、恪守商业道德，建立健全贪污腐败风险防控机制，开通举报热线和举报邮箱，接受对违规事件的举报。",
+      "original_text": "诚实守信、依法合规、恪守商业道德，建立健全贪污腐败风险防控机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "中国太保将商业道德与合规建设贯穿经营发展全过程，遵守相关法律法规，建立合规内控体系，防范垄断风险，维护市场公平竞争秩序。",
+      "original_text": "中国太保始终坚持诚实守信、依法合规、恪守商业道德，不逾越底线，将商业道德与合规建设贯穿经营发展全过程。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立由董事会承担最终责任、管理层直接领导、风险管理部门为依托的风险管理组织架构，出台《风险管理政策》，覆盖ESG风险。",
+      "original_text": "中国太保建立由董事会承担最终责任、管理层直接领导、以风险管理部门为依托、相关职能部门密切配合，同时覆盖所有机构和各岗位的风险管理组织架构。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过制度安排和程序保障有效保护股东尤其是中小股东权益，专人负责投资者热线，及时回应、披露信息，保障各类投资者公平获取公司资讯。",
+      "original_text": "提问当日100%回复。专人负责投资者热线及时回应、披露信息，保障各类投资者公平获取公司资讯。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过管理层访谈、问卷调查、专家研讨、利益相关方沟通等方式全面了解利益相关方的诉求与期望，确定双重重要性议题矩阵。",
+      "original_text": "通过公司管理层访谈、问卷调查、专家研讨、利益相关方沟通等方式全面了解利益相关方的诉求与期望，确定2025年双重重要性议题矩阵。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵守法律法规和境内外监管机构信息披露规定，编制年度报告和可持续发展报告，确保信息披露的合规与同步，提升信息披露质量和管理水平。",
+      "original_text": "律法规要求和境内外监管机构信息披露规定，编制2024年年度报告、2024年可持续发展报告。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法缴纳税款，但未详细说明税务透明度政策或具体措施。",
+      "original_text": "依法缴纳税款",
+      "confidence": "medium"
+    }
+  ],
+  "source_file": "601601_中国太保_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

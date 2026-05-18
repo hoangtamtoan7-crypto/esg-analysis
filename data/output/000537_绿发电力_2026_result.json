@@ -1,0 +1,441 @@
+{
+  "company_name": "绿发电力",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 115166.27,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一+范围二） 吨二氧化碳当量 / 115,166.27",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 282087.1,
+      "unit": "吨",
+      "original_text": "总耗水量 吨 282,087.1",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 41820.41,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 吨标准煤 41,820.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 1317,
+      "unit": "人",
+      "original_text": "员工总人数 人 1,224 1,317",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 814.76,
+      "unit": "万元",
+      "original_text": "员工培训投入金额 万元 814.76 740.32",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 89.31,
+      "unit": "小时/人",
+      "original_text": "员工平均培训时长 小时 89.31 81",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 4902,
+      "unit": "万元",
+      "original_text": "安全生产投入 万元 5,269.84 4,902",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 79.8,
+      "unit": "万元",
+      "original_text": "社会公益活动投入资金 万元 / 79.8",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "董事会成员共9名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事占比 % / 33.33",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 12,
+      "unit": "次",
+      "original_text": "董事会 次 12 11",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "撤销监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司锚定国家'双碳'战略方向，统筹推进生态保护、低碳转型与气候治理工作，构建气候韧性、推动绿色转型，全面融入企业治理、生产运营与价值创造全链条。",
+      "original_text": "绿发电力锚定国家'双碳'战略方向，统筹推进生态保护、低碳转型与气候治理工作。公司以'构建气候韧性、推动绿色转型'为核心导向，全面融入企业治理、生产运营与价值创造全链条。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司严格遵守国家生态环境保护法律法规，制定并执行《绿色能源产业合规指南》等内部文件，构建全过程管理监督体系，确保环境合规。",
+      "original_text": "公司严格遵守《中华人民共和国环境保护法》等法律法规，制定并执行《绿色能源产业合规指南》等内部文件，构建全过程管理监督体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司坚持全生命周期环保理念，将生物多样性保护融入绿色发展全流程，开展海洋生态环境监测，包括鸟类、水质、水文、生态等指标监测，并实施防沙治沙与光伏耦合发展模式。",
+      "original_text": "绿发电力将资源高效利用与生物多样性保护融入绿色发展全流程，江苏分公司持续开展海洋生态环境监测，包括对鸟类、水质、水文、生态、沉积物、海流、生物质量等指标的监测。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司建立资源节约和循环利用机制，通过减少资源消耗、加强废弃物回收利用、再生利用等措施，提高资源利用效率。",
+      "original_text": "资源节约和循环利用机制，通过减少资源消耗、加强废弃物回收利用、再生利用等措施，有效提高资源利用效率。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司积极拓展绿电营销渠道，全年销售绿电129,542万千瓦时，销售绿证1,389万张。参与CCER项目，布局碳资产交易。",
+      "original_text": "公司积极拓展绿电营销渠道，扩大绿电、绿证交易规模。报告期内，公司全年销售绿电129,542万千瓦时，创收2,622万元；全年销售绿证1,389万张，增收5,672.5万元。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格遵守劳动法律法规，保障员工合法权益，包括签订劳动合同、缴纳五险一金、提供福利待遇、建立民主沟通渠道等。",
+      "original_text": "公司严格遵守《中华人民共和国劳动法》《中华人民共和国劳动合同法》等法律法规，按照公平公正依法依规原则处理劳动纠纷。禁止任何形式的歧视，反对任何形式的强迫劳动和骚扰虐待，杜绝使用童工。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司建立HSE管理体系，通过ISO认证，制定安全生产制度，开展安全培训，组织应急演练，提供健康体检，保障员工职业健康与安全。",
+      "original_text": "公司把安全生产作为企业核心价值落实到生产经营各个方面和环节，贯彻安全与职业健康理念，建立了涵盖安全综合管理、安全风险与隐患管理、安全技术管理、应急消防与事故管理、公共安全管理、员工健康管理等一系列制度。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司注重供应商多元化与长期合作，建立供应商准入与评估机制，开展供应链风险识别与应对，推动绿色供应链建设。",
+      "original_text": "公司供应商选择注重多元化和长期合作，以降低供应链风险并确保产品质量和供应稳定。公司持续深化供应链全流程管理，筑牢合规经营与风险防控防线。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司通过内外溯源协同管控产品全生命周期，持续提升供应链透明度与质量管理水平，保障产品质量与合规性。",
+      "original_text": "保各环节严格符合相关法规与标准要求，通过内外溯源协同管控产品全生命周期，持续提升供应链透明度与质量管理水平，保障产品质量与合规性。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守数据安全相关法律法规，规范数据安全管理架构，完善风险管理体系，未发生重大数据安全事件。",
+      "original_text": "公司严格遵守《能源行业数据安全管理办法（试行）》等相关法律法规要求，规范数据安全管理架构，完善风险管理体系。公司未收到涉及侵犯客户隐私和丢失客户资料的投诉，未发生重大数据安全和泄露事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极组织员工志愿服务，开展公益环保、爱心助学、安全宣教等活动，深耕多区域公益帮扶，践行央企社会责任。",
+      "original_text": "公司持续健全公益慈善长效机制，围绕公益环保、爱心助学、安全宣教等重点，开展系列公益项目，以实际行动回馈社会。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持公平公正，禁止歧视，尊重不同种族、性别、宗教信仰和文化背景的员工，提供平等就业机会。",
+      "original_text": "禁止任何形式的歧视，反对任何形式的强迫劳动和骚扰虐待，杜绝使用童工，公平对待不同种族、性别、宗教信仰和文化背景的员工。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司已建立健全ESG治理架构，形成以董事会为决策核心、可持续发展委员会为专门监督管理机构、管理层为执行主体的三级治理体系。董事会下设战略与ESG委员会。",
+      "original_text": "公司已建立健全气候相关治理架构，形成以董事会为决策核心、可持续发展委员会为专门监督管理机构、管理层为执行主体的三级治理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司党委从严从实推进党风廉政建设，成立党风廉政建设和反腐败工作领导小组，设立巡察办公室，开展明察暗访，正风肃纪反腐一体推进。",
+      "original_text": "公司党委从严从实推进党风廉政建设，成立党风廉政建设和反腐败工作领导小组，设立巡察办公室，实现所属企业...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司系统构建‘四维六步八聚焦’合规体系，以‘风险引领、合规底线、内部控制、审计护航’四维一体为支撑，建立完整合规管理体系。要求全体员工签署《合规承诺书》。",
+      "original_text": "绿发电力系统构建‘四维六步八聚焦’合规体系，以‘风险引领、合规底线、内部控制、审计护航’四维一体为支撑...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建覆盖全业务、全流程的风险防控体系，建立合规风险识别应对机制，制定风险识别清单，并确定重要风险认定标准。",
+      "original_text": "建立合规风险识别应对机制，制定风险识别清单，并确定重要风险认定标准；通过信息...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司高度重视投资者关系管理和股东权益保护，构建‘1+N’投关体系，通过多元化沟通机制和高质量信息披露，建立多层次投资者关系管理组织架构。",
+      "original_text": "绿发电力高度重视投资者关系管理和股东权益保护，构建‘1+N’投关体系，通过多元化沟通机制和高质量信息披露...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司持续完善利益相关方参与机制及沟通方式，识别出五类主要利益相关方：政府/监管机构、股东/投资者、客户、员工、社区及公众。",
+      "original_text": "报告期内，公司持续完善利益相关方参与机制及沟通方式，主动获取各利益相关方...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司坚持依法合规、公开透明，高质量做好信息披露，通过及时、公平、充分的信息披露和多元高效的沟通渠道，保障全体股东特别是中小投资者的知情权。",
+      "original_text": "坚持依法合规、公开透明，高质量做好信息披露，切实维护各方合法权益...",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司构建了涵盖董事会、管理层、财务部门及外部中介机构的税务管理架构，降低纳税风险，提高公司税务管理水平。",
+      "original_text": "公司立足新能源行业政策敏感性高、风险复杂度强的特性，构建了涵盖董事会、...",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.798
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

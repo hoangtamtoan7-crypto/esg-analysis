@@ -1,0 +1,441 @@
+{
+  "company_name": "尚太科技",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 500,
+      "unit": "万元",
+      "original_text": "公司向昔阳县大寨镇北井沟村村民委员会捐赠500万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 25100,
+      "unit": "万元",
+      "original_text": "2025年研发投入2.51亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 3.16,
+      "unit": "%",
+      "original_text": "占营业总收入的3.16%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 6,
+      "unit": "人",
+      "original_text": "公司董事会由6名成员构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中独立董事2位，在董事会人员构成中的占比达33.33%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 11,
+      "unit": "次",
+      "original_text": "董事会会议 11 次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "公司按照相关法律法规取消监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "专门委员会会议24次，但未单独列示审计委员会会议次数",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司以低碳转型为核心，围绕能源结构优化调整、研发创新、区域协同等维度制定多层次、系统性的碳排放战略，将实现'碳达峰、碳中和'的目标纳入公司长期发展规划，通过引入绿电、余热回收、技术升级等方式减排，力争早日实现碳中和目标。",
+      "original_text": "尚太科技以低碳转型为核心，围绕能源结构优化调整、研发创新、区域协同等不同维度制定了多层次、系统性的碳排放战略。公司积极响应国家政策方针，将实现'碳达峰、碳中和'的目标纳入公司长期发展规划，严格落实碳排放管理工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001环境管理体系监督审核，建立了覆盖全流程的环境风险管理制度体系，以《环保管理制度汇编》为核心文件，明确了从风险识别、预防控制、应急响应到事后恢复的全周期管理要求。",
+      "original_text": "尚太科技目前已经通过ISO14001环境管理体系监督审核，审核团队严格依据ISO14001标准，对公司环境管理体系展开全面深入审查，涵盖环境方针与目标的制定执行、环境因素识别评估、环境管理方案落地、环境法律法规遵守、污染物治理举措及员工环境意识培养等各个方面。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司聚焦快充、硅基负极、固态电池适配材料等前沿方向，积极与国内一流高校和下游行业领军企业进行研发合作，加大研发投入，保证公司在技术上的领先地位。公司通过一体化生产模式，提升石墨化自供率与工艺革新实现降本增效。",
+      "original_text": "公司聚焦快充、硅基负极、固态电池适配材料等前沿方向，积极与国内一流高校和下游行业领军企业进行研发合作，加大研发投入，保证公司在技术上的领先地位。公司通过一体化生产模式，通过提升石墨化自供率与工艺革新实现降本增效，提升产品市场竞争力。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司通过技改与设备更新降低能源消耗，如启用新型窑炉减少电力和天然气消耗，配备自主研发的余热回收系统实现热能二次利用，建设水循环系统和污水收集系统实现水资源重复使用。",
+      "original_text": "公司通过技改与设备更新降低能源消耗，如启用的新型窑炉在温控等方面具备更优的性能，减少了电力和天然气的消耗。配备自主研发的余热回收系统，实现了热能的二次利用，起到降低能耗和延长设备使用寿命的作用。建设水循环系统和污水收集系统，实现水资源的重复使用，减少水资源消耗。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司建立了完善的薪酬激励和职业晋升体系，定期开展职业技能培训，设立员工活动中心，切实保障职工合法权益。",
+      "original_text": "公司建立了完善的薪酬激励和职业晋升体系，定期开展职业技能培训，帮助员工提升能力。同时，设立员工活动中心，丰富员工业余生活，营造积极的企业文化氛围，切实保障职工合法权益。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司取得ISO45001职业健康安全管理体系认证，建立了规范的安全生产管理制度体系，通过常态化风险排查、应急演练及安全考核，配备废气处理与降噪装置，保障员工身心健康。",
+      "original_text": "公司取得ISO45001职业健康安全管理体系认证，建立了规范的安全生产管理制度体系。通过常态化开展风险排查、应急演练及安全考核，并配备专业化废气处理与降噪装置，最大限度降低作业环境风险，全方位保障员工身心健康。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司建立了由采购、法务、环境与社会责任等多团队参与的跨部门协作机制，将可持续发展指标纳入供应商绩效考核，推动供应商签署《可持续采购承诺书》并遵守《商业道德准则》。",
+      "original_text": "公司建立了由采购、法务、环境与社会责任等多个团队共同参与的跨部门协作机制，管理体系覆盖供应商准入、合作评估、风险管控及改进支持的全部流程。此外，公司将可持续发展指标纳入供应商绩效考核体系，通过分级分类管理强化责任传导，并定期开展第三方审计与培训赋能。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司恪守产品质量法律法规，构建覆盖研发设计、工艺制定、标准执行的全链条管控体系，已通过ISO 9001质量管理体系认证和IATF 16949汽车行业质量管理体系认证，检测中心通过CNAS国家实验室认可。",
+      "original_text": "尚太科技始终恪守《中华人民共和国产品质量法》《中华人民共和国计量法》等法律法规要求，确保生产全流程符合国家法定标准。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守《网络安全法》《数据安全法》《个人信息保护法》，构建了完善的信息安全管理体系，对信息进行全生命周期管理，覆盖创建、存储、传输、使用和销毁五大环节，已通过ISO/IEC 27001信息安全管理体系认证。",
+      "original_text": "尚太科技严格遵守《中华人民共和国网络安全法》《中华人民共和国数据安全法》《中华人民共和国个人信息保护法》等法律法规。为确保信息安全与隐私保护的合规性，公司构建了完善的信息安全管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极助力乡村振兴，为当地居民创造就业岗位，缴纳医疗保险，捐赠500万元支持文旅项目，并参与社区公益活动。",
+      "original_text": "公司积极解决当地就业难题，为全体村民缴纳了医疗保险，向昔阳县大寨镇北井沟村村民委员会捐赠500万元用于‘虎头山村千万工程’项目，支持当地文旅经济发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持诚信为本、互相尊重、合而不同的雇佣原则，为员工提供系统培训、透明晋升通道、完善的薪酬福利体系以及多元的职业发展机会，建立公平公正的绩效考核与晋升机制。",
+      "original_text": "公司坚持以人为本，为员工提供系统培训、透明晋升通道、完善的薪酬福利体系以及多元的职业发展机会。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立了明确的ESG管理架构，包括董事会、董事会战略与可持续发展委员会、ESG工作组（下设环境小组、社会小组、治理小组），形成决策层、执行层分工协作的治理体系。",
+      "original_text": "公司建立了明确的ESG管理架构，将社会责任纳入企业战略。董事会战略与可持续发展委员会：由董事会设立，协助董事会制定ESG战略。ESG工作组：负责落实董事会及相关委员会制定的ESG战略。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立了反腐败、反商业贿赂的内控体系，制定《商业道德准则》，组建廉洁自律领导小组，设有专门联系渠道接受员工检举，定期开展廉洁教育。",
+      "original_text": "公司建立了反腐败、反商业贿赂的内控体系，完善商业道德行为规范。通过强化关键岗位风险管控、常态化廉洁教育及畅通举报渠道。尚太科技专门组建了廉洁自律领导小组以保障《商业道德准则》能够切实落地执行。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司制定《商业道德准则》，明确员工行为规范与道德准则，涵盖廉洁纪律及与合作伙伴交往的行为准则。同时建立诚信合同管理机制，确保公平交易。",
+      "original_text": "尚太科技依照相关法律规定同时结合自身实际运营状况制定了全面且详尽的《商业道德准则》。此准则明确了员工在商业活动中应遵循的行为规范与道德准则。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立了覆盖全业务链条的内部控制体系，包括内部控制审计、合同风险管理、风险管理培训等。董事会负责构建内部控制机制，审计委员会负责监督评估。",
+      "original_text": "公司构建了权责分明、制衡有效的治理架构，规范'三会一层'运作，确保决策科学高效。同时，建立了覆盖全业务链条的内部控制体系，严守合规底线，全面提升风险防范与管理能力。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过热线、邮箱、互动平台等多元渠道收集投资者建议，落实累积投票制与网络投票机制，保障投资者决策权力。将投资者权益保护融入公司治理架构。",
+      "original_text": "公司证券部通过热线、邮箱、互动平台等多元渠道收集建议，将投资者合理诉求转化为治理改进的具体措施。公司严格执行重大事项股东大会审议制度，落实累积投票制与网络投票机制。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司搭建了畅通的沟通渠道，与股东、政府、员工、客户、供应商、社区等利益相关方保持紧密联系，通过多种方式回应各方诉求。",
+      "original_text": "尚太科技搭建了畅通的沟通渠道，与重要利益相关方保持紧密联系，倾听内外部利益相关方的诉求和期望。公司关注各利益相关方的反馈，通过与利益相关方保持良好沟通，建立和谐紧密的合作关系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司坚持高标准的信息披露制度，确保经营透明公开，保障投资者权益。严格按照法律法规和监管要求执行信息披露工作，提高信息披露的质量与透明度。",
+      "original_text": "公司坚持高标准的信息披露制度，确保经营透明公开，保障投资者权益。公司严格按照法律法规和监管要求执行信息披露工作，提高信息披露的质量与透明度，保障股东的知情权和参与权。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "partial",
+      "summary": "报告提及依法纳税，但未详细说明税务管理策略或透明度措施。",
+      "original_text": "依法纳税",
+      "confidence": "medium"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.75
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

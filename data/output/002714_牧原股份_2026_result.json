@@ -1,0 +1,442 @@
+{
+  "company_name": "牧原股份",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 15648100,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量（范围一、范围二和范围三） 1564.81 万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 4742100,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 474.21 万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 3883400,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "范围二温室气体排放量 388.34 万吨二氧化碳当量",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.883,
+      "unit": "吨二氧化碳当量/吨猪肉",
+      "original_text": "温室气体排放强度（范围一、范围二） 0.883 吨二氧化碳当量/吨猪肉",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": 4.4,
+      "unit": "%",
+      "original_text": "绿电替代比例达4.4%",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 22556790,
+      "unit": "吨",
+      "original_text": "总取水量 万立方米 22,556.79",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 173531200,
+      "unit": "吨",
+      "original_text": "总排水量 万立方米 17,353.12",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 148488.41,
+      "unit": "吨",
+      "original_text": "一般废弃物产生量 吨 52,987.05 65,793.39 148,488.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 350400,
+      "unit": "万元",
+      "original_text": "2025年，公司环保投入总额35.04亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 127550,
+      "unit": "人",
+      "original_text": "劳动合同制员工数 人 131,276 133,642 127,550",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 22.15,
+      "unit": "%",
+      "original_text": "全体员工中女性员工占比 % 21.51 19.36 22.15",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 26,
+      "unit": "%",
+      "original_text": "高级管理层中女性占比 % 26 27 36",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 75000,
+      "unit": "万元",
+      "original_text": "2025年，牧原职业培训投入达7.5亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 40,
+      "unit": "天/人",
+      "original_text": "平均培训时长40天",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 16.95,
+      "unit": "%",
+      "original_text": "员工总流失率 % / / 16.95",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 164800,
+      "unit": "万元",
+      "original_text": "2025 年创新研发支出达16.48亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 1.5,
+      "unit": "%",
+      "original_text": "研发费用占比 % 1.50 1.27 1.14",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 19825.0,
+      "unit": "万元",
+      "original_text": "安全生产投入总额 万元 19,825.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 47800,
+      "unit": "万元",
+      "original_text": "在“聚爱助学”系列公益活动中累计捐赠4.78亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 8,
+      "unit": "人",
+      "original_text": "截至2025年末，公司董事会共有董事8名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 37.5,
+      "unit": "%",
+      "original_text": "独立董事3名，占全体董事的1/3以上",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "董事会成员中有女性董事2名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "共召开董事会会议9次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": 3,
+      "unit": "人",
+      "original_text": "牧原共有3名监事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": 1487.61,
+      "unit": "万元",
+      "original_text": "秦英林415.81万元、曹治年344.15万元、杨瑞华576.90万元、苏党林150.75万元",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "审计委员会会议8次",
+      "confidence": "high"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司主动设定碳减排目标，鼓励使用清洁能源，减少碳排放；推行清洁生产，从源头减少污染物产生；推行资源节约与循环利用。制定了以2024年为基准年的温室气体排放强度降低目标，并参与碳交易。",
+      "original_text": "主动设定碳减排目标，鼓励使用清洁能源，减少碳排放。实行清洁生产，从源头减少污染物产生。推行资源节约与循环利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，8个养殖场、7个屠宰厂通过ISO14001环境管理认证。环保后勤部作为环境管理职能部门，制定环保管理制度，涵盖废水、废气、噪声、固废、应急处理等领域。",
+      "original_text": "8个养殖场、7个屠宰厂通过ISO14001环境管理认证并取得证书。环保后勤部作为环境管理职能部门。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司研发植物蛋白、微生物蛋白、昆虫蛋白等替代方案，降低饲料豆粕用量；推行种养循环，探索碳汇项目；拓展有机肥生产与生物质能开发等新业务领域，推动资源循环利用。",
+      "original_text": "研发植物蛋白、微生物蛋白、昆虫蛋白等替代方案，持续降低饲料豆粕用量。拓展有机肥生产与生物质能开发等新业务领域。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司优化场区选址及项目全生命周期管理，减少生产设施对原生生态系统的扰动，保护当地生物栖息环境；依托种养循环模式，实现养殖废弃物全部资源化利用，保护土地生产力。",
+      "original_text": "优化场区选址及项目全生命周期管理，减少生产设施对原生生态系统的扰动，保护当地生物栖息环境。依托种养循环模式，实现养殖废弃物全部资源化利用，保护土地生产力。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司创新粪水处理技术体系，将养殖废弃物转化为生物质能源与有机肥；推行种养循环，实现粪水资源化利用率100%；应用沼气、分布式光伏等节能技术，降低化石能源依赖。",
+      "original_text": "创新粪水处理技术体系，将养殖废弃物转化为生物质能源与有机肥。粪水资源化利用率100%。应用沼气、分布式光伏等节能技术。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司致力于促进多元化队伍建设，尊重和保障员工的各项权益，构建和谐劳动关系。建立职工代表大会、牧原心声平台、员工说理通道、举报热线等沟通渠道。禁止使用童工、强迫劳动、歧视、体罚与骚扰。",
+      "original_text": "公司致力于促进多元化队伍建设，尊重和保障员工的各项权益，努力构建和谐、稳定、健康的劳动关系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "建立覆盖全员、全流程的安全管理体系，明确各级安全责任。主动识别并消除职业危害，提供劳动防护用品。定期组织职业健康安全培训，员工安全培训及体检覆盖率100%。安全生产投入19,825万元。",
+      "original_text": "建立覆盖全员、全流程的安全管理体系，明确各级安全责任。主动识别并消除工作场所的职业危害（如粉尘、噪音、高温），提供必要的劳动防护用品。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "开展供应链双向赋能培训，内容涵盖反腐败、生物安全、供应链金融等。持续完善供应商准入审核标准，涵盖商业道德、环境、员工健康与安全、劳工权益等。对供应商在环境、健康与安全、劳工管理及商业道德等方面提出具体要求。",
+      "original_text": "牧原开展供应链双向赋能培训，培训内容涵盖反腐败、生物安全、供应链金融、物流可视化等方面。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "牧原视食品安全为企业的生命线，建立覆盖全产业链、高于行业标准的管理体系。通过食品安全专项培训、质量认证考核、食品安全周等活动传播食品安全文化。2025年开展食品安全与质量培训超过710场、食品安全管理直播105场。",
+      "original_text": "牧原视食品安全为企业的生命线，将其作为维护消费者健康与品牌价值的头号实质性议题。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "筑牢数智化安全防线，严格保护商业秘密及相关方隐私。通过网络安全宣传周、信息安全意识培训、反诈宣传培训等方式提升员工信息安全意识，培训后全员完成考试认证。",
+      "original_text": "筑牢数智化安全防线，严格保护商业秘密及相关方隐私，规避数据合规风险。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "参与教育助学等公益行动，输出牧原方案，共享研发成果。牧原成立志愿者团队，倡导员工与大学生积极参与公益慈善志愿活动。截至2025年末，志愿者作者3.99万人次，为乡村教育注入动力。",
+      "original_text": "参与教育助学等公益行动，缓解资源不均，展现企业责任担当。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "重视性别平等，支持女性员工的职业发展；每年无歧视事件。公司董事会成员在年龄、性别、教育背景等方面呈现多元化。",
+      "original_text": "重视性别平等，支持女性员工的职业发展；每年无歧视事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "董事会下设可持续发展委员会，由3名董事组成，董事长担任主任委员，两名独立董事参与。董事会是ESG事务最高决策机构。",
+      "original_text": "董事会下设可持续发展委员会，负责全面识别、评估、监督和管理ESG相关事宜",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "董事会是反商业贿赂及反贪污工作的最高决策机构，负责监督管理层对商业道德与廉洁生态建设。",
+      "original_text": "董事会是反商业贿赂及反贪污工作的最高决策机构，负责监督管理层对商业道德与廉洁生态建设",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司严守商业道德边界，坚决抵制垄断与不正当行为，建立良性竞合关系。",
+      "original_text": "严守商业道德边界，坚决抵制垄断与不正当行为",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会为风险管理最高决策层，建立风险管控体系，压实各层级风险管理职责，将风险把控与合规要求嵌入业务全流程。",
+      "original_text": "董事会为风险管理最高决策层，及时处置并上报重大风险，将风险把控与合规要求深度嵌入业务全流程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过股东大会、投资者调研、业绩说明会、企业年报和公告、路演、证券事务专题页面、互动易平台、微信公众号等方式与股东和投资者沟通。",
+      "original_text": "股东与投资者沟通渠道包括股东大会、投资者调研、业绩说明会、企业年报和公告、路演、证券事务专题页面、互动易平台、微信公众号",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司制定并实施《利益相关方沟通指南》，针对政府与监管机构、股东与投资者、供应商等利益相关方进行沟通。",
+      "original_text": "牧原高度重视利益相关方沟通，制定并实施《利益相关方沟通指南》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司董事会按照香港联合交易所有限公司《环境、社会及管治报告守则》要求做出声明，建立可持续发展信息披露体系。",
+      "original_text": "公司董事会按照香港联合交易所有限公司《环境、社会及管治报告守则》要求，做出如下声明",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司董事会直接监督管理法务税务风控，并定期听取首席财务官的税务合规及风险管理汇报。",
+      "original_text": "公司董事会直接监督管理法务税务风控，并定期听取首席财务官的税务合规及风险管理汇报",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "002714_牧原股份_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.942
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

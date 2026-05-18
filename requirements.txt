@@ -1,0 +1,13 @@
+# Web应用
+streamlit>=1.45
+plotly>=5.24
+pandas>=2.2
+
+# AI大模型API
+openai>=1.30
+
+# 数据库
+sqlalchemy>=2.0
+
+# 工具
+python-dotenv>=1.1

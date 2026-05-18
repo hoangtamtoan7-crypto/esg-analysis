@@ -1,0 +1,441 @@
+{
+  "company_name": "冰山冷热",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "不断加大研发投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "拓展公益维度，积极开展爱心助学与社会志愿服务",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 5,
+      "unit": "次",
+      "original_text": "公司筹备召开了5次董事会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "取消监事会",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司通过能源利用效率提升、再生能源利用推广、能源数字化改造，推进用能体系优化，打造绿色、低碳、创新的零碳园区，获得五星级零碳工厂（I型）认证。",
+      "original_text": "报告期内，公司通过能源利用效率提升、再生能源利用推广、能源数字化改造，推进用能体系不断优化，有序打造绿色、低碳、创新的零碳园区，获得中国船级社五星级零碳工厂（I型）认证证书。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司对生产经营活动中产生的废水、废气、危险废弃物等实施有效管控和处理，各类环保设施运行正常，完成危险废弃物申报及转移处置，收集、贮存、转移处置规范。",
+      "original_text": "对生产经营活动中产生的废水、废气、危险废弃物等实施有效管控和处理，各类环保设施运行正常。完成危险废弃物申报及转移处置，收集、贮存、转移处置规范。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司基于高效节能压缩机、绿色冷媒、CCUS、冷热耦合、极低充注等节能减碳技术，携手客户完成多个节能减碳工程。二氧化碳跨临界冷热集成耦合机组、OCCS液化机组入选2025中国制冷展创新产品。",
+      "original_text": "报告期内，公司基于高效节能压缩机、绿色冷媒、CCUS、冷热耦合、极低充注等节能减碳技术，携手客户完成了多个节能减碳工程。二氧化碳跨临界冷热集成耦合机组、OCCS液化机组入选2025中国制冷展“创新产品”。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司继续全面采用水性漆替代油性漆，减少VOCs排放。",
+      "original_text": "继续全面采用水性漆替代油性漆，减少VOCs排放。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司切实保障员工合法权益，构建和谐稳定的劳动关系，保障员工劳动报酬权益，建立员工关怀机制，对孕期、哺乳期女职工及困难员工提供专项帮扶。",
+      "original_text": "为切实保障员工合法权益，构建和谐稳定的劳动关系，公司扎实切实保障员工劳动报酬权益。建立员工关怀机制，针对孕期、哺乳期女职工及困难员工提供专项帮扶",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司健全安全生产责任制，实施安全环境网格化管理，开展安全隐患排查整治，组织职业健康体检，辨识重要危险源，实施三级巡检及管控。",
+      "original_text": "健全安全管理组织体系，建立标准技术文件、实施程序等一整套安全管理文件。完善目标计划、实施、考核、持续改进全过程控制的安全管理实施体系。组织特种作业人员、接触有毒有害作业人员参加职业健康体检。辨识重要危险源150项，实施了公司、部门、安全员三级巡检及管控。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "公司坚持合作原则，构建规范透明的供应链管理体系，优化供应商准入与考核机制。",
+      "original_text": "坚持合作原则，构建规范透明的供应链管理体系。严格履行采购合同约定合作环境。同时优化供应商准入与考核机制，兼顾质量与效率",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司注重提高质量管理水平，持续完善质量管理体系，向客户提供高质量的产品和服务。",
+      "original_text": "公司注重提高质量管理水平，切实承担产品责任。根据国家有关质量法规、标准的要求，总结实施ISO 9000标准的经验，结合公司实际情况编制修订《质量手册》，持续完善质量管理体系，向客户提供高质量的产品和服务。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司拓展公益维度，积极开展爱心助学与社会志愿服务。",
+      "original_text": "拓展公益维度，积极开展爱心助学与社会志愿服务，以实际行动践行安全、绿色生产、节能环保领域方面有所提升",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司建立对口的良性招聘机制，建立覆盖全周期的培训体系，通过内部授课、外部培训等方式为员工提供多元化成长平台。",
+      "original_text": "建立覆盖新员工入职、岗位技能、职业晋升的全周期培训体系，通过内部授课、外部培训、轮岗实践等方式，为员工提供多元化成长平台",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "partial",
+      "summary": "公司取消监事会，由董事会审计委员会行使监事会职权，并在董事会中新设职工代表董事，完善公司治理体系。",
+      "original_text": "取消监事会，由董事会审计委员会行使监事会职权，同步修订了《股东会议事规则》、《董事会议事规则》，并在董事会中新设职工代表董事，完善公司治理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "partial",
+      "summary": "公司守法合规，稳健经营，持续强化内控管理，以重大投资、各类安全风险得到有效控制。",
+      "original_text": "守法合规，稳健经营，保护股东和债权人权益；持续强化内控管理，以重大投资、各类安全风险得到有效控制。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "partial",
+      "summary": "公司持续强化内控管理，以重大投资、各类安全风险得到有效控制。",
+      "original_text": "持续强化内控管理，以重大投资、各类安全风险得到有效控制。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过深交所互动易专网等进行投资者关系管理，实现良性互动。",
+      "original_text": "在日常的投资者关系管理工作中，公司通过深交所互动易专网、",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "partial",
+      "summary": "公司关心关爱员工发展、诚信对待股东和债权人，积极践行社会责任。",
+      "original_text": "追求经济效益、保护股东权益的同时，关心关爱员工发展、诚信对待股东和债权人权益保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵照定期报告的编制、审议、披露程序，遵循完整性、合法性的基本原则，完成信息披露工作。",
+      "original_text": "在信息披露工作中，公司遵照定期报告的编制、审议、披露程序，完整性、合法性的基本原则，编制完成了公司的信息披露工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.702
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

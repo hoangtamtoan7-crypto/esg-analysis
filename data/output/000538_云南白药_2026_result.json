@@ -1,0 +1,442 @@
+{
+  "company_name": "云南白药",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 90746.68,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 90,746.68",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 34718.58,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体直接排放量（范围一） 吨二氧化碳当量 34,718.58",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 56028.1,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体间接排放量（范围二） 吨二氧化碳当量 56,028.10",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 0.022,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "温室气体排放密度 吨二氧化碳当量/万元营收 0.022",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 1869115.0,
+      "unit": "吨",
+      "original_text": "水资源使用量 吨 1,869,115.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": 1493268.51,
+      "unit": "吨",
+      "original_text": "废水排放总量 吨 1,493,268.51",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": 24423.17,
+      "unit": "吨",
+      "original_text": "固体废弃物总量 吨 24,423.17",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": 5.41,
+      "unit": "吨",
+      "original_text": "氮氧化物 吨 5.41",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": 0.29,
+      "unit": "吨",
+      "original_text": "硫氧化物 吨 0.29",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 9286,
+      "unit": "人",
+      "original_text": "员工总数 9,286人 正式员工",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 10.0,
+      "unit": "%",
+      "original_text": "最高管理职位的女性比例 % 10.00",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 742.22,
+      "unit": "万元",
+      "original_text": "年度培训总支出 万元 742.22",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 36.31,
+      "unit": "小时/人",
+      "original_text": "人均培训时长36.31小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "公司全年员工流失率为",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 4.23,
+      "unit": "亿元",
+      "original_text": "研发投入 亿元 4.23",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 912.58,
+      "unit": "万元",
+      "original_text": "安全方面总投入912.58万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 356,
+      "unit": "万元",
+      "original_text": "公司对外捐赠资金共计约356万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 12,
+      "unit": "人",
+      "original_text": "公司第十一届董事会由12名成员构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "其中包含4名独立董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 1,
+      "unit": "人",
+      "original_text": "目前董事会包含一名女性职工董事",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 9,
+      "unit": "次",
+      "original_text": "报告期内，董事会共召开会议9次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极响应国家双碳战略，设定双碳目标：2028年碳达峰，2030年运营碳中和，2050年价值链碳中和。将气候因素纳入战略决策，开展碳管理培训，构建智慧能源管理体系。",
+      "original_text": "设定“2028年完成碳达峰；2030年实现运营碳中和，可再生能源使用比例达到100%；2050年实现价值链碳中和”的双碳战略目标",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立健全环境管理体系，制定多项环保管理制度，通过ISO14001认证，开展环境合规培训，确保污染物达标排放，未发生重大环境事件。",
+      "original_text": "云南白药坚持绿色发展导向，建立健全环境管理体系与运行机制，将污染防治和环境风险管控融入日常运营管理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司推进包装绿色化、轻量化改造，向市场和消费者传递绿色发展成效。",
+      "original_text": "推进包装绿色化、轻量化改造，向市场和消费者传递绿色发展成效。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司关注生物多样性保护，建立保护措施，如重楼野生驯化，降低对野生资源的依赖。",
+      "original_text": "建立完善的生物多样性保护技术，成功实现重楼野生驯化",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施药渣转化为生物质燃料项目，形成固废-再生-回用闭环；实施废水回收利用项目，年减少废水排放约8000立方米；推广中水回用。",
+      "original_text": "项目将药渣转化为生物质燃料，用于生物质锅炉生产蒸汽，并定向回用于七甸产业区，形成“固废-再生-回用”的闭环链条",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司修订并实施招聘、劳动合同、职业发展双通道等制度，建立投诉举报渠道，保障员工权益，未发生歧视事件。",
+      "original_text": "修订并实施《招聘管理制度》《劳动合同管理制度》《员工职业发展双通道管理办法》等制度文件...2025年，公司未发生任何歧视",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司严格遵循安全生产法，完善安全生产制度体系，开展安全培训与应急演练，全年安全培训参与人次22,801。",
+      "original_text": "云南白药严格遵循《中华人民共和国安全生产法》《中华人民共和国职业病防治法》等法律法规，持续完善安全生产制度体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司通过供应商审核、培训等机制提出环保要求，重点评估职业健康与安全管理体系，构建安全、韧性、共享的供应链生态。",
+      "original_text": "公司通过供应商审核、培训等机制提出...重点评估其职业健康与安全管理体系的有效性。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司成立技术质量管理委员会，构建全产业链质量管理模式，开展质量培训1,973场，超过80%自身运营范围已获质量认证。",
+      "original_text": "云南白药将产品质量与安全置于企业发展的首要位置...公司已成立技术质量管理委员会...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司严格遵守网络安全法、个人信息保护法等，制定数据安全风险管理办法，建立信息安全管理架构，开展信息安全培训8,150人次。",
+      "original_text": "云南白药高度重视信息数据安全管理，严格遵守包括《中华人民共和国网络安全法》《个人信息保护法》《数据安全法》...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极响应乡村振兴战略，开展社区关怀活动，组织志愿服务，对外捐赠约356万元，深度参与‘她健康’公益。",
+      "original_text": "云南白药积极响应国家乡村振兴战略...公司对外捐赠资金共计约356万元...",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司重视性别平等，女性在所有管理职位比例39.69%，最高管理职位女性比例10%，初级管理职位女性占比41.38%。",
+      "original_text": "女性在所有管理职位中的比例 % 39.69...最高管理职位的女性比例 % 10.00...担任初级管理职位的女性占比 % 41.38",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立‘决策-管理-执行’三层ESG治理架构，由副董事长、总裁担任组长，财务总监及董事会秘书等担任副组长，各职能部门与事业群最高管理人员作为组员。",
+      "original_text": "完善‘决策-管理-执行’三层ESG治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立《反舞弊与反商业贿赂合规管理办法》等制度，明确禁止腐败、贿赂等行为，开展反腐败专题培训，关键岗位人员培训覆盖率达到100%。",
+      "original_text": "累计开展反腐败专题培训 参与超过 关键岗位人员培训覆盖率达到100%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司持续完善以制度、监督与文化为核心的商业道德管理体系，将商业道德与合规要求融入供应商管理全流程，要求供应商签订廉洁协议。",
+      "original_text": "云南白药将商业道德与合规要求深度融入供应商管理全流程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司建立覆盖各业务单元的三级联动风险管理架构，将可持续发展风险全面嵌入现有风险管理流程，并荣获2025年上市公司内部控制最佳实践案例。",
+      "original_text": "云南白药通过覆盖各业务单元的三级联动风险管理架构，系统化推动可持续发展相关风险的识别与管理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过依法提前发布股东会通知、设置线上线下参与及投票渠道、定期举办业绩说明会、通过互动易平台回复问题等方式，保障股东权益。",
+      "original_text": "云南白药持续完善投资者沟通机制，致力于构建透明、高效、多渠道的沟通平台",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司依托线上互动平台、官方媒体、电子邮件、股东会及投资者交流专线电话等多种方式，与内外部利益相关方保持紧密联系。",
+      "original_text": "云南白药始终将利益相关方的声音作为公司持续发展的重要参照，通过多元化的沟通渠道系统倾听并回应各方对可持续发展的关切",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "本报告遵循《深圳证券交易所上市公司自律监管指引第17号——可持续发展报告（试行）》等标准编制，经董事会审议批准，公司董事会及全体董事保证报告不存在虚假记录。",
+      "original_text": "本报告遵循《深圳证券交易所上市公司自律监管指引第17号——可持续发展报告（试行）》等报告标准编制而成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "000538_云南白药_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

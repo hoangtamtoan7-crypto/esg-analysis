@@ -1,0 +1,441 @@
+{
+  "company_name": "焦作万方",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 4361485.63,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 5,236,467.30 4,462,439.09 4,361,485.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 4361485.63,
+      "unit": "吨二氧化碳当量",
+      "original_text": "直接温室气体排放量（范围一） 吨二氧化碳当量 590,840.45 609,821.97 4,361,485.63",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量",
+      "original_text": "间接温室气体排放量（范围二） 吨二氧化碳当量 533,943.87 601,070.36 /",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 10.38,
+      "unit": "吨二氧化碳当量/吨产量",
+      "original_text": "温室气体排放强度 吨二氧化碳当量/吨产量 12.47 10.62 10.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 1343942.15,
+      "unit": "吨标准煤",
+      "original_text": "能源消耗总量 1,343,942.15",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 69629390,
+      "unit": "吨",
+      "original_text": "总用水量 69,629,390",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": 7982.52,
+      "unit": "万元",
+      "original_text": "环保投入总金额 7,982.52",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 2123,
+      "unit": "人",
+      "original_text": "员工2,123人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 86.78,
+      "unit": "万元",
+      "original_text": "员工培训投入 万元 86.78",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 6,
+      "unit": "%",
+      "original_text": "报告期内，公司员工离职131人，总流失率6%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 593.43,
+      "unit": "万元",
+      "original_text": "研发投入 万元 593.43",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0.09,
+      "unit": "%",
+      "original_text": "研发投入占主营业务收入比例 % 0.09",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 1834,
+      "unit": "万元",
+      "original_text": "安全生产投入金额 万元 2,079 1,372 1,834",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 0.5,
+      "unit": "万元",
+      "original_text": "捐赠爱心善款人民币5,000元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 9,
+      "unit": "人",
+      "original_text": "现任9名董事会成员",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 33.33,
+      "unit": "%",
+      "original_text": "独立董事3人，占比达三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 4,
+      "unit": "人",
+      "original_text": "女性董事4人，占比达44.4%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 14,
+      "unit": "次",
+      "original_text": "报告期内，公司召开董事会会议14次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "召开各董事会专门委员会及独立董事专门会议共计20次",
+      "confidence": "medium"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司深入贯彻国家'双碳'战略，将应对气候变化作为推动高质量发展和履行社会责任的重要方向，持续加快绿色低碳转型步伐。公司从风险机遇识别、评估、应对三方面形成管理体系。",
+      "original_text": "焦作万方深入贯彻国家'双碳'战略，将应对气候变化作为推动高质量发展和履行社会责任的重要方向，持续加快绿色低碳转型步伐。对于气候变化的风险和机遇，公司从风险机遇识别、风险机遇评估、风险机遇应对三方面形成管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO 14001环境管理体系认证，建立覆盖公司整体及各职能部门的QHSE管理体系，制定《环境保护管理责任制》等制度，由总经理担任环境保护第一责任人。",
+      "original_text": "已通过ISO 14001环境管理体系认证。公司围绕QHSE体系覆盖的公司整体及各部门重要环境因素，系统识别其风险与机遇，制定针对性管控措施。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "报告提及电解烟气绿色化改造项目，减少环境保护税缴纳，但未明确提及绿色产品与服务具体措施。",
+      "original_text": "电解烟气绿色化改造项目 减少环境保护税缴纳 对公司六套电解烟气净化系统进行超低排放绿色化改造",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司重视生态环境保护与生物多样性维护，严格遵守国家及地方有关生态保护的法律法规和政策要求，在生产经营活动中与生态环境协调发展。",
+      "original_text": "公司重视生态环境保护与生物多样性维护，严格遵守国家及地方有关生态保护的法律法规和政策要求，在生产经营活动中与生态环境协调发展。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推进清洁生产和资源化利用，对失效催化剂等有机物废气进行回收或燃烧处理，通过焚烧等方式对活性污泥进行资源化利用。工业用水重复利用率≥95%，固体废物综合利用率≥95%，煤粉灰、脱硫石膏、炉渣综合利用率达到100%。",
+      "original_text": "同步推进清洁生产和资源化利用，对失效催化剂等有机物废气进行回收或燃烧处理，还通过焚烧等方式对活性污泥进行资源化利用。工业用水重复利用率≥95%，固体废物综合利用率≥95%；煤粉灰、脱硫石膏、炉渣综合利用率达到100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司制定《劳动合同管理办法》等制度，坚持平等就业原则，未发生雇佣童工及强迫劳动事件；成立帮扶困难员工基金会；建立劳动争议调解委员会。",
+      "original_text": "公司制定了《劳动合同管理办法》《劳动纪律管理规定》《员工行为守则》等人力资源管理制度...未发生雇佣童工事件及强迫劳动事件；成立帮扶困难员工基金会；制定《劳动争议调解实施办法》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司已通过ISO 45001职业健康安全管理体系认证，建立QHSE管理体系，开展职业健康培训、隐患排查、应急演练，安全培训员工覆盖率100%。",
+      "original_text": "公司已通过ISO 45001职业健康安全管理体系认证；建立覆盖公司整体及各职能部门的质量、职业健康安全和环境（QHSE）管理体系；安全培训员工覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将ESG因素纳入供应商尽职调查范围，重点关注环境合规、劳动用工、职业健康安全及商业道德等风险，并作为合作准入和持续管理依据。",
+      "original_text": "公司将ESG因素纳入尽职调查范围，重点关注环境合规、劳动用工、职业健康安全及商业道德等风险，并将结果作为合作准入和持续管",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司坚持质量方针，通过质量管理体系认证，开展质量培训、QC小组活动，制定质量安全事故处置方案，定期应急演练。",
+      "original_text": "公司坚持'守法诚信重务实，追求卓越质量'的方针；已通过质量管理体系认证；定期组织质量安全自查；组织制定质量安全事故处置方案并定期开展应急演练",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立信息安全管理体系，制定数据安全管理制度，对客户隐私数据加密存储和访问控制，开展信息安全培训，年度内无重大数据安全事件。",
+      "original_text": "公司重视信息安全与客户隐私保护，建立完善的信息安全管理体系；对核心客户隐私数据实施加密存储和访问控制；年度内重大数据安全事件发生次数为0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司积极参与乡村振兴，改善农村基础设施，开展公益活动，捐赠爱心善款。",
+      "original_text": "焦作万方秉持“报效国家、惠泽社会”的宗旨，持续强化社会责任意识，主动参与公益实践，积极支持乡村振兴相关工作。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司坚持平等就业原则，不因年龄、性别、婚姻等歧视；女性董事4人，占比44.4%；残疾员工人数有提及但未明确比例。",
+      "original_text": "坚持平等就业原则，不因年龄、性别、婚姻...；女性董事4人，占比达44.4%；残疾员工",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司建立由股东会、董事会、专门委员会及高级管理层组成的治理架构，明确权责边界，完善决策、执行与监督机制。",
+      "original_text": "公司建立由股东会、董事会、专门委员会及高级管理层组成的治理架构，明确权责边界，完善决策、执行与监督机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司重视商业道德与合规管理，围绕反舞弊与公平竞争建立制度框架和执行闭环，将诚信、廉洁要求嵌入关键决策与业务流程，并持续开展全员合规宣贯，完善监督举报渠道。",
+      "original_text": "公司重视商业道德与合规管理，围绕反舞弊与公平竞争建立制度框架和执行闭环，将诚信、廉洁要求嵌入关键决策与业务流程。并持续开展全员合规宣贯，完善监督举报渠道，强化对贪腐、商业贿赂及垄断等风险的前端识别和源头治理",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立审计、内控、合规、纪检等一体化大监督体系，对风险进行全过程防控，切实筑牢合规经营底线。",
+      "original_text": "公司建立审计、内控、合规、纪检等一体化大监督体系，对风险进行全过程防控切实筑牢合规经营底线",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司构建了全方位的风险防控体系，深化制度治企理念，完成核心治理制度修订，构建合同标准化体系，实现风险源头防控。",
+      "original_text": "公司构建了全方位的风险防控体系。公司深化制度治企理念，2025年完成《公司章程》等核心治理制度修订，结合经营实际完成29项一般管理制度修订，构建合同的标准化体系，实现风险源头防控",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定《投资者关系管理制度》，明确沟通原则、工作职责与流程要求，通过多元化沟通渠道及时回应市场关切，持续提升信息透明度和沟通有效性。",
+      "original_text": "为规范投资者关系管理，公司制定《投资者关系管理制度》，明确沟通原则、工作职责与流程要求，坚持合规为关，确保披露信息及时传递经营状况与重大事项进展，切实维护投资者合法权益",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司畅通利益相关方沟通渠道，建立常态化的沟通机制，与各方进行积极、广泛地沟通与交流，了解各利益相关方的期望与诉求并积极回应。",
+      "original_text": "公司畅通利益相关方沟通渠道，建立常态化的沟通机制，与各方进行积极、广泛地沟通与交流，了解各利益相关方的期望与诉求并积极回应，不断提高治理水平",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定并实施《信息披露管理制度》《信息披露重大差错责任追究制度》《环境信息披露管理办法》，对信息披露的内容范围、管理流程、职责分工与审批程序作出系统规范。报告期内，公司信息披露评级为B级。",
+      "original_text": "公司制定并实施《信息披露管理制度》《信息披露重大差错责任追究制度》《环境信息披露管理办法》，对信息披露的内容范围、管理流程、职责分工与审批程序作出系统规范。2025年，公司信息披露评级为B级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.856
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "company_name": "万向钱潮",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "公司持续加大安全生产专项投入",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 1,
+      "unit": "次",
+      "original_text": "2025年4月24日召开的公司第十届董事会第七次会议",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "partial",
+      "summary": "公司以技术创新推动节能减排，将绿色发展理念贯穿生产经营全过程，但未明确提及气候变化应对策略或碳中和目标。",
+      "original_text": "公司将绿色发展理念贯穿于生产经营全过程，以技术...节能减排、降本增效与环境优化有机统一",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已建立环境管理体系，定期进行体系运行检查，并通过培训提高员工环境意识。",
+      "original_text": "公司持续开展环境知识培训、环境法律法规的宣传和学习以及定期的环境体系运行检查",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司拥有省级绿色工厂等荣誉，但未明确提及绿色产品或服务。",
+      "original_text": "省级绿色工厂、省级先进级...",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "报告未提及生物多样性保护相关内容。",
+      "original_text": "",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "partial",
+      "summary": "公司对废弃物实施分类管理、规范处置，但未明确提及循环经济实践。",
+      "original_text": "对各类危险废弃物及一般固体废弃物实施分类管理、规范处置",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司切实履行雇主义务，执行《劳动合同法》，无重大劳动纠纷；为员工足额缴纳社保；通过会议、信箱等与员工沟通；提供公寓式住房；开展三创奖评比。",
+      "original_text": "报告期内，公司切实履行雇主义务，认真执行《劳动合同法》...报告期内无重大劳动纠纷。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司贯彻安全生产方针，通过ISO 45001及ISO 14001年度监督审核，开展安全培训、隐患排查、应急演练，未发生重大安全事故。",
+      "original_text": "报告期内，公司深入贯彻'安全第一、预防为主、综合治理'的安全生产方针...未发生重大机械、设备、火灾及人员伤亡等安全生产事故。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "no",
+      "summary": "未提及供应链ESG管理相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司推行质量风险预防、控制、改进系统方法，通过宝马、奔驰等用户质量体系审核，荣获多项质量荣誉，未发生重大质量安全事故。",
+      "original_text": "公司全面推行质量风险预防、控制、改进的系统方法，成效显著...未发生重大质量安全事故，无重大质量投诉。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "no",
+      "summary": "未提及数据安全与隐私保护相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司秉持'创造财富，回报社会'理念，组织员工捐赠周活动，参与率95.75%，鼓励结对助学、青年志愿服务等公益活动。",
+      "original_text": "公司秉持'创造财富，回报社会'的理念，积极投身社会公益事业...员工捐赠参与率高达95.75%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "公司为外地员工提供公寓式住房，帮助员工安家和子女入学，但未明确提及多元化与包容政策。",
+      "original_text": "针对公司外地员工多的特点，提供公寓式的过度用房等...为员工安家和子女入学提供支持。",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "partial",
+      "summary": "公司不断完善以股东会、董事会、监事会为核心的治理架构，但未明确提及ESG治理架构。",
+      "original_text": "不断完善以股东会、董事会、监事会为核心的治理架构",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司与用户签订廉洁反腐协议，与供应商签订廉洁协议，报告期内未发生违法违纪事件。",
+      "original_text": "我司与用户签订廉洁反腐协议，与供应商签订廉洁协议，报告期内未发生违法违纪事件",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "partial",
+      "summary": "公司全面推行质量风险预防、控制、改进的系统方法，但未明确提及商业道德与合规政策。",
+      "original_text": "公司全面推行质量风险预防、控制、改进的系统方法",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司持续推进内控评价和风险管理工作，董事会每年对公司内部控制进行评价，建立了完备的内控制度。",
+      "original_text": "持续推进内控评价和风险管理工作，董事会每年均对公司内部控制进行评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司建立了与投资者的互动平台，接待投资者现场参观，回答投资者关系互动问题，形成投资者关系活动记录表。",
+      "original_text": "建立了与投资者的互动平台，接待投资者现场参观，回答投资者关系互动问题，形成投资者关系活动记录表",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司自觉维护股东、债权人、员工等各利益相关方的合法权益，不断健全社会责任管理机制。",
+      "original_text": "自觉地维护股东、债权人、员工等各利益相关方的合法权益，不断的健全社会责任管理机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司严格履行信息披露义务，及时、真实、准确、完整地披露信息，重视结果披露和过程披露。",
+      "original_text": "严格履行了信息披露义务，及时、真实、准确、完整地披露信息，既重视结果披露，也重视过程披露",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关内容。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 13,
+    "quantitative_valid": 13,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.702
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 33,
+    "missing": 19,
+    "missing_list": [
+      {
+        "id": "E_Q01",
+        "name": "温室气体排放总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q02",
+        "name": "范围1排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q03",
+        "name": "范围2排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q04",
+        "name": "温室气体排放强度",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q05",
+        "name": "综合能源消耗",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q06",
+        "name": "可再生能源使用比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q07",
+        "name": "总用水量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q08",
+        "name": "废水排放量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q09",
+        "name": "废弃物产生总量",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q10",
+        "name": "环保投入金额",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q11",
+        "name": "氮氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q12",
+        "name": "硫氧化物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "E_Q13",
+        "name": "颗粒物排放",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q01",
+        "name": "董事会规模",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q02",
+        "name": "独立董事比例",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q03",
+        "name": "女性董事人数",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q05",
+        "name": "监事会规模",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q06",
+        "name": "高管薪酬总额",
+        "type": "quantitative"
+      },
+      {
+        "id": "G_Q07",
+        "name": "审计委员会会议次数",
+        "type": "quantitative"
+      }
+    ],
+    "completeness": 63.5
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "company_name": "湖南投资",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 11498.47,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 10,930.32… 11,498.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 942.69,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围1温室气体排放总量 吨二氧化碳当量 501.57… 942.69",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 10555.78,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围2温室气体排放总量 吨二氧化碳当量 10,428.75… 10,555.78",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 22.14,
+      "unit": "吨二氧化碳当量/百万元营收",
+      "original_text": "每百万元营收温室气体排放强度 吨二氧化碳当量/百万元 17.32 22.14",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": 2768.53,
+      "unit": "吨标煤",
+      "original_text": "综合能源消耗总量 吨标煤 2,494.08… 2,768.53",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 185592.7,
+      "unit": "吨",
+      "original_text": "取水总量 吨 209,364.70…… 185,592.70",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 620,
+      "unit": "人",
+      "original_text": "员工总数 人 643 620",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": 10,
+      "unit": "%",
+      "original_text": "女性高管占比 % 11.11 10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 10.7,
+      "unit": "万元",
+      "original_text": "员工培训支出金额 万元 10.23 10.70",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 17.3,
+      "unit": "小时/人",
+      "original_text": "员工接受培训平均小时数 小时 8.67 17.3",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 10,
+      "unit": "%",
+      "original_text": "员工流失率 % 10 10",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 0,
+      "unit": "万元",
+      "original_text": "研发投入金额 万元 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 0,
+      "unit": "%",
+      "original_text": "研发投入占营业收入比例 % 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": 59.69,
+      "unit": "万元",
+      "original_text": "安全生产责任险投入金额 万元 12.24 59.69",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": 0,
+      "unit": "‰",
+      "original_text": "工伤率 % 0 0",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 14,
+      "unit": "万元",
+      "original_text": "公益慈善投入总金额 万元 14 14",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "新一届董事会由11名董事构成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事占比36.36%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 3,
+      "unit": "人",
+      "original_text": "女性董事3名",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 7,
+      "unit": "次",
+      "original_text": "召开董事会7次",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极践行国家'双碳'目标，将绿色发展理念贯穿生产经营全过程，构建完善的能源管理体系，推动绿色低碳转型。",
+      "original_text": "为积极响应国家'双碳'战略，公司将绿色发展理念深度融入运营各环节，构建起完善的能源管理体系。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立并完善环境管理体系，包括环保政策与目标、环境影响评估、废物管理、环境监测与报告等，并设置环境管理机构和配备专职人员。",
+      "original_text": "公司始终坚持走'清洁、高效、减排、节能'的绿色发展道路。通过建立并完善责任考核、教育培训、设施运行等环境管理。",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "partial",
+      "summary": "公司推行绿色运营、低碳能耗管理，在酒店经营中降低能耗并减少污染排放，在房地产开发领域严守绿色建筑标准。",
+      "original_text": "经营板块，我们推行绿色运营、低碳能耗管理，打造健康旅居空间；在房地产开发领域，我们严守绿色建筑标准。",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "yes",
+      "summary": "公司将生态系统和生物多样性保护列为影响重要性议题，并在施工中采取措施减少对沟渠、池塘的污染，保护生态。",
+      "original_text": "影响重要性议题 11 生态系统和生物多样性保护 环境",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司推行垃圾分类、废纸回收二次利用、电池以旧换新等循环经济措施，鼓励资源循环利用。",
+      "original_text": "电池等以旧换新，废纸二次利用。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司依法签订劳动合同，劳动合同签订率100%；建立规范透明的薪酬管理体系，完善多元化福利；设有员工申诉渠道。",
+      "original_text": "依法与员工签订书面劳动合同，劳动合同签订率100%；建立规范、透明的薪酬管理体系，完善多元化的员工福利",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司制定职业健康与安全管理体系，开展安全培训、应急演练，组织员工健康体检，发放劳保用品。",
+      "original_text": "制定《职业健康与安全管理体系》等制度；组织员工健康体检，发放劳保用品；安全教育培训覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "partial",
+      "summary": "报告提及供应商质量要求，对不达标产品供应商解除合同，但未明确ESG管理具体措施。",
+      "original_text": "对于多次提供不达标产品的供应商，果断解除合同，从源头上保障原材料的质量安全。",
+      "confidence": "medium"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立质量安全管理体系，开展质量培训，客户投诉回复率100%，解决率99.49%。",
+      "original_text": "公司定期邀请交通行业专家及高校教授开展公路工程质量与可靠性专项培训；客户投诉回复率100%，客户投诉解决率99.49%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司加强数据安全管理，报告期内未发生数据安全事件与泄露客户隐私事件。",
+      "original_text": "报告期内发生的数据安全事件与泄露客户隐私事件涉及金额 万元 0 0；数据安全与客户隐私保护 加强数据安全管理",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司组织志愿服务活动，参与社区安全、公益慈善，连续6年组织关爱'慢天使'公益活动。",
+      "original_text": "绕南高速多次组织志愿者服务队走进周边社区开展志愿服务活动；连续6年组织关爱'慢天使'公益活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "partial",
+      "summary": "报告提及女性员工数量、少数民族员工数量，但未明确多元化与包容政策。",
+      "original_text": "女性员工数量 人 325 322；少数民族员工数量 人 23 24",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司明确董事会、经理层、分子公司及各职能部门的ESG责任分配，形成了由董事会统筹管理的ESG工作机制。",
+      "original_text": "形成了由董事会统筹管理的ESG工作机制",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司持续强化党风廉政建设和反腐败工作，召开反腐败工作会议，制定纪检监察工作要点，各子公司构建风险防控体系，开展廉洁教育。",
+      "original_text": "持续强化党风廉政建设和反腐败工作统筹部署，压实全面从严治党主体责任",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司构建商业道德治理组织架构，制定内控合规风险管理制度，开展合规培训，完善举报与申诉机制。",
+      "original_text": "构建'党委、董事会统筹领导—专项机构具体实施—多部门协同联动'的商业道德治理组织架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司制定全面风险管理制度、内部控制制度等，结合五大类风险开展识别、评估、监控、应对，形成风险管理闭环。",
+      "original_text": "制定了《全面风险管理制度》《内部控制制度》《合规管理制度》等制度",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司制定投资者关系管理制度，通过互动易等渠道与投资者沟通，完善投资者回报机制。",
+      "original_text": "制定《公司投资者关系管理制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司参照AA1000 SES原则，确定股东、客户、员工、供应商、政府等利益相关方类别，开展尽职调查与沟通。",
+      "original_text": "确定了股东/投资者、客户、员工、供应商、政府/监管机构、社区和环境为公司关键利益相关方的主要类型",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司制定信息披露管理制度，连续两年获深交所A级评价，高质量完成定期报告编制。",
+      "original_text": "连续两年获深交所A级评价",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "公司依法纳税，君逸山水大酒店纳税信用评定等级获评A级，税务活动完全合规。",
+      "original_text": "酒店纳税信用评定等级获评A级",
+      "confidence": "high"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.885
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

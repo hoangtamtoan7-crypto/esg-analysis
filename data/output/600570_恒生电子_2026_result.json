@@ -1,0 +1,442 @@
+{
+  "company_name": "恒生电子",
+  "report_year": "2026",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": 6176.47,
+      "unit": "吨二氧化碳当量",
+      "original_text": "温室气体排放总量 吨二氧化碳当量 8,365.77 8,183.27 6,176.47",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": 17.38,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围一温室气体排放量 吨二氧化碳当量 23.55 18.74 17.38",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": 6159.09,
+      "unit": "吨二氧化碳当量",
+      "original_text": "范围二温室气体排放量 吨二氧化碳当量 8,342.22 8,164.53 6,159.09",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": 1.068,
+      "unit": "吨二氧化碳当量/百万营业收入",
+      "original_text": "温室气体排放强度（每百万营业额） 吨二氧化碳当量/百万营业收入 1.149 1.243 1.068",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": 103147,
+      "unit": "吨",
+      "original_text": "总用水量 吨 127,654.40 130,722.00 103,147.00",
+      "confidence": "high"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 13189,
+      "unit": "人",
+      "original_text": "员工总人数 人 13,189 10,927 10,276",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 1000,
+      "unit": "万元",
+      "original_text": "员工培训投入注4 万元 1,000",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 10.2,
+      "unit": "小时/人",
+      "original_text": "员工人均培训时长 小时 10.2",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": 17,
+      "unit": "%",
+      "original_text": "年度员工流失率 % 17 17 12",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": 218000,
+      "unit": "万元",
+      "original_text": "2025年公司的研发费用投入总计21.80亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": 37.7,
+      "unit": "%",
+      "original_text": "占营业收入的37.70%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 1300,
+      "unit": "万元",
+      "original_text": "基金会公益投入超过1,300万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": 11,
+      "unit": "人",
+      "original_text": "公司董事会由11名董事组成",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": 36.36,
+      "unit": "%",
+      "original_text": "独立董事4名，占比超过三分之一",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": 2,
+      "unit": "人",
+      "original_text": "女性董事席位达两席",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "全年召开董事会次数 次 7 8 9",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "2025年12月，公司统筹完成《公司章程》修订、取消监事会等重点治理事项",
+      "confidence": "medium"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司积极应对气候变化挑战，响应国家'3060'双碳目标，依托董事会可持续发展委员会开展气候治理，制定碳中和路线图，目标2030年碳达峰、2060年碳中和。",
+      "original_text": "恒生电子积极应对气候变化挑战，响应国家'3060'双碳目标，依托董事会可持续发展委员会开展气候治理",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司已通过ISO14001环境管理体系认证和ISO50001能源管理体系认证，持续推进环境与能源管理体系文件的规范化与标准化建设。",
+      "original_text": "2024年通过ISO14001环境管理体系认证；2024年通过ISO50001能源管理体系认证",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司加快清洁技术应用，在云计算等领域深度探索；承建全国碳排放权注册登记系统、交易系统等，提供碳中和解决方案，涵盖碳资产管理、碳核查、碳咨询、绿色金融等。",
+      "original_text": "公司加快清洁技术应用，在云计算等领域深度探索；承建碳排放权注册登记和交易等系统项目；恒生碳中和解决方案涵盖碳资产管理、碳核查、碳咨询、绿色金融、碳普惠、碳足迹、碳中和数据",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "报告提及'生态系统与生物多样性保护'议题，但未提供具体措施或承诺。",
+      "original_text": "4.生态系统与生物多样性保护",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司实施'资产回收计划'，回收废弃电子设备；采用雨水收集系统用于浇灌，实现水资源循环利用；通过绿色采购践行低碳环保理念。",
+      "original_text": "实施'资产回收计划'；采用雨水收集系统用于浇灌园区绿化和路面浇洒，实现水资源循环利用；回收2,367台废弃电子设备",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司构建多层次人才培养体系，提供有竞争力的薪酬福利，通过股权激励稳定核心骨干，保障员工权益。",
+      "original_text": "公司构建多层次人才培养体系，培育复合型金融科技人才，通过长效股权激励稳定核心骨干，激发团队活力。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司重视员工身心健康，组建阳光急救队，配备AED，开展消防演练，进行建筑消防设施检测，确保员工人身安全。",
+      "original_text": "公司组建阳光急救队和楼层安全管理员队伍，并在办公大楼配备自动体外除颤器（AED）...按期进行建筑消防设施年度检测与维修保护",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司将隐私与数据安全保护要求延伸至合作伙伴，每年对供应商隐私数据安全管理遵守情况进行评估。",
+      "original_text": "公司将隐私与数据安全保护要求延伸至合作伙伴，合作商不得以任何直接或间接方式向第三方透露在公司...每年对供应商与合作伙伴隐私数据安全管理遵守情况进行评估。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司建立产品全生命周期质量管理体系，通过ISO20000认证，未发生重大产品责任风险事件。",
+      "original_text": "建立了高标准要求的产品全生命周期质量管理体系，在产品研发全流程环节严格控制活动及交付件质量...2025年公司未发生产品责任相关重大风险事件。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司制定《数据安全管理制度》，建立产品全生命周期安全研发体系，信息安全培训覆盖率100%。",
+      "original_text": "制定《数据安全管理制度》，强化员工数据安全意识...信息安全、数据安全培训覆盖率100%。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司通过浙江恒生电子公益基金会持续深耕公益领域，公益投入超过1,300万元，受益人数超过2.3万人。",
+      "original_text": "依托浙江恒生电子公益基金会持续深耕公益领域...基金会公益投入超过1,300万元，受益人数超过2.3万人。",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司推进性别多元化，女性董事席位达两席；有23名残疾员工就职。",
+      "original_text": "2025年，董事会结构进一步优化，推进性别、专业背景等维度多元化。女性董事席位达两席...有23名残疾员工就职于恒生电子。",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司董事会下设可持续发展委员会，制定《可持续发展委员会组织和工作办法》，统筹引领ESG治理。",
+      "original_text": "在董事会可持续发展委员会的统筹引领下，公司持续优化顶层设计，完善管理制度与政策体系",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司监事长领导内部审计和法务合规团队，承担商业道德和腐败问题监督调查职能；开展全层级商业道德培训。",
+      "original_text": "公司监事长负责领导内部审计团队和法务合规团队，承担对商业道德和腐败问题的监督和调查职能",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司董事会及其下设可持续发展委员会作为商业道德及合规经营最高监管机构，定期听取工作汇报，强化合规治理。",
+      "original_text": "董事会及其下设可持续发展委员会作为公司商业道德及合规经营的最高监管机构，定期听取公司管理层团队关于商业道德、合规经营、反舞弊、反不正当竞争等方面的工作汇报",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "公司迭代完善合规管理三道防线，搭建包括《法律风险防范管理制度》《业务合规管理规范》等制度体系。",
+      "original_text": "公司迭代完善合规管理三道防线，多角度、全方位将合规要求与风险防范落实到业务全生命周期与经营管理各个环节",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司严格遵循监管指引，通过投资者日活动、热线、邮箱、上证E互动、券商策略会路演、日常电话沟通、调研参访等多种渠道与投资者沟通。",
+      "original_text": "公司始终将投资者关系管理与中小股东权益保护置于治理工作重要位置，严格遵循最新监管指引",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过多种渠道与股东、供应商、监管机构等利益相关方沟通，包括信息披露、日常电话沟通、实地考察、定期汇报等。",
+      "original_text": "股东：信息披露、日常电话沟通、调研参访接待；供应商：诚信合规、反腐败反贿赂、实地考察；监管机构：定期汇报、专项问题沟通",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司构建闭环式信息披露管控机制，提升信息披露质量与合规水平，保障投资者平等、及时、准确获取信息。",
+      "original_text": "流程、闭环式信息披露管控机制，全面提升信息披露质量与合规水平，保障全体投资者平等、及时、准确",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "报告未提及税务透明度相关措施。",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "600570_恒生电子_2026.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.846
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}
