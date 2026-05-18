@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 
 
 def render_ai_assistant_page():
-    st.title("🤖 ESG AI智能助手")
+    st.title("ESG AI智能助手")
     st.markdown("基于DeepSeek大模型的自然语言ESG数据查询与分析 — 直接输入问题即可获取答案与可视化")
 
     # ---- 初始化 session state ----
@@ -23,7 +23,7 @@ def render_ai_assistant_page():
 
     # ---- 侧边栏 ----
     with st.sidebar:
-        st.subheader("💡 示例问题")
+        st.subheader("示例问题")
         examples = [
             "比亚迪的ESG表现怎么样？",
             "ESG综合得分排名前10的公司",
@@ -40,10 +40,10 @@ def render_ai_assistant_page():
                 st.rerun()
 
         st.markdown("---")
-        st.caption("💡 提示：可以直接输入公司名、指标名或自然语言问题进行查询。")
+        st.caption("提示：可以直接输入公司名、指标名或自然语言问题进行查询。")
 
         # 调试模式
-        if st.checkbox("🔧 显示调试信息"):
+        if st.checkbox("显示调试信息"):
             st.caption(f"工具调用记录: {len(st.session_state.tool_trace)}次")
             if st.session_state.tool_trace:
                 for i, (name, args) in enumerate(st.session_state.tool_trace[-5:]):
@@ -51,7 +51,7 @@ def render_ai_assistant_page():
 
         # 数据集概况
         st.markdown("---")
-        st.subheader("📊 数据概况")
+        st.subheader("数据概况")
         if st.session_state.adapter:
             overview = st.session_state.adapter.get_data_overview()
             if "error" not in overview:
@@ -98,7 +98,7 @@ def render_ai_assistant_page():
                     tool_calls = result.get("tool_calls_made", [])
                     st.session_state.tool_trace.extend(tool_calls)
                 else:
-                    text = "⚠️ AI助手未初始化，请设置 `DEEPSEEK_API_KEY` 环境变量后刷新页面。"
+                    text = "AI助手未初始化，请设置 `DEEPSEEK_API_KEY` 环境变量后刷新页面。"
                     tool_calls = []
 
                 st.markdown(text)
@@ -129,7 +129,7 @@ def _init_agent():
     # 先加载.env，确保API Key可用
     load_dotenv(Path(__file__).parent.parent.parent.parent / ".env")
     if not os.getenv("DEEPSEEK_API_KEY"):
-        st.warning("⚠️ 未设置 `DEEPSEEK_API_KEY` 环境变量，AI助手功能不可用。请在项目根目录创建.env文件并设置DEEPSEEK_API_KEY=sk-xxx")
+        st.warning("未设置 `DEEPSEEK_API_KEY` 环境变量，AI助手功能不可用。请在项目根目录创建.env文件并设置DEEPSEEK_API_KEY=sk-xxx")
         st.session_state.agent_initialized = True
         return
 

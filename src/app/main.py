@@ -13,7 +13,7 @@ from src.extractor.indicators import ALL_INDICATORS, INDICATORS_BY_DIMENSION
 
 st.set_page_config(
     page_title="ESG数据智能提取与分析系统",
-    page_icon="📊",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -154,11 +154,11 @@ def build_dataframe(results: list) -> pd.DataFrame:
 
 # ====== 侧边栏导航 ======
 with st.sidebar:
-    st.title("📊 ESG分析系统")
+    st.title("ESG分析系统")
     st.markdown("---")
     page = st.radio(
         "导航",
-        ["🏠 首页概览", "📋 数据质量", "🏢 公司详情", "📊 指标对比", "📈 ESG分析", "📉 趋势分析", "🤖 AI智能助手", "⚙️ 数据管理"],
+        ["首页概览", "数据质量", "公司详情", "指标对比", "ESG分析", "趋势分析", "AI智能助手", "数据管理"],
     )
     st.markdown("---")
 
@@ -167,16 +167,16 @@ with st.sidebar:
     if db:
         try:
             s = db.get_statistics()
-            st.caption(f"💾 数据库: {s['companies']}公司 | {s['reports_done']}报告已提取")
+            st.caption(f"数据库: {s['companies']}公司 | {s['reports_done']}报告已提取")
         except Exception:
-            st.caption("💾 数据库: 未连接")
+            st.caption("数据库: 未连接")
     else:
-        st.caption("💾 数据库: 未初始化（运行 db-import）")
+        st.caption("数据库: 未初始化（运行 db-import）")
 
     st.caption("数据要素大赛 · ESG报告智能提取与分析")
 
 # ====== 首页概览 ======
-if page == "🏠 首页概览":
+if page == "首页概览":
     st.title("ESG数据智能提取与分析系统")
     st.markdown("基于DeepSeek大模型的上市公司ESG报告自动提取与交互式分析平台")
 
@@ -207,20 +207,20 @@ if page == "🏠 首页概览":
     col_e, col_s, col_g = st.columns(3)
 
     for col, dim, dim_name, color in [
-        (col_e, "E", "🌍 环境 (Environmental)", "#2ecc71"),
-        (col_s, "S", "👥 社会 (Social)", "#3498db"),
-        (col_g, "G", "🏛️ 治理 (Governance)", "#e74c3c"),
+        (col_e, "E", "环境 (Environmental)", "#2ecc71"),
+        (col_s, "S", "社会 (Social)", "#3498db"),
+        (col_g, "G", "治理 (Governance)", "#e74c3c"),
     ]:
         with col:
             st.markdown(f"**{dim_name}**")
             indicators = INDICATORS_BY_DIMENSION.get(dim, [])
             qt_count = sum(1 for i in indicators if i.indicator_type == "quantitative")
             ql_count = sum(1 for i in indicators if i.indicator_type == "qualitative")
-            st.caption(f"📏 {qt_count}定量  📝 {ql_count}定性")
+            st.caption(f"[定量] {qt_count}  [定性] {ql_count}")
             with st.expander("查看指标列表"):
                 for ind in indicators:
-                    icon = "📏" if ind.indicator_type == "quantitative" else "📝"
-                    st.caption(f"{icon} [{ind.id}] {ind.name}")
+                    tag = "[定量]" if ind.indicator_type == "quantitative" else "[定性]"
+                    st.caption(f"{tag} [{ind.id}] {ind.name}")
 
     # 数据预览
     if not df.empty:
@@ -242,7 +242,7 @@ if page == "🏠 首页概览":
             pass
 
 # ====== 数据质量页 ======
-elif page == "📋 数据质量":
+elif page == "数据质量":
     st.title("数据质量评估")
 
     results = load_all_results()
@@ -323,7 +323,7 @@ elif page == "📋 数据质量":
                 st.dataframe(pd.DataFrame(missing), use_container_width=True)
 
 # ====== 公司详情页 ======
-elif page == "🏢 公司详情":
+elif page == "公司详情":
     st.title("公司ESG详情查询")
 
     results = load_all_results()
@@ -355,7 +355,7 @@ elif page == "🏢 公司详情":
 
             st.markdown("---")
 
-            tab1, tab2, tab3 = st.tabs(["🌍 环境 (E)", "👥 社会 (S)", "🏛️ 治理 (G)"])
+            tab1, tab2, tab3 = st.tabs(["环境 (E)", "社会 (S)", "治理 (G)"])
 
             for tab, dim in [(tab1, "E"), (tab2, "S"), (tab3, "G")]:
                 with tab:
@@ -390,12 +390,12 @@ elif page == "🏢 公司详情":
                     if ql:
                         st.markdown("**定性指标**")
                         for item in ql:
-                            status_icon = {"yes": "✅", "no": "❌", "partial": "⚠️"}.get(
-                                item.get("status"), "❓"
+                            status_label = {"yes": "[是]", "no": "[否]", "partial": "[部分]"}.get(
+                                item.get("status"), "[未知]"
                             )
                             ind_def = dim_indicators.get(item.get("id", ""))
                             label = ind_def.name if ind_def else item.get("name", "")
-                            with st.expander(f"{status_icon} {label}"):
+                            with st.expander(f"{status_label} {label}"):
                                 st.write(item.get("summary", "无描述"))
                                 if item.get("original_text"):
                                     st.caption(f"原文: {item['original_text'][:200]}")
@@ -403,7 +403,7 @@ elif page == "🏢 公司详情":
                         st.caption("暂无定性指标数据")
 
 # ====== 指标对比页 ======
-elif page == "📊 指标对比":
+elif page == "指标对比":
     st.title("多公司ESG指标对比")
 
     results = load_all_results()
@@ -425,7 +425,7 @@ elif page == "📊 指标对比":
         indicator_data = df[df["指标名称"] == selected_indicator] if not df.empty else pd.DataFrame()
 
         if not indicator_data.empty:
-            st.subheader(f"📏 {selected_indicator} — 各公司对比")
+            st.subheader(f"{selected_indicator} — 各公司对比")
 
             col1, col2 = st.columns([3, 2])
             with col1:
@@ -461,11 +461,11 @@ elif page == "📊 指标对比":
                     st.markdown("**定性指标状态:**")
                     for _, row in qualitative_data.iterrows():
                         status = row["数值"]
-                        icon = {"yes": "✅", "no": "❌", "partial": "⚠️"}.get(status, "❓")
-                        st.caption(f"{icon} {row['公司']}: {status}")
+                        label = {"yes": "[是]", "no": "[否]", "partial": "[部分]"}.get(status, "[未知]")
+                        st.caption(f"{label} {row['公司']}: {status}")
 
 # ====== ESG分析页 ======
-elif page == "📈 ESG分析":
+elif page == "ESG分析":
     st.title("ESG综合分析")
 
     try:
@@ -548,7 +548,7 @@ elif page == "📈 ESG分析":
         st.info("请运行: python run.py analyze")
 
 # ====== 趋势分析页 ======
-elif page == "📈 趋势分析":
+elif page == "趋势分析":
     st.title("ESG指标趋势分析")
     st.info("趋势分析需要同一公司多年份数据。随着数据积累，此处将展示指标变化趋势。")
 
@@ -588,15 +588,15 @@ elif page == "📈 趋势分析":
             st.warning("该公司仅有单一年份数据，暂无法展示趋势。")
 
 # ====== AI智能助手页 ======
-elif page == "🤖 AI智能助手":
+elif page == "AI智能助手":
     from src.app.pages.ai_assistant import render_ai_assistant_page
     render_ai_assistant_page()
 
 # ====== 数据管理页 ======
-elif page == "⚙️ 数据管理":
+elif page == "数据管理":
     st.title("数据管理")
 
-    tab1, tab2, tab3 = st.tabs(["📥 数据导入", "📤 数据导出", "🗄️ 数据库状态"])
+    tab1, tab2, tab3 = st.tabs(["数据导入", "数据导出", "数据库状态"])
 
     with tab1:
         st.subheader("运行数据提取流水线")
@@ -618,16 +618,16 @@ elif page == "⚙️ 数据管理":
             df = build_dataframe(results)
 
             csv = df.to_csv(index=False).encode("utf-8-sig")
-            st.download_button("📥 导出CSV（含BOM，Excel可直接打开）", csv, "esg_extracted_data.csv", "text/csv")
+            st.download_button("导出CSV（含BOM，Excel可直接打开）", csv, "esg_extracted_data.csv", "text/csv")
 
             json_str = json.dumps(results, ensure_ascii=False, indent=2)
-            st.download_button("📥 导出完整JSON", json_str, "esg_extracted_data.json", "application/json")
+            st.download_button("导出完整JSON", json_str, "esg_extracted_data.json", "application/json")
 
             # 仅定量数据导出
             qt_df = df[df["类型"] == "定量"] if not df.empty else pd.DataFrame()
             if not qt_df.empty:
                 qt_csv = qt_df.to_csv(index=False).encode("utf-8-sig")
-                st.download_button("📥 仅导出定量指标CSV", qt_csv, "esg_quantitative.csv", "text/csv")
+                st.download_button("仅导出定量指标CSV", qt_csv, "esg_quantitative.csv", "text/csv")
 
     with tab3:
         st.subheader("数据库状态")
