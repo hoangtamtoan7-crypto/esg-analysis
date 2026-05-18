@@ -4,6 +4,7 @@ import json
 import sys
 from pathlib import Path
 
+import numpy as np
 import pandas as pd
 import streamlit as st
 
@@ -286,8 +287,37 @@ elif page == "数据质量":
             st.markdown("---")
             st.subheader("质量分布")
             try:
-                import plotly.express as px
-                fig = px.histogram(qdf, x="质量分", nbins=20, title="报告质量分分布")
+                import plotly.graph_objects as go
+                data = qdf["质量分"].dropna()
+                counts, bin_edges = np.histogram(data, bins=25, range=(0, 1))
+                bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
+                bin_width = bin_edges[1] - bin_edges[0]
+
+                fig = go.Figure()
+                fig.add_trace(go.Bar(
+                    x=bin_centers, y=counts, width=bin_width * 0.92,
+                    marker=dict(
+                        color=bin_centers,
+                        colorscale=[[0, "#e8f5e9"], [0.3, "#a5d6a7"], [0.6, "#43a047"], [1, "#1b5e20"]],
+                        showscale=False,
+                        line=dict(color="white", width=0.5),
+                    ),
+                    hovertemplate="质量分: %{x:.2f}<br>报告数: %{y}<extra></extra>",
+                ))
+                avg_q = data.mean()
+                fig.add_vline(
+                    x=avg_q, line_dash="dash", line_color="#d32f2f",
+                    line_width=2, annotation_text=f"均值 {avg_q:.3f}",
+                    annotation_position="top right",
+                    annotation_font=dict(color="#d32f2f", size=12),
+                )
+                fig.update_layout(
+                    title=dict(text="报告质量分分布", font=dict(size=14)),
+                    height=350, margin=dict(l=10, r=10, t=40, b=10),
+                    xaxis=dict(title="质量分", range=[0, 1.05]),
+                    yaxis=dict(title="报告数量"),
+                    plot_bgcolor="rgba(0,0,0,0)", bargap=0.05,
+                )
                 st.plotly_chart(fig, use_container_width=True)
             except ImportError:
                 st.bar_chart(qdf.set_index("公司")["质量分"])
@@ -427,42 +457,45 @@ elif page == "指标对比":
         if not indicator_data.empty:
             st.subheader(f"{selected_indicator} — 各公司对比")
 
-            col1, col2 = st.columns([3, 2])
-            with col1:
-                st.dataframe(
-                    indicator_data[["公司", "年份", "数值", "单位", "置信度"]],
-                    use_container_width=True,
-                    hide_index=True,
-                )
-            with col2:
-                numeric_data = indicator_data[
-                    indicator_data["数值"].apply(lambda x: isinstance(x, (int, float)))
-                ]
-                if not numeric_data.empty:
-                    try:
-                        import plotly.express as px
-                        fig = px.bar(
-                            numeric_data,
-                            x="公司", y="数值",
-                            title="各公司对比",
-                            labels={"数值": selected_indicator},
-                            color="公司",
-                        )
-                        fig.update_layout(showlegend=False, height=400)
-                        st.plotly_chart(fig, use_container_width=True)
-                    except ImportError:
-                        st.bar_chart(numeric_data.set_index("公司")["数值"])
+            # 表格全宽
+            st.dataframe(
+                indicator_data[["公司", "年份", "数值", "单位", "置信度"]],
+                use_container_width=True,
+                hide_index=True,
+            )
 
-                # 定性指标展示
-                qualitative_data = indicator_data[
-                    ~indicator_data["数值"].apply(lambda x: isinstance(x, (int, float)))
-                ]
-                if not qualitative_data.empty:
-                    st.markdown("**定性指标状态:**")
-                    for _, row in qualitative_data.iterrows():
-                        status = row["数值"]
-                        label = {"yes": "[是]", "no": "[否]", "partial": "[部分]"}.get(status, "[未知]")
-                        st.caption(f"{label} {row['公司']}: {status}")
+            # 图表在表格下方全宽
+            numeric_data = indicator_data[
+                indicator_data["数值"].apply(lambda x: isinstance(x, (int, float)))
+            ]
+            if not numeric_data.empty:
+                try:
+                    import plotly.graph_objects as go
+                    numeric_data = numeric_data.sort_values("数值", ascending=True)
+                    bar_colors = ["#1565c0", "#2e7d32", "#e65100", "#7b1fa2", "#00838f",
+                                  "#c62828", "#283593", "#558b2f", "#ef6c00", "#4527a0"]
+                    fig = go.Figure()
+                    fig.add_trace(go.Bar(
+                        x=numeric_data["公司"], y=numeric_data["数值"],
+                        marker=dict(
+                            color=bar_colors[:len(numeric_data)],
+                            line=dict(width=0),
+                        ),
+                        text=numeric_data["数值"].apply(lambda v: f"{v:.2f}"),
+                        textposition="outside",
+                        hovertemplate="%{x}: %{y}<extra></extra>",
+                    ))
+                    fig.update_layout(
+                        title=dict(text=f"{selected_indicator} 各公司对比", font=dict(size=14)),
+                        height=420, margin=dict(l=10, r=10, t=40, b=40),
+                        xaxis=dict(title=""),
+                        yaxis=dict(title=selected_indicator),
+                        plot_bgcolor="rgba(0,0,0,0)",
+                        showlegend=False,
+                    )
+                    st.plotly_chart(fig, use_container_width=True)
+                except ImportError:
+                    st.bar_chart(numeric_data.set_index("公司")["数值"])
 
 # ====== ESG分析页 ======
 elif page == "ESG分析":
@@ -529,17 +562,42 @@ elif page == "ESG分析":
             try:
                 import plotly.graph_objects as go
                 data = scores[dim].dropna()
+
+                # Manual bins for gradient bars + density overlay
+                counts, bin_edges = np.histogram(data, bins=30, range=(0, 1))
+                bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
+                bin_width = bin_edges[1] - bin_edges[0]
+
                 fig = go.Figure()
-                fig.add_trace(go.Histogram(
-                    x=data,
-                    nbinsx=30,
+
+                # Gradient bars
+                fig.add_trace(go.Bar(
+                    x=bin_centers, y=counts, width=bin_width * 0.88,
                     marker=dict(
-                        color=accent,
-                        opacity=0.75,
+                        color=bin_centers,
+                        colorscale=[[0, "#fafafa"], [0.4, accent], [1, accent]],
+                        showscale=False,
                         line=dict(color="white", width=0.5),
                     ),
                     hovertemplate="得分区间: %{x:.2f}<br>公司数: %{y}<extra></extra>",
                 ))
+
+                # KDE density overlay
+                if len(data) > 1:
+                    bw = max(np.std(data) * (4 / (3 * len(data))) ** 0.2, 0.02)
+                    x_kde = np.linspace(0, 1, 200)
+                    diffs = x_kde[:, np.newaxis] - data.values[np.newaxis, :]
+                    kde_y = np.sum(np.exp(-0.5 * (diffs / bw) ** 2), axis=1)
+                    kde_y = kde_y / (len(data) * bw * np.sqrt(2 * np.pi))
+                    kde_y_scaled = kde_y * len(data) * bin_width
+                    r, g, b = int(accent[1:3], 16), int(accent[3:5], 16), int(accent[5:7], 16)
+                    fig.add_trace(go.Scatter(
+                        x=x_kde, y=kde_y_scaled, mode="lines",
+                        line=dict(color=accent, width=2.5),
+                        fill="tozeroy", fillcolor=f"rgba({r},{g},{b},0.12)",
+                        hovertemplate="密度: %{y:.3f}<extra></extra>",
+                    ))
+
                 fig.add_vline(
                     x=avg, line_dash="dash", line_color="#d32f2f",
                     line_width=2, annotation_text=f"均值 {avg:.3f}",
@@ -548,7 +606,7 @@ elif page == "ESG分析":
                 )
                 fig.update_layout(
                     title=dict(text=f"{label}得分分布", font=dict(size=14)),
-                    height=320, margin=dict(l=10, r=10, t=40, b=10),
+                    height=360, margin=dict(l=10, r=10, t=40, b=10),
                     xaxis=dict(title="得分", range=[0, 1.05]),
                     yaxis=dict(title="公司数量"),
                     plot_bgcolor="rgba(0,0,0,0)",
