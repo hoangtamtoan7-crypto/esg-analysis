@@ -293,32 +293,63 @@ elif page == "数据质量":
                 bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
                 bin_width = bin_edges[1] - bin_edges[0]
 
-                fig = go.Figure()
-                fig.add_trace(go.Bar(
-                    x=bin_centers, y=counts, width=bin_width * 0.92,
-                    marker=dict(
-                        color=bin_centers,
-                        colorscale=[[0, "#e8f5e9"], [0.3, "#a5d6a7"], [0.6, "#43a047"], [1, "#1b5e20"]],
-                        showscale=False,
-                        line=dict(color="white", width=0.5),
-                    ),
-                    hovertemplate="质量分: %{x:.2f}<br>报告数: %{y}<extra></extra>",
-                ))
-                avg_q = data.mean()
-                fig.add_vline(
-                    x=avg_q, line_dash="dash", line_color="#d32f2f",
-                    line_width=2, annotation_text=f"均值 {avg_q:.3f}",
-                    annotation_position="top right",
-                    annotation_font=dict(color="#d32f2f", size=12),
-                )
-                fig.update_layout(
-                    title=dict(text="报告质量分分布", font=dict(size=14)),
-                    height=350, margin=dict(l=10, r=10, t=40, b=10),
-                    xaxis=dict(title="质量分", range=[0, 1.05]),
-                    yaxis=dict(title="报告数量"),
-                    plot_bgcolor="rgba(0,0,0,0)", bargap=0.05,
-                )
-                st.plotly_chart(fig, use_container_width=True)
+                col_pie, col_bar = st.columns([1, 2])
+
+                with col_pie:
+                    # 质量等级环形图
+                    def classify(v):
+                        if v >= 0.7: return "优秀"
+                        elif v >= 0.4: return "良好"
+                        else: return "待改进"
+                    tier_map = {"优秀": 0, "良好": 0, "待改进": 0}
+                    for v in data:
+                        tier_map[classify(v)] += 1
+                    tier_labels = ["优秀 (>=0.7)", "良好 (0.4~0.7)", "待改进 (<0.4)"]
+                    tier_vals = [tier_map["优秀"], tier_map["良好"], tier_map["待改进"]]
+                    tier_colors = ["#1a237e", "#42a5f5", "#bbdefb"]
+
+                    fig_pie = go.Figure(go.Pie(
+                        labels=tier_labels, values=tier_vals,
+                        marker=dict(colors=tier_colors, line=dict(color="white", width=2)),
+                        hole=0.5, textinfo="label+percent",
+                        textfont=dict(size=12),
+                        sort=False,
+                    ))
+                    fig_pie.update_layout(
+                        title=dict(text="质量等级", font=dict(size=14)),
+                        height=320, margin=dict(l=10, r=10, t=40, b=10),
+                        showlegend=False,
+                    )
+                    st.plotly_chart(fig_pie, use_container_width=True)
+
+                with col_bar:
+                    # 蓝靛渐变直方图
+                    fig = go.Figure()
+                    fig.add_trace(go.Bar(
+                        x=bin_centers, y=counts, width=bin_width * 0.92,
+                        marker=dict(
+                            color=bin_centers,
+                            colorscale=[[0, "#e8eaf6"], [0.3, "#7986cb"], [0.6, "#3949ab"], [1, "#1a237e"]],
+                            showscale=False,
+                            line=dict(color="white", width=0.5),
+                        ),
+                        hovertemplate="质量分: %{x:.2f}<br>报告数: %{y}<extra></extra>",
+                    ))
+                    avg_q = data.mean()
+                    fig.add_vline(
+                        x=avg_q, line_dash="dash", line_color="#d32f2f",
+                        line_width=2, annotation_text=f"均值 {avg_q:.3f}",
+                        annotation_position="top right",
+                        annotation_font=dict(color="#d32f2f", size=12),
+                    )
+                    fig.update_layout(
+                        title=dict(text="报告质量分分布", font=dict(size=14)),
+                        height=320, margin=dict(l=10, r=10, t=40, b=10),
+                        xaxis=dict(title="质量分", range=[0, 1.05]),
+                        yaxis=dict(title="报告数量"),
+                        plot_bgcolor="rgba(0,0,0,0)", bargap=0.05,
+                    )
+                    st.plotly_chart(fig, use_container_width=True)
             except ImportError:
                 st.bar_chart(qdf.set_index("公司")["质量分"])
 
@@ -563,54 +594,46 @@ elif page == "ESG分析":
                 import plotly.graph_objects as go
                 data = scores[dim].dropna()
 
-                # Manual bins for gradient bars + density overlay
-                counts, bin_edges = np.histogram(data, bins=30, range=(0, 1))
+                counts, bin_edges = np.histogram(data, bins=28, range=(0, 1))
                 bin_centers = (bin_edges[:-1] + bin_edges[1:]) / 2
                 bin_width = bin_edges[1] - bin_edges[0]
 
-                fig = go.Figure()
-
-                # Gradient bars
-                fig.add_trace(go.Bar(
-                    x=bin_centers, y=counts, width=bin_width * 0.88,
+                # 3D立体柱状图
+                fig = go.Figure(go.Bar3d(
+                    x=bin_centers,
+                    y=[0] * len(bin_centers),
+                    z=counts,
+                    dx=bin_width * 0.82,
+                    dy=0.12,
                     marker=dict(
-                        color=bin_centers,
-                        colorscale=[[0, "#fafafa"], [0.4, accent], [1, accent]],
-                        showscale=False,
-                        line=dict(color="white", width=0.5),
+                        color=counts,
+                        colorscale=[[0, "#fafafa"], [0.35, accent], [1, accent]],
+                        line=dict(color="rgba(255,255,255,0.7)", width=1),
+                        colorbar=dict(title="公司数", len=0.5, x=1.02),
                     ),
-                    hovertemplate="得分区间: %{x:.2f}<br>公司数: %{y}<extra></extra>",
+                    hovertemplate="得分区间: %{x:.2f}<br>公司数: %{z}<extra></extra>",
                 ))
 
-                # KDE density overlay
-                if len(data) > 1:
-                    bw = max(np.std(data) * (4 / (3 * len(data))) ** 0.2, 0.02)
-                    x_kde = np.linspace(0, 1, 200)
-                    diffs = x_kde[:, np.newaxis] - data.values[np.newaxis, :]
-                    kde_y = np.sum(np.exp(-0.5 * (diffs / bw) ** 2), axis=1)
-                    kde_y = kde_y / (len(data) * bw * np.sqrt(2 * np.pi))
-                    kde_y_scaled = kde_y * len(data) * bin_width
-                    r, g, b = int(accent[1:3], 16), int(accent[3:5], 16), int(accent[5:7], 16)
-                    fig.add_trace(go.Scatter(
-                        x=x_kde, y=kde_y_scaled, mode="lines",
-                        line=dict(color=accent, width=2.5),
-                        fill="tozeroy", fillcolor=f"rgba({r},{g},{b},0.12)",
-                        hovertemplate="密度: %{y:.3f}<extra></extra>",
-                    ))
+                # 均值参考线
+                fig.add_trace(go.Scatter3d(
+                    x=[avg, avg], y=[0, 0], z=[0, max(counts) * 1.15],
+                    mode="lines",
+                    line=dict(color="#d32f2f", width=4),
+                    name=f"均值 {avg:.3f}",
+                    hovertemplate="均值: %{x:.3f}<extra></extra>",
+                ))
 
-                fig.add_vline(
-                    x=avg, line_dash="dash", line_color="#d32f2f",
-                    line_width=2, annotation_text=f"均值 {avg:.3f}",
-                    annotation_position="top right",
-                    annotation_font=dict(color="#d32f2f", size=12),
-                )
                 fig.update_layout(
                     title=dict(text=f"{label}得分分布", font=dict(size=14)),
-                    height=360, margin=dict(l=10, r=10, t=40, b=10),
-                    xaxis=dict(title="得分", range=[0, 1.05]),
-                    yaxis=dict(title="公司数量"),
-                    plot_bgcolor="rgba(0,0,0,0)",
-                    bargap=0.05,
+                    height=420,
+                    scene=dict(
+                        xaxis=dict(title="得分", range=[0, 1.05]),
+                        yaxis=dict(showticklabels=False, title="", range=[-0.15, 0.25]),
+                        zaxis=dict(title="公司数量"),
+                        camera=dict(eye=dict(x=1.6, y=1.6, z=1.1)),
+                        bgcolor="rgba(0,0,0,0)",
+                    ),
+                    margin=dict(l=10, r=10, t=40, b=10),
                 )
                 st.plotly_chart(fig, use_container_width=True)
             except Exception:
