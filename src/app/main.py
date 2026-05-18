@@ -532,11 +532,11 @@ elif page == "ESG分析":
                 fig = go.Figure()
                 fig.add_trace(go.Histogram(
                     x=data,
-                    nbinsx=18,
+                    nbinsx=30,
                     marker=dict(
                         color=accent,
                         opacity=0.75,
-                        line=dict(color="white", width=1),
+                        line=dict(color="white", width=0.5),
                     ),
                     hovertemplate="得分区间: %{x:.2f}<br>公司数: %{y}<extra></extra>",
                 ))
@@ -609,7 +609,6 @@ elif page == "ESG分析":
 # ====== 趋势分析页 ======
 elif page == "趋势分析":
     st.title("ESG指标趋势分析")
-    st.info("趋势分析需要同一公司多年份数据。随着数据积累，此处将展示指标变化趋势。")
 
     results = load_all_results()
     if results:
@@ -617,34 +616,57 @@ elif page == "趋势分析":
         years = sorted(df["年份"].unique()) if "年份" in df.columns else []
         st.write(f"当前数据覆盖年份: {', '.join(str(y) for y in years) if years else '暂无'}")
 
-        companies = sorted(df["公司"].unique()) if not df.empty else []
-        selected = st.selectbox("选择公司", companies)
+        # 筛选拥有多年份数据的公司
+        if not df.empty:
+            company_years = df.groupby("公司")["年份"].nunique()
+            multi_year = company_years[company_years > 1].index.tolist()
+            single_year = company_years[company_years <= 1].index.tolist()
 
-        company_data = df[df["公司"] == selected] if not df.empty else pd.DataFrame()
-        if not company_data.empty and company_data["年份"].nunique() > 1:
-            indicators = sorted(company_data["指标名称"].unique())
-            selected_ind = st.selectbox("选择指标", indicators)
+            col_info, col_count = st.columns([3, 1])
+            with col_info:
+                st.info("仅展示拥有至少两年数据的公司，支持跨年度指标变化趋势分析。")
+            with col_count:
+                st.metric("可分析公司", len(multi_year))
+            st.caption(f"已排除 {len(single_year)} 家仅有单一年份数据的公司")
 
-            trend = company_data[company_data["指标名称"] == selected_ind]
-            st.dataframe(trend, use_container_width=True, hide_index=True)
+            if not multi_year:
+                st.warning("暂无拥有多年份数据的公司，趋势分析不可用。")
+            else:
+                selected = st.selectbox("选择公司", sorted(multi_year))
+                company_data = df[df["公司"] == selected]
+                indicators = sorted(company_data["指标名称"].unique())
+                selected_ind = st.selectbox("选择指标", indicators)
 
-            numeric_trend = trend[
-                trend["数值"].apply(lambda x: isinstance(x, (int, float)))
-            ]
-            if len(numeric_trend) > 1:
-                try:
-                    import plotly.express as px
-                    fig = px.line(
-                        numeric_trend.sort_values("年份"),
-                        x="年份", y="数值",
-                        title=f"{selected_ind} — {selected} 趋势",
-                        markers=True,
-                    )
-                    st.plotly_chart(fig, use_container_width=True)
-                except ImportError:
-                    st.line_chart(numeric_trend.set_index("年份")["数值"])
-        elif not company_data.empty:
-            st.warning("该公司仅有单一年份数据，暂无法展示趋势。")
+                trend = company_data[company_data["指标名称"] == selected_ind]
+                st.dataframe(trend, use_container_width=True, hide_index=True)
+
+                numeric_trend = trend[
+                    trend["数值"].apply(lambda x: isinstance(x, (int, float)))
+                ]
+                if len(numeric_trend) > 1:
+                    try:
+                        import plotly.graph_objects as go
+                        numeric_trend = numeric_trend.sort_values("年份")
+                        fig = go.Figure()
+                        fig.add_trace(go.Scatter(
+                            x=numeric_trend["年份"], y=numeric_trend["数值"],
+                            mode="lines+markers",
+                            line=dict(width=2.5, color="#1565c0"),
+                            marker=dict(size=10, color="#1565c0"),
+                            hovertemplate="%{x}年: %{y}<extra></extra>",
+                        ))
+                        fig.update_layout(
+                            title=dict(text=f"{selected_ind} — {selected} 趋势", font=dict(size=14)),
+                            height=380, margin=dict(l=10, r=10, t=40, b=10),
+                            xaxis=dict(title="年份", dtick=1),
+                            yaxis=dict(title=selected_ind),
+                            plot_bgcolor="rgba(0,0,0,0)",
+                        )
+                        st.plotly_chart(fig, use_container_width=True)
+                    except ImportError:
+                        st.line_chart(numeric_trend.set_index("年份")["数值"])
+                else:
+                    st.warning("该指标在该公司仅有一个有效数据点，无法绘制趋势。")
 
 # ====== AI智能助手页 ======
 elif page == "AI智能助手":
