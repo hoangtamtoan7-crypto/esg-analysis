@@ -479,20 +479,35 @@ elif page == "ESG分析":
 
         # ESG排名
         st.subheader("ESG综合排名 TOP20")
-        col1, col2 = st.columns([3, 2])
+        col1, col2 = st.columns([5, 4])
         with col1:
             st.dataframe(scores.head(20), use_container_width=True, hide_index=True)
         with col2:
             if not scores.empty:
                 try:
-                    import plotly.express as px
-                    top10 = scores.head(10)
-                    fig = px.bar(
-                        top10, x="ESG综合", y="公司", orientation="h",
-                        title="ESG综合得分 TOP10",
-                        color="ESG综合", color_continuous_scale="Viridis",
+                    import plotly.graph_objects as go
+                    top10 = scores.head(10).iloc[::-1]
+                    fig = go.Figure()
+                    fig.add_trace(go.Bar(
+                        y=top10["公司"], x=top10["ESG综合"],
+                        orientation="h",
+                        marker=dict(
+                            color=top10["ESG综合"],
+                            colorscale="blugrn",
+                            showscale=True,
+                            colorbar=dict(title="得分", thickness=12, len=0.5),
+                        ),
+                        text=top10["ESG综合"].apply(lambda v: f"{v:.3f}"),
+                        textposition="outside",
+                        hovertemplate="%{y}: %{x:.3f}<extra></extra>",
+                    ))
+                    fig.update_layout(
+                        title=dict(text="ESG综合得分 TOP10", font=dict(size=14)),
+                        height=400, margin=dict(l=10, r=10, t=40, b=10),
+                        xaxis=dict(range=[0, 1.15], title="ESG综合得分"),
+                        yaxis=dict(title=""),
+                        plot_bgcolor="rgba(0,0,0,0)",
                     )
-                    fig.update_layout(height=400)
                     st.plotly_chart(fig, use_container_width=True)
                 except ImportError:
                     st.bar_chart(top10.set_index("公司")["ESG综合"])
@@ -500,42 +515,86 @@ elif page == "ESG分析":
         # ESG维度分布
         st.markdown("---")
         st.subheader("E/S/G 维度得分分布")
-        col_e, col_s, col_g = st.columns(3)
-        for col, dim, label in [
-            (col_e, "E_得分", "环境 (E)"),
-            (col_s, "S_得分", "社会 (S)"),
-            (col_g, "G_得分", "治理 (G)"),
-        ]:
-            with col:
-                avg = scores[dim].mean()
-                st.metric(f"{label} 均值", f"{avg:.3f}")
-                try:
-                    import plotly.express as px
-                    fig = px.histogram(scores, x=dim, nbins=15, title=f"{label}得分分布")
-                    fig.update_layout(height=200)
-                    st.plotly_chart(fig, use_container_width=True)
-                except ImportError:
-                    pass
+
+        dim_configs = [
+            ("E_得分", "环境 (E)", "#2e7d32"),
+            ("S_得分", "社会 (S)", "#1565c0"),
+            ("G_得分", "治理 (G)", "#e65100"),
+        ]
+
+        for dim, label, accent in dim_configs:
+            avg = scores[dim].mean()
+            st.metric(f"{label} 均值", f"{avg:.3f}")
+
+            try:
+                import plotly.graph_objects as go
+                data = scores[dim].dropna()
+                fig = go.Figure()
+                fig.add_trace(go.Histogram(
+                    x=data,
+                    nbinsx=18,
+                    marker=dict(
+                        color=accent,
+                        opacity=0.75,
+                        line=dict(color="white", width=1),
+                    ),
+                    hovertemplate="得分区间: %{x:.2f}<br>公司数: %{y}<extra></extra>",
+                ))
+                fig.add_vline(
+                    x=avg, line_dash="dash", line_color="#d32f2f",
+                    line_width=2, annotation_text=f"均值 {avg:.3f}",
+                    annotation_position="top right",
+                    annotation_font=dict(color="#d32f2f", size=12),
+                )
+                fig.update_layout(
+                    title=dict(text=f"{label}得分分布", font=dict(size=14)),
+                    height=320, margin=dict(l=10, r=10, t=40, b=10),
+                    xaxis=dict(title="得分", range=[0, 1.05]),
+                    yaxis=dict(title="公司数量"),
+                    plot_bgcolor="rgba(0,0,0,0)",
+                    bargap=0.05,
+                )
+                st.plotly_chart(fig, use_container_width=True)
+            except Exception:
+                pass
+            st.markdown("<br style='line-height:2rem;'>", unsafe_allow_html=True)
 
         # 行业对比
         st.markdown("---")
         st.subheader("行业ESG对比")
-        st.dataframe(industries, use_container_width=True, hide_index=True)
-
-        # 行业柱状图
-        if not industries.empty and "平均碳排放(吨)" in industries.columns:
-            try:
-                import plotly.express as px
-                ind_clean = industries.dropna(subset=["平均碳排放(吨)"])
-                fig = px.bar(
-                    ind_clean, x="行业", y="平均碳排放(吨)",
-                    title="各行业平均碳排放",
-                    color="行业",
-                )
-                fig.update_layout(showlegend=False)
-                st.plotly_chart(fig, use_container_width=True)
-            except Exception:
-                pass
+        if not industries.empty:
+            col_a, col_b = st.columns(2)
+            with col_a:
+                st.dataframe(industries, use_container_width=True, hide_index=True)
+            with col_b:
+                ind_valid = industries.dropna(subset=["平均碳排放(吨)"])
+                if not ind_valid.empty:
+                    try:
+                        import plotly.graph_objects as go
+                        ind_valid = ind_valid.sort_values("平均碳排放(吨)", ascending=True)
+                        fig = go.Figure()
+                        fig.add_trace(go.Bar(
+                            y=ind_valid["行业"], x=ind_valid["平均碳排放(吨)"],
+                            orientation="h",
+                            marker=dict(
+                                color=ind_valid["平均碳排放(吨)"],
+                                colorscale="reds",
+                                showscale=True,
+                                colorbar=dict(title="吨", thickness=12, len=0.5),
+                            ),
+                            text=ind_valid["平均碳排放(吨)"].apply(lambda v: f"{v:,.0f}"),
+                            textposition="outside",
+                            hovertemplate="%{y}: %{x:,.0f} 吨<extra></extra>",
+                        ))
+                        fig.update_layout(
+                            title=dict(text="各行业平均碳排放", font=dict(size=14)),
+                            height=max(350, 25 * len(ind_valid)),
+                            margin=dict(l=10, r=10, t=40, b=10),
+                            plot_bgcolor="rgba(0,0,0,0)",
+                        )
+                        st.plotly_chart(fig, use_container_width=True)
+                    except Exception:
+                        pass
 
         # 关键洞察
         st.markdown("---")
