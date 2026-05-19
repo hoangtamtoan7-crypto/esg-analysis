@@ -159,7 +159,7 @@ with st.sidebar:
     st.markdown("---")
     page = st.radio(
         "导航",
-        ["首页概览", "数据质量", "公司详情", "指标对比", "ESG分析", "趋势分析", "AI智能助手", "数据管理"],
+        ["首页概览", "数据质量", "公司详情", "指标对比", "ESG分析", "AI智能助手", "数据管理"],
     )
     st.markdown("---")
 
@@ -502,14 +502,16 @@ elif page == "指标对比":
             if not numeric_data.empty:
                 try:
                     import plotly.graph_objects as go
-                    numeric_data = numeric_data.sort_values("数值", ascending=True)
-                    bar_colors = ["#1565c0", "#2e7d32", "#e65100", "#7b1fa2", "#00838f",
-                                  "#c62828", "#283593", "#558b2f", "#ef6c00", "#4527a0"]
+                    import plotly.express as px
+                    # 只取前20家公司，按数值降序
+                    numeric_data = numeric_data.sort_values("数值", ascending=False).head(20)
+                    # 多样配色：使用Plotly qualitative palette
+                    diverse_colors = px.colors.qualitative.D3 + px.colors.qualitative.Plotly
                     fig = go.Figure()
                     fig.add_trace(go.Bar(
                         x=numeric_data["公司"], y=numeric_data["数值"],
                         marker=dict(
-                            color=bar_colors[:len(numeric_data)],
+                            color=diverse_colors[:len(numeric_data)],
                             line=dict(width=0),
                         ),
                         text=numeric_data["数值"].apply(lambda v: f"{v:.2f}"),
@@ -517,7 +519,7 @@ elif page == "指标对比":
                         hovertemplate="%{x}: %{y}<extra></extra>",
                     ))
                     fig.update_layout(
-                        title=dict(text=f"{selected_indicator} 各公司对比", font=dict(size=14)),
+                        title=dict(text=f"{selected_indicator} 各公司对比 TOP20", font=dict(size=14)),
                         height=420, margin=dict(l=10, r=10, t=40, b=40),
                         xaxis=dict(title=""),
                         yaxis=dict(title=selected_indicator),
@@ -686,68 +688,6 @@ elif page == "ESG分析":
     except Exception as e:
         st.warning(f"分析模块暂不可用: {e}")
         st.info("请运行: python run.py analyze")
-
-# ====== 趋势分析页 ======
-elif page == "趋势分析":
-    st.title("ESG指标趋势分析")
-
-    results = load_all_results()
-    if results:
-        df = build_dataframe(results)
-        years = sorted(df["年份"].unique()) if "年份" in df.columns else []
-        st.write(f"当前数据覆盖年份: {', '.join(str(y) for y in years) if years else '暂无'}")
-
-        # 筛选拥有多年份数据的公司
-        if not df.empty:
-            company_years = df.groupby("公司")["年份"].nunique()
-            multi_year = company_years[company_years > 1].index.tolist()
-            single_year = company_years[company_years <= 1].index.tolist()
-
-            col_info, col_count = st.columns([3, 1])
-            with col_info:
-                st.info("仅展示拥有至少两年数据的公司，支持跨年度指标变化趋势分析。")
-            with col_count:
-                st.metric("可分析公司", len(multi_year))
-            st.caption(f"已排除 {len(single_year)} 家仅有单一年份数据的公司")
-
-            if not multi_year:
-                st.warning("暂无拥有多年份数据的公司，趋势分析不可用。")
-            else:
-                selected = st.selectbox("选择公司", sorted(multi_year))
-                company_data = df[df["公司"] == selected]
-                indicators = sorted(company_data["指标名称"].unique())
-                selected_ind = st.selectbox("选择指标", indicators)
-
-                trend = company_data[company_data["指标名称"] == selected_ind]
-                st.dataframe(trend, use_container_width=True, hide_index=True)
-
-                numeric_trend = trend[
-                    trend["数值"].apply(lambda x: isinstance(x, (int, float)))
-                ]
-                if len(numeric_trend) > 1:
-                    try:
-                        import plotly.graph_objects as go
-                        numeric_trend = numeric_trend.sort_values("年份")
-                        fig = go.Figure()
-                        fig.add_trace(go.Scatter(
-                            x=numeric_trend["年份"], y=numeric_trend["数值"],
-                            mode="lines+markers",
-                            line=dict(width=2.5, color="#1565c0"),
-                            marker=dict(size=10, color="#1565c0"),
-                            hovertemplate="%{x}年: %{y}<extra></extra>",
-                        ))
-                        fig.update_layout(
-                            title=dict(text=f"{selected_ind} — {selected} 趋势", font=dict(size=14)),
-                            height=380, margin=dict(l=10, r=10, t=40, b=10),
-                            xaxis=dict(title="年份", dtick=1),
-                            yaxis=dict(title=selected_ind),
-                            plot_bgcolor="rgba(0,0,0,0)",
-                        )
-                        st.plotly_chart(fig, use_container_width=True)
-                    except ImportError:
-                        st.line_chart(numeric_trend.set_index("年份")["数值"])
-                else:
-                    st.warning("该指标在该公司仅有一个有效数据点，无法绘制趋势。")
 
 # ====== AI智能助手页 ======
 elif page == "AI智能助手":
