@@ -495,34 +495,40 @@ elif page == "指标对比":
                 hide_index=True,
             )
 
-            # 图表在表格下方全宽
+            # 水平柱状图 — 避免文字标签重叠
             numeric_data = indicator_data[
                 indicator_data["数值"].apply(lambda x: isinstance(x, (int, float)))
             ]
             if not numeric_data.empty:
                 try:
                     import plotly.graph_objects as go
-                    import plotly.express as px
-                    # 只取前20家公司，按数值降序
-                    numeric_data = numeric_data.sort_values("数值", ascending=False).head(20)
-                    # 多样配色：使用Plotly qualitative palette
-                    diverse_colors = px.colors.qualitative.D3 + px.colors.qualitative.Plotly
+                    # 最多20家，升序排列（水平图从下往上）
+                    chart_data = numeric_data.sort_values("数值", ascending=True).tail(20)
+                    max_val = chart_data["数值"].max()
+                    # 右侧留白给文字标签
+                    x_max = max_val * 1.25 if max_val > 0 else 1
+
                     fig = go.Figure()
                     fig.add_trace(go.Bar(
-                        x=numeric_data["公司"], y=numeric_data["数值"],
+                        y=chart_data["公司"], x=chart_data["数值"],
+                        orientation="h",
                         marker=dict(
-                            color=diverse_colors[:len(numeric_data)],
+                            color=chart_data["数值"],
+                            colorscale=[[0, "#e8eaf6"], [0.3, "#7986cb"], [0.6, "#3949ab"], [1, "#1a237e"]],
+                            showscale=True,
+                            colorbar=dict(title=chart_data["单位"].iloc[0] if "单位" in chart_data.columns else "", thickness=12, len=0.5),
                             line=dict(width=0),
                         ),
-                        text=numeric_data["数值"].apply(lambda v: f"{v:.2f}"),
+                        text=chart_data["数值"].apply(lambda v: f"{v:,.2f}" if abs(v) >= 100 else f"{v:.4f}" if abs(v) < 0.01 else f"{v:.2f}"),
                         textposition="outside",
-                        hovertemplate="%{x}: %{y}<extra></extra>",
+                        hovertemplate="%{y}: %{x}<extra></extra>",
                     ))
                     fig.update_layout(
                         title=dict(text=f"{selected_indicator} 各公司对比 TOP20", font=dict(size=14)),
-                        height=420, margin=dict(l=10, r=10, t=40, b=40),
-                        xaxis=dict(title=""),
-                        yaxis=dict(title=selected_indicator),
+                        height=max(400, 35 + len(chart_data) * 28),
+                        margin=dict(l=10, r=10, t=40, b=10),
+                        xaxis=dict(title=selected_indicator, range=[0, x_max]),
+                        yaxis=dict(title="", autorange="reversed"),
                         plot_bgcolor="rgba(0,0,0,0)",
                         showlegend=False,
                     )
