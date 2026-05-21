@@ -12,6 +12,9 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from src.extractor.indicators import ALL_INDICATORS, INDICATORS_BY_DIMENSION
 
+# 指标ID → 名称映射，用于数据库加载时补全指标名称
+INDICATOR_MAP = {i.id: i for i in ALL_INDICATORS}
+
 st.set_page_config(
     page_title="ESG数据智能提取与分析系统",
     page_icon="",
@@ -80,18 +83,20 @@ def _load_from_database(db) -> list:
                 },
             }
             for v in report.values:
+                ind_def = INDICATOR_MAP.get(v.indicator_id)
                 result["quantitative_indicators"].append({
                     "id": v.indicator_id,
-                    "name": "",
+                    "name": ind_def.name if ind_def else v.indicator_id,
                     "value": v.value,
-                    "unit": v.unit,
+                    "unit": v.unit or (ind_def.unit if ind_def else ""),
                     "original_text": v.original_text,
                     "confidence": v.confidence,
                 })
             for t in report.texts:
+                ind_def = INDICATOR_MAP.get(t.indicator_id)
                 result["qualitative_indicators"].append({
                     "id": t.indicator_id,
-                    "name": "",
+                    "name": ind_def.name if ind_def else t.indicator_id,
                     "status": t.status,
                     "summary": t.summary,
                     "original_text": t.original_text,
@@ -114,7 +119,7 @@ def _load_from_json() -> list:
 
 
 def build_dataframe(results: list) -> pd.DataFrame:
-    """将提取结果转为DataFrame"""
+    """将提取结果转为DataFrame，自动补全缺失的指标名称"""
     rows = []
     for r in results:
         company = r.get("company_name", "")
@@ -125,11 +130,13 @@ def build_dataframe(results: list) -> pd.DataFrame:
         coverage = completeness.get("completeness", 0)
 
         for item in r.get("quantitative_indicators", []):
+            ind_id = item.get("id", "")
+            name = item.get("name") or (INDICATOR_MAP[ind_id].name if ind_id in INDICATOR_MAP else ind_id)
             rows.append({
                 "公司": company,
                 "年份": year,
-                "指标ID": item.get("id"),
-                "指标名称": item.get("name"),
+                "指标ID": ind_id,
+                "指标名称": name,
                 "数值": item.get("value"),
                 "单位": item.get("unit"),
                 "置信度": item.get("confidence"),
@@ -138,11 +145,13 @@ def build_dataframe(results: list) -> pd.DataFrame:
                 "覆盖度": coverage,
             })
         for item in r.get("qualitative_indicators", []):
+            ind_id = item.get("id", "")
+            name = item.get("name") or (INDICATOR_MAP[ind_id].name if ind_id in INDICATOR_MAP else ind_id)
             rows.append({
                 "公司": company,
                 "年份": year,
-                "指标ID": item.get("id"),
-                "指标名称": item.get("name"),
+                "指标ID": ind_id,
+                "指标名称": name,
                 "数值": item.get("status"),
                 "单位": "",
                 "置信度": item.get("confidence"),
@@ -473,68 +482,114 @@ elif page == "指标对比":
     else:
         df = build_dataframe(results)
 
-        # 维度筛选
-        dim_filter = st.radio("筛选维度", ["全部", "E-环境", "S-社会", "G-治理"], horizontal=True)
-        dim_map = {"E-环境": "E", "S-社会": "S", "G-治理": "G"}
-        if dim_filter != "全部":
-            dim_ids = {i.id for i in INDICATORS_BY_DIMENSION.get(dim_map[dim_filter], [])}
-            df = df[df["指标ID"].isin(dim_ids)] if not df.empty else df
+        # 只保留定量指标（定性指标为文本判断，不适合数值对比）
+        qt_df = df[df["类型"] == "定量"] if not df.empty else df
 
-        indicator_names = sorted(df["指标名称"].unique()) if not df.empty else []
-        selected_indicator = st.selectbox("选择对比指标", indicator_names)
+        if qt_df.empty:
+            st.warning("暂无定量指标数据，请先运行提取引擎。")
+        else:
+            # 维度筛选
+            dim_filter = st.radio("筛选维度", ["全部", "E-环境", "S-社会", "G-治理"], horizontal=True)
+            dim_map = {"E-环境": "E", "S-社会": "S", "G-治理": "G"}
+            if dim_filter != "全部":
+                dim_ids = {i.id for i in INDICATORS_BY_DIMENSION.get(dim_map[dim_filter], [])}
+                qt_df = qt_df[qt_df["指标ID"].isin(dim_ids)]
 
-        indicator_data = df[df["指标名称"] == selected_indicator] if not df.empty else pd.DataFrame()
+            if qt_df.empty:
+                st.info("该维度下暂无数据。")
+            else:
+                # 按指标ID分组，构建 (ID, 名称, 单位, 有数据的公司数) 的选项列表
+                indicator_options = []
+                for ind_id, group in qt_df.groupby("指标ID"):
+                    name = group["指标名称"].iloc[0] if not group.empty else ind_id
+                    unit = group["单位"].iloc[0] if not group.empty else ""
+                    has_data = group["数值"].notna().sum()
+                    label = f"[{ind_id}] {name} ({unit})" if unit else f"[{ind_id}] {name}"
+                    indicator_options.append({
+                        "label": label,
+                        "id": ind_id,
+                        "name": name,
+                        "unit": unit,
+                        "count": has_data,
+                    })
 
-        if not indicator_data.empty:
-            st.subheader(f"{selected_indicator} — 各公司对比")
+                # 按指标ID排序
+                indicator_options.sort(key=lambda x: x["id"])
 
-            # 表格全宽
-            st.dataframe(
-                indicator_data[["公司", "年份", "数值", "单位", "置信度"]],
-                use_container_width=True,
-                hide_index=True,
-            )
+                # 构建selectbox的标签列表
+                option_labels = [
+                    f"{opt['label']} — {opt['count']}家公司有数据"
+                    for opt in indicator_options
+                ]
 
-            # 水平柱状图 — 避免文字标签重叠
-            numeric_data = indicator_data[
-                indicator_data["数值"].apply(lambda x: isinstance(x, (int, float)))
-            ]
-            if not numeric_data.empty:
-                try:
-                    import plotly.graph_objects as go
-                    # 最多20家，升序排列（水平图从下往上）
-                    chart_data = numeric_data.sort_values("数值", ascending=True).tail(20)
-                    max_val = chart_data["数值"].max()
-                    # 右侧留白给文字标签
-                    x_max = max_val * 1.25 if max_val > 0 else 1
+                selected_label = st.selectbox("选择对比指标", option_labels)
+                selected_idx = option_labels.index(selected_label)
+                selected = indicator_options[selected_idx]
 
-                    fig = go.Figure()
-                    fig.add_trace(go.Bar(
-                        y=chart_data["公司"], x=chart_data["数值"],
-                        orientation="h",
-                        marker=dict(
-                            color=chart_data["数值"],
-                            colorscale=[[0, "#e8eaf6"], [0.3, "#7986cb"], [0.6, "#3949ab"], [1, "#1a237e"]],
-                            showscale=True,
-                            colorbar=dict(title=chart_data["单位"].iloc[0] if "单位" in chart_data.columns else "", thickness=12, len=0.5),
-                            line=dict(width=0),
-                        ),
-                        text=chart_data["数值"].apply(lambda v: f"{v:,.2f}" if abs(v) >= 100 else f"{v:.4f}" if abs(v) < 0.01 else f"{v:.2f}"),
-                        textposition="outside",
-                        hovertemplate="%{y}: %{x}<extra></extra>",
-                    ))
-                    fig.update_layout(
-                        title=dict(text=f"{selected_indicator} 各公司对比 TOP20", font=dict(size=14)),
-                        height=max(400, 35 + len(chart_data) * 28),
-                        margin=dict(l=10, r=10, t=40, b=10),
-                        xaxis=dict(title=selected_indicator, range=[0, x_max]),
-                        yaxis=dict(title="", autorange="reversed"),
-                        plot_bgcolor="rgba(0,0,0,0)",
-                        showlegend=False,
-                    )
-                    st.plotly_chart(fig, use_container_width=True)
-                except ImportError:
-                    st.bar_chart(numeric_data.set_index("公司")["数值"])
+                # 显示指标详情
+                ind_def = INDICATOR_MAP.get(selected["id"])
+                if ind_def:
+                    st.caption(f"指标说明：{ind_def.description}")
+
+                st.markdown("---")
+
+                # 按指标ID过滤（更精确）
+                indicator_data = qt_df[qt_df["指标ID"] == selected["id"]].copy()
+
+                # 只保留有数值的行
+                indicator_data = indicator_data[indicator_data["数值"].notna()]
+
+                if indicator_data.empty:
+                    st.info(f"「{selected['name']}」所有公司均无数据。")
+                else:
+                    st.subheader(f"{selected['name']} — 各公司对比")
+
+                    # 表格：显示指标名称+数值+单位+年份+置信度
+                    display_df = indicator_data[
+                        ["公司", "年份", "数值", "单位", "置信度"]
+                    ].copy()
+                    display_df = display_df.sort_values("数值", ascending=False)
+                    st.dataframe(display_df, use_container_width=True, hide_index=True)
+
+                    # 水平柱状图
+                    try:
+                        import plotly.graph_objects as go
+                        chart_data = indicator_data.sort_values("数值", ascending=True).tail(20)
+                        max_val = chart_data["数值"].max()
+                        x_max = max_val * 1.25 if max_val > 0 else 1
+                        unit = selected.get("unit", "")
+
+                        fig = go.Figure()
+                        fig.add_trace(go.Bar(
+                            y=chart_data["公司"], x=chart_data["数值"],
+                            orientation="h",
+                            marker=dict(
+                                color=chart_data["数值"],
+                                colorscale=[[0, "#e8eaf6"], [0.3, "#7986cb"], [0.6, "#3949ab"], [1, "#1a237e"]],
+                                showscale=True,
+                                colorbar=dict(title=unit, thickness=12, len=0.5),
+                                line=dict(width=0),
+                            ),
+                            text=chart_data["数值"].apply(
+                                lambda v: f"{v:,.2f}" if abs(v) >= 100
+                                else f"{v:.4f}" if abs(v) < 0.01
+                                else f"{v:.2f}"
+                            ),
+                            textposition="outside",
+                            hovertemplate="%{y}: %{x} " + unit + "<extra></extra>",
+                        ))
+                        fig.update_layout(
+                            title=dict(text=f"{selected['name']} 各公司对比 TOP20", font=dict(size=14)),
+                            height=max(400, 35 + len(chart_data) * 28),
+                            margin=dict(l=10, r=10, t=40, b=10),
+                            xaxis=dict(title=f"{selected['name']} ({unit})" if unit else selected['name'], range=[0, x_max]),
+                            yaxis=dict(title="", autorange="reversed"),
+                            plot_bgcolor="rgba(0,0,0,0)",
+                            showlegend=False,
+                        )
+                        st.plotly_chart(fig, use_container_width=True)
+                    except ImportError:
+                        st.bar_chart(indicator_data.set_index("公司")["数值"])
 
 # ====== ESG分析页 ======
 elif page == "ESG分析":
