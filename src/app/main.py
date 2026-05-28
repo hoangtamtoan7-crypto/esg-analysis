@@ -23,14 +23,20 @@ st.set_page_config(
 )
 
 # ---- 全局Plotly中文字体配置 ----
+# Plotly在浏览器端渲染，字体必须在客户端存在。优先级：Windows > Mac > Linux
 import plotly.io as pio
 import plotly.graph_objects as go
-_chinese_font = "WenQuanYi Micro Hei, Noto Sans CJK SC, Microsoft YaHei, SimHei, sans-serif"
+_chinese_font = "Microsoft YaHei, PingFang SC, WenQuanYi Micro Hei, Noto Sans CJK SC, SimHei, sans-serif"
 _font_template = go.layout.Template()
 _font_template.layout.font.family = _chinese_font
 _font_template.layout.title.font.family = _chinese_font
 _font_template.layout.xaxis.title.font.family = _chinese_font
+_font_template.layout.xaxis.tickfont.family = _chinese_font
 _font_template.layout.yaxis.title.font.family = _chinese_font
+_font_template.layout.yaxis.tickfont.family = _chinese_font
+_font_template.layout.legend.font.family = _chinese_font
+_font_template.layout.coloraxis.colorbar.title.font.family = _chinese_font
+_font_template.layout.coloraxis.colorbar.tickfont.family = _chinese_font
 if "esg_chinese" not in pio.templates:
     pio.templates["esg_chinese"] = _font_template
 pio.templates.default = "esg_chinese"
@@ -568,40 +574,74 @@ elif page == "指标对比":
                     # 水平柱状图
                     try:
                         import plotly.graph_objects as go
-                        chart_data = indicator_data.sort_values("数值", ascending=True).tail(20)
-                        max_val = chart_data["数值"].max()
-                        x_max = max_val * 1.25 if max_val > 0 else 1
-                        unit = selected.get("unit", "")
 
-                        fig = go.Figure()
-                        fig.add_trace(go.Bar(
-                            y=chart_data["公司"], x=chart_data["数值"],
-                            orientation="h",
-                            marker=dict(
-                                color=chart_data["数值"],
-                                colorscale=[[0, "#e8eaf6"], [0.3, "#7986cb"], [0.6, "#3949ab"], [1, "#1a237e"]],
-                                showscale=True,
-                                colorbar=dict(title=unit, thickness=12, len=0.5),
-                                line=dict(width=0),
-                            ),
-                            text=chart_data["数值"].apply(
-                                lambda v: f"{v:,.2f}" if abs(v) >= 100
-                                else f"{v:.4f}" if abs(v) < 0.01
-                                else f"{v:.2f}"
-                            ),
-                            textposition="outside",
-                            hovertemplate="%{y}: %{x} " + unit + "<extra></extra>",
-                        ))
-                        fig.update_layout(
-                            title=dict(text=f"{selected['name']} 各公司对比 TOP20", font=dict(size=14)),
-                            height=max(400, 35 + len(chart_data) * 28),
-                            margin=dict(l=10, r=10, t=40, b=10),
-                            xaxis=dict(title=f"{selected['name']} ({unit})" if unit else selected['name'], range=[0, x_max]),
-                            yaxis=dict(title="", autorange="reversed"),
-                            plot_bgcolor="rgba(0,0,0,0)",
-                            showlegend=False,
+                        # 同一公司取最大数值去重，避免多年数据导致的标签重叠
+                        chart_data = (
+                            indicator_data
+                            .sort_values("数值", ascending=False)
+                            .groupby("公司", as_index=False)
+                            .first()
+                            .sort_values("数值", ascending=True)
+                            .tail(20)
                         )
-                        st.plotly_chart(fig, use_container_width=True)
+
+                        if len(chart_data) == 0:
+                            st.info("无有效数据可展示。")
+                        else:
+                            max_val = chart_data["数值"].max()
+                            # 根据数值量级动态计算padding，确保标签不溢出
+                            if max_val > 0:
+                                log10 = max(0, np.log10(max_val))
+                                padding = 1.2 + min(log10 * 0.08, 0.35)  # 大数值加更多padding
+                                x_max = max_val * padding
+                            else:
+                                x_max = 1
+                            unit = selected.get("unit", "")
+
+                            def fmt(v):
+                                try:
+                                    if abs(v) >= 1e9:
+                                        return f"{v/1e9:,.2f}B"
+                                    elif abs(v) >= 1e6:
+                                        return f"{v/1e6:,.2f}M"
+                                    elif abs(v) >= 1e4:
+                                        return f"{v:,.0f}"
+                                    elif abs(v) >= 100:
+                                        return f"{v:,.2f}"
+                                    elif abs(v) < 0.01:
+                                        return f"{v:.4f}"
+                                    else:
+                                        return f"{v:.2f}"
+                                except Exception:
+                                    return str(v)
+
+                            fig = go.Figure()
+                            fig.add_trace(go.Bar(
+                                y=chart_data["公司"], x=chart_data["数值"],
+                                orientation="h",
+                                marker=dict(
+                                    color=chart_data["数值"],
+                                    colorscale=[[0, "#e8eaf6"], [0.3, "#7986cb"], [0.6, "#3949ab"], [1, "#1a237e"]],
+                                    showscale=True,
+                                    colorbar=dict(title=unit, thickness=12, len=0.5),
+                                    line=dict(width=0),
+                                ),
+                                text=chart_data["数值"].apply(fmt),
+                                textposition="outside",
+                                textfont=dict(size=12),
+                                cliponaxis=False,
+                                hovertemplate="%{y}: %{x:,.2f} " + unit + "<extra></extra>",
+                            ))
+                            fig.update_layout(
+                                title=dict(text=f"{selected['name']} 各公司对比 TOP20", font=dict(size=14)),
+                                height=max(400, 35 + len(chart_data) * 32),
+                                margin=dict(l=10, r=80, t=40, b=10),
+                                xaxis=dict(title=f"{selected['name']} ({unit})" if unit else selected['name'], range=[0, x_max]),
+                                yaxis=dict(title="", autorange="reversed", tickfont=dict(size=12)),
+                                plot_bgcolor="rgba(0,0,0,0)",
+                                showlegend=False,
+                            )
+                            st.plotly_chart(fig, use_container_width=True)
                     except ImportError:
                         st.bar_chart(indicator_data.set_index("公司")["数值"])
 
