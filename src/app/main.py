@@ -26,8 +26,9 @@ BASE_DIR = Path(__file__).parent.parent.parent
 OUTPUT_DIR = BASE_DIR / "data" / "output"
 
 
+@st.cache_resource
 def get_db():
-    """延迟加载数据库"""
+    """延迟加载数据库（缓存连接）"""
     try:
         from src.utils.db import Database
         db_path = BASE_DIR / "data" / "esg_data.db"

@@ -121,24 +121,29 @@ def render_ai_assistant_page():
         })
 
 
+@st.cache_resource
+def _get_cached_adapter():
+    """缓存ESGDataAdapter — 避免每次重读490个JSON文件"""
+    from src.agent.data_adapter import ESGDataAdapter
+    return ESGDataAdapter()
+
+
 def _init_agent():
-    """延迟初始化Agent（带缓存）"""
+    """延迟初始化Agent"""
     from dotenv import load_dotenv
     from pathlib import Path
     import os
-    # 先加载.env，确保API Key可用
     load_dotenv(Path(__file__).parent.parent.parent.parent / ".env")
     if not os.getenv("DEEPSEEK_API_KEY"):
-        st.warning("未设置 `DEEPSEEK_API_KEY` 环境变量，AI助手功能不可用。请在项目根目录创建.env文件并设置DEEPSEEK_API_KEY=sk-xxx")
+        st.warning("未设置 `DEEPSEEK_API_KEY` 环境变量，AI助手功能不可用。请在项目根目录创建.env文件或设置Streamlit Secrets: DEEPSEEK_API_KEY=sk-xxx")
         st.session_state.agent_initialized = True
         return
 
     try:
         with st.spinner("正在加载ESG数据，首次加载需要几秒..."):
-            from src.agent.data_adapter import ESGDataAdapter
             from src.agent.query_engine import ESGQueryAgent
 
-            adapter = ESGDataAdapter()
+            adapter = _get_cached_adapter()
             agent = ESGQueryAgent(adapter)
 
             st.session_state.adapter = adapter
