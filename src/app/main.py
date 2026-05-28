@@ -22,6 +22,19 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# ---- 全局Plotly中文字体配置 ----
+import plotly.io as pio
+import plotly.graph_objects as go
+_chinese_font = "WenQuanYi Micro Hei, Noto Sans CJK SC, Microsoft YaHei, SimHei, sans-serif"
+_font_template = go.layout.Template()
+_font_template.layout.font.family = _chinese_font
+_font_template.layout.title.font.family = _chinese_font
+_font_template.layout.xaxis.title.font.family = _chinese_font
+_font_template.layout.yaxis.title.font.family = _chinese_font
+if "esg_chinese" not in pio.templates:
+    pio.templates["esg_chinese"] = _font_template
+pio.templates.default = "esg_chinese"
+
 BASE_DIR = Path(__file__).parent.parent.parent
 OUTPUT_DIR = BASE_DIR / "data" / "output"
 
