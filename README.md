@@ -1,46 +1,73 @@
-# 🌐 ESG智能分析系统
+# React + TypeScript + Vite
 
-基于DeepSeek大模型的上市公司ESG报告智能提取与联网分析平台。
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 功能
+Currently, two official plugins are available:
 
-- **本地ESG数据库**：覆盖110+家A股上市公司的52个ESG指标查询与分析
-- **联网AI助手**：自动搜索最新ESG政策、新闻、行业动态，并建立持久化知识库
-- **交互式可视化**：ESG评分排名、行业对比、趋势分析等图表
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## 一键部署到 Hugging Face Spaces
+## React Compiler
 
-[![Deploy to HF Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/deploy-to-spaces-lg.svg)](https://huggingface.co/new-space)
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-### 部署步骤
+## Expanding the ESLint configuration
 
-1. 点击上方按钮或访问 [huggingface.co/new-space](https://huggingface.co/new-space)
-2. Space SDK 选择 **Streamlit**
-3. 将本仓库代码推送到创建的 Space 仓库
-4. 在 Space Settings → Secrets 中添加：
-   - `DEEPSEEK_API_KEY` = `你的DeepSeek API Key`
-5. Space 自动构建并启动，访问 URL 即可使用
+If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
-## 本地运行
+```js
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
 
-```bash
-pip install -r requirements.txt
-# 设置环境变量 DEEPSEEK_API_KEY=sk-xxx
-streamlit run app.py
+      // Remove tseslint.configs.recommended and replace with this
+      tseslint.configs.recommendedTypeChecked,
+      // Alternatively, use this for stricter rules
+      tseslint.configs.strictTypeChecked,
+      // Optionally, add this for stylistic rules
+      tseslint.configs.stylisticTypeChecked,
+
+      // Other configs...
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
 
-## 环境变量
+You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
 
-| 变量 | 必填 | 说明 |
-|------|------|------|
-| `DEEPSEEK_API_KEY` | 是 | DeepSeek API密钥 |
+```js
+// eslint.config.js
+import reactX from 'eslint-plugin-react-x'
+import reactDom from 'eslint-plugin-react-dom'
 
-## 系统架构
-
-```
-用户问题 → WebESGAgent (DeepSeek Function Calling)
-  ├── knowledge_search → ChromaDB（已爬取知识库）
-  ├── web_search → DuckDuckGo（联网搜索）
-  ├── web_crawl → 爬取网页 → 自动索引
-  └── 8个本地工具（ESG评分、公司对比等）
+export default defineConfig([
+  globalIgnores(['dist']),
+  {
+    files: ['**/*.{ts,tsx}'],
+    extends: [
+      // Other configs...
+      // Enable lint rules for React
+      reactX.configs['recommended-typescript'],
+      // Enable lint rules for React DOM
+      reactDom.configs.recommended,
+    ],
+    languageOptions: {
+      parserOptions: {
+        project: ['./tsconfig.node.json', './tsconfig.app.json'],
+        tsconfigRootDir: import.meta.dirname,
+      },
+      // other options...
+    },
+  },
+])
 ```
