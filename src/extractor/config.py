@@ -22,12 +22,13 @@ if not DEEPSEEK_API_KEY:
         pass
 
 DEEPSEEK_BASE_URL = "https://api.deepseek.com"
-DEEPSEEK_MODEL = "deepseek-chat"
+DEEPSEEK_MODEL = "deepseek-chat"  # V4-Flash: 最便宜模型
 
 # 费用控制
 MAX_BUDGET_YUAN = 80.0  # 最大预算（元）
-COST_PER_1K_INPUT = 0.002   # 输入: 2元/百万token
-COST_PER_1K_OUTPUT = 0.008  # 输出: 8元/百万token
+# V4-Flash 定价: ¥1/百万输入token, ¥2/百万输出token
+COST_PER_1K_INPUT = 0.001   # 输入: 1元/百万token
+COST_PER_1K_OUTPUT = 0.002  # 输出: 2元/百万token
 
 # 项目路径
 EXTRACTED_DIR = BASE_DIR / "data" / "extracted"

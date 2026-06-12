@@ -21,3 +21,9 @@ __pycache__/
 # ngrok
 ngrok.exe
 ngrok_bin/
+
+# Tencent Cloud EdgeOne
+.env
+.edgeone/*
+.tef_dist/*
+  

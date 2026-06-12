@@ -1,0 +1,442 @@
+{
+  "company_name": "平安银行",
+  "report_year": "2019",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 34626,
+      "unit": "人",
+      "original_text": "截至2018年底，平安银行员工总数为34,626人",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": 55,
+      "unit": "%",
+      "original_text": "女性员工占比为55%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": 12194,
+      "unit": "万元",
+      "original_text": "培训投入12,194万元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": 102,
+      "unit": "小时/人",
+      "original_text": "人均培训时长102小时",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 4898333,
+      "unit": "万元",
+      "original_text": "全年公益捐赠支出4,898,333元",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 8,
+      "unit": "次",
+      "original_text": "2018 年董事会共召开 8 次会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "积极响应国家能源战略，重点支持新能源、清洁能源领域相关绿色产业发展，明确聚焦经营清洁能源、绿色环保的战略定位。",
+      "original_text": "积极响应国家能源战略，重点支持新能源、清洁能源领域相关绿色产业发展；明确了“聚焦经营清洁能源、绿色环保”的战略定位",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "完善绿色信贷机制，加强环境和社会风险管理政策、制度和流程，建立专门环境与社会风险岗位职责。",
+      "original_text": "完善绿色信贷机制。进一步加强环境和社会风险管理政策、制度和流程以及专门环境与社会风险岗位职责的建设",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "打造绿色金融特色产品与服务，积极支持绿色、循环和低碳经济，创新开发养殖贷、种植贷、水电贷、扶贫债等金融扶贫产品。",
+      "original_text": "打造绿色金融特色产品与服务，积极支持绿色、循环和低碳经济；创新开发养殖贷、种植贷、水电贷、扶贫债等多种金融扶贫产品",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "partial",
+      "summary": "开展绿色公益活动，如植树护养，防止水土流失，保护生态环境。",
+      "original_text": "为持续践行低碳活动，防止水土流失，保护生态环境，2018年3月31日，温州...公益活动，由家长们带着孩子帮树木除杂草、施肥、浇水、播种花卉种子",
+      "confidence": "medium"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "工业固废处置实现填埋气循环利用、变废为宝，发挥社会和环境效益。",
+      "original_text": "实现了填埋气循环利用、变废为宝，发挥了显著的社会效益和环境效益",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "规范劳动管理，尊重和保护员工合法权益，坚持平等雇佣，劳动合同签订率100%，社会保险覆盖率100%。",
+      "original_text": "规范劳动管理，尊重和保护员工的合法权益；坚持平等雇佣；全年劳动合同签订率100%；社会保险覆盖率为100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "员工体检及健康档案覆盖率为100%，开展健康关爱日活动，关注员工身心健康。",
+      "original_text": "员工体检及健康档案覆盖率为100%；分行不定期举办健康关爱日活动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "使用环境标准筛选新供应商，披露供应链对环境的负面影响及采取的行动。",
+      "original_text": "308-1使用环境标准筛选的新供应商；308-2供应链对环境的负面影响以及采取的行动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "将消费者权益保护纳入战略层面，制定消费者权益保护政策，提供安全可靠的产品和服务。",
+      "original_text": "我们将消费者权益保护工作纳入到战略层面，董事会战略发展委员会升级为董事会战略发展与消费者权益保护委员会，制定《平安银行股份有限公司消费者权益保护...》",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "建立安全访问及使用边界，严格防范数据泄漏风险，数据平台实施加密和脱敏技术。",
+      "original_text": "建立安全访问及使用边界，严格防范数据泄漏风险；数据平台实施加密和脱敏技术",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "积极参与社会公益活动，鼓励员工参与志愿者服务，推进社区公益事业发展。",
+      "original_text": "积极参与社会公益活动，鼓励员工参与志愿者服务，为社会注入温暖力量；推进社区公益事业发展",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "坚持平等雇佣，不因性别、民族、婚姻等歧视，女性员工占比55%，少数民族员工占比3.8%。",
+      "original_text": "坚持平等雇佣，在招聘、选拔、升职、处分、员工发展、福利和劳动合同终止等方面不因性别、民族、婚姻等状况不同而产生歧视；女性员工占比为55%，少数民族员工占比为3.8%",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "建立了企业社会责任管理与品牌管理相结合的社会责任工作体系，形成董事会和监事会监督、管理层执行的治理架构。",
+      "original_text": "建立了企业社会责任管理与品牌管理相结合的社会责任工作体系，形成了董事会和监事会监督、管理层执行的治理架构",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "举办专题讲座和培训，全面提高员工廉洁意识；披露反腐败政策和程序的传达及培训。",
+      "original_text": "举办专题讲座和培训，全面提高员工廉洁意识；205-2反腐败政策和程序的传达及培训",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "推动合规内控与案防体系高效运转，强化飞行检查、大数据分析等手段，营造简单务实、风清气正的文化氛围。",
+      "original_text": "推动合规内控与案防体系的高效运转。通过强化飞行检查、大数据分析等手段，强化内控四部门的“查、处、督”联动；营造“简单务实、风清气正、风险可控、健康持续”的良好文化氛围",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "建立全面的风险管理架构和风险管理体系，采用派驻制风险管理、矩阵式双线汇报模式，覆盖信用风险、市场风险、操作风险等。",
+      "original_text": "建立全面的风险管理架构和风险管理体系；采用“派驻制风险管理、矩阵式双线汇报”风险管理模式",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "创新举办发布会、路演、专题调研等投资者关系活动，建立常态化分工机制及资料准备流程。",
+      "original_text": "创新投资者关系活动。创新举办发布会、路演、专题调研等投资者关系活动；建立常态化的投资者关系活动分工机制及资料准备流程",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "与政府、客户、事业伙伴、员工、环保组织、社区、媒体等利益相关方保持沟通，通过项目报批、会议、公益活动等方式。",
+      "original_text": "政府：项目报批、参加相关会议、日常工作汇报；社区：公益慈善活动、志愿者服务；员工：工会、座谈会与培训交流",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "信息披露保持高水准，实施定期报告优化改版，连续7年在深交所信息披露考核中获评最高等级A级。",
+      "original_text": "信息披露保持高水准，实施定期报告优化改版；连续7年在深交所信息披露考核中获评最高等级A级",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "yes",
+      "summary": "依法纳税，及时足额纳税，与政府保持沟通。",
+      "original_text": "依法纳税；及时足额纳税",
+      "confidence": "high"
+    }
+  ],
+  "source_file": "000001_平安银行_2019.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.75
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

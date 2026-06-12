@@ -122,6 +122,34 @@ def build_dimension_prompt(dimension: str) -> str:
     return "\n".join(lines)
 
 
+def build_combined_prompt() -> str:
+    """构建全维度合并提取提示（单次API调用提取E+S+G，降低费用）"""
+    lines = ["请从以下ESG报告内容中提取所有维度的指标。\n"]
+
+    for dim, dim_name in [("E", "环境"), ("S", "社会"), ("G", "治理")]:
+        indicators = INDICATORS_BY_DIMENSION.get(dim, [])
+        lines.append(f"## {dim_name}维度")
+
+        qt = [ind for ind in indicators if ind.indicator_type == "quantitative"]
+        if qt:
+            lines.append("定量指标：")
+            for ind in qt:
+                lines.append(f"- [{ind.id}] {ind.name} ({ind.unit or '无固定单位'})")
+
+        ql = [ind for ind in indicators if ind.indicator_type == "qualitative"]
+        if ql:
+            lines.append("定性指标：")
+            for ind in ql:
+                lines.append(f"- [{ind.id}] {ind.name}")
+        lines.append("")
+
+    lines.append("## ESG报告内容：")
+    lines.append("{report_chunk}")
+    lines.append("\n请按JSON格式输出所有提取结果（包含quantitative_indicators和qualitative_indicators）。只提取上述列出的指标。")
+
+    return "\n".join(lines)
+
+
 def build_keyword_match_prompt(indicator, report_chunk: str) -> str:
     """针对单个指标的精准提取提示"""
     return f"""请从以下ESG报告片段中提取指标"{indicator.name}"（ID: {indicator.id}）。

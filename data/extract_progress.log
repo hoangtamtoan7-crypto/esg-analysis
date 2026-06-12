@@ -1,0 +1,20 @@
+2026-05-29 22:17:48,082 [INFO] [1/932] 提取: 000001_平安银行_2019.md
+2026-05-29 22:17:48,087 [INFO] 合并模式: 文本18579字符, 3块
+2026-05-29 22:17:48,622 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:18:06,939 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:18:25,685 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:18:40,147 [INFO]   质量分: 0.75 | 覆盖度: 100.0% | 有效定量: 32/32 | 有效定性: 20/20
+2026-05-29 22:18:40,148 [INFO] API调用: 3次 | 输入: 15.9K tokens | 输出: 10.1K tokens | 已花费: 0.0360元 | 剩余预算: 79.96元
+2026-05-29 22:18:40,148 [INFO] [2/932] 提取: 000001_平安银行_2020.md
+2026-05-29 22:18:40,154 [INFO] 合并模式: 文本25730字符, 4块
+2026-05-29 22:18:40,254 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:18:59,220 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:19:15,238 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:19:29,947 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:19:46,155 [INFO]   质量分: 0.72 | 覆盖度: 100.0% | 有效定量: 32/32 | 有效定性: 20/20
+2026-05-29 22:19:46,156 [INFO] API调用: 7次 | 输入: 37.8K tokens | 输出: 23.1K tokens | 已花费: 0.0840元 | 剩余预算: 79.92元
+2026-05-29 22:19:46,156 [INFO] [3/932] 提取: 000001_平安银行_2021.md
+2026-05-29 22:19:46,162 [INFO] 合并模式: 文本25789字符, 4块
+2026-05-29 22:19:46,278 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:20:03,961 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2026-05-29 22:20:21,221 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"

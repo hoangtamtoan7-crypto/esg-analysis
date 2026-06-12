@@ -201,14 +201,26 @@ class PDFParser:
 
         return result
 
-    def batch_parse(self, limit: Optional[int] = None) -> List[dict]:
+    def batch_parse(self, limit: Optional[int] = None, skip_existing: bool = True,
+                    company_codes: Optional[set] = None) -> List[dict]:
         """批量解析PDF目录中的所有文件"""
         pdf_files = sorted(PDF_DIR.glob("*.pdf"))
+        if company_codes:
+            pdf_files = [f for f in pdf_files if f.stem.split("_")[0] in company_codes]
         if limit:
             pdf_files = pdf_files[:limit]
 
         results = []
         for i, pdf_path in enumerate(pdf_files):
+            base_name = pdf_path.stem
+            text_path = EXTRACTED_DIR / f"{base_name}.md"
+            tables_path = EXTRACTED_DIR / f"{base_name}_tables.json"
+
+            if skip_existing and text_path.exists() and tables_path.exists():
+                logger.info(f"[{i+1}/{len(pdf_files)}] 跳过(已存在): {pdf_path.name}")
+                results.append({"filename": pdf_path.name, "skipped": True})
+                continue
+
             logger.info(f"[{i+1}/{len(pdf_files)}] 处理: {pdf_path.name}")
             try:
                 result = self.parse_and_save(pdf_path)

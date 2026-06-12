@@ -1,0 +1,442 @@
+{
+  "company_name": "平安银行",
+  "report_year": "2020",
+  "quantitative_indicators": [
+    {
+      "id": "E_Q01",
+      "name": "温室气体排放总量",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q02",
+      "name": "范围1排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q03",
+      "name": "范围2排放",
+      "value": null,
+      "unit": "吨二氧化碳当量(tCO2e)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q04",
+      "name": "温室气体排放强度",
+      "value": null,
+      "unit": "吨二氧化碳当量/万元营收",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q05",
+      "name": "综合能源消耗",
+      "value": null,
+      "unit": "兆瓦时(MWh)",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q06",
+      "name": "可再生能源使用比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q07",
+      "name": "总用水量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q08",
+      "name": "废水排放量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q09",
+      "name": "废弃物产生总量",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q10",
+      "name": "环保投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q11",
+      "name": "氮氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q12",
+      "name": "硫氧化物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_Q13",
+      "name": "颗粒物排放",
+      "value": null,
+      "unit": "吨",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q01",
+      "name": "员工总数",
+      "value": 32502,
+      "unit": "人",
+      "original_text": "员工总数（人） 34,253 34,626 32,502",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q02",
+      "name": "女性员工比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q03",
+      "name": "女性高管比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q04",
+      "name": "员工培训投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q05",
+      "name": "员工培训时长",
+      "value": null,
+      "unit": "小时/人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q06",
+      "name": "员工流失率",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q07",
+      "name": "研发投入金额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q08",
+      "name": "研发投入占营收比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q09",
+      "name": "安全生产投入",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q10",
+      "name": "工伤事故率",
+      "value": null,
+      "unit": "‰",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "S_Q11",
+      "name": "社会公益捐赠",
+      "value": 748.62,
+      "unit": "万元",
+      "original_text": "2019年，平安银行公益捐赠支出748.62",
+      "confidence": "high"
+    },
+    {
+      "id": "S_Q12",
+      "name": "纳税总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q01",
+      "name": "董事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q02",
+      "name": "独立董事比例",
+      "value": null,
+      "unit": "%",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q03",
+      "name": "女性董事人数",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q04",
+      "name": "董事会会议次数",
+      "value": 14,
+      "unit": "次",
+      "original_text": "2019 年，董事会共召开 14 次会议",
+      "confidence": "high"
+    },
+    {
+      "id": "G_Q05",
+      "name": "监事会规模",
+      "value": null,
+      "unit": "人",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q06",
+      "name": "高管薪酬总额",
+      "value": null,
+      "unit": "万元",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "G_Q07",
+      "name": "审计委员会会议次数",
+      "value": null,
+      "unit": "次",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "qualitative_indicators": [
+    {
+      "id": "E_L01",
+      "name": "气候变化应对策略",
+      "status": "yes",
+      "summary": "公司推进绿色金融，助推低碳经济；将绿色低碳理念融入金融服务全过程，支持低碳经济、循环经济、节能减排绿色产业。",
+      "original_text": "推进绿色金融，助推低碳经济；加大对低碳经济、循环经济、节能减排等绿色产业的支持力度",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L02",
+      "name": "环境管理体系",
+      "status": "yes",
+      "summary": "公司建立绿色信贷指引，将绿色信贷执行情况纳入内控合规检查，并定期进行绿色信贷信息披露。",
+      "original_text": "制定《平安银行绿色信贷指引》《平安银行 2019 年风险政策指引》等相关规定，将绿色低碳理念融入金融服务全过程",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L03",
+      "name": "绿色产品与服务",
+      "status": "yes",
+      "summary": "公司设计“光伏贷”产品，支持绿色环保产业技术升级，提供绿色信贷支持。",
+      "original_text": "设计“光伏贷”产品，授信用于华东、华中、及华...；向奉新伟明环保能源有限公司提供项目贷款 1.65 亿元",
+      "confidence": "high"
+    },
+    {
+      "id": "E_L04",
+      "name": "生物多样性保护",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    },
+    {
+      "id": "E_L05",
+      "name": "循环经济实践",
+      "status": "yes",
+      "summary": "公司支持固废处理企业，提供并购贷款用于医疗废物和工业危险废物综合处理。",
+      "original_text": "向云南水务投资股份有限公司并购贷款人民币17,439万元，用于收购哈尔滨国环医疗固体废物无害化集中处置中心有限公司100%股权",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L01",
+      "name": "员工权益保护",
+      "status": "yes",
+      "summary": "公司严格执行相关法律法规，制定公平考核晋升机制，举办文体活动，改善工作环境，员工社会保险覆盖率100%。",
+      "original_text": "严格执行相关法律法规，制定公平的考核晋升机制，举办丰富多彩的文体活动，不断改善员工工作环境；员工社会保险覆盖率100%",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L02",
+      "name": "职业健康安全管理",
+      "status": "yes",
+      "summary": "公司提供安全舒适的工作环境，开展健康主题系列活动，关注女性员工健康。",
+      "original_text": "安全舒适的工作环境；举办健康主题系列活动，开展女性健康讲座",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L03",
+      "name": "供应链ESG管理",
+      "status": "yes",
+      "summary": "公司披露供应链对环境的负面影响及采取的行动，使用环境标准筛选新供应商。",
+      "original_text": "308-2供应链对环境的负面影响以及采取的行动 披露；308-1使用环境标准筛选的新供应商 披露",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L04",
+      "name": "产品安全与质量",
+      "status": "yes",
+      "summary": "公司视金融产品安全为消费者权益保障的重要内容，将消费者权益保护纳入经营发展战略，设立战略发展和消费者权益保护委员会。",
+      "original_text": "平安银行视金融产品安全为消费者权益保障的重要内容，我们将消费者权益保护纳入本行经营发展战略，在董事会设立战略发展和消费者权益保护委员会",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L05",
+      "name": "数据安全与隐私保护",
+      "status": "yes",
+      "summary": "公司建立数据治理结构，董事会负责数据和隐私安全，实施全面信息科技风险管理，开展信息安全培训。",
+      "original_text": "平安银行数据治理采取“战略层-决策层-管理层-执行层”结构，董事会作为银行数据治理的最高领导机构，对数据和隐私安全负责；2019年全年共开展各项安全培训73次",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L06",
+      "name": "社区关系与参与",
+      "status": "yes",
+      "summary": "公司开展公益慈善活动，支持社区建设，推进精准扶贫，组织志愿者服务，如儿童艺术画展、关爱老年失智症公益活动、垃圾分类公益行动等。",
+      "original_text": "开展公益慈善活动，支持社区建设，推进精准扶贫，志愿者服务；开展“有爱真美好”儿童艺术画展、关爱老年失智症公益活动、“沪”唤美好—橙色垃圾袋特别公益行动",
+      "confidence": "high"
+    },
+    {
+      "id": "S_L07",
+      "name": "员工多元化与包容",
+      "status": "yes",
+      "summary": "公司保证机会平等，防范因年龄、性别、残疾、政治信仰、婚姻状况、出身背景等差异的歧视，加强民族融合。",
+      "original_text": "我们在人才招聘、培训、晋升、绩效考核、福利和劳动合同终止等各个环节均保证机会平等，严格防范因员工年龄、性别、残疾、政治信仰、婚姻状况、出身背景等个人差异特征而...；加强民族融合",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L01",
+      "name": "ESG治理架构",
+      "status": "yes",
+      "summary": "公司形成董事会和高级管理层直接领导、总行办公室牵头协调的社会责任工作体系。",
+      "original_text": "我们不断完善社会责任工作体系，形成了董事会和高级管理层直接领导、总行办公室牵头协调",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L02",
+      "name": "反腐败与廉洁建设",
+      "status": "yes",
+      "summary": "公司建立由董事会负责的合规管理架构，开展反腐败政策和程序的传达及培训，累计组织超过100次警示教育，覆盖全行100%员工。",
+      "original_text": "平安银行严遵谨守商业道德，深耕厚植合规文化；205-2反腐败政策和程序的传达及培训 披露；累计组织超过100 次警示教育，覆盖全行100%的员工",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L03",
+      "name": "商业道德与合规",
+      "status": "yes",
+      "summary": "公司建立合规管理架构，总行合规内控与案防委员会统筹决策，各分行管理层落实合规责任，强化合规文化。",
+      "original_text": "总行合规内控与案防委员会进行统筹、决策、协调及监督，并由各分行管理层承担合规管理落实责任；强化“合规人人有责”的理念",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L04",
+      "name": "风险管理体系",
+      "status": "yes",
+      "summary": "董事会承担风险管理的最终责任，风险管理委员会提供专业意见，覆盖信用风险、市场风险、流动性风险、操作风险、战略风险、法律合规风险等。",
+      "original_text": "平安银行董事会承担风险管理的最终责任，风险管理委员会向董事会提供专业意见；风险、市场风险、流动性风险、操作风险、战略风险、法律合规风险等数十项经营风险",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L05",
+      "name": "投资者关系管理",
+      "status": "yes",
+      "summary": "公司通过业绩说明会、投行会议等方式与投资者沟通，设置股东问答环节，由董事长和行长直接回复。",
+      "original_text": "依据《信息披露事务管理制度》《投资者关系工作制度》，通过业绩说明会、投行会议、...；设置股东问答环节，由董事长和行长等主要领导直接面对面回复",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L06",
+      "name": "利益相关方沟通",
+      "status": "yes",
+      "summary": "公司通过工会、座谈会、培训交流、内刊内网等平台与员工、客户、社区等利益相关方沟通。",
+      "original_text": "工会、座谈会与培训交流、内刊、内网等内宣平台",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L07",
+      "name": "信息披露质量",
+      "status": "yes",
+      "summary": "公司遵循真实、准确、完整、及时、公平的披露原则，依据《信息披露事务管理制度》进行信息披露。",
+      "original_text": "披露的原则，依据《信息披露事务管理制度》《投资者关系工作制度》",
+      "confidence": "high"
+    },
+    {
+      "id": "G_L08",
+      "name": "税务透明度",
+      "status": "no",
+      "summary": "",
+      "original_text": "",
+      "confidence": "low"
+    }
+  ],
+  "source_file": "000001_平安银行_2020.md",
+  "validation": {
+    "is_valid": true,
+    "quantitative_count": 32,
+    "quantitative_valid": 32,
+    "quantitative_issues": [],
+    "qualitative_count": 20,
+    "qualitative_valid": 20,
+    "qualitative_issues": [],
+    "overall_quality_score": 0.721
+  },
+  "completeness": {
+    "total_indicators": 52,
+    "extracted": 52,
+    "missing": 0,
+    "missing_list": [],
+    "completeness": 100.0
+  }
+}

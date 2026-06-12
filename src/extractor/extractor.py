@@ -19,7 +19,8 @@ from .config import (
 )
 from .indicators import ALL_INDICATORS, INDICATORS_BY_DIMENSION, get_indicator_by_id
 from .prompts import (
-    build_system_prompt, build_dimension_prompt, build_keyword_match_prompt,
+    build_system_prompt, build_dimension_prompt, build_combined_prompt,
+    build_keyword_match_prompt,
     FEW_SHOT_EXAMPLE_QUANTITATIVE, FEW_SHOT_EXAMPLE_QUALITATIVE,
 )
 from .validator import ESGValidator
@@ -28,7 +29,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 logger = logging.getLogger(__name__)
 
 # 分块大小（字符数）
-CHUNK_SIZE = 8000
+CHUNK_SIZE = 15000
 CHUNK_OVERLAP = 500
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -46,7 +47,8 @@ class ESGExtractor:
         self.system_prompt = build_system_prompt()
 
     def extract_from_text(self, report_text: str, company_name: str = "",
-                          report_year: str = "", dimension: Optional[str] = None) -> dict:
+                          report_year: str = "", dimension: Optional[str] = None,
+                          fast_mode: bool = True) -> dict:
         """从报告文本中提取ESG指标
 
         Args:
@@ -54,19 +56,11 @@ class ESGExtractor:
             company_name: 公司名称
             report_year: 报告年份
             dimension: 可选，仅提取E/S/G某一维度
-
-        Returns:
-            提取结果字典
+            fast_mode: True=合并三合一提取(省钱), False=分维度提取(更准)
         """
         if not report_text.strip():
             logger.warning("报告文本为空")
             return {"error": "empty_text"}
-
-        # 确定提取维度
-        if dimension and dimension in INDICATORS_BY_DIMENSION:
-            dimensions = [dimension]
-        else:
-            dimensions = ["E", "S", "G"]
 
         all_results = {
             "company_name": company_name,
@@ -75,33 +69,43 @@ class ESGExtractor:
             "qualitative_indicators": [],
         }
 
-        for dim in dimensions:
-            logger.info(f"提取维度: {dim}")
-            dim_text = self._filter_relevant_text(report_text, dim)
-            if not dim_text:
-                logger.warning(f"维度{dim}无相关文本，跳过")
-                continue
+        if fast_mode and dimension is None:
+            # Fast mode: single-pass extraction for all dimensions
+            all_results = self._extract_combined(report_text, company_name, report_year)
+        else:
+            # Legacy: per-dimension extraction
+            if dimension and dimension in INDICATORS_BY_DIMENSION:
+                dimensions = [dimension]
+            else:
+                dimensions = ["E", "S", "G"]
 
-            chunks = self._chunk_text(dim_text)
-            logger.info(f"维度{dim}: 文本{len(dim_text)}字符, 分为{len(chunks)}块")
+            for dim in dimensions:
+                logger.info(f"提取维度: {dim}")
+                dim_text = self._filter_relevant_text(report_text, dim)
+                if not dim_text:
+                    logger.warning(f"维度{dim}无相关文本，跳过")
+                    continue
 
-            for i, chunk in enumerate(chunks):
-                if not cost_tracker.can_continue():
-                    logger.warning("预算不足，停止提取")
-                    break
+                chunks = self._chunk_text(dim_text)
+                logger.info(f"维度{dim}: 文本{len(dim_text)}字符, 分为{len(chunks)}块")
 
-                try:
-                    result = self._extract_chunk(chunk, dim, i, len(chunks))
-                    if result:
-                        for qt in result.get("quantitative_indicators", []):
-                            all_results["quantitative_indicators"].append(qt)
-                        for ql in result.get("qualitative_indicators", []):
-                            all_results["qualitative_indicators"].append(ql)
-                except Exception as e:
-                    logger.error(f"提取失败 dim={dim} chunk={i}: {e}")
-                    cost_tracker.record_error()
+                for i, chunk in enumerate(chunks):
+                    if not cost_tracker.can_continue():
+                        logger.warning("预算不足，停止提取")
+                        break
 
-                time.sleep(0.3)  # 避免API限流
+                    try:
+                        result = self._extract_chunk(chunk, dim, i, len(chunks))
+                        if result:
+                            for qt in result.get("quantitative_indicators", []):
+                                all_results["quantitative_indicators"].append(qt)
+                            for ql in result.get("qualitative_indicators", []):
+                                all_results["qualitative_indicators"].append(ql)
+                    except Exception as e:
+                        logger.error(f"提取失败 dim={dim} chunk={i}: {e}")
+                        cost_tracker.record_error()
+
+                    time.sleep(0.3)
 
         # 去重合并
         all_results["quantitative_indicators"] = self._deduplicate(
@@ -112,6 +116,125 @@ class ESGExtractor:
         )
 
         return all_results
+
+    def _extract_combined(self, report_text: str, company_name: str,
+                          report_year: str) -> dict:
+        """合并提取：单次API调用提取所有E+S+G指标，大幅降低成本"""
+        # 用所有关键词过滤，保留ESG相关文本
+        all_keywords = {
+            "E": ["排放", "碳", "能源", "环境", "水", "废", "绿", "气候",
+                  "ISO14001", "生物", "光伏", "风电", "清洁"],
+            "S": ["员工", "培训", "安全", "性别", "女性", "劳动", "公益",
+                  "慈善", "研发", "供应链", "质量", "产品安全", "数据安全",
+                  "隐私", "社区", "健康", "多元化"],
+            "G": ["董事会", "董事", "独立董事", "监事", "ESG治理", "可持续发展委员会",
+                  "反腐", "合规", "风险", "内控", "商业道德", "投资者关系",
+                  "股东", "利益相关", "信息披露", "透明度"],
+        }
+
+        # 合并过滤：每个段落只要命中任一维度关键词就保留
+        all_kw = set()
+        for kws in all_keywords.values():
+            all_kw.update(kws)
+
+        paragraphs = report_text.split("\n")
+        scored = []
+        for para in paragraphs:
+            if len(para.strip()) < 10:
+                continue
+            score = sum(1 for kw in all_kw if kw in para)
+            if score > 0:
+                scored.append((score, para))
+
+        if not scored:
+            return {"company_name": company_name, "report_year": report_year,
+                    "quantitative_indicators": [], "qualitative_indicators": []}
+
+        scored.sort(key=lambda x: -x[0])
+        keep_ratio = 0.35
+        keep_count = max(int(len(paragraphs) * keep_ratio), min(len(scored), 200))
+        kept = [para for _, para in scored[:keep_count]]
+        combined_text = "\n".join(kept)
+
+        chunks = self._chunk_text(combined_text)
+        logger.info(f"合并模式: 文本{len(combined_text)}字符, {len(chunks)}块")
+
+        all_results = {
+            "company_name": company_name,
+            "report_year": report_year,
+            "quantitative_indicators": [],
+            "qualitative_indicators": [],
+        }
+
+        prompt_template = build_combined_prompt()
+
+        for i, chunk in enumerate(chunks):
+            if not cost_tracker.can_continue():
+                logger.warning("预算不足，停止提取")
+                break
+
+            try:
+                result = self._extract_chunk_combined(chunk, prompt_template, i, len(chunks))
+                if result:
+                    for qt in result.get("quantitative_indicators", []):
+                        all_results["quantitative_indicators"].append(qt)
+                    for ql in result.get("qualitative_indicators", []):
+                        all_results["qualitative_indicators"].append(ql)
+            except Exception as e:
+                logger.error(f"合并提取失败 chunk={i}: {e}")
+                cost_tracker.record_error()
+
+            time.sleep(0.3)
+
+        return all_results
+
+    def _extract_chunk_combined(self, chunk: str, prompt_template: str,
+                                chunk_idx: int = 0, total_chunks: int = 1) -> dict:
+        """对单个文本块进行合并提取"""
+        prompt = prompt_template.replace("{report_chunk}", chunk)
+
+        messages = [
+            {"role": "system", "content": self.system_prompt},
+            {"role": "user", "content": FEW_SHOT_EXAMPLE_QUANTITATIVE},
+            {"role": "assistant", "content": '{"quantitative_indicators": [...]}'},
+            {"role": "user", "content": FEW_SHOT_EXAMPLE_QUALITATIVE},
+            {"role": "assistant", "content": '{"qualitative_indicators": [...]}'},
+            {"role": "user", "content": prompt},
+        ]
+
+        try:
+            response = self.client.chat.completions.create(
+                model=DEEPSEEK_MODEL,
+                messages=messages,
+                temperature=0.1,
+                max_tokens=4096,
+                response_format={"type": "json_object"},
+            )
+        except Exception as e:
+            logger.error(f"API调用失败: {e}")
+            cost_tracker.record_error()
+            return {}
+
+        usage = response.usage
+        cost_tracker.record(
+            input_tokens=usage.prompt_tokens,
+            output_tokens=usage.completion_tokens,
+        )
+
+        content = response.choices[0].message.content
+        logger.debug(
+            f"chunk {chunk_idx+1}/{total_chunks}: "
+            f"in={usage.prompt_tokens} out={usage.completion_tokens} "
+            f"cost={cost_tracker.total_cost:.4f}元"
+        )
+
+        try:
+            content = re.sub(r"^```(?:json)?\s*", "", content.strip())
+            content = re.sub(r"\s*```$", "", content)
+            return json.loads(content)
+        except json.JSONDecodeError:
+            logger.warning(f"JSON解析失败: {content[:200]}")
+            return {}
 
     def _extract_chunk(self, chunk: str, dimension: str,
                        chunk_idx: int = 0, total_chunks: int = 1) -> dict:
@@ -266,9 +389,22 @@ class ESGExtractor:
 
         return self.extract_from_text(text, company_name, report_year)
 
-    def batch_extract(self, limit: Optional[int] = None) -> list:
-        """批量处理所有预处理后的报告"""
+    def batch_extract(self, limit: Optional[int] = None,
+                      company_codes: Optional[set] = None,
+                      skip_existing: bool = True) -> list:
+        """批量处理所有预处理后的报告
+
+        Args:
+            limit: 限制处理数量
+            company_codes: 只处理这些股票代码的公司
+            skip_existing: 跳过已有提取结果的报告
+        """
         md_files = sorted(EXTRACTED_DIR.glob("*.md"))
+        if company_codes:
+            md_files = [f for f in md_files if f.stem.split("_")[0] in company_codes]
+        if skip_existing:
+            md_files = [f for f in md_files
+                        if not (OUTPUT_DIR / f"{f.stem}_result.json").exists()]
         if limit:
             md_files = md_files[:limit]
 

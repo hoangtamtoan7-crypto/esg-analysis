@@ -41,6 +41,7 @@ ESG_KEYWORDS_REST = [
 ]
 
 SAVE_INTERVAL = 50  # 每处理50家公司保存一次日志
+DEFAULT_YEAR_RANGE = range(2019, 2027)  # 2019-2026
 
 
 def _clean_title(title: str) -> str:
@@ -73,7 +74,7 @@ class ESGReportDownloader:
         self._init_session()
 
     def _load_existing_log(self):
-        """加载已有下载日志，实现断点续传（只跳过已成功下载的）"""
+        """加载已有下载日志，实现断点续传（按 股票代码+年份 跳过已成功的）"""
         if not DOWNLOAD_LOG_PATH.exists():
             return
         try:
@@ -81,11 +82,13 @@ class ESGReportDownloader:
                 for row in csv.DictReader(f):
                     code = row.get("code", "")
                     status = row.get("status", "")
+                    year = row.get("year", "")
                     if code:
                         self.download_log.append(row)
-                        if status == "success":
-                            self.processed_codes.add(code)
-            logger.info(f"断点续传: 已加载 {len(self.download_log)} 条记录，跳过 {len(self.processed_codes)} 家已成功")
+                        key = f"{code}_{year}"
+                        if status == "success" and year:
+                            self.processed_codes.add(key)
+            logger.info(f"断点续传: 已加载 {len(self.download_log)} 条记录，跳过 {len(self.processed_codes)} 个已成功(按代码+年份)")
         except Exception:
             pass
 
@@ -139,14 +142,10 @@ class ESGReportDownloader:
         return True
 
     def download_pdf(self, url: str, filepath: Path, stock_code: str = "") -> bool:
-        """下载PDF并验证。如果已有同代码的PDF则跳过"""
-        # 检查是否已有同股票代码的PDF（处理文件名清理前后的差异）
-        existing = list(filepath.parent.glob(f"{stock_code}_*.pdf")) if stock_code else []
-        if existing:
-            existing_path = existing[0]
-            if existing_path.stat().st_size > 10_000:
-                logger.info(f"已存在，跳过: {existing_path.name}")
-                return True
+        """下载PDF并验证。如果目标文件已存在则跳过"""
+        if filepath.exists() and filepath.stat().st_size > 10_000:
+            logger.info(f"已存在，跳过: {filepath.name}")
+            return True
 
         try:
             resp = self.session.get(url, timeout=60, stream=True)
@@ -172,15 +171,19 @@ class ESGReportDownloader:
                 filepath.unlink()
             return False
 
-    def find_and_download(
-        self, stock_code: str, company_name: str, year: str = "2025"
-    ) -> Optional[Path]:
-        """为一家公司搜索并下载最新的ESG报告"""
-        # 收集所有搜索到的公告
+    def _extract_year(self, ann: dict) -> str:
+        """从公告时间戳提取年份"""
+        from datetime import datetime
+        ts = ann.get("announcementTime", 0)
+        if ts:
+            return datetime.fromtimestamp(ts / 1000).strftime("%Y")
+        return ""
+
+    def _collect_announcements(self, stock_code: str) -> list:
+        """收集一家公司的所有ESG相关公告"""
         all_announcements = []
         seen_ids = set()
 
-        # 先用高命中率关键词快速搜索
         for keyword in ESG_KEYWORDS_FAST:
             announcements = self.search(stock_code, keyword)
             for ann in announcements:
@@ -190,7 +193,6 @@ class ESGReportDownloader:
                     all_announcements.append(ann)
             time.sleep(0.3)
 
-        # 如果快速关键词没找到，尝试其他关键词
         if not all_announcements:
             for keyword in ESG_KEYWORDS_REST:
                 announcements = self.search(stock_code, keyword)
@@ -201,108 +203,169 @@ class ESGReportDownloader:
                         all_announcements.append(ann)
                 time.sleep(0.3)
 
+        return all_announcements
+
+    def find_and_download_multi_year(
+        self, stock_code: str, company_name: str,
+        year_range: range = DEFAULT_YEAR_RANGE,
+    ) -> list:
+        """为一家公司搜索并下载多个年度的ESG报告
+
+        Returns:
+            成功下载的文件路径列表
+        """
+        safe_name = _sanitize_filename(company_name)
+        all_announcements = self._collect_announcements(stock_code)
+
         if not all_announcements:
             self.download_log.append({
                 "code": stock_code, "name": company_name,
-                "title": "", "year": "", "status": "no_esg_report",
+                "title": "", "year": "all", "status": "no_esg_report",
             })
-            return None
+            return []
 
-        # 过滤有效公告，按时间排序
-        valid = [
-            ann for ann in all_announcements
-            if self._is_valid_announcement(ann)
-        ]
-        # 优先选非英文的完整版报告
-        valid.sort(
-            key=lambda a: (
-                "英文" in _clean_title(a.get("announcementTitle", "")),
-                -(a.get("announcementTime", 0) or 0),
+        # 过滤有效公告
+        valid = [ann for ann in all_announcements if self._is_valid_announcement(ann)]
+
+        # 按年份分组，每年取最佳匹配（非英文、最新）
+        from collections import defaultdict
+        by_year = defaultdict(list)
+        for ann in valid:
+            yr = self._extract_year(ann)
+            if yr:
+                by_year[yr].append(ann)
+
+        downloaded = []
+        # 按目标年份范围逐一处理
+        for target_year in sorted(year_range, reverse=True):
+            target_str = str(target_year)
+            log_key = f"{stock_code}_{target_str}"
+            if log_key in self.processed_codes:
+                continue
+
+            candidates = by_year.get(target_str, [])
+            if not candidates:
+                # 尝试从标题匹配年份
+                candidates = [
+                    ann for ann in valid
+                    if target_str in _clean_title(ann.get("announcementTitle", ""))
+                ]
+
+            if not candidates:
+                self.download_log.append({
+                    "code": stock_code, "name": company_name,
+                    "title": f"无{target_year}年度报告", "year": target_str,
+                    "status": "no_report_for_year",
+                })
+                continue
+
+            # 选最佳：非英文版本优先，时间最近的优先
+            candidates.sort(
+                key=lambda a: (
+                    "英文" in _clean_title(a.get("announcementTitle", "")),
+                    -(a.get("announcementTime", 0) or 0),
+                )
             )
+
+            best = candidates[0]
+            title = _clean_title(best.get("announcementTitle", ""))
+            adjunct_url = best.get("adjunctUrl", "")
+            pdf_url = self._build_pdf_url(adjunct_url)
+
+            filename = f"{stock_code}_{safe_name}_{target_str}.pdf"
+            filepath = PDF_DIR / filename
+
+            logger.info(f"下载 [{target_str}]: {company_name} — {title[:50]}")
+            if self.download_pdf(pdf_url, filepath, stock_code):
+                self.download_log.append({
+                    "code": stock_code, "name": company_name,
+                    "title": title, "year": target_str,
+                    "filepath": str(filepath), "status": "success",
+                })
+                downloaded.append(filepath)
+            else:
+                self.download_log.append({
+                    "code": stock_code, "name": company_name,
+                    "title": title, "year": target_str, "status": "download_failed",
+                })
+
+        if not downloaded and not any(
+            e["code"] == stock_code and e["year"] != "all"
+            for e in self.download_log[-20:]
+        ):
+            self.download_log.append({
+                "code": stock_code, "name": company_name,
+                "title": "", "year": "all", "status": "no_valid_pdf",
+            })
+
+        return downloaded
+
+    def find_and_download(
+        self, stock_code: str, company_name: str, year: str = "2025"
+    ) -> Optional[Path]:
+        """为一家公司搜索并下载最新的ESG报告（单年份模式，向后兼容）"""
+        paths = self.find_and_download_multi_year(
+            stock_code, company_name,
+            year_range=range(int(year), int(year) + 1),
         )
+        return paths[0] if paths else None
 
-        if not valid:
-            logger.warning(f"无有效PDF: {stock_code} {company_name}")
-            self.download_log.append({
-                "code": stock_code, "name": company_name,
-                "title": "", "year": "", "status": "no_valid_pdf",
-            })
-            return None
+    def run(self, limit: Optional[int] = None, delay: float = 1.0,
+            year_range: range = DEFAULT_YEAR_RANGE):
+        """批量下载ESG报告（多年度模式，支持断点续传）
 
-        # 下载最佳匹配
-        best = valid[0]
-        title = _clean_title(best.get("announcementTitle", ""))
-        adjunct_url = best.get("adjunctUrl", "")
-        pdf_url = self._build_pdf_url(adjunct_url)
-
-        # 从标题或时间戳提取年份
-        ts = best.get("announcementTime", 0)
-        if ts:
-            from datetime import datetime
-            year = datetime.fromtimestamp(ts / 1000).strftime("%Y")
-
-        safe_name = _sanitize_filename(company_name)
-        filename = f"{stock_code}_{safe_name}_{year}.pdf"
-        filepath = PDF_DIR / filename
-
-        logger.info(f"下载: {company_name} — {title[:50]}")
-        if self.download_pdf(pdf_url, filepath, stock_code):
-            self.download_log.append({
-                "code": stock_code, "name": company_name,
-                "title": title, "year": year,
-                "filepath": str(filepath), "status": "success",
-            })
-            return filepath
-
-        self.download_log.append({
-            "code": stock_code, "name": company_name,
-            "title": title, "year": year, "status": "download_failed",
-        })
-        return None
-
-    def run(self, limit: Optional[int] = None, delay: float = 1.0):
-        """批量下载ESG报告（支持断点续传）"""
+        Args:
+            limit: 限制处理的股票数量（用于测试）
+            delay: 搜索间隔时间
+            year_range: 目标年份范围，默认 2019-2026
+        """
         companies = self._load_company_list()
+        years_list = list(year_range)
+        logger.info(f"目标年份范围: {years_list[0]}-{years_list[-1]} ({len(years_list)}个年份)")
 
-        # 过滤已处理的公司
+        # 过滤已处理的公司（所有年份都成功才跳过整家公司）
         new_companies = [
-            c for c in companies if c["code"] not in self.processed_codes
+            c for c in companies
+            if not all(f"{c['code']}_{yr}" in self.processed_codes for yr in years_list)
         ]
         skipped = len(companies) - len(new_companies)
         if skipped:
-            logger.info(f"断点续传: 跳过 {skipped} 家已处理公司，剩余 {len(new_companies)} 家")
+            logger.info(f"断点续传: 跳过 {skipped} 家已完成所有年份的公司，剩余 {len(new_companies)} 家")
 
         if limit:
             new_companies = new_companies[:limit]
 
-        logger.info(f"开始下载 {len(new_companies)} 家公司的ESG报告...")
-        success_count = 0
-        fail_count = 0
-        no_esg_count = 0
+        logger.info(f"开始下载 {len(new_companies)} 家公司的ESG报告（{len(years_list)}个年份）...")
+        total_downloaded = 0
+        total_no_report = 0
+        total_failed = 0
 
         for i, row in enumerate(tqdm(new_companies, desc="下载ESG报告")):
             code = row["code"]
             name = row["name"]
-            result = self.find_and_download(code, name)
-            if result:
-                success_count += 1
-            elif self.download_log and self.download_log[-1].get("status") == "no_esg_report":
-                no_esg_count += 1
-            else:
-                fail_count += 1
+            downloaded = self.find_and_download_multi_year(code, name, year_range)
+            total_downloaded += len(downloaded)
+
+            # 统计该公司的结果
+            for entry in self.download_log[-len(years_list):]:
+                st = entry.get("status", "")
+                if st == "no_report_for_year":
+                    total_no_report += 1
+                elif st in ("download_failed", "no_valid_pdf"):
+                    total_failed += 1
+
             time.sleep(delay)
 
-            # 定期保存日志
             if (i + 1) % SAVE_INTERVAL == 0:
                 self._save_log()
                 logger.info(
                     f"进度: {i+1}/{len(new_companies)} "
-                    f"成功:{success_count} 无报告:{no_esg_count} 失败:{fail_count}"
+                    f"已下载:{total_downloaded} 无报告:{total_no_report} 失败:{total_failed}"
                 )
 
         self._save_log()
         logger.info(
-            f"下载完成！成功: {success_count}, 无ESG报告: {no_esg_count}, 失败: {fail_count}"
+            f"下载完成！已下载PDF: {total_downloaded}, 无对应年份报告: {total_no_report}, 失败: {total_failed}"
         )
 
     def _load_company_list(self) -> list:
