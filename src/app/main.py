@@ -551,6 +551,7 @@ NAV_LABELS = {
     "公司详情": "公司详情",
     "指标对比": "指标对比",
     "ESG分析": "ESG分析",
+    "趋势分析": "趋势分析",
     "AI智能助手": "AI智能助手",
     "数据管理": "数据管理",
 }
@@ -1207,6 +1208,11 @@ elif page == "ESG分析":
     except Exception as e:
         st.warning(f"分析模块暂不可用: {e}")
         st.info("请运行: python run.py analyze")
+
+# ====== 趋势分析页 ======
+elif page == "趋势分析":
+    from src.app.pages.trends import render_trends_page
+    render_trends_page()
 
 # ====== AI智能助手页 ======
 elif page == "AI智能助手":

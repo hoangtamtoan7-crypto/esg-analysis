@@ -132,13 +132,28 @@ export interface DataStats {
 export interface TrendPoint {
   year: string;
   value: number | null;
+  rating?: string;
+  quarters?: number;
+  unit?: string;
+  confidence?: string;
 }
 
 export interface CompanyTrend {
+  stock_code?: string;
   company: string;
   industry: string;
+  report_years?: string[];
+  rating_years?: string[];
   esg_trend: Record<string, TrendPoint[]>;
   indicator_trends: Record<string, TrendPoint[]>;
+  insights?: { type: string; text: string }[];
+}
+
+export interface TrendAnalysis {
+  source: string;
+  rating_records: number;
+  companies: CompanyTrend[];
+  industry_trends: Record<string, (TrendPoint & { company_count?: number })[]>;
 }
 
 // ---- 行业对标 ----

@@ -1,6 +1,7 @@
-import type { OverviewData, ESGScoreRow, IndustryRow } from '../types';
+import type { OverviewData, ESGScoreRow, IndustryRow, TrendAnalysis } from '../types';
 
 interface CompanyRecord {
+  stock_code?: string;
   name: string;
   industry: string;
   year: string;
@@ -35,6 +36,7 @@ interface DataPack {
   companies: CompanyRecord[];
   esg_scores: ESGScoreRow[];
   industry_analysis: IndustryRow[];
+  trend_analysis?: TrendAnalysis;
 }
 
 let cachedData: DataPack | null = null;
@@ -74,4 +76,8 @@ export function searchCompanies(data: DataPack, query: string): CompanyRecord[] 
 
 export function getIndustryList(data: DataPack): string[] {
   return [...new Set(data.companies.map((c) => c.industry).filter(Boolean))];
+}
+
+export function getTrendAnalysis(data: DataPack): TrendAnalysis | undefined {
+  return data.trend_analysis;
 }
