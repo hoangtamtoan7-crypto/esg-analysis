@@ -13,6 +13,14 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from src.extractor.indicators import ALL_INDICATORS, INDICATORS_BY_DIMENSION
 from src.app.styles import build_sidebar_style_overrides
+from src.app.data_quality import (
+    build_industry_coverage,
+    build_validation_detail,
+    count_valid_indicators,
+    filter_company_options,
+    is_valid_qualitative,
+    is_valid_quantitative,
+)
 
 # 指标ID → 名称映射，用于数据库加载时补全指标名称
 INDICATOR_MAP = {i.id: i for i in ALL_INDICATORS}
@@ -666,18 +674,40 @@ if page == "首页概览":
         render_section("数据预览（前50行）")
         st.dataframe(df.head(50), use_container_width=True)
 
-    # 行业统计（数据库可用时）
-    db = get_db()
-    if db:
-        try:
-            industry_stats = db.get_industry_stats()
-            if industry_stats:
-                render_section("行业覆盖分布")
-                ind_df = pd.DataFrame(industry_stats)
-                st.dataframe(ind_df, use_container_width=True)
-        except Exception:
-            pass
+    # 行业统计：使用公司名称补全行业，避免数据库行业字段为空导致全为“未知”。
+    industry_stats = build_industry_coverage(results)
+    if industry_stats:
+        render_section("行业覆盖分布")
+        ind_df = pd.DataFrame(industry_stats)
+        st.dataframe(ind_df, use_container_width=True, hide_index=True)
 
+        try:
+            chart_df = ind_df.head(12).sort_values("报告数", ascending=True)
+            fig = go.Figure(go.Bar(
+                x=chart_df["报告数"],
+                y=chart_df["行业"],
+                orientation="h",
+                marker=dict(
+                    color=chart_df["平均质量分"],
+                    colorscale="Teal",
+                    showscale=True,
+                    colorbar=dict(title="质量分"),
+                ),
+                customdata=np.stack((chart_df["公司数"], chart_df["平均覆盖度"]), axis=-1),
+                hovertemplate=(
+                    "行业: %{y}<br>报告数: %{x}<br>公司数: %{customdata[0]}"
+                    "<br>平均覆盖度: %{customdata[1]:.1f}%<extra></extra>"
+                ),
+            ))
+            fig.update_layout(
+                height=380,
+                xaxis=dict(title="报告数"),
+                yaxis=dict(title=""),
+                margin=dict(l=10, r=10, t=30, b=10),
+            )
+            st.plotly_chart(polish_fig(fig, "行业报告覆盖Top 12"), use_container_width=True)
+        except Exception:
+            st.bar_chart(ind_df.set_index("行业")["报告数"])
 # ====== 数据质量页 ======
 elif page == "数据质量":
     st.title("数据质量评估")
@@ -792,33 +822,55 @@ elif page == "数据质量":
         # 问题详情
         st.markdown("---")
         render_section("校验问题详情")
-        selected_company = st.selectbox("选择公司查看问题", qdf["公司"].tolist())
-        company_result = next(
-            (r for r in results if r.get("company_name") == selected_company), None
-        )
-        if company_result:
-            validation = company_result.get("validation", {})
-            qt_issues = validation.get("quantitative_issues", [])
-            ql_issues = validation.get("qualitative_issues", [])
+        validation_options = []
+        for idx, result in enumerate(results):
+            detail = build_validation_detail(result)
+            summary = detail["summary"]
+            validation_options.append({
+                "label": (
+                    f"{result.get('company_name', '')} · {result.get('report_year', '')}"
+                    f" · 问题{summary['missing_value_count']}项 · 缺失{summary['missing_indicator_count']}项"
+                ),
+                "result": result,
+                "detail": detail,
+                "issue_count": summary["missing_value_count"] + summary["missing_indicator_count"],
+                "index": idx,
+            })
+        validation_options.sort(key=lambda row: (-row["issue_count"], row["label"]))
 
-            if qt_issues:
-                st.markdown("**定量指标问题:**")
-                st.dataframe(pd.DataFrame(qt_issues), use_container_width=True)
+        if validation_options:
+            selected_label = st.selectbox(
+                "选择公司查看问题",
+                [row["label"] for row in validation_options],
+            )
+            selected_option = next(row for row in validation_options if row["label"] == selected_label)
+            detail = selected_option["detail"]
+            summary = detail["summary"]
+
+            c1, c2, c3, c4 = st.columns(4)
+            with c1:
+                st.metric("有效定量", summary["quantitative_valid"])
+            with c2:
+                st.metric("有效定性", summary["qualitative_valid"])
+            with c3:
+                st.metric("字段级问题", summary["missing_value_count"])
+            with c4:
+                st.metric("未覆盖指标", summary["missing_indicator_count"])
+
+            if detail["issues"]:
+                st.markdown("**字段级校验问题**")
+                st.dataframe(pd.DataFrame(detail["issues"]), use_container_width=True, hide_index=True)
             else:
-                st.success("定量指标无不合理值")
+                st.success("字段级校验通过：已抽取字段未发现缺失值、异常状态或明显范围问题。")
 
-            if ql_issues:
-                st.markdown("**定性指标问题:**")
-                st.dataframe(pd.DataFrame(ql_issues), use_container_width=True)
+            if detail["missing"]:
+                st.markdown("**未覆盖指标（前30项）**")
+                missing_df = pd.DataFrame(detail["missing"])
+                st.dataframe(missing_df.head(30), use_container_width=True, hide_index=True)
+                if len(missing_df) > 30:
+                    st.caption(f"另有 {len(missing_df) - 30} 项未覆盖指标，可在导出结果中继续追踪。")
             else:
-                st.success("定性指标无问题")
-
-            completeness = company_result.get("completeness", {})
-            missing = completeness.get("missing_list", [])
-            if missing:
-                st.markdown("**未覆盖的指标:**")
-                st.dataframe(pd.DataFrame(missing), use_container_width=True)
-
+                st.success("指标体系覆盖完整：未发现缺失指标。")
 # ====== 公司详情页 ======
 elif page == "公司详情":
     st.title("公司ESG详情查询")
@@ -827,18 +879,33 @@ elif page == "公司详情":
     if not results:
         render_empty_state("暂无可视化数据", "请先运行提取流水线或导入JSON/SQLite结果。系统会在数据就绪后自动生成质量评估、公司画像和指标对比视图。")
     else:
-        companies = sorted(set(r.get("company_name", "") for r in results))
-        selected = st.selectbox("选择公司", companies)
-
-        company_result = next(
-            (r for r in results if r.get("company_name") == selected), None
+        include_low_signal = st.checkbox("显示低覆盖/退市风险样本", value=False)
+        company_options = filter_company_options(
+            results,
+            include_low_signal=include_low_signal,
+            min_valid_indicators=3,
         )
-        if company_result:
+
+        if not company_options:
+            render_empty_state("暂无可展示公司", "当前默认清洗规则过滤了低覆盖样本。可以打开“显示低覆盖/退市风险样本”查看原始抽取结果。")
+        else:
+            option_labels = [
+                f"{row['company']} · {row['year']} · 有效{row['valid_total']}项 · 质量{row['quality_score']:.3f}"
+                + (" · 低覆盖" if row["low_signal"] else "")
+                for row in company_options
+            ]
+            selected_label = st.selectbox("选择公司", option_labels)
+            selected_option = company_options[option_labels.index(selected_label)]
+            company_result = selected_option["result"]
+            selected = selected_option["company"]
             year = company_result.get("report_year", "")
             validation = company_result.get("validation", {})
             completeness = company_result.get("completeness", {})
+            counts = count_valid_indicators(company_result)
 
             render_section(f"{selected} — {year}年度ESG报告")
+            if selected_option["low_signal"]:
+                st.warning("该样本有效指标较少或公司名称含ST/退市风险标记，默认统计中已降权/隐藏。")
 
             col1, col2, col3 = st.columns(3)
             with col1:
@@ -846,10 +913,9 @@ elif page == "公司详情":
             with col2:
                 st.metric("指标覆盖度", f"{completeness.get('completeness', 0)}%")
             with col3:
-                qt = validation.get("quantitative_valid", 0)
-                ql = validation.get("qualitative_valid", 0)
-                st.metric("有效指标", f"{qt}定量 + {ql}定性")
+                st.metric("有效指标", f"{counts['quantitative']}定量 + {counts['qualitative']}定性")
 
+            show_missing_indicators = st.checkbox("显示缺失/否定指标", value=False)
             st.markdown("---")
 
             tab1, tab2, tab3 = st.tabs(["环境 (E)", "社会 (S)", "治理 (G)"])
@@ -858,11 +924,13 @@ elif page == "公司详情":
                 with tab:
                     dim_indicators = {i.id: i for i in INDICATORS_BY_DIMENSION.get(dim, [])}
 
-                    # 定量指标
                     qt = [
                         item for item in company_result.get("quantitative_indicators", [])
                         if item.get("id") in dim_indicators
                     ]
+                    if not show_missing_indicators:
+                        qt = [item for item in qt if is_valid_quantitative(item)]
+
                     if qt:
                         st.markdown("**定量指标**")
                         qt_data = []
@@ -875,15 +943,17 @@ elif page == "公司详情":
                                 "置信度": item.get("confidence", ""),
                                 "原文": (item.get("original_text") or "")[:100],
                             })
-                        st.dataframe(pd.DataFrame(qt_data), use_container_width=True)
+                        st.dataframe(pd.DataFrame(qt_data), use_container_width=True, hide_index=True)
                     else:
-                        st.caption("暂无定量指标数据")
+                        st.caption("暂无有效定量指标数据")
 
-                    # 定性指标
                     ql = [
                         item for item in company_result.get("qualitative_indicators", [])
                         if item.get("id") in dim_indicators
                     ]
+                    if not show_missing_indicators:
+                        ql = [item for item in ql if is_valid_qualitative(item)]
+
                     if ql:
                         st.markdown("**定性指标**")
                         for item in ql:
@@ -893,12 +963,11 @@ elif page == "公司详情":
                             ind_def = dim_indicators.get(item.get("id", ""))
                             label = ind_def.name if ind_def else item.get("name", "")
                             with st.expander(f"{status_label} {label}"):
-                                st.write(item.get("summary", "无描述"))
+                                st.write(item.get("summary") or "无描述")
                                 if item.get("original_text"):
                                     st.caption(f"原文: {item['original_text'][:200]}")
                     else:
-                        st.caption("暂无定性指标数据")
-
+                        st.caption("暂无有效定性指标数据")
 # ====== 指标对比页 ======
 elif page == "指标对比":
     st.title("多公司ESG指标对比")
