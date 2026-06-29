@@ -12,6 +12,15 @@ class AIAssistantImprovementTests(unittest.TestCase):
         self.assertIn('color: #f4fffb', css)
         self.assertIn('white-space: normal', css)
 
+
+    def test_global_layout_adds_top_breathing_room(self):
+        from src.app.styles import build_global_layout_overrides
+
+        css = build_global_layout_overrides()
+
+        self.assertIn('.block-container', css)
+        self.assertIn('padding-top: 2.75rem', css)
+        self.assertIn('@media (max-width: 760px)', css)
     def test_deepseek_authentication_error_is_actionable(self):
         from src.agent.query_engine import format_ai_service_error
 

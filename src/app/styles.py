@@ -34,3 +34,17 @@ def build_sidebar_style_overrides() -> str:
             outline-offset: 2px;
         }
     """
+
+def build_global_layout_overrides() -> str:
+    """Return CSS that keeps page titles clear of the Streamlit toolbar."""
+    return """
+        .block-container {
+            padding-top: 2.75rem;
+            max-width: 1420px;
+        }
+        @media (max-width: 760px) {
+            .block-container {
+                padding-top: 2.35rem;
+            }
+        }
+    """

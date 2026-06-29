@@ -12,7 +12,7 @@ import streamlit as st
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from src.extractor.indicators import ALL_INDICATORS, INDICATORS_BY_DIMENSION
-from src.app.styles import build_sidebar_style_overrides
+from src.app.styles import build_global_layout_overrides, build_sidebar_style_overrides
 from src.app.data_quality import (
     build_industry_coverage,
     build_validation_detail,
@@ -116,10 +116,6 @@ def inject_global_styles() -> None:
         }}
         [data-testid="stSidebar"] [role="radiogroup"] label:hover {{
             background: rgba(255, 255, 255, .10);
-        }}
-        .block-container {{
-            padding-top: 1.15rem;
-            max-width: 1420px;
         }}
         div[data-testid="stMetric"], div[data-testid="stPlotlyChart"] {{
             background: rgba(255,255,255,.72);
@@ -330,6 +326,7 @@ def inject_global_styles() -> None:
             .hero-title {{ font-size: 2.2rem; }}
             .empty-state {{ grid-template-columns: 1fr; }}
         }}
+        {build_global_layout_overrides()}
         {build_sidebar_style_overrides()}
         </style>
         """,
