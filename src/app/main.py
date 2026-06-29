@@ -12,6 +12,7 @@ import streamlit as st
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from src.extractor.indicators import ALL_INDICATORS, INDICATORS_BY_DIMENSION
+from src.app.styles import build_sidebar_style_overrides
 
 # 指标ID → 名称映射，用于数据库加载时补全指标名称
 INDICATOR_MAP = {i.id: i for i in ALL_INDICATORS}
@@ -321,6 +322,7 @@ def inject_global_styles() -> None:
             .hero-title {{ font-size: 2.2rem; }}
             .empty-state {{ grid-template-columns: 1fr; }}
         }}
+        {build_sidebar_style_overrides()}
         </style>
         """,
         unsafe_allow_html=True,
@@ -1289,4 +1291,5 @@ elif page == "数据管理":
 
 if __name__ == "__main__":
     st.write("请用 `streamlit run src/app/main.py` 启动应用")
+
 

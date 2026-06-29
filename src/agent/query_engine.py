@@ -5,8 +5,6 @@ import logging
 import os
 import time
 
-from openai import OpenAI
-
 from src.extractor.config import DEEPSEEK_API_KEY, DEEPSEEK_BASE_URL, DEEPSEEK_MODEL
 from src.agent.tools import TOOL_SCHEMAS, execute_tool
 
@@ -38,12 +36,31 @@ SYSTEM_PROMPT = """你是一个专业的ESG（环境、社会和治理）数据�
 - 覆盖约110家A股上市公司"""
 
 
+def format_ai_service_error(error: Exception | str) -> str:
+    """Convert provider exceptions into user-facing, non-sensitive guidance."""
+    raw = str(error)
+    lowered = raw.lower()
+    if "401" in raw or "authentication" in lowered or "invalid" in lowered:
+        return (
+            "抱歉，AI 服务认证失败：DeepSeek API Key 无效或已过期。\n\n"
+            "请在 Streamlit Cloud 的 Manage app → Settings → Secrets 中更新 "
+            "`DEEPSEEK_API_KEY`，保存后重启应用；本地运行则更新项目根目录的 `.env` 文件。"
+        )
+    if "timeout" in lowered or "timed out" in lowered:
+        return "抱歉，AI 服务响应超时。请稍后重试，或把问题拆成更短的查询。"
+    return "抱歉，AI 服务暂时不可用。请稍后重试，或检查 DeepSeek API 配置。"
+
+
 class ESGQueryAgent:
     """ESG自然语言查询Agent"""
 
     def __init__(self, adapter):
         if not DEEPSEEK_API_KEY:
             raise ValueError("未设置DEEPSEEK_API_KEY环境变量")
+        try:
+            from openai import OpenAI
+        except ImportError as exc:
+            raise RuntimeError("缺少 openai Python 包，请先安装 requirements.txt。") from exc
         self.client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_BASE_URL)
         self.adapter = adapter
         self.tools = TOOL_SCHEMAS
@@ -93,7 +110,7 @@ class ESGQueryAgent:
             except Exception as e:
                 logger.error(f"DeepSeek API调用失败: {e}")
                 return {
-                    "text": f"抱歉，AI服务调用失败：{e}。请稍后重试。",
+                    "text": format_ai_service_error(e),
                     "tool_calls_made": tool_calls_made,
                 }
 
@@ -141,3 +158,4 @@ def create_agent(adapter) -> ESGQueryAgent:
     except Exception as e:
         logger.error(f"创建Agent失败: {e}")
         return None
+
