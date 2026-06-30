@@ -1,28 +1,73 @@
 ================================================
-  ESG数据智能提取与分析系统 - 使用说明
+  ESG报告数据智能提取与分析系统 - 使用说明
 ================================================
 
-【方式一：自包含HTML（推荐用于赛题提交）】
+【唯一系统入口：Streamlit】
 
-  直接双击打开 "ESG分析系统_自包含版.html"
-  → 浏览器即可使用，零安装、无需API Key、无需联网*
-  → 包含6大功能页面：数据概览、ESG排名、公司查询、指标对比、行业分析、智能检索
-  → *Plotly图表需首次CDN加载，之后可离线缓存
+本项目当前只保留 Streamlit 作为评审和演示系统。
+旧版单文件网页交付已废弃，不再作为提交或演示入口。
 
-【方式二：完整AI版（Streamlit应用）】
+【方式一：Windows 一键启动】
 
-  1. 双击 setup.bat → 安装依赖 + 配置API Key
-  2. 双击 start.bat → 启动系统，浏览器打开 http://localhost:8501
-  3. 点击 "🤖 AI智能助手" 进行自然语言查询
+  1. 双击 setup.bat
+     → 安装 Python 依赖，并提示配置 DeepSeek API Key
 
-  需要：Python 3.10+、联网（调用DeepSeek API）
+  2. 双击 start.bat
+     → 启动 Streamlit 系统
 
-【提交材料清单】
-  赛题提交时建议包含：
-  ✓ ESG分析系统_自包含版.html （核心成果，双击即可体验）
-  ✓ src/ 源代码目录
-  ✓ requirements.txt
-  ✓ 使用说明.txt
+  3. 浏览器访问
+     → http://localhost:8501
 
-【API Key 获取】
-  访问 https://platform.deepseek.com/ 注册 → API Keys → 创建新Key
+【方式二：命令行启动】
+
+  pip install -r requirements.txt
+  python run.py app
+
+  或者：
+
+  streamlit run streamlit_app.py
+
+【AI 智能助手配置】
+
+  如需使用“AI智能助手”页面，请在项目根目录创建 .env 文件：
+
+  DEEPSEEK_API_KEY=你的DeepSeek_API_Key
+
+  API Key 获取地址：
+  https://platform.deepseek.com/
+
+【系统页面】
+
+  Streamlit 系统包含：
+  - 首页概览
+  - 数据质量
+  - 公司详情
+  - 指标对比
+  - ESG分析
+  - 趋势分析
+  - AI智能助手
+  - 数据管理
+
+【数据处理流程】
+
+  python run.py download     下载ESG报告PDF
+  python run.py preprocess   PDF正文、表格和OCR预处理
+  python run.py extract      DeepSeek结构化抽取ESG指标
+  python run.py validate     校验抽取结果质量
+  python run.py db-import    导入SQLite数据库
+  python run.py analyze      生成ESG评分和行业分析
+  python run.py app          启动Streamlit系统
+
+【提交材料建议】
+
+  - README.md
+  - 技术文档.md
+  - 使用说明.txt
+  - src/ 源代码目录
+  - data/output/ 结构化抽取结果
+  - data/analysis/ 分析结果
+  - requirements.txt
+  - run.py
+  - streamlit_app.py
+
+================================================
